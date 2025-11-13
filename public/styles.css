@@ -1,0 +1,32 @@
+body{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin:0; padding:20px; background:#f7f7f8}
+.container{max-width:1200px;margin:0 auto;background:white;padding:20px;border-radius:8px;box-shadow:0 8px 26px rgba(0,0,0,0.08)}
+.toolbar{display:flex;gap:10px;align-items:center;margin-bottom:12px}
+.toolbar input{flex:1;padding:8px 10px;border:1px solid #e1e1e6;border-radius:6px}
+button{padding:8px 12px;border-radius:6px;border:1px solid #2b7;background:#2b7;color:#fff;cursor:pointer}
+button:disabled{opacity:0.6;cursor:default}
+.small-btn{padding:6px 8px;border-radius:6px;border:1px solid #999;background:#f3f3f5;color:#222;cursor:pointer}
+.loading{color:#555}
+.error{color:#b00;margin-top:8px}
+.count{margin:8px 0;color:#333}
+.table-wrap{overflow:auto;border:1px solid #eee;border-radius:6px}
+.data-table{width:100%;border-collapse:collapse;min-width:700px}
+.data-table thead{background:#fafafa}
+.data-table th{padding:10px 12px;border-bottom:1px solid #eaeaea;text-align:left;font-weight:600;color:#333}
+.data-table td{vertical-align:top;padding:10px 12px;border-bottom:1px solid #f1f1f3;text-align:left}
+.data-table tr.row-even{background:#fcfcfd}
+.data-table tr.expanded-row td{background:#f9fafb}
+.empty{text-align:center;color:#666;padding:20px}
+pre{white-space:pre-wrap;word-wrap:break-word;margin:0;font-family:Menlo,monospace;font-size:12px}
+.child-subtable-wrap, .cfr-subtable-wrap{padding:10px 0}
+.child-table, .cfr-table{width:100%;border-collapse:collapse}
+.child-table th, .cfr-table th{background:#f6f7f8;padding:8px 10px;border-bottom:1px solid #e8e8eb;font-weight:600}
+.child-table td, .cfr-table td{padding:8px 10px;border-bottom:1px solid #f1f1f3}
+.child-table tr td:first-child, .cfr-table tr td:first-child{font-weight:600;color:#333}
+.children-row .child-table{background:#fff}
+
+.detail-wrap{padding:12px;background:#fff;border-radius:6px}
+.detail-grid{display:flex;flex-wrap:wrap;gap:16px}
+.detail-block{flex:1 1 320px;background:#fbfbfc;padding:10px;border-radius:6px;border:1px solid #f0f0f2}
+.detail-row{margin-bottom:8px}
+.kv-list div{margin-bottom:6px}
+.child-table.small th, .child-table.small td{padding:6px 8px;font-size:13px}

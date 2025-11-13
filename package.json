@@ -1,0 +1,15 @@
+{
+  "name": "ecfr-agencies-local",
+  "version": "0.1.0",
+  "description": "Local UI app that pulls ECFR agencies JSON and stores it with lowdb",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "lowdb": "1.0.0",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": { "node": ">=14" }
+}
