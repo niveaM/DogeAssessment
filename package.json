@@ -11,5 +11,10 @@
     "lowdb": "1.0.0",
     "node-fetch": "^2.6.7"
   },
-  "engines": { "node": ">=14" }
+  "engines": {
+    "node": ">=14"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.13"
+  }
 }
