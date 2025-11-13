@@ -52,8 +52,10 @@ async function fetchResultsUber() {
       meta: data.meta,
     };
 
-    await fs.writeFile('acph_results_uber.json', JSON.stringify(final, null, 2));
-    console.log('Uber results written to acph_results_uber.json');
+    // ensure data directory exists and write into it
+    const outPath = '../data/acph_results_uber.json';
+    await fs.writeFile(outPath, JSON.stringify(final, null, 2));
+    console.log(`Uber results written to ${outPath}`);
   } catch (err) {
     console.error('Error fetching ECFR results:', err);
   }

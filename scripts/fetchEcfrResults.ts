@@ -11,8 +11,10 @@ async function fetchResults() {
     const res = await fetch(API_URL);
     if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
     const data: ECFRResultsResponse = await res.json();
-    await fs.writeFile('acph_results.json', JSON.stringify(data, null, 2));
-    console.log('Results written to acph_results.json');
+    // ensure data directory exists and write into it
+    const outPath = '../data/acph_results.json';
+    await fs.writeFile(outPath, JSON.stringify(data, null, 2));
+    console.log(`Results written to ${outPath}`);
   } catch (err) {
     console.error('Error fetching ECFR results:', err);
   }

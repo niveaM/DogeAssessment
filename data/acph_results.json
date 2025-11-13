@@ -42,7 +42,10 @@
       "structure_index": 30206,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -86,7 +89,10 @@
       "structure_index": 30215,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -130,7 +136,10 @@
       "structure_index": 30206,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -174,7 +183,10 @@
       "structure_index": 30197,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -218,7 +230,10 @@
       "structure_index": 30213,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -254,7 +269,7 @@
         "part": "Historic Preservation Requirements of the Urban Development Action Grant Program",
         "subpart": null,
         "subject_group": null,
-        "section": "Coordination with requirements under the National Environmental Policy Act (42 U.S.C. 4321 \u003cem\u003eet seq.\u003c/em\u003e).",
+        "section": "Coordination with requirements under the National Environmental Policy Act (42 U.S.C. 4321 <em>et seq.</em>).",
         "appendix": null
       },
       "full_text_excerpt": null,
@@ -262,7 +277,10 @@
       "structure_index": 30217,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -306,7 +324,10 @@
       "structure_index": 30218,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -350,7 +371,10 @@
       "structure_index": 30243,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -394,7 +418,10 @@
       "structure_index": 30239,
       "reserved": true,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -438,7 +465,10 @@
       "structure_index": 30241,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -482,7 +512,10 @@
       "structure_index": 30253,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -526,7 +559,10 @@
       "structure_index": 30247,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -570,7 +606,10 @@
       "structure_index": 30263,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -614,7 +653,10 @@
       "structure_index": 30221,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -658,7 +700,10 @@
       "structure_index": 30204,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -702,7 +747,10 @@
       "structure_index": 30212,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -746,7 +794,10 @@
       "structure_index": 30210,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -790,7 +841,10 @@
       "structure_index": 30213,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -834,7 +888,10 @@
       "structure_index": 30229,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     },
     {
       "starts_on": "2016-12-13",
@@ -878,7 +935,10 @@
       "structure_index": 30230,
       "reserved": false,
       "removed": false,
-      "change_types": ["effective", "initial"]
+      "change_types": [
+        "effective",
+        "initial"
+      ]
     }
   ],
   "meta": {
