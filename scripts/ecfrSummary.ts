@@ -1,6 +1,8 @@
 // ecfrSummary.ts
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
+import path from 'path';
+import { DATA_DIR } from './config';
 
 // --- Types ---
 interface TitleModification {
@@ -101,8 +103,9 @@ async function ecfrSummary(agency_slug: string) {
     }))
   }));
 
-  // 5. Write outputs
-  const fileName = `${agency_slug}_comb_summary.json`;
+  // 5. Write outputs to repository-level data directory
+  await fs.mkdir(DATA_DIR, { recursive: true });
+  const fileName = path.join(DATA_DIR, `${agency_slug}_comb_summary.json`);
   await fs.writeFile(fileName, JSON.stringify(summary, null, 2));
   console.log(`Wrote combined summary to ${fileName} for agency '${agency_slug}'`);
 
