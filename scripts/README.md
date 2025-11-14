@@ -35,6 +35,7 @@ npx ts-node scripts/ecfrSummary.ts
 ```
 
 Notes:
+
 - Each script will write output files into the `data/` directory (see `scripts/config.ts`).
 - Scripts fetch data from the ECFR API or other sources; run them only when you want to (they perform network requests).
 
@@ -55,6 +56,7 @@ Notes:
 - `title-36.xml` — a source XML file included for title-specific processing.
 
 Generated / committed output files (examples) in this folder:
+
 - `advisory-council-on-historic-preservation_comb_summary.json` — combined summary output for a specific agency.
 - `titles.summary.json` — precomputed titles summary.
 

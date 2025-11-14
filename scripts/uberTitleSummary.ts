@@ -1,6 +1,8 @@
 // uberTitleSummary.ts
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
+import path from 'path';
+import { DATA_DIR } from './config';
 import { getTitleSummary } from './titleUtils';
 
 // Get titles and dates
@@ -41,8 +43,10 @@ async function uberSummary() {
       });
     }
   }
-  await fs.writeFile('titles.summary.json', JSON.stringify(summary, null, 2));
-  console.log('Wrote titles.summary.json');
+  await fs.mkdir(DATA_DIR, { recursive: true });
+  const outPath = path.join(DATA_DIR, 'titles.summary.json');
+  await fs.writeFile(outPath, JSON.stringify(summary, null, 2));
+  console.log(`Wrote ${outPath}`);
 }
 
 uberSummary().catch(err => {

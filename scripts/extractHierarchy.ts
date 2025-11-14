@@ -1,6 +1,8 @@
 // extractHierarchy.ts
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
+import path from 'path';
+import { DATA_DIR } from './config';
 
 export interface HierarchyNode {
   path: string;
@@ -59,8 +61,9 @@ async function extractHierarchy(agency_slug: string) {
     walkHierarchy(node)
   );
 
-  // Write to file named after agency_slug for clarity
-  const fileName = `../data/${agency_slug}_hierarchy_paths.json`;
+  // Ensure repository-level data directory exists and write output named after agency_slug
+  await fs.mkdir(DATA_DIR, { recursive: true });
+  const fileName = path.join(DATA_DIR, `${agency_slug}_hierarchy_paths.json`);
   await fs.writeFile(fileName, JSON.stringify(output, null, 2));
   console.log(`Extracted ${output.length} hierarchy paths (see ${fileName}).`);
 }

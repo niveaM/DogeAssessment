@@ -1,5 +1,8 @@
 // fetchTitleCounts.ts
 import fetch from 'node-fetch';
+import * as fs from 'fs/promises';
+import path from 'path';
+import { DATA_DIR } from './config';
 
 async function fetchTitleCounts(agency_slug: string) {
   const url = `https://www.ecfr.gov/api/search/v1/counts/titles?agency_slugs%5B%5D=${encodeURIComponent(agency_slug)}`;
@@ -13,6 +16,11 @@ async function fetchTitleCounts(agency_slug: string) {
   Object.entries(data.titles).forEach(([title, modificationCount]) => {
     console.log(`Title: ${title}, Modification Count: ${modificationCount}`);
   });
+  // persist the title counts to the repository-level data directory
+  await fs.mkdir(DATA_DIR, { recursive: true });
+  const outPath = path.join(DATA_DIR, `${agency_slug}_title_counts.json`);
+  await fs.writeFile(outPath, JSON.stringify(data.titles, null, 2));
+  console.log(`Wrote title counts to ${outPath}`);
   return data.titles;
 }
 
