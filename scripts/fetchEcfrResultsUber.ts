@@ -1,10 +1,29 @@
 // fetchEcfrResultsUber.ts
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
+import path from 'path';
 import { ECFRResultsUberResponse, UberHierarchy } from './model/ecfrTypesUber';
+import { DATA_DIR } from './config';
 
-const API_URL =
-  'https://www.ecfr.gov/api/search/v1/results?agency_slugs%5B%5D=advisory-council-on-historic-preservation&per_page=20&page=1&order=relevance&paginate_by=results';
+// Accept agency slugs as a comma-separated CLI argument. Usage:
+//   ts-node fetchEcfrResultsUber.ts advisory-council-on-historic-preservation,another-slug
+// If no argument is provided, fall back to the original slug used previously.
+const DEFAULT_SLUGS = ['advisory-council-on-historic-preservation'];
+const rawArg = process.argv[2];
+const agencySlugs = rawArg && rawArg.length > 0 ? rawArg.split(',').map(s => s.trim()).filter(Boolean) : DEFAULT_SLUGS;
+
+function buildApiUrl(slugs: string[], per_page = 1000, page = 1) {
+  const base = 'https://www.ecfr.gov/api/search/v1/results';
+  const params = new URLSearchParams();
+  slugs.forEach(s => params.append('agency_slugs[]', s));
+  params.set('per_page', String(per_page));
+  params.set('page', String(page));
+  params.set('order', 'relevance');
+  params.set('paginate_by', 'results');
+  return `${base}?${params.toString()}`;
+}
+
+const API_URL = buildApiUrl(agencySlugs);
 
 function concatFields(...fields: (string | null | undefined)[]) {
   return Array.from(new Set(fields.filter(Boolean))).join(' | ');
@@ -52,10 +71,15 @@ async function fetchResultsUber() {
       meta: data.meta,
     };
 
-    // ensure data directory exists and write into it
-    const outPath = '../data/acph_results_uber.json';
-    await fs.writeFile(outPath, JSON.stringify(final, null, 2));
-    console.log(`Uber results written to ${outPath}`);
+  // ensure data directory exists and write into it
+  await fs.mkdir(DATA_DIR, { recursive: true });
+  const outPath = path.join(DATA_DIR, `${agencySlugs.join('_')}_results_uber.json`);
+  await fs.writeFile(outPath, JSON.stringify(final, null, 2));
+  // Print total_count (from API meta) to stdout for quick access.
+  const totalCount = data?.meta?.total_count ?? null;
+  console.log(`Uber results written to ${outPath}`);
+  console.log(`agency_slugs: ${agencySlugs.join(',')}`);
+  console.log(`total_count: ${totalCount}`);
   } catch (err) {
     console.error('Error fetching ECFR results:', err);
   }

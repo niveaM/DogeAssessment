@@ -6888,6 +6888,958 @@
           "description": "Changes from Advisory Council on Historic Preservation"
         }
       }
+    },
+    "special-inspector-general-for-afghanistan-reconstruction:1": {
+      "fetchedAt": "2025-11-13T23:22:56.370Z",
+      "slug": "special-inspector-general-for-afghanistan-reconstruction",
+      "page": "1",
+      "raw": {
+        "results": [
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": "2017-01-03",
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRa5e4573988415ff",
+              "section": "9301.5",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Procedures",
+              "section": "§ 9301.5",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Procedures",
+              "section": "Accessing records without request.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.024467,
+            "structure_index": 31595,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRb515bc6c90f0872",
+              "section": "9301.10",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Costs",
+              "section": "§ 9301.10",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Costs",
+              "section": "Other charges.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.024467,
+            "structure_index": 31600,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRb515bc6c90f0872",
+              "section": "9301.11",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Costs",
+              "section": "§ 9301.11",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Costs",
+              "section": "Payment and waiver.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.024467,
+            "structure_index": 31601,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-06-23",
+            "ends_on": "2017-07-23",
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRb515bc6c90f0872",
+              "section": "9301.8",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Costs",
+              "section": "§ 9301.8",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Costs",
+              "section": "Fees in general.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.024467,
+            "structure_index": 31599,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "cross_reference"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "9301.17",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 9301.17",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Privacy Act",
+              "subject_group": null,
+              "section": "Requests to amend records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.024467,
+            "structure_index": 31607,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9303",
+              "subpart": null,
+              "subject_group": null,
+              "section": "9303.101",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9303",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 9303.101",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Supplemental Standards of Ethical Conduct for Employees of the Office of the Special Inspector General for Afghanistan Reconstruction",
+              "subpart": null,
+              "subject_group": null,
+              "section": "General.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.024467,
+            "structure_index": 31612,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9303",
+              "subpart": null,
+              "subject_group": null,
+              "section": "9303.102",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9303",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 9303.102",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Supplemental Standards of Ethical Conduct for Employees of the Office of the Special Inspector General for Afghanistan Reconstruction",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Prior approval for certain outside activities.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.024467,
+            "structure_index": 31635,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-04",
+            "ends_on": "2017-06-22",
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRb515bc6c90f0872",
+              "section": "9301.8",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Costs",
+              "section": "§ 9301.8",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Costs",
+              "section": "Fees in general.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237794,
+            "structure_index": 31598,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": "2017-01-03",
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRb515bc6c90f0872",
+              "section": "9301.8",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Costs",
+              "section": "§ 9301.8",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Costs",
+              "section": "Fees in general.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237794,
+            "structure_index": 31598,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "9301.13",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 9301.13",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Privacy Act",
+              "subject_group": null,
+              "section": "Rules for determining if an individual is the subject of a record.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237794,
+            "structure_index": 31603,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "9301.14",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 9301.14",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Privacy Act",
+              "subject_group": null,
+              "section": "Requests for access.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237794,
+            "structure_index": 31626,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "9301.15",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 9301.15",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Privacy Act",
+              "subject_group": null,
+              "section": "Access to the accounting of disclosures from records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237794,
+            "structure_index": 31605,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "9301.20",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 9301.20",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Privacy Act",
+              "subject_group": null,
+              "section": "Exemptions.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237794,
+            "structure_index": 31610,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-07-24",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRa5e4573988415ff",
+              "section": "9301.6",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Procedures",
+              "section": "§ 9301.6",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Procedures",
+              "section": "Requesting records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237792,
+            "structure_index": 31618,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective_cross_reference"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRb515bc6c90f0872",
+              "section": "9301.9",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Costs",
+              "section": "§ 9301.9",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Costs",
+              "section": "Fees for categories of requesters.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237792,
+            "structure_index": 31599,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRe7ee200dc3d12d5",
+              "section": "9301.2",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "section": "§ 9301.2",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "section": "Authority and functions.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237792,
+            "structure_index": 31592,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "9301.16",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 9301.16",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Privacy Act",
+              "subject_group": null,
+              "section": "Requests for copies of records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0237792,
+            "structure_index": 31606,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRa5e4573988415ff",
+              "section": "9301.4",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Procedures",
+              "section": "§ 9301.4",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Procedures",
+              "section": "Availability of records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0231867,
+            "structure_index": 31594,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-06-23",
+            "ends_on": "2017-07-23",
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRa5e4573988415ff",
+              "section": "9301.6",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Procedures",
+              "section": "§ 9301.6",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Procedures",
+              "section": "Requesting records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0231867,
+            "structure_index": 31597,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "cross_reference"
+            ]
+          },
+          {
+            "starts_on": "2017-01-01",
+            "ends_on": "2017-01-03",
+            "type": "Section",
+            "hierarchy": {
+              "title": "5",
+              "subtitle": null,
+              "chapter": "LXXXIII",
+              "subchapter": null,
+              "part": "9301",
+              "subpart": "A",
+              "subject_group": "ECFRa5e4573988415ff",
+              "section": "9301.6",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 5",
+              "subtitle": null,
+              "chapter": " Chapter LXXXIII",
+              "subchapter": null,
+              "part": "Part 9301",
+              "subpart": "Subpart A",
+              "subject_group": "Procedures",
+              "section": "§ 9301.6",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Administrative Personnel",
+              "subtitle": null,
+              "chapter": "Special Inspector General for Afghanistan Reconstruction",
+              "subchapter": null,
+              "part": "Disclosure of Records and Information",
+              "subpart": "Freedom of Information Act",
+              "subject_group": "Procedures",
+              "section": "Requesting records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0231867,
+            "structure_index": 31596,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          }
+        ],
+        "meta": {
+          "current_page": 1,
+          "total_pages": 2,
+          "total_count": 30,
+          "max_score": 2.024467,
+          "description": "Changes from Special Inspector General for Afghanistan Reconstruction"
+        }
+      }
     }
   }
 }
