@@ -55,6 +55,21 @@ Notes:
 - `model/` — TypeScript types used by the scripts (e.g. `agencyTypes`, `ecfrTypes`, etc.).
 - `title-36.xml` — a source XML file included for title-specific processing.
 
+### ECFR API endpoints read by the scripts
+
+The scripts contact the ECFR API for data. Here are the main endpoints used by each script (examples):
+
+- `fetchAgencies.ts` — /api/admin/v1/agencies.json
+- `fetchTitles.ts` — /api/versioner/v1/titles.json
+- `fetchEcfrResults.ts` — an example search endpoint with query params, e.g. /api/search/v1/results?agency_slugs%5B%5D=advisory-council-on-historic-preservation&per_page=20&page=1&order=relevance&paginate_by=results
+- `fetchEcfrResultsUber.ts` — /api/search/v1/results (built with `agency_slugs[]`, `per_page`, `page`, etc.)
+- `fetchAgencyCount.ts` — /api/search/v1/count?agency_slugs%5B%5D={agency_slug}
+- `fetchTitleCounts.ts` — /api/search/v1/counts/titles?agency_slugs%5B%5D={agency_slug}
+- `extractHierarchy.ts` / `ecfrSummary.ts` — /api/search/v1/counts/hierarchy?agency_slugs%5B%5D={agency_slug}
+- `uberTitleSummary.ts` / `titleUtils.ts` — full title XMLs via /api/versioner/v1/full/{dateString}/title-{titleNumber}.xml
+
+These are the endpoints the scripts call to fetch agencies, titles, counts, search results, and full title XMLs. If you need different query parameters or additional endpoints, the scripts build the URL strings in their top-level constants or helper functions.
+
 Generated / committed output files (examples) in this folder:
 
 - `advisory-council-on-historic-preservation_comb_summary.json` — combined summary output for a specific agency.
