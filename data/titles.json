@@ -29,8 +29,11 @@
       "name": "Accounts",
       "latest_amended_on": "2024-07-18",
       "latest_issue_date": "2024-07-18",
-      "up_to_date_as_of": "2025-09-29",
-      "reserved": false
+      "up_to_date_as_of": "2025-09-30",
+      "reserved": false,
+      "checksum": "693843eefde703920263ff1c1f66f4afa544a53910150c9bfde2133ee81489ba",
+      "wordCount": 60501,
+      "dateString": "2024-07-18"
     },
     {
       "number": 5,
