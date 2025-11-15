@@ -59,41 +59,27 @@ async function fetchAndSaveTitles(targetTitle: 'all' | number = 'all', agencySlu
     toProcess = [t];
   }
 
-  const results: any[] = [];
+  let processed = 0;
+  // Ensure per-title directory exists
+  const perTitleDir = path.join(DATA_DIR, 'title');
+  await fs.mkdir(perTitleDir, { recursive: true });
+
   for (const titleObj of toProcess) {
     console.log(`Processing Title ${titleObj.number} (${titleObj.name})`);
     // sequential processing to avoid hammering API
     // (could be parallelized with concurrency limit later)
     // eslint-disable-next-line no-await-in-loop
     const merged = await processTitle(titleObj, agencySlug);
-    results.push(merged);
+
+    // write individual file for this title
+    const outFile = path.join(perTitleDir, `${String(merged.number)}.json`);
+    // eslint-disable-next-line no-await-in-loop
+    await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
+    console.log(`Wrote title ${merged.number} to ${outFile}`);
+    processed += 1;
   }
 
-  // Update data/titles.json in-place: merge results into the existing titles array
-  await fs.mkdir(DATA_DIR, { recursive: true });
-  const titlesPath = path.join(DATA_DIR, 'titles.json');
-
-  // Assume `data/titles.json` uses the map shape:
-  // { titles: { '<number>': Title, ... }, meta: {...} }
-  // Read existing file if present; if missing or malformed, start with empty map.
-  let existing: any = { titles: {}, meta: {} };
-  try {
-    const raw = await fs.readFile(titlesPath, 'utf8');
-    existing = JSON.parse(raw);
-    if (!existing.titles || typeof existing.titles !== 'object') existing.titles = {};
-  } catch (e: any) {
-    // If file doesn't exist or can't be parsed, start fresh with map shape
-    existing = { titles: {}, meta: {} };
-  }
-
-  // Merge each result into existing.titles keyed by number (string)
-  for (const merged of results) {
-    const key = String(merged.number);
-    existing.titles[key] = { ...(existing.titles[key] || {}), ...merged };
-  }
-
-  await fs.writeFile(titlesPath, JSON.stringify(existing, null, 2));
-  console.log(`Updated ${results.length} title(s) in ${titlesPath}`);
+  console.log(`Processed and wrote ${processed} title(s) to ${perTitleDir}`);
 }
 
 // Helper to process one title entry and return merged object.
