@@ -1,6 +1,6 @@
 {
-  "titles": [
-    {
+  "titles": {
+    "1": {
       "number": 1,
       "name": "General Provisions",
       "latest_amended_on": "2022-12-29",
@@ -8,7 +8,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "2": {
       "number": 2,
       "name": "Federal Financial Assistance",
       "latest_amended_on": "2025-01-03",
@@ -16,7 +16,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "3": {
       "number": 3,
       "name": "The President",
       "latest_amended_on": "2015-03-17",
@@ -24,7 +24,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "4": {
       "number": 4,
       "name": "Accounts",
       "latest_amended_on": "2024-07-18",
@@ -35,7 +35,7 @@
       "wordCount": 60501,
       "dateString": "2024-07-18"
     },
-    {
+    "5": {
       "number": 5,
       "name": "Administrative Personnel",
       "latest_amended_on": "2025-09-15",
@@ -43,7 +43,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "6": {
       "number": 6,
       "name": "Domestic Security",
       "latest_amended_on": "2025-06-09",
@@ -51,7 +51,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "7": {
       "number": 7,
       "name": "Agriculture",
       "latest_amended_on": "2025-09-26",
@@ -59,7 +59,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "8": {
       "number": 8,
       "name": "Aliens and Nationality",
       "latest_amended_on": "2025-09-05",
@@ -67,7 +67,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "9": {
       "number": 9,
       "name": "Animals and Animal Products",
       "latest_amended_on": "2025-07-01",
@@ -75,7 +75,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "10": {
       "number": 10,
       "name": "Energy",
       "latest_amended_on": "2025-09-26",
@@ -83,7 +83,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "11": {
       "number": 11,
       "name": "Federal Elections",
       "latest_amended_on": "2025-02-20",
@@ -91,7 +91,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "12": {
       "number": 12,
       "name": "Banks and Banking",
       "latest_amended_on": "2025-09-25",
@@ -99,7 +99,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "13": {
       "number": 13,
       "name": "Business Credit and Assistance",
       "latest_amended_on": "2025-07-03",
@@ -107,7 +107,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "14": {
       "number": 14,
       "name": "Aeronautics and Space",
       "latest_amended_on": "2025-09-15",
@@ -115,7 +115,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "15": {
       "number": 15,
       "name": "Commerce and Foreign Trade",
       "latest_amended_on": "2025-09-26",
@@ -123,7 +123,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "16": {
       "number": 16,
       "name": "Commercial Practices",
       "latest_amended_on": "2025-09-24",
@@ -131,7 +131,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "17": {
       "number": 17,
       "name": "Commodity and Securities Exchanges",
       "latest_amended_on": "2025-09-19",
@@ -139,7 +139,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "18": {
       "number": 18,
       "name": "Conservation of Power and Water Resources",
       "latest_amended_on": "2025-08-18",
@@ -147,7 +147,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "19": {
       "number": 19,
       "name": "Customs Duties",
       "latest_amended_on": "2025-09-16",
@@ -155,7 +155,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "20": {
       "number": 20,
       "name": "Employees' Benefits",
       "latest_amended_on": "2025-09-18",
@@ -163,7 +163,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "21": {
       "number": 21,
       "name": "Food and Drugs",
       "latest_amended_on": "2025-09-25",
@@ -171,7 +171,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "22": {
       "number": 22,
       "name": "Foreign Relations",
       "latest_amended_on": "2025-09-18",
@@ -179,7 +179,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "23": {
       "number": 23,
       "name": "Highways",
       "latest_amended_on": "2025-09-22",
@@ -187,7 +187,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "24": {
       "number": 24,
       "name": "Housing and Urban Development",
       "latest_amended_on": "2025-09-15",
@@ -195,7 +195,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "25": {
       "number": 25,
       "name": "Indians",
       "latest_amended_on": "2025-09-29",
@@ -203,7 +203,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "26": {
       "number": 26,
       "name": "Internal Revenue",
       "latest_amended_on": "2025-09-16",
@@ -211,7 +211,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "27": {
       "number": 27,
       "name": "Alcohol, Tobacco Products and Firearms",
       "latest_amended_on": "2025-09-29",
@@ -219,7 +219,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "28": {
       "number": 28,
       "name": "Judicial Administration",
       "latest_amended_on": "2025-07-03",
@@ -227,7 +227,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "29": {
       "number": 29,
       "name": "Labor",
       "latest_amended_on": "2025-09-26",
@@ -235,7 +235,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "30": {
       "number": 30,
       "name": "Mineral Resources",
       "latest_amended_on": "2025-09-25",
@@ -243,7 +243,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "31": {
       "number": 31,
       "name": "Money and Finance: Treasury",
       "latest_amended_on": "2025-09-25",
@@ -251,7 +251,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "32": {
       "number": 32,
       "name": "National Defense",
       "latest_amended_on": "2025-08-27",
@@ -259,7 +259,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "33": {
       "number": 33,
       "name": "Navigation and Navigable Waters",
       "latest_amended_on": "2025-09-29",
@@ -267,7 +267,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "34": {
       "number": 34,
       "name": "Education",
       "latest_amended_on": "2025-08-15",
@@ -275,7 +275,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "35": {
       "number": 35,
       "name": "Reserved",
       "latest_amended_on": null,
@@ -283,7 +283,7 @@
       "up_to_date_as_of": null,
       "reserved": true
     },
-    {
+    "36": {
       "number": 36,
       "name": "Parks, Forests, and Public Property",
       "latest_amended_on": "2025-07-18",
@@ -314,7 +314,7 @@
         }
       }
     },
-    {
+    "37": {
       "number": 37,
       "name": "Patents, Trademarks, and Copyrights",
       "latest_amended_on": "2025-08-14",
@@ -322,7 +322,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "38": {
       "number": 38,
       "name": "Pensions, Bonuses, and Veterans' Relief",
       "latest_amended_on": "2025-09-29",
@@ -330,7 +330,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "39": {
       "number": 39,
       "name": "Postal Service",
       "latest_amended_on": "2025-09-29",
@@ -338,7 +338,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "40": {
       "number": 40,
       "name": "Protection of Environment",
       "latest_amended_on": "2025-09-29",
@@ -346,7 +346,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "41": {
       "number": 41,
       "name": "Public Contracts and Property Management",
       "latest_amended_on": "2025-01-21",
@@ -354,7 +354,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "42": {
       "number": 42,
       "name": "Public Health",
       "latest_amended_on": "2025-09-25",
@@ -362,7 +362,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "43": {
       "number": 43,
       "name": "Public Lands: Interior",
       "latest_amended_on": "2025-09-25",
@@ -370,7 +370,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "44": {
       "number": 44,
       "name": "Emergency Management and Assistance",
       "latest_amended_on": "2024-12-31",
@@ -378,7 +378,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "45": {
       "number": 45,
       "name": "Public Welfare",
       "latest_amended_on": "2025-09-11",
@@ -386,7 +386,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "46": {
       "number": 46,
       "name": "Shipping",
       "latest_amended_on": "2025-07-01",
@@ -394,7 +394,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "47": {
       "number": 47,
       "name": "Telecommunication",
       "latest_amended_on": "2025-09-26",
@@ -402,7 +402,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "48": {
       "number": 48,
       "name": "Federal Acquisition Regulations System",
       "latest_amended_on": "2025-09-22",
@@ -410,7 +410,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "49": {
       "number": 49,
       "name": "Transportation",
       "latest_amended_on": "2025-09-29",
@@ -418,7 +418,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     },
-    {
+    "50": {
       "number": 50,
       "name": "Wildlife and Fisheries",
       "latest_amended_on": "2025-09-23",
@@ -426,7 +426,7 @@
       "up_to_date_as_of": "2025-09-29",
       "reserved": false
     }
-  ],
+  },
   "meta": {
     "date": "2025-09-29",
     "import_in_progress": false

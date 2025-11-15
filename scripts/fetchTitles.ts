@@ -73,26 +73,23 @@ async function fetchAndSaveTitles(targetTitle: 'all' | number = 'all', agencySlu
   await fs.mkdir(DATA_DIR, { recursive: true });
   const titlesPath = path.join(DATA_DIR, 'titles.json');
 
-  let existing: any = { titles: [], meta: {} };
+  // Assume `data/titles.json` uses the map shape:
+  // { titles: { '<number>': Title, ... }, meta: {...} }
+  // Read existing file if present; if missing or malformed, start with empty map.
+  let existing: any = { titles: {}, meta: {} };
   try {
     const raw = await fs.readFile(titlesPath, 'utf8');
     existing = JSON.parse(raw);
+    if (!existing.titles || typeof existing.titles !== 'object') existing.titles = {};
   } catch (e: any) {
-    // If file doesn't exist or can't be parsed, start fresh but keep meta empty
-    existing = { titles: [], meta: {} };
+    // If file doesn't exist or can't be parsed, start fresh with map shape
+    existing = { titles: {}, meta: {} };
   }
 
-  if (!Array.isArray(existing.titles)) existing.titles = [];
-
-  // Merge each result into existing.titles by matching 'number'
+  // Merge each result into existing.titles keyed by number (string)
   for (const merged of results) {
-    const idx = existing.titles.findIndex((t: any) => Number(t.number) === Number(merged.number));
-    if (idx >= 0) {
-      // Merge fields: overwrite existing with merged fields
-      existing.titles[idx] = { ...existing.titles[idx], ...merged };
-    } else {
-      existing.titles.push(merged);
-    }
+    const key = String(merged.number);
+    existing.titles[key] = { ...(existing.titles[key] || {}), ...merged };
   }
 
   await fs.writeFile(titlesPath, JSON.stringify(existing, null, 2));
