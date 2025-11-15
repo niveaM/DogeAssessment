@@ -8,6 +8,24 @@ import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference } from './model/agencyTypes';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
+// Call ECFR and return an array of { title, count } for the given agency slug.
+export async function getTitleCountsArray(agency_slug: string): Promise<Array<{ title: number; count: number }>> {
+  const url = `https://www.ecfr.gov/api/search/v1/counts/titles?agency_slugs%5B%5D=${encodeURIComponent(agency_slug)}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+  const data = await res.json();
+  if (!data.titles || typeof data.titles !== 'object') {
+    console.log('No title count data found');
+    return [];
+  }
+
+  // Convert the titles map into an array of numeric title and numeric count
+  return Object.entries(data.titles).map(([title, modificationCount]) => ({
+    title: Number(title),
+    count: Number(modificationCount)
+  }));
+}
+
 // Strip XML tags and count words
 export function countWords(xml: string): number {
   const text = xml.replace(/<[^>]+>/g, ' ').replace(/&[a-z]+;/gi, ' ');
