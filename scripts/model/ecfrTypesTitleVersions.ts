@@ -32,3 +32,4 @@ export interface TitleVersionSummary {
 export interface TitleVersionsResponse {
   content_versions: ContentVersion[];
   meta: Meta;
+}

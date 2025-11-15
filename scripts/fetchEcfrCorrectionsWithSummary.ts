@@ -53,11 +53,10 @@ async function main() {
     summary
   };
 
-  // Use an absolute path for the output file so scripts run from any cwd
-  const fileName = `ecfr_title${titleNumber}_corrections_with_summary.json`;
-  const outPath = path.resolve(DATA_DIR, fileName);
-  await fs.writeFile(outPath, JSON.stringify(output, null, 2));
-  console.log(`Saved output to ${outPath}`);
+  // const fileName = path.join(DATA_DIR, `ecfr_title${titleNumber}_corrections_with_summary.json`);
+  const fileName = path.join(DATA_DIR, `${titleNumber}__corrections_with_summary.json`);
+  await fs.writeFile(path.join('.', fileName), JSON.stringify(output, null, 2));
+  console.log(`Saved output to ${fileName}`);
   console.log('Summary:', summary);
 }
 

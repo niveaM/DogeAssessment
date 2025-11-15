@@ -5,7 +5,14 @@ import * as path from 'path';
 import { DATA_DIR } from './config';
 import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
-import type { CFRReference } from './model/agencyTypes';
+import type { CFRReference, Agency } from './model/agencyTypes';
+import { getSearchCountForTitle } from './agencyUtils';
+
+// Aggregated search counts collected during processing. Each entry represents
+// the number of search results (modification count) for a given title and
+// agency. This is written out by `fetchAndSaveTitles` so callers can inspect
+// cumulative results.
+export const aggregatedSearchCounts: Array<{ title: number; searchCount: number; agencySlug?: string }> = [];
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
 // Strip XML tags and count words
@@ -21,8 +28,9 @@ export function checksumXML(xml: string): string {
 // Core: fetch XML, compute summary, return typed TitleSummary
 // Now accepts the raw Title object, fetches the full XML, computes checksum/wordCount
 // and returns the merged Title object (original fields + summary fields).
-export async function getTitleSummary(titleObj: Title, agencySlug?: string): Promise<Title> {
+export async function getTitleSummary(titleObj: Title, agency?: Agency): Promise<Title> {
   const dateString = titleObj.latest_issue_date ?? 'latest';
+  const agencySlug = agency?.slug;
   const url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
@@ -61,7 +69,7 @@ export async function getTitleSummary(titleObj: Title, agencySlug?: string): Pro
   return merged;
 }
 
-export async function fetchTitleVersionsWithSummary(titleObj: Title, target?: CFRReference, agencySlug?: string): Promise<Title> {
+export async function fetchTitleVersionsWithSummary(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
   console.log(`fetchTitleVersionsWithSummary :: Fetching versions for Title ${titleObj.number} (${titleObj.name})`); 
   const url = buildUrl(titleObj, target);
   const res = await fetch(url);
@@ -99,14 +107,14 @@ export async function fetchTitleVersionsWithSummary(titleObj: Title, target?: CF
   // Merge into a Title object and attach the computed versions summary.
   const merged: Title = { ...titleObj };
   merged.versionSummary = versionSummary;
-  if (agencySlug) merged.agencySlug = agencySlug;
+  if (agency?.slug) merged.agencySlug = agency.slug;
 
   return merged;
 }
 
 // Helper to process one title entry and return merged object.
 // Moved here from `fetchTitles.ts` so other scripts can reuse it directly.
-export async function processTitle(titleObj: Title, target?: CFRReference, agencySlug?: string): Promise<Title> {
+export async function processTitle(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
   console.log(`processTitle :: Processing Title ${titleObj.number} (${titleObj.name})`);
   // start with a shallow clone so we can attach fields on error path
   let merged: Title = { ...titleObj };
@@ -118,11 +126,22 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   }
 
   try {
-    merged = await getTitleSummary(titleObj, agencySlug);
+  merged = await getTitleSummary(titleObj, agency);
+    // If an Agency object is provided, fetch its title counts and attach the
+    // count for this single title as `searchCount` on the merged Title.
+    if (agency) {
+      try {
+        const count = await getSearchCountForTitle(agency, titleObj);
+        merged.searchCount = count;
+        aggregatedSearchCounts.push({ title: merged.number, searchCount: count, agencySlug: agency.slug });
+      } catch (err) {
+        merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+      }
+    }
     // attach versions summary by passing the merged Title into the helper
     // (this may add `summary` or `versionsSummary` depending on implementation)
     // eslint-disable-next-line no-await-in-loop
-    merged = await fetchTitleVersionsWithSummary(merged, target, agencySlug);
+  merged = await fetchTitleVersionsWithSummary(merged, target, agency);
     // no additional sanity-check — merged preserves the original title number
     return merged;
   } catch (err: any) {
@@ -153,8 +172,10 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?
 
     console.log(`Processing Title ${titleObj.number} (${titleObj.name})`);
     // sequential processing to avoid hammering API
+  // construct a minimal Agency object from slug if provided so downstream helpers get an Agency
+  const agencyObj = agencySlug ? { name: agencySlug, display_name: agencySlug, sortable_name: agencySlug, slug: agencySlug, children: [], cfr_references: [] } as Agency : undefined;
   // eslint-disable-next-line no-await-in-loop
-  const merged = await processTitle(titleObj, cfrReference, agencySlug);
+  const merged = await processTitle(titleObj, cfrReference, agencyObj);
 
   // write individual file for this title
   // include agencySlug in the filename when provided, sanitized for filesystem safety
@@ -164,6 +185,16 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?
   // eslint-disable-next-line no-await-in-loop
   await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
   console.log(`Wrote title ${merged.number} to ${outFile}`);
+
+  // Also persist the aggregated search counts collected so far so callers can
+  // inspect cumulative search counts across processed titles.
+  try {
+    const aggPath = path.join(DATA_DIR, 'title_search_counts.json');
+    await fs.writeFile(aggPath, JSON.stringify(aggregatedSearchCounts, null, 2));
+    console.log(`Wrote aggregated search counts to ${aggPath}`);
+  } catch (err) {
+    console.warn('Failed to write aggregated search counts:', err);
+  }
 
 
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);

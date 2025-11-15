@@ -32,11 +32,15 @@ export interface Title {
       summary_dateString: string | null;
     };
     // any error encountered while processing this title
-    error?: string;
+      error?: string;
+      // error encountered when running agency-related searches for this title
+      agencySearchError?: string;
     // optional CFRReference-derived info attached during processing
     requestedChapter?: string;
   };
   versionSummary?: TitleVersionSummary;
+    // Number of search results (modification count) for this title for the agency
+    searchCount?: number;
 }
 
 export interface TitlesResponse {
