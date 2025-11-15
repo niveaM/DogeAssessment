@@ -8,6 +8,26 @@ import type { TitlesResponse, Title } from './model/titlesTypes';
 
 const API_URL = 'https://www.ecfr.gov/api/versioner/v1/titles.json';
 
+
+// Read command-line argument
+const arg = process.argv[2];
+let target: 'all' | number = 'all';
+if (arg && arg.toLowerCase() !== 'all') {
+  const n = Number(arg);
+  if (Number.isNaN(n)) {
+    console.error(`Invalid argument '${arg}'. Use a title number or 'all'`);
+    process.exit(1);
+  }
+  target = n;
+}
+// Optional agency slug may be provided as the second CLI argument
+const agencySlugArg = process.argv[3];
+
+fetchAndSaveTitles(target, agencySlugArg).catch((err) => {
+  console.error('Error fetching titles:', err);
+  process.exit(1);
+});
+
 // Processes either a single title (by number) or all titles. Usage:
 //   node -r ts-node/register scripts/fetchTitles.ts 36
 //   node -r ts-node/register scripts/fetchTitles.ts all
@@ -16,44 +36,26 @@ const API_URL = 'https://www.ecfr.gov/api/versioner/v1/titles.json';
 //   node -r ts-node/register scripts/fetchTitles.ts 36
 //   node -r ts-node/register scripts/fetchTitles.ts all
 //   node -r ts-node/register scripts/fetchTitles.ts all "my-agency-slug"
-async function fetchAndSaveTitles(target: 'all' | number = 'all', agencySlug?: string) {
+async function fetchAndSaveTitles(targetTitle: 'all' | number = 'all', agencySlug?: string) {
   const res = await fetch(API_URL);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: TitlesResponse = await res.json();
 
   const rawTitles: TitlesResponse['titles'] = data.titles || [];
-
-  // Helper to process one title entry and return merged object
-  async function processTitle(titleObj: Title): Promise<Title> {
-  // start with a shallow clone so we can attach fields on error path
-  let merged: Title = { ...titleObj };
-
-    // Basic validation: ensure number and name exist
-    if (merged.number == null || !merged.name) {
-      merged.debug = { ...(merged.debug || {}), error: 'Title object missing number or name' };
-      return merged;
-    }
-
-    try {
-      merged = await getTitleSummary(titleObj, agencySlug);
-      // attach versions summary by passing the merged Title into the helper
-      // (this may add `summary` or `versionsSummary` depending on implementation)
-      // eslint-disable-next-line no-await-in-loop
-      merged = await fetchTitleVersionsWithSummary(merged, agencySlug);
-      // no additional sanity-check — merged preserves the original title number
-      return merged;
-    } catch (err: any) {
-      merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };
-      return merged;
-    }
+  // Create a map of titles keyed by title number for easier lookups.
+  // Key is the title number as a string, value is the Title object.
+  const titlesMap: Record<string, Title> = {};
+  for (const t of rawTitles) {
+    if (t && t.number != null) titlesMap[String(t.number)] = t as Title;
   }
 
   let toProcess: any[] = [];
-  if (target === 'all') {
-    toProcess = rawTitles;
+  if (targetTitle === 'all') {
+    // Use the map values for processing
+    toProcess = Object.values(titlesMap);
   } else {
-    const t = rawTitles.find((x: any) => Number(x.number) === Number(target));
-    if (!t) throw new Error(`Title ${target} not found in API response`);
+    const t = titlesMap[String(targetTitle)];
+    if (!t) throw new Error(`Title ${targetTitle} not found in API response`);
     toProcess = [t];
   }
 
@@ -63,7 +65,7 @@ async function fetchAndSaveTitles(target: 'all' | number = 'all', agencySlug?: s
     // sequential processing to avoid hammering API
     // (could be parallelized with concurrency limit later)
     // eslint-disable-next-line no-await-in-loop
-    const merged = await processTitle(titleObj);
+    const merged = await processTitle(titleObj, agencySlug);
     results.push(merged);
   }
 
@@ -97,22 +99,29 @@ async function fetchAndSaveTitles(target: 'all' | number = 'all', agencySlug?: s
   console.log(`Updated ${results.length} title(s) in ${titlesPath}`);
 }
 
-// Read command-line argument
-const arg = process.argv[2];
-let target: 'all' | number = 'all';
-if (arg && arg.toLowerCase() !== 'all') {
-  const n = Number(arg);
-  if (Number.isNaN(n)) {
-    console.error(`Invalid argument '${arg}'. Use a title number or 'all'`);
-    process.exit(1);
-  }
-  target = n;
-}
-// Optional agency slug may be provided as the second CLI argument
-const agencySlugArg = process.argv[3];
+// Helper to process one title entry and return merged object.
+// Extracted to top-level for clarity and reuse.
+export async function processTitle(titleObj: Title, agencySlug?: string): Promise<Title> {
+  // start with a shallow clone so we can attach fields on error path
+  let merged: Title = { ...titleObj };
 
-fetchAndSaveTitles(target, agencySlugArg).catch((err) => {
-  console.error('Error fetching titles:', err);
-  process.exit(1);
-});
+  // Basic validation: ensure number and name exist
+  if (merged.number == null || !merged.name) {
+    merged.debug = { ...(merged.debug || {}), error: 'Title object missing number or name' };
+    return merged;
+  }
+
+  try {
+    merged = await getTitleSummary(titleObj, agencySlug);
+    // attach versions summary by passing the merged Title into the helper
+    // (this may add `summary` or `versionsSummary` depending on implementation)
+    // eslint-disable-next-line no-await-in-loop
+    merged = await fetchTitleVersionsWithSummary(merged, agencySlug);
+    // no additional sanity-check — merged preserves the original title number
+    return merged;
+  } catch (err: any) {
+    merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };
+    return merged;
+  }
+}
 
