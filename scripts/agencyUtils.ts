@@ -1,6 +1,6 @@
 // agencyUtils.ts
 import fetch from 'node-fetch';
-import type { Agency } from './model/agencyTypes';
+import type { Agency, CFRReference } from './model/agencyTypes';
 import type { Title } from './model/titlesTypes';
 import type { HierarchyNode } from './model/hierarchyTypes';
 
@@ -29,13 +29,49 @@ function walkHierarchy(
     );
   }
   // Leaf node
+  // Attempt to parse a CFRReference from the assembled path segments. The
+  // path typically looks like: "Title 36 > Chapter VIII > Part 800 > Subpart B"
+  const pathSegments = newPath.filter(Boolean);
+  const cfrPartial: Partial<CFRReference> = {};
+  for (const seg of pathSegments) {
+    const s = String(seg).trim();
+    let m: RegExpMatchArray | null = null;
+    if ((m = s.match(/^Title\s+(\d+)/i))) {
+      cfrPartial.title = Number(m[1]);
+      continue;
+    }
+    if ((m = s.match(/^Chapter\s+(.+)/i))) {
+      cfrPartial.chapter = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Part\s+(.+)/i))) {
+      cfrPartial.part = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Subpart\s+(.+)/i))) {
+      cfrPartial.subpart = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Subtitle\s+(.+)/i))) {
+      cfrPartial.subtitle = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Subchapter\s+(.+)/i))) {
+      cfrPartial.subchapter = m[1].trim();
+      continue;
+    }
+  }
+
+  const cfrRef = (typeof cfrPartial.title === 'number') ? (cfrPartial as CFRReference) : undefined;
+
   return [{
-    path: newPath.filter(Boolean).join(' > '),
+    path: pathSegments.join(' > '),
     levels: newLevels,
     headings: newHeadings,
     type: currentLevel,
     count: currentNodeCount,
     max_score: node.max_score ?? 0,
+    cfrReference: cfrRef,
   }];
 }
 

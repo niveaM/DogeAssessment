@@ -44,6 +44,14 @@ export interface Title {
   searchCount?: number;
   // Optional hierarchy paths for this title as returned by agency hierarchy extraction
   hierarchyPaths?: HierarchyNode[];
+  // Aggregated counts for this title/chapter as returned by fetchTitleAndChapterCounts
+  titleChapterCounts?: {
+    title: string | null;
+    chapter: string;
+    titleCount: number;
+    chapterCount: number;
+    raw?: any;
+  };
 }
 
 export interface TitlesResponse {

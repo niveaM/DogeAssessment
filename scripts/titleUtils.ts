@@ -6,7 +6,8 @@ import { DATA_DIR } from './config';
 import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
-import { getSearchCountForTitle, extractHierarchy } from './agencyUtils';
+import { getSearchCountForTitle } from './agencyUtils';
+import { fetchTitleAndChapterCounts } from './fetchTitleChapterCounts';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
 // Aggregated search counts collected during processing. Each entry represents
@@ -134,12 +135,16 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   // can inspect hierarchy paths that reference this title.
   if (agency?.slug) {
     try {
-      const hierarchy = await extractHierarchy(agency.slug);
-      // attach to merged object for consumers
-      // (titlesTypes.ts now declares hierarchyPaths?: HierarchyNode[])
-      // @ts-ignore - the Title interface includes hierarchyPaths, but keep
-      // this defensive guard in case of mismatched types at runtime.
-      merged.hierarchyPaths = hierarchy;
+      // Use the specialized helper that returns counts for the title and chapter
+      // context. Pass the current title number (as string) and the requested
+      // chapter (if any) from the `target` CFRReference parameter.
+      const targetTitle = String(titleObj.number);
+      const targetChapter = (target && target.chapter) ? String(target.chapter) : '';
+      const counts = await fetchTitleAndChapterCounts(agency.slug, targetTitle, targetChapter);
+      // Attach the returned counts object to the merged Title so callers can
+      // inspect title/chapter level counts and the raw API response.
+      // @ts-ignore -- we've added `titleChapterCounts` to the Title type
+      merged.titleChapterCounts = counts;
     } catch (err) {
       merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
     }

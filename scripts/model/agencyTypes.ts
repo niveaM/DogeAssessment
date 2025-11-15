@@ -3,6 +3,7 @@ export interface CFRReference {
   title: number;
   chapter?: string;
   part?: string;
+  subpart?: string;
   subtitle?: string;
   subchapter?: string;
 }
