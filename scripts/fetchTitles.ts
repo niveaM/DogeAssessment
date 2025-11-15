@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
-import { getTitleSummary } from './titleUtils';
+import { getTitleSummary, fetchTitleVersionsWithSummary } from './titleUtils';
 import type { TitlesResponse, Title } from './model/titlesTypes';
 
 const API_URL = 'https://www.ecfr.gov/api/versioner/v1/titles.json';
@@ -25,21 +25,25 @@ async function fetchAndSaveTitles(target: 'all' | number = 'all', agencySlug?: s
 
   // Helper to process one title entry and return merged object
   async function processTitle(titleObj: Title): Promise<Title> {
-    // start with a shallow clone so we can attach fields on error path
-    let merged: Title = { ...titleObj };
+  // start with a shallow clone so we can attach fields on error path
+  let merged: Title = { ...titleObj };
 
     // Basic validation: ensure number and name exist
     if (merged.number == null || !merged.name) {
-      merged.error = 'Title object missing number or name';
+      merged.debug = { ...(merged.debug || {}), error: 'Title object missing number or name' };
       return merged;
     }
 
     try {
       merged = await getTitleSummary(titleObj, agencySlug);
+      // attach versions summary by passing the merged Title into the helper
+      // (this may add `summary` or `versionsSummary` depending on implementation)
+      // eslint-disable-next-line no-await-in-loop
+      merged = await fetchTitleVersionsWithSummary(merged, agencySlug);
       // no additional sanity-check — merged preserves the original title number
       return merged;
     } catch (err: any) {
-      merged.error = err?.message || String(err);
+      merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };
       return merged;
     }
   }

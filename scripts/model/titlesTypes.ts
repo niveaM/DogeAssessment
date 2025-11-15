@@ -1,3 +1,5 @@
+import { TitleVersionSummary } from "./ecfrTypesTitleVersions";
+
 // titlesTypes.ts
 export interface Title {
   number: number;
@@ -12,19 +14,27 @@ export interface Title {
   wordCount?: number;
   // dateString returned from summary (may differ from latest_issue_date)
   dateString?: string | null;
-  dateStringMismatch?: {
-    latest_issue_date: string | null;
-    summary_dateString: string | null;
-  };
   agencySlug?: string;
-  error?: string;
-  // keep the raw summary available for debugging
-  summary?: {
-    titleNumber: number;
-    dateString: string | null;
-    checksum: string;
-    wordCount: number;
+  // Debug information: group together fields used for troubleshooting and
+  // inspection so they don't pollute the top-level Title shape.
+  debug?: {
+    // original document-level summary (checksum/wordCount/dateString)
+    titleDocumentSummary?: {
+      titleNumber: number;
+      dateString: string | null;
+      checksum: string;
+      wordCount: number;
+    };
+    // date string mismatch between the documented latest_issue_date and the
+    // date string returned by the summary fetch
+    dateStringMismatch?: {
+      latest_issue_date: string | null;
+      summary_dateString: string | null;
+    };
+    // any error encountered while processing this title
+    error?: string;
   };
+  versionSummary?: TitleVersionSummary;
 }
 
 export interface TitlesResponse {

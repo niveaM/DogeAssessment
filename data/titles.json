@@ -292,7 +292,27 @@
       "reserved": false,
       "checksum": "1085ca5a65b797174edb1ec4572637cfa87170b502fb2dcb134b4a90a7eb4915",
       "wordCount": 1086818,
-      "dateString": "2025-09-17"
+      "dateString": "2025-09-17",
+      "debug": {
+        "titleDocumentSummary": {
+          "titleNumber": 36,
+          "dateString": "2025-09-17",
+          "checksum": "1085ca5a65b797174edb1ec4572637cfa87170b502fb2dcb134b4a90a7eb4915",
+          "wordCount": 1086818
+        }
+      },
+      "versionSummary": {
+        "titleNumber": 36,
+        "totalVersions": 4446,
+        "firstDate": "2016-12-13",
+        "lastDate": "2025-07-18",
+        "uniqueParts": 168,
+        "uniqueSubparts": 21,
+        "typeCounts": {
+          "section": 4353,
+          "appendix": 93
+        }
+      }
     },
     {
       "number": 37,
