@@ -2,9 +2,9 @@
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import { DATA_DIR } from './config';
-import { getTitleSummary } from './titleUtils';
-import type { TitlesResponse, Title } from './model/titlesTypes';
+import { DATA_DIR } from './../config';
+import { getTitleSummary } from './../titleUtils';
+import type { TitlesResponse, Title } from './../model/titlesTypes';
 
 // Get titles and dates
 async function fetchTitleList(): Promise<Title[]> {
