@@ -98,4 +98,30 @@ export async function fetchTitleVersionsWithSummary(titleObj: Title, agencySlug?
   return merged;
 }
 
+// Helper to process one title entry and return merged object.
+// Moved here from `fetchTitles.ts` so other scripts can reuse it directly.
+export async function processTitle(titleObj: Title, agencySlug?: string): Promise<Title> {
+  // start with a shallow clone so we can attach fields on error path
+  let merged: Title = { ...titleObj };
+
+  // Basic validation: ensure number and name exist
+  if (merged.number == null || !merged.name) {
+    merged.debug = { ...(merged.debug || {}), error: 'Title object missing number or name' };
+    return merged;
+  }
+
+  try {
+    merged = await getTitleSummary(titleObj, agencySlug);
+    // attach versions summary by passing the merged Title into the helper
+    // (this may add `summary` or `versionsSummary` depending on implementation)
+    // eslint-disable-next-line no-await-in-loop
+    merged = await fetchTitleVersionsWithSummary(merged, agencySlug);
+    // no additional sanity-check — merged preserves the original title number
+    return merged;
+  } catch (err: any) {
+    merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };
+    return merged;
+  }
+}
+
 
