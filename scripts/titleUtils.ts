@@ -6,7 +6,7 @@ import { DATA_DIR } from './config';
 import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
-import { getSearchCountForTitle } from './agencyUtils';
+import { getSearchCountForTitle, extractHierarchy } from './agencyUtils';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
 // Aggregated search counts collected during processing. Each entry represents
@@ -129,12 +129,32 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
     merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
   }
 
+  // If an Agency object is provided, attempt to extract the agency's
+  // CFR hierarchy and attach it to the Title object so downstream tools
+  // can inspect hierarchy paths that reference this title.
+  if (agency?.slug) {
+    try {
+      const hierarchy = await extractHierarchy(agency.slug);
+      // attach to merged object for consumers
+      // (titlesTypes.ts now declares hierarchyPaths?: HierarchyNode[])
+      // @ts-ignore - the Title interface includes hierarchyPaths, but keep
+      // this defensive guard in case of mismatched types at runtime.
+      merged.hierarchyPaths = hierarchy;
+    } catch (err) {
+      merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+    }
+  }
+
   // If an Agency object is provided, fetch its title counts and attach the
   // count for this single title as `searchCount` on the merged Title.
   try {
     const count = await getSearchCountForTitle(agency, titleObj);
     merged.searchCount = count;
     aggregatedSearchCounts.push({ title: merged.number, searchCount: count, agencySlug: agency.slug });
+
+
+
+
   } catch (err) {
     merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
   }

@@ -1,4 +1,5 @@
 import { TitleVersionSummary } from "./ecfrTypesTitleVersions";
+import { HierarchyNode } from './hierarchyTypes';
 
 // titlesTypes.ts
 export interface Title {
@@ -39,8 +40,10 @@ export interface Title {
     requestedChapter?: string;
   };
   versionSummary?: TitleVersionSummary;
-    // Number of search results (modification count) for this title for the agency
-    searchCount?: number;
+  // Number of search results (modification count) for this title for the agency
+  searchCount?: number;
+  // Optional hierarchy paths for this title as returned by agency hierarchy extraction
+  hierarchyPaths?: HierarchyNode[];
 }
 
 export interface TitlesResponse {
