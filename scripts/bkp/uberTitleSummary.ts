@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './../config';
-import { getTitleSummary } from './../titleUtils';
+import { getTitleStats } from './../titleUtils';
 import type { TitlesResponse, Title } from './../model/titlesTypes';
 
 // Get titles and dates
@@ -22,7 +22,7 @@ async function uberSummary() {
   for (const t of titles) {
     console.log(`Processing Title ${t.number} (${t.name}), date: ${t.latest_issue_date}`);
     try {
-      const merged: Title = await getTitleSummary(t);
+      const merged: Title = await getTitleStats(t);
       // push the full merged Title object
       summary.push(merged);
     } catch (err: any) {

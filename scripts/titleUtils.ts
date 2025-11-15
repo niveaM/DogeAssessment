@@ -7,13 +7,13 @@ import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
 import { getSearchCountForTitle } from './agencyUtils';
+import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
 // Aggregated search counts collected during processing. Each entry represents
 // the number of search results (modification count) for a given title and
 // agency. This is written out by `fetchAndSaveTitles` so callers can inspect
 // cumulative results.
 export const aggregatedSearchCounts: Array<{ title: number; searchCount: number; agencySlug?: string }> = [];
-import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
 // Strip XML tags and count words
 export function countWords(xml: string): number {
@@ -28,49 +28,47 @@ export function checksumXML(xml: string): string {
 // Core: fetch XML, compute summary, return typed TitleSummary
 // Now accepts the raw Title object, fetches the full XML, computes checksum/wordCount
 // and returns the merged Title object (original fields + summary fields).
-export async function getTitleSummary(titleObj: Title, agency?: Agency): Promise<Title> {
+export async function getTitleStats(titleObj: Title, agency?: Agency): Promise<Title> {
   const dateString = titleObj.latest_issue_date ?? 'latest';
-  const agencySlug = agency?.slug;
   const url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const xml = await res.text();
 
-  const checksum = checksumXML(xml);
-  const wordCount = countWords(xml);
-
   const merged: Title = { ...titleObj };
-  merged.checksum = checksum;
-  merged.wordCount = wordCount;
-  // also keep a compact document-level summary on the Title object under
-  // `debug` so consumers can inspect it without polluting the top-level shape.
-  merged.debug = {
-    ...(merged.debug || {}),
-    titleDocumentSummary: {
-      titleNumber: titleObj.number,
-      dateString,
-      checksum,
-      wordCount,
-    }
-  };
-  merged.dateString = titleObj.latest_issue_date;
-  if (agencySlug) merged.agencySlug = agencySlug;
+  merged.checksum = checksumXML(xml);
+  merged.wordCount = countWords(xml);
 
-  if (merged.dateString !== titleObj.latest_issue_date) {
-    merged.debug = {
-      ...(merged.debug || {}),
-      dateStringMismatch: {
-        latest_issue_date: titleObj.latest_issue_date,
-        summary_dateString: merged.dateString
-      }
-    };
-  }
+  // // also keep a compact document-level summary on the Title object under
+  // // `debug` so consumers can inspect it without polluting the top-level shape.
+  // merged.debug = {
+  //   ...(merged.debug || {}),
+  //   titleDocumentSummary: {
+  //     titleNumber: titleObj.number,
+  //     dateString,
+  //     checksum,
+  //     wordCount,
+  //   }
+  // };
+  // merged.dateString = titleObj.latest_issue_date;
+  if (agency?.slug) merged.agencySlug = agency.slug;
+  
+  // if (merged.dateString !== titleObj.latest_issue_date) {
+  //   merged.debug = {
+  //     ...(merged.debug || {}),
+  //     dateStringMismatch: {
+  //       latest_issue_date: titleObj.latest_issue_date,
+  //       summary_dateString: merged.dateString
+  //     }
+  //   };
+  // }
 
   return merged;
 }
 
-export async function fetchTitleVersionsWithSummary(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
-  console.log(`fetchTitleVersionsWithSummary :: Fetching versions for Title ${titleObj.number} (${titleObj.name})`); 
+/** Populates TitleVersionSummary */
+export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
+  console.log(`fetchTitleVersionsSummary :: Fetching versions for Title ${titleObj.number} (${titleObj.name})`); 
   const url = buildUrl(titleObj, target);
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
@@ -126,28 +124,32 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   }
 
   try {
-  merged = await getTitleSummary(titleObj, agency);
-    // If an Agency object is provided, fetch its title counts and attach the
-    // count for this single title as `searchCount` on the merged Title.
-    if (agency) {
-      try {
-        const count = await getSearchCountForTitle(agency, titleObj);
-        merged.searchCount = count;
-        aggregatedSearchCounts.push({ title: merged.number, searchCount: count, agencySlug: agency.slug });
-      } catch (err) {
-        merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
-      }
-    }
+    merged = await getTitleStats(titleObj, agency);
+  } catch (err) {
+    merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+  }
+
+  // If an Agency object is provided, fetch its title counts and attach the
+  // count for this single title as `searchCount` on the merged Title.
+  try {
+    const count = await getSearchCountForTitle(agency, titleObj);
+    merged.searchCount = count;
+    aggregatedSearchCounts.push({ title: merged.number, searchCount: count, agencySlug: agency.slug });
+  } catch (err) {
+    merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+  }
+
+  try {
     // attach versions summary by passing the merged Title into the helper
     // (this may add `summary` or `versionsSummary` depending on implementation)
     // eslint-disable-next-line no-await-in-loop
-  merged = await fetchTitleVersionsWithSummary(merged, target, agency);
+    merged = await fetchTitleVersionsSummary(merged, target, agency);
     // no additional sanity-check — merged preserves the original title number
-    return merged;
   } catch (err: any) {
     merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };
-    return merged;
   }
+
+  return merged;
 }
 
 // Processes either a single title (by number) or all titles and writes
