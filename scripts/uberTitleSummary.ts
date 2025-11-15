@@ -17,26 +17,19 @@ async function fetchTitleList(): Promise<Title[]> {
 
 async function uberSummary() {
   const titles = await fetchTitleList();
-  const summary: any[] = [];
+  // store full Title objects (merged) in the summary file
+  const summary: Title[] = [];
   for (const t of titles) {
     console.log(`Processing Title ${t.number} (${t.name}), date: ${t.latest_issue_date}`);
     try {
-      const merged = await getTitleSummary(t);
-      summary.push({
-        number: merged.number,
-        name: merged.name,
-        dateString: merged.dateString,
-        checksum: merged.checksum,
-        wordCount: merged.wordCount
-      });
+      const merged: Title = await getTitleSummary(t);
+      // push the full merged Title object
+      summary.push(merged);
     } catch (err: any) {
       console.error(`Error processing Title ${t.number}:`, err);
-      summary.push({
-        number: t.number,
-        name: t.name,
-        dateString: t.latest_issue_date,
-        error: err?.message || String(err)
-      });
+      // push the original Title annotated with the error
+      const errObj: Title = { ...t, error: err?.message || String(err) };
+      summary.push(errObj);
     }
   }
   await fs.mkdir(DATA_DIR, { recursive: true });
