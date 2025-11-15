@@ -12,6 +12,13 @@ export interface ContentVersion {
   type: string; // 'section', 'appendix', etc.
 }
 
+export interface Meta {
+  title: string
+  result_count: number;
+  latest_amendment_date: string;
+  latest_issue_date: string;
+}
+
 export interface TitleVersionSummary {
   titleNumber: number;
   totalVersions: number;
@@ -24,4 +31,4 @@ export interface TitleVersionSummary {
 
 export interface TitleVersionsResponse {
   content_versions: ContentVersion[];
-}
+  meta: Meta;

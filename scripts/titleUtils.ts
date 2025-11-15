@@ -62,10 +62,13 @@ export async function getTitleSummary(titleObj: Title, agencySlug?: string): Pro
 }
 
 export async function fetchTitleVersionsWithSummary(titleObj: Title, target?: CFRReference, agencySlug?: string): Promise<Title> {
+  console.log(`fetchTitleVersionsWithSummary :: Fetching versions for Title ${titleObj.number} (${titleObj.name})`); 
   const url = buildUrl(titleObj, target);
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: TitleVersionsResponse = await res.json();
+
+  console.log(`Fetched ${data.content_versions.length} ${JSON.stringify(data.meta)} versions for Title ${titleObj.number}`);
 
   // Generate summary
   const totalVersions = data.content_versions.length;
@@ -104,6 +107,7 @@ export async function fetchTitleVersionsWithSummary(titleObj: Title, target?: CF
 // Helper to process one title entry and return merged object.
 // Moved here from `fetchTitles.ts` so other scripts can reuse it directly.
 export async function processTitle(titleObj: Title, target?: CFRReference, agencySlug?: string): Promise<Title> {
+  console.log(`processTitle :: Processing Title ${titleObj.number} (${titleObj.name})`);
   // start with a shallow clone so we can attach fields on error path
   let merged: Title = { ...titleObj };
 
@@ -152,18 +156,30 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?
   // eslint-disable-next-line no-await-in-loop
   const merged = await processTitle(titleObj, cfrReference, agencySlug);
 
-    // write individual file for this title
-    const outFile = path.join(perTitleDir, `${String(merged.number)}.json`);
-    // eslint-disable-next-line no-await-in-loop
-    await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
-    console.log(`Wrote title ${merged.number} to ${outFile}`);
+  // write individual file for this title
+  // include agencySlug in the filename when provided, sanitized for filesystem safety
+  const safeAgency = agencySlug ? String(agencySlug).replace(/[^a-z0-9-_\.]/gi, '_') : '';
+  const fileName = safeAgency ? `${String(merged.number)}.${safeAgency}.json` : `${String(merged.number)}.json`;
+  const outFile = path.join(perTitleDir, fileName);
+  // eslint-disable-next-line no-await-in-loop
+  await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
+  console.log(`Wrote title ${merged.number} to ${outFile}`);
 
 
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
 }
 
 
-function buildUrl(titleObj: Title, target: CFRReference) {
-  return `https://www.ecfr.gov/api/versioner/v1/versions/title-${titleObj.number}.json`;
+function buildUrl(titleObj: Title, target?: CFRReference) {
+  console.log(`buildUrl :: Building URL for Title ${titleObj.number} (${JSON.stringify(target)})`);
+  const base = `https://www.ecfr.gov/api/versioner/v1/versions/title-${titleObj.number}.json`;
+  if (target && target.chapter) {
+    // chapter may already be roman or numeric; ensure it's URI encoded
+    const url =  `${base}?chapter=${encodeURIComponent(String(target.chapter))}`;
+    console.log(`Fetching versions for title ${url}`);
+    return url;
+  }
+  console.log(`No chapter specified for title ${titleObj.number}, fetching all versions`);
+  return base;
 }
 
