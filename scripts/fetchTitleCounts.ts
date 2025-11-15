@@ -2,7 +2,7 @@
 import * as fs from 'fs/promises';
 import path from 'path';
 import { DATA_DIR } from './config';
-import { getTitleCountsArray } from './titleUtils';
+import { getTitleCountsArray } from './agencyUtils';
 
 // Fetch, log and persist the title counts (array form) to disk.
 export async function fetchTitleCounts(agency_slug: string) {
