@@ -2,7 +2,7 @@
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import path from 'path';
-import { DATA_DIR } from './config';
+import { DATA_DIR } from './../config';
 
 async function fetchAgencyCount(agency_slug: string) {
   const url = `https://www.ecfr.gov/api/search/v1/count?agency_slugs%5B%5D=${encodeURIComponent(agency_slug)}`;

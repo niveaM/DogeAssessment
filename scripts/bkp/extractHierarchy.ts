@@ -1,8 +1,8 @@
 // extractHierarchy.ts
-import { extractHierarchy } from './agencyUtils';
+import { extractHierarchy } from './../agencyUtils';
 import * as fs from 'fs/promises';
 import path from 'path';
-import { DATA_DIR } from './config';
+import { DATA_DIR } from './../config';
 
 // Get agency_slug from CLI args, default to "advisory-council-on-historic-preservation"
 const agency_slug = process.argv[2] || 'advisory-council-on-historic-preservation';
