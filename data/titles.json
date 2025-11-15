@@ -285,8 +285,11 @@
       "name": "Parks, Forests, and Public Property",
       "latest_amended_on": "2025-07-18",
       "latest_issue_date": "2025-09-17",
-      "up_to_date_as_of": "2025-09-29",
-      "reserved": false
+      "up_to_date_as_of": "2025-09-30",
+      "reserved": false,
+      "checksum": "1085ca5a65b797174edb1ec4572637cfa87170b502fb2dcb134b4a90a7eb4915",
+      "wordCount": 1086818,
+      "dateString": "2025-09-17"
     },
     {
       "number": 37,
