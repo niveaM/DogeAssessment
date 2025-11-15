@@ -1,6 +1,7 @@
 // fetchTitleChapterCounts.ts
 
 import fetch from 'node-fetch';
+import { extractHierarchy } from './agencyUtils';
 
 type HierarchyNode = {
   level: string;
@@ -25,13 +26,20 @@ interface TitleChapterCountsResult {
   chapter: string;
   titleCount: number;
   chapterCount: number;
-  raw: HierarchyResponse;
+  titleDisplayHeading: string;
+  chapterDisplayHeading: string;
+  // Raw hierarchy payload. Can be the API response or a processed
+  // hierarchy array returned by `extractHierarchy`. Use `any` here to
+  // avoid cross-module type mismatches between different HierarchyNode
+  // definitions.
+  raw: any;
 }
 
-/**
- * Fetches the hierarchy count tree for an agency and finds counts for the provided title & chapter.
- * If targetTitle is null, sums over all titles.
- */
+function combineHeading(a: string | null, b: string | null): string {
+  if (a && b && a !== b) return `${a} | ${b}`;
+  return a || b || '';
+}
+
 export async function fetchTitleAndChapterCounts(
   agencySlug: string,
   targetTitle: string | null,
@@ -45,35 +53,47 @@ export async function fetchTitleAndChapterCounts(
 
   let titleCount = 0;
   let chapterCount = 0;
+  let titleDisplayHeading = '';
+  let chapterDisplayHeading = '';
 
   if (Array.isArray(data.children)) {
-    for (const titleNode of data.children) {
-      const isMatchingTitle = targetTitle == null || titleNode.hierarchy === targetTitle;
-      if (titleNode.level === 'title' && isMatchingTitle) {
-        titleCount += titleNode.count;
-        // DFS for any matching chapter under this title
-        const stack = Array.isArray(titleNode.children)
-          ? [...titleNode.children]
-          : [];
-        while (stack.length) {
-          const node = stack.pop();
-          if (!node) continue;
-          if (node.level === 'chapter' && node.hierarchy === targetChapter) {
-            chapterCount += node.count;
-            // Don't break; want all matching chapters across all matching titles
-          }
-          if (Array.isArray(node.children)) {
-            stack.push(...node.children);
-          }
+    // Find the (first, if multiple) matching title node
+    const titleNode = data.children.find(n => n.level === 'title' && (targetTitle == null || n.hierarchy === targetTitle));
+    if (titleNode) {
+      titleCount = titleNode.count;
+      titleDisplayHeading = combineHeading(titleNode.hierarchy_heading, titleNode.heading);
+
+      // DFS for the matching chapter node within this title node only
+      let foundChapterNode: HierarchyNode | null = null;
+      const stack = Array.isArray(titleNode.children) ? [...titleNode.children] : [];
+      while (stack.length && !foundChapterNode) {
+        const node = stack.pop();
+        if (!node) continue;
+        if (node.level === 'chapter' && node.hierarchy === targetChapter) {
+          chapterCount = node.count;
+          foundChapterNode = node;
+          chapterDisplayHeading = combineHeading(node.hierarchy_heading, node.heading);
+          break;
+        }
+        if (Array.isArray(node.children)) {
+          stack.push(...node.children);
         }
       }
     }
   }
 
-  return { title: targetTitle, chapter: targetChapter, titleCount, chapterCount, raw: data };
+  return {
+    title: targetTitle,
+    chapter: targetChapter,
+    titleCount,
+    chapterCount,
+    titleDisplayHeading,
+    chapterDisplayHeading,
+    raw: await extractHierarchy(agencySlug),
+  };
 }
 
-// CLI usage -- outputs a simple JSON object with counts
+// CLI usage: outputs a simple JSON object with counts and headings
 if (require.main === module) {
   const agencySlug = process.argv[2] || 'advisory-council-on-historic-preservation';
   // Pass "" or nothing for all titles
@@ -89,8 +109,9 @@ if (require.main === module) {
       title: result.title,
       chapter: result.chapter,
       titleCount: result.titleCount,
-      chapterCount: result.chapterCount
+      chapterCount: result.chapterCount,
+      titleDisplayHeading: result.titleDisplayHeading,
+      chapterDisplayHeading: result.chapterDisplayHeading
     }, null, 2));
   }).catch(console.error);
 }
-
