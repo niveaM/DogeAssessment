@@ -6,5 +6,7 @@ export interface HierarchyNode {
   type: string;              // The deepest node's level (e.g., "subpart")
   count: number;             // Modification count
   max_score: number;         // Score if you want it
+  // Optional top-level title associated with this hierarchy path (used by ecfrSummary)
+  title?: string;
 }
 

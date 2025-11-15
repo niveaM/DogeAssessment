@@ -2,22 +2,13 @@
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import path from 'path';
-import { DATA_DIR } from './config';
+import { DATA_DIR } from './../config';
+import type { HierarchyNode } from './../model/hierarchyTypes';
 
 // --- Types ---
 interface TitleModification {
   title: string;
   modification_count: number;
-}
-
-interface HierarchyNode {
-  path: string;
-  levels: string[];
-  headings: string[];
-  type: string;
-  count: number;
-  max_score: number;
-  title: string; // extracted from top of hierarchy path
 }
 
 // --- Fetch title modification counts ---
