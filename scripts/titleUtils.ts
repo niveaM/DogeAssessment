@@ -1,7 +1,11 @@
 // titleUtils.ts
 import fetch from 'node-fetch';
+import * as fs from 'fs/promises';
+import * as path from 'path';
+import { DATA_DIR } from './config';
 import * as crypto from 'crypto';
-import type { Title } from './model/titlesTypes';
+import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
+import type { CFRReference } from './model/agencyTypes';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
 // Strip XML tags and count words
@@ -100,7 +104,7 @@ export async function fetchTitleVersionsWithSummary(titleObj: Title, agencySlug?
 
 // Helper to process one title entry and return merged object.
 // Moved here from `fetchTitles.ts` so other scripts can reuse it directly.
-export async function processTitle(titleObj: Title, agencySlug?: string): Promise<Title> {
+export async function processTitle(titleObj: Title, target?: CFRReference, agencySlug?: string): Promise<Title> {
   // start with a shallow clone so we can attach fields on error path
   let merged: Title = { ...titleObj };
 
@@ -112,6 +116,13 @@ export async function processTitle(titleObj: Title, agencySlug?: string): Promis
 
   try {
     merged = await getTitleSummary(titleObj, agencySlug);
+    // preserve CFRReference info for downstream consumers (e.g., chapter)
+    if (target?.chapter) {
+      merged.debug = {
+        ...(merged.debug || {}),
+        requestedChapter: target.chapter,
+      };
+    }
     // attach versions summary by passing the merged Title into the helper
     // (this may add `summary` or `versionsSummary` depending on implementation)
     // eslint-disable-next-line no-await-in-loop
@@ -122,6 +133,41 @@ export async function processTitle(titleObj: Title, agencySlug?: string): Promis
     merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };
     return merged;
   }
+}
+
+// Processes either a single title (by number) or all titles and writes
+// per-title JSON files into the data directory. Exported so other scripts
+// (including `fetchTitles.ts`) can reuse it.
+export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?: string) {
+  // Read titles data from the local data directory instead of fetching from ECFR.
+  const titlesFile = path.join(DATA_DIR, 'titles.json');
+  const fileContent = await fs.readFile(titlesFile, 'utf8');
+  const data: TitlesFile = JSON.parse(fileContent);
+
+  // The on-disk `titles.json` is a map keyed by title number.
+  const titlesMap: Record<string, Title> = data.titles || {};
+
+  // target is a CFRReference object — use it directly
+  const titleObj: Title | undefined = titlesMap[String(cfrReference.title)];
+  if (!titleObj) throw new Error(`Title ${cfrReference.title} not found in titles.json`);
+
+  // Ensure per-title directory exists
+  const perTitleDir = path.join(DATA_DIR, 'title');
+  // await fs.mkdir(perTitleDir, { recursive: true });
+
+    console.log(`Processing Title ${titleObj.number} (${titleObj.name})`);
+    // sequential processing to avoid hammering API
+  // eslint-disable-next-line no-await-in-loop
+  const merged = await processTitle(titleObj, cfrReference, agencySlug);
+
+    // write individual file for this title
+    const outFile = path.join(perTitleDir, `${String(merged.number)}.json`);
+    // eslint-disable-next-line no-await-in-loop
+    await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
+    console.log(`Wrote title ${merged.number} to ${outFile}`);
+
+
+  console.log(`Processed and wrote title(s) to ${perTitleDir}`);
 }
 
 

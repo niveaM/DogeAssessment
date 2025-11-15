@@ -1,6 +1,7 @@
 // fetchAgencies.ts
 import fetch from 'node-fetch';
 import { AgenciesResponse, Agency } from './model/agencyTypes';
+import { fetchAndSaveTitles } from './titleUtils';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
@@ -41,7 +42,9 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
   const agenciesMap = buildAgenciesMap(agenciesList);
 
   if (agencyShortName) {
-    processAgency(agencyShortName, agenciesMap);
+    // processAgency may perform I/O (calls fetchAndSaveTitles), so await it.
+    // eslint-disable-next-line no-await-in-loop
+    await processAgency(agencyShortName, agenciesMap);
   }
 
   // ensure data directory exists, then write the file into it
@@ -52,14 +55,30 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
 }
 
 // non-destructive helper to print agency details when a short name is provided
-function processAgency(shortName: string | undefined, map: Record<string, Agency>) {
+async function processAgency(shortName: string | undefined, map: Record<string, Agency>) {
   if (!shortName || String(shortName).trim().length === 0) return;
   const key = String(shortName).trim();
   const agency = map[key];
-  if (agency) {
-    console.log(`Agency details for '${key}':`);
-    console.log(JSON.stringify(agency, null, 2));
-  } else {
+  if (!agency) {
     console.log(`Agency with short name '${key}' not found.`);
+    return;
+  }
+
+  console.log(`Processing CFR references for agency '${key}' (slug: ${agency.slug})`);
+
+  // For each CFR reference, call fetchAndSaveTitles with title, agency slug, and chapter
+  if (Array.isArray(agency.cfr_references)) {
+    for (const ref of agency.cfr_references) {
+      try {
+        console.log(`Fetching ${JSON.stringify(ref)} for agency '${agency.slug}'`);  
+        // sequential to avoid overwhelming local processing; could be parallelized later
+        // eslint-disable-next-line no-await-in-loop
+        await fetchAndSaveTitles(ref, agency.slug);
+      } catch (err: any) {
+        console.error(`Error processing title ${ref?.title} for agency ${agency.slug}:`, err?.message || err);
+      }
+    }
+  } else {
+    console.log(`No CFR references found for agency '${key}'.`);
   }
 }

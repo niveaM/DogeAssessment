@@ -33,6 +33,8 @@ export interface Title {
     };
     // any error encountered while processing this title
     error?: string;
+    // optional CFRReference-derived info attached during processing
+    requestedChapter?: string;
   };
   versionSummary?: TitleVersionSummary;
 }
@@ -40,5 +42,12 @@ export interface Title {
 export interface TitlesResponse {
   titles: Title[];
   meta: { date: string; import_in_progress: boolean };
+}
+
+// Representation of the repository `data/titles.json` file used by scripts.
+// This file uses a map keyed by the title number (string) to the Title object.
+export interface TitlesFile {
+  titles: Record<string, Title>;
+  meta?: { date: string; import_in_progress: boolean };
 }
 
