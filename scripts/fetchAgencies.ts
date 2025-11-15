@@ -7,7 +7,13 @@ import { DATA_DIR } from './config';
 
 const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
 
-async function fetchAndSaveAgencies() {
+// Allow passing an optional agency short name as the first CLI argument.
+const shortNameArg = process.argv[2];
+fetchAndSaveAgencies(shortNameArg).catch((err) => {
+  console.error('Error fetching agencies:', err);
+});
+
+async function fetchAndSaveAgencies(agencyShortName?: string) {
   const res = await fetch(API_URL);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: AgenciesResponse = await res.json();
@@ -31,9 +37,12 @@ async function fetchAndSaveAgencies() {
     walk(list);
     return map;
   }
-
   const agenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
   const agenciesMap = buildAgenciesMap(agenciesList);
+
+  if (agencyShortName) {
+    processAgency(agencyShortName, agenciesMap);
+  }
 
   // ensure data directory exists, then write the file into it
   await fs.mkdir(DATA_DIR, { recursive: true });
@@ -42,6 +51,15 @@ async function fetchAndSaveAgencies() {
   console.log(`Fetched and saved agencies map (${Object.keys(agenciesMap).length} entries) to ${outPath}`);
 }
 
-fetchAndSaveAgencies().catch((err) => {
-  console.error('Error fetching agencies:', err);
-});
+// non-destructive helper to print agency details when a short name is provided
+function processAgency(shortName: string | undefined, map: Record<string, Agency>) {
+  if (!shortName || String(shortName).trim().length === 0) return;
+  const key = String(shortName).trim();
+  const agency = map[key];
+  if (agency) {
+    console.log(`Agency details for '${key}':`);
+    console.log(JSON.stringify(agency, null, 2));
+  } else {
+    console.log(`Agency with short name '${key}' not found.`);
+  }
+}
