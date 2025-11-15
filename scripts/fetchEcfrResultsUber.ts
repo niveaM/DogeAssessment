@@ -1,16 +1,17 @@
 // fetchEcfrResultsUber.ts
+
 import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import path from 'path';
-import { ECFRResultsUberResponse, UberHierarchy } from './model/ecfrTypesUber';
+import { ECFRResultsUberResponse, UberHierarchy, Meta } from './model/ecfrTypesUber';
 import { DATA_DIR } from './config';
 
-// Accept agency slugs as a comma-separated CLI argument. Usage:
-//   ts-node fetchEcfrResultsUber.ts advisory-council-on-historic-preservation,another-slug
-// If no argument is provided, fall back to the original slug used previously.
+// Accept agency slugs as a comma-separated CLI argument.
 const DEFAULT_SLUGS = ['advisory-council-on-historic-preservation'];
 const rawArg = process.argv[2];
-const agencySlugs = rawArg && rawArg.length > 0 ? rawArg.split(',').map(s => s.trim()).filter(Boolean) : DEFAULT_SLUGS;
+const agencySlugs = rawArg && rawArg.length > 0
+  ? rawArg.split(',').map(s => s.trim()).filter(Boolean)
+  : DEFAULT_SLUGS;
 
 function buildApiUrl(slugs: string[], per_page = 1000, page = 1) {
   const base = 'https://www.ecfr.gov/api/search/v1/results';
@@ -22,8 +23,6 @@ function buildApiUrl(slugs: string[], per_page = 1000, page = 1) {
   params.set('paginate_by', 'results');
   return `${base}?${params.toString()}`;
 }
-
-const API_URL = buildApiUrl(agencySlugs);
 
 function concatFields(...fields: (string | null | undefined)[]) {
   return Array.from(new Set(fields.filter(Boolean))).join(' | ');
@@ -49,37 +48,76 @@ function buildUberHierarchy(
 
 async function fetchResultsUber() {
   try {
-    const res = await fetch(API_URL);
-    if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-    const data = await res.json();
+    let allResultsUber: any[] = [];
+    let metaPages: Meta[] = [];
+    let page = 1;
+    let totalPages = 1;
+    let firstMeta: Meta | null = null;
 
-    const resultsUber = data.results.map((res: any) => ({
-      starts_on: res.starts_on,
-      ends_on: res.ends_on,
-      type: res.type,
-      uber_hierarchy: buildUberHierarchy(res.hierarchy, res.hierarchy_headings, res.headings),
-      full_text_excerpt: res.full_text_excerpt,
-      score: res.score,
-      structure_index: res.structure_index,
-      reserved: res.reserved,
-      removed: res.removed,
-      change_types: res.change_types,
-    }));
+    do {
+      const apiUrl = buildApiUrl(agencySlugs, 1000, page);
+      const res = await fetch(apiUrl);
+      if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+      const data = await res.json();
 
-    const final: ECFRResultsUberResponse = {
-      results: resultsUber,
-      meta: data.meta,
+      // Process the meta object for this page
+      const meta: Meta = {
+        current_page: data?.meta?.current_page,
+        total_pages: data?.meta?.total_pages,
+        total_count: data?.meta?.total_count,
+        max_score: data?.meta?.max_score,
+        description: data?.meta?.description ?? '',
+      };
+      metaPages.push(meta);
+      if (!firstMeta) firstMeta = meta;
+      totalPages = meta.total_pages;
+
+      // Map and transform results
+      const resultsUber = data.results.map((res: any) => ({
+        starts_on: res.starts_on,
+        ends_on: res.ends_on,
+        type: res.type,
+        uber_hierarchy: buildUberHierarchy(res.hierarchy, res.hierarchy_headings, res.headings),
+        full_text_excerpt: res.full_text_excerpt,
+        score: res.score,
+        structure_index: res.structure_index,
+        reserved: res.reserved,
+        removed: res.removed,
+        change_types: res.change_types,
+      }));
+
+      allResultsUber.push(...resultsUber);
+
+      // Print progress
+      console.log(`Fetched page ${page} of ${totalPages} (${resultsUber.length} records)`);
+      page += 1;
+    } while (page <= totalPages);
+
+    // Aggregate meta for export
+    let maxScore = Math.max(...metaPages.map(m => m.max_score ?? 0));
+    let description = firstMeta?.description ?? '';
+    let lastMeta = metaPages[metaPages.length - 1];
+
+    const finalMeta: Meta = {
+      current_page: lastMeta.current_page,
+      total_pages: lastMeta.total_pages,
+      total_count: allResultsUber.length,
+      max_score: maxScore,
+      description,
     };
 
-  // ensure data directory exists and write into it
-  await fs.mkdir(DATA_DIR, { recursive: true });
-  const outPath = path.join(DATA_DIR, `${agencySlugs.join('_')}_results_uber.json`);
-  await fs.writeFile(outPath, JSON.stringify(final, null, 2));
-  // Print total_count (from API meta) to stdout for quick access.
-  const totalCount = data?.meta?.total_count ?? null;
-  console.log(`Uber results written to ${outPath}`);
-  console.log(`agency_slugs: ${agencySlugs.join(',')}`);
-  console.log(`total_count: ${totalCount}`);
+    const final: ECFRResultsUberResponse = {
+      results: allResultsUber,
+      meta: finalMeta,
+    };
+
+    await fs.mkdir(DATA_DIR, { recursive: true });
+    const outPath = path.join(DATA_DIR, `${agencySlugs.join('_')}_results_uber.json`);
+    await fs.writeFile(outPath, JSON.stringify(final, null, 2));
+
+    console.log(`Uber results written to ${outPath}`);
+    console.log(`agency_slugs: ${agencySlugs.join(',')}`);
+    console.log(`total_count: ${allResultsUber.length}`);
   } catch (err) {
     console.error('Error fetching ECFR results:', err);
   }
