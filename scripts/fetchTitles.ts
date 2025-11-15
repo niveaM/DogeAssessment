@@ -11,7 +11,12 @@ const API_URL = 'https://www.ecfr.gov/api/versioner/v1/titles.json';
 // Processes either a single title (by number) or all titles. Usage:
 //   node -r ts-node/register scripts/fetchTitles.ts 36
 //   node -r ts-node/register scripts/fetchTitles.ts all
-async function fetchAndSaveTitles(target: 'all' | number = 'all') {
+// Accept an optional agency slug so callers can tag the saved title objects.
+// Usage examples:
+//   node -r ts-node/register scripts/fetchTitles.ts 36
+//   node -r ts-node/register scripts/fetchTitles.ts all
+//   node -r ts-node/register scripts/fetchTitles.ts all "my-agency-slug"
+async function fetchAndSaveTitles(target: 'all' | number = 'all', agencySlug?: string) {
   const res = await fetch(API_URL);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data = await res.json();
@@ -44,6 +49,9 @@ async function fetchAndSaveTitles(target: 'all' | number = 'all') {
       merged.checksum = summary.checksum;
       merged.wordCount = summary.wordCount;
       merged.dateString = summary.dateString; // may be same as latest_issue_date
+
+  // If an agency slug was supplied to the script, attach it to the title object
+  if (agencySlug) merged.agencySlug = agencySlug;
 
       // If the date differs from API's latest_issue_date, keep both and flag it
       if (summary.dateString !== titleObj.latest_issue_date) {
@@ -118,8 +126,10 @@ if (arg && arg.toLowerCase() !== 'all') {
   }
   target = n;
 }
+// Optional agency slug may be provided as the second CLI argument
+const agencySlugArg = process.argv[3];
 
-fetchAndSaveTitles(target).catch((err) => {
+fetchAndSaveTitles(target, agencySlugArg).catch((err) => {
   console.error('Error fetching titles:', err);
   process.exit(1);
 });
