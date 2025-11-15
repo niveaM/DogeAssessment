@@ -61,9 +61,8 @@ export async function getTitleSummary(titleObj: Title, agencySlug?: string): Pro
   return merged;
 }
 
-export async function fetchTitleVersionsWithSummary(titleObj: Title, agencySlug?: string): Promise<Title> {
-  const titleNumber = titleObj.number;
-  const url = `https://www.ecfr.gov/api/versioner/v1/versions/title-${titleNumber}.json`;
+export async function fetchTitleVersionsWithSummary(titleObj: Title, target?: CFRReference, agencySlug?: string): Promise<Title> {
+  const url = buildUrl(titleObj, target);
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: TitleVersionsResponse = await res.json();
@@ -85,7 +84,7 @@ export async function fetchTitleVersionsWithSummary(titleObj: Title, agencySlug?
   });
 
   const versionSummary: TitleVersionSummary = {
-    titleNumber,
+    titleNumber: titleObj.number,
     totalVersions,
     firstDate,
     lastDate,
@@ -116,17 +115,10 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
 
   try {
     merged = await getTitleSummary(titleObj, agencySlug);
-    // preserve CFRReference info for downstream consumers (e.g., chapter)
-    if (target?.chapter) {
-      merged.debug = {
-        ...(merged.debug || {}),
-        requestedChapter: target.chapter,
-      };
-    }
     // attach versions summary by passing the merged Title into the helper
     // (this may add `summary` or `versionsSummary` depending on implementation)
     // eslint-disable-next-line no-await-in-loop
-    merged = await fetchTitleVersionsWithSummary(merged, agencySlug);
+    merged = await fetchTitleVersionsWithSummary(merged, target, agencySlug);
     // no additional sanity-check — merged preserves the original title number
     return merged;
   } catch (err: any) {
@@ -170,4 +162,8 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
 }
 
+
+function buildUrl(titleObj: Title, target: CFRReference) {
+  return `https://www.ecfr.gov/api/versioner/v1/versions/title-${titleObj.number}.json`;
+}
 
