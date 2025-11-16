@@ -12,5 +12,20 @@ export interface HierarchyNode {
   title?: string;
   // Parsed CFR reference extracted from the path segments (if available)
   cfrReference?: CFRReference;
+  // Optional metadata map keyed by the level name (one of the values in `levels`).
+  // Each value is an object capturing the level name, the heading at that
+  // level, the raw path segment, and the parsed CFR value (if present).
+  // Because the hierarchy traversal collects leaf nodes, callers should
+  // populate `metadata` with the full parent chain for leaf nodes so
+  // consumers can reconstruct the full hierarchy context.
+  metadata?: Record<
+    string,
+    {
+      level: string;
+      heading: string;
+      path: string;
+      value?: string | number;
+    }
+  >;
 }
 

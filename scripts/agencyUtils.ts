@@ -240,10 +240,38 @@ function walkHierarchy(
     }
   }
 
+
+  // console.log("=====================================");
+  // console.log("Walking node:", parentLevels);
+  // console.log("Walking node:", parentHeadings);
+  // console.log("Walking node:", parentPath);
+  // console.log("Parsed CFR partial:", JSON.stringify(cfrPartial));
+  // console.log("=====================================");
+
+
+
   const cfrRef =
     typeof cfrPartial.title === "number"
       ? (cfrPartial as CFRReference)
       : undefined;
+
+  // Build metadata map for each parent level. Each entry contains the
+  // original level name, the heading at that level, the raw path segment,
+  // and (when available) the parsed CFR value from cfrPartial.
+  const metadataMap: Record<
+    string,
+    { level: string; heading: string; path: string; value?: string | number }
+  > = {};
+  for (let i = 0; i < parentLevels.length; i += 1) {
+    const lvl = parentLevels[i];
+    metadataMap[lvl] = {
+      level: lvl,
+      heading: parentHeadings[i] ?? "",
+      path: parentPath[i] ?? "",
+      // grab parsed cfr value (title/chapter/part/etc.) when present
+      value: (cfrPartial as any)[lvl],
+    };
+  }
 
   return [
     {
@@ -254,6 +282,7 @@ function walkHierarchy(
       count: currentNodeCount,
       max_score: node.max_score ?? 0,
       cfrReference: cfrRef,
+      metadata: metadataMap,
     },
   ];
 }

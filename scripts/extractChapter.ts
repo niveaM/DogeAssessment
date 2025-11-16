@@ -1,4 +1,7 @@
 import fetch from "node-fetch";
+import { getTitleByNumber } from "./db/titleDetailsDatabaseHelper";
+import { Title } from "./model/titlesTypes";
+import { fetchTitleAndChapterCounts } from "./fetchTitleChapterCounts";
 
 interface ECFRNode {
   identifier: string;
@@ -19,17 +22,31 @@ interface ECFRNode {
  * @param chapterTitle Expected chapter description, e.g., "Administrative Committee of the Federal Register"
  */
 export async function extractChapterChecksum(
-  titleNumber: string | number,
-  chapterId: string
+  titleNumber: number,
+  chapterId: string,
+  agencySlug: string
 ): Promise<void> {
   // Implementation intentionally removed.
   // This function previously queried the eCFR API and extracted chapter/section data.
   // Keep as a placeholder for callers; implement as needed.
+
+  const title : Title = await getTitleByNumber(titleNumber);
+
+  const x = await fetchTitleAndChapterCounts(agencySlug, String(title.number), chapterId);
+
+  console.log(JSON.stringify(x, null, 2));
 }
 
 // CLI usage example
 if (require.main === module) {
-  // npx ts-node extractChapter.ts 1 I
-  const [titleNumber, chapterId] = process.argv.slice(2);
-  extractChapterChecksum(titleNumber, chapterId).catch(console.error);
+  // npx ts-node scripts/extractChapter.ts 5 LXXXIII "special-inspector-general-for-afghanistan-reconstruction"
+  const [titleNumberArg, chapterId, agencySlug] = process.argv.slice(2);
+  const titleNumber = Number(titleNumberArg);
+  if (!titleNumberArg || !chapterId || !agencySlug) {
+    console.error(
+      'Usage: npx ts-node scripts/extractChapter.ts <titleNumber> <chapterId> <agencySlug>'
+    );
+    process.exit(1);
+  }
+  extractChapterChecksum(titleNumber, chapterId, agencySlug).catch(console.error);
 }
