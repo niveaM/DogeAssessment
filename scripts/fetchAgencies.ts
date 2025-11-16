@@ -22,13 +22,7 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: AgenciesResponse = await res.json();
 
-  // // Truncate to the first 3 top-level agencies for faster local processing
-  // const truncatedAgenciesList = agenciesList.slice(0, 3);
-  // if (truncatedAgenciesList.length !== agenciesList.length) {
-  //   console.log(`Truncating agencies list from ${agenciesList.length} to ${truncatedAgenciesList.length} entries for processing`);
-  // }
-
-  // Build a map of agencies keyed by their short_name (acronym).
+ // Build a map of agencies keyed by their short_name (acronym).
 
   const fullAgenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
   const truncatedAgenciesList = fullAgenciesList.slice(0, AGENCIES_TRUNCATE_LIMIT);
