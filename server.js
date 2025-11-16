@@ -19,8 +19,7 @@ db.defaults({ agencies: [], lastUpdated: null }).write();
 // initialize search cache container
 db.defaults({ searchCache: {} }).write();
 
-// Prevent concurrent refreshes: store a promise while a refresh is ongoing
-let REFRESH_LOCK = null;
+// (Removed REFRESH_LOCK concurrency guard - always perform refresh when needed)
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
@@ -34,20 +33,8 @@ app.get("/api/agencies", async (req, res) => {
       return res.json(agencies);
     }
 
-    // No data yet: perform one initial fetch (but avoid duplicate concurrent fetches)
-    if (!REFRESH_LOCK) {
-      REFRESH_LOCK = agenciesProcessor
-        .refreshData(db)
-        .catch((err) => {
-          // propagate error to caller below
-          throw err;
-        })
-        .finally(() => {
-          REFRESH_LOCK = null;
-        });
-    }
-
-    await REFRESH_LOCK;
+    // No data yet: perform one initial fetch
+    await agenciesProcessor.refreshData(db);
     const newAgencies = db.get("agencies").value() || [];
     return res.json(newAgencies);
   } catch (err) {
@@ -59,19 +46,13 @@ app.get("/api/agencies", async (req, res) => {
 });
 
 app.post("/api/refresh", async (req, res) => {
-  try {
-    // If a refresh is already in progress, wait for it and return its result
-    if (!REFRESH_LOCK) {
-      REFRESH_LOCK = agenciesProcessor.refreshData(db).finally(() => {
-        REFRESH_LOCK = null;
-      });
-    }
-
-    await REFRESH_LOCK;
-    const lastUpdated = db.get("lastUpdated").value();
-    const agencies = db.get("agencies").value() || [];
-    res.json({ ok: true, count: agencies.length, lastUpdated });
-  } catch (err) {
+    try {
+      // Always attempt a refresh when /api/refresh is called
+      await agenciesProcessor.refreshData(db);
+      const lastUpdated = db.get("lastUpdated").value();
+      const agencies = db.get("agencies").value() || [];
+      res.json({ ok: true, count: agencies.length, lastUpdated });
+    } catch (err) {
     console.error("refresh error", err);
     res.status(500).json({ ok: false, error: err.message });
   }

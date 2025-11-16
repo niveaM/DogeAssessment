@@ -1,7 +1,5 @@
-// agencyDatabaseHelper.ts
-import * as fs from "fs/promises";
+// titleDatabaseHelper.ts
 import * as path from "path";
-import type { Agency } from "../model/agencyTypes";
 import { Title } from "../model/titlesTypes";
 import low from "lowdb";
 import FileSync from "lowdb/adapters/FileSync";
@@ -17,56 +15,31 @@ export async function readDb(): Promise<any> {
   const adapter = new FileSync(DB_PATH);
   const db = low(adapter);
   // Ensure defaults exist
-  db.defaults({ agencies: [], titles: [] }).write();
+  db.defaults({ agencies: [], titles: [], titleDetails: [] }).write();
   return db;
 }
 
 // Exported keys for the DB collections so callers can avoid hard-coded strings.
-export const AGENCIES_KEY = 'agencies';
-export const TITLES_KEY = 'titles';
-
-export async function persistAgencies(agencies: Agency[]): Promise<void> {
-  const db = await readDb();
-  // lowdb API
-  db.set(AGENCIES_KEY, agencies).write();
-}
-
-export async function clearAgencies(): Promise<void> {
-  const db = await readDb();
-  db.set(AGENCIES_KEY, []).write();
-}
+export const TITLE_DETAILS_KEY = 'titleDetails';
 
 export function getDbPath(): string {
   return DB_PATH;
 }
 
-// Lookup helper: return an Agency by its short_name (or undefined if not found)
-export async function getAgencyByShortName(
-  shortName: string
-): Promise<Agency | undefined> {
+
+export async function writeTitleDetailsDb(title: Title): Promise<void> {
   const db = await readDb();
-  return db.get(AGENCIES_KEY).find({ short_name: shortName }).value();
+  return db.get(TITLE_DETAILS_KEY).push(title).write();
 }
 
-export async function getAgencies(): Promise<Agency[]> {
+export async function getTitleDetails(): Promise<Title[]> {
   const db = await readDb();
-  return db.get(AGENCIES_KEY).value() || [];
+  return db.get(TITLE_DETAILS_KEY).value() || [];
 }
 
-
-export async function writeTitlesDb(title: Title): Promise<void> {
+export async function persistTitleDetails(titles: Title[]): Promise<void> {
   const db = await readDb();
-  return db.get(TITLES_KEY).push(title).write();
-}
-
-export async function getTitles(): Promise<Title[]> {
-  const db = await readDb();
-  return db.get(TITLES_KEY).value() || [];
-}
-
-export async function persistTitles(titles: Title[]): Promise<void> {
-  const db = await readDb();
-  db.set(TITLES_KEY, titles).write();
+  db.set(TITLE_DETAILS_KEY, titles).write();
 }
 
 // Return a single Title by number (or undefined). Accepts number or string.
@@ -77,32 +50,32 @@ export async function getTitleByNumber(
   if (titleNumber == null) return undefined;
   const db = await readDb();
   // Use lowdb find to avoid pulling the full array into memory for mutation
-  return db.get(TITLES_KEY).find({ number: titleNumber }).value();
+  return db.get(TITLE_DETAILS_KEY).find({ number: titleNumber }).value();
 
 }
 
-export async function addOrUpdateTitle(title: Title): Promise<void> {
+export async function addOrUpdateTitleDetails(title: Title): Promise<void> {
   if (!title || title.number == null)
     throw new Error("addOrUpdateTitle requires a Title with a number");
   const db = await readDb();
-  db.get(TITLES_KEY)
+  db.get(TITLE_DETAILS_KEY)
     .find({ title: title.number })
     .assign(title)
     .write();
 }
 
-export async function addOrUpdateTitles(titles: Title[]): Promise<void> {
+export async function addOrUpdateTitleDetailsList(titles: Title[]): Promise<void> {
   if (!Array.isArray(titles)) return;
   const db = await readDb();
   // Overwrite titles array with provided list (no merging)
-  db.set(TITLES_KEY, titles).write();
+  db.set(TITLE_DETAILS_KEY, titles).write();
 }
 
-export async function clearTitles(): Promise<void> {
+export async function clearTitleDetails(): Promise<void> {
   const db = await readDb();
-  db.set(TITLES_KEY, []).write();
+  db.set(TITLE_DETAILS_KEY, []).write();
 }
 
-export function getTitlesFilePath(): string {
+export function getTitleDetailsFilePath(): string {
   return DB_PATH;
 }

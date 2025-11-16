@@ -9,7 +9,8 @@ import type { CFRReference, Agency } from './model/agencyTypes';
 import { getSearchCountForTitle } from './agencyUtils';
 import { fetchTitleAndChapterCounts } from './fetchTitleChapterCounts';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
-import { addOrUpdateTitles, clearTitles, getTitles } from './db/databaseHelper';
+import { addOrUpdateTitles, clearTitles, getTitles } from './db/titleDatabaseHelper';
+import { writeTitleDetailsDb } from './db/titleDetailsDatabaseHelper';
 
 // Aggregated search counts collected during processing.
 export const aggregatedSearchCounts: Array<{ title: number; searchCount: number; agencySlug?: string }> = [];
@@ -164,7 +165,7 @@ export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference,
 
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
 
-  merged.titleChapterCounts.raw = undefined; // remove raw data to reduce output size
+  await writeTitleDetailsDb(merged);
 
   return merged;
 }
