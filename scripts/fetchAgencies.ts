@@ -7,7 +7,7 @@ import type { Title } from './model/titlesTypes';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR, AGENCIES_TRUNCATE_LIMIT } from './config';
-import { persistAgencies, getDbPath } from './agencyDatabaseHelper';
+import { persistAgencies, getDbPath, clearAgencies } from './agencyDatabaseHelper';
 
 const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
 
@@ -35,14 +35,17 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
   if (truncatedAgenciesList.length !== fullAgenciesList.length) {
     console.log(`Truncating agencies list from ${fullAgenciesList.length} to ${truncatedAgenciesList.length} entries for processing`);
   }
-  const agenciesMap = buildAgenciesMap(truncatedAgenciesList);
+  const agenciesMap: AgenciesMap = buildAgenciesMap(truncatedAgenciesList);
 
-  // Persist truncated list into repo-level db.json (delegated to helper)
+  // Clear existing agencies in db.json first, then persist the current
+  // agencies derived from the agenciesMap (use Object.values to get an array).
   try {
-    await persistAgencies(truncatedAgenciesList);
-    console.log(`Persisted truncated agencies list to ${getDbPath()} (${truncatedAgenciesList.length} entries)`);
+    await clearAgencies();
+    const agenciesToPersist: Agency[] = Object.values(agenciesMap);
+    await persistAgencies(agenciesToPersist);
+    console.log(`Cleared and persisted agencies to ${getDbPath()} (${agenciesToPersist.length} entries)`);
   } catch (err: any) {
-    console.error('Failed to persist truncated agencies to db.json:', err?.message || err);
+    console.error('Failed to clear/persist agencies to db.json:', err?.message || err);
   }
 
 

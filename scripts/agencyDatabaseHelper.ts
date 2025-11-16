@@ -32,6 +32,12 @@ export async function persistAgencies(agencies: Agency[]): Promise<void> {
   await writeDb(db);
 }
 
+export async function clearAgencies(): Promise<void> {
+  const db = await readDb();
+  db.agencies = [];
+  await writeDb(db);
+}
+
 export function getDbPath(): string {
   return DB_PATH;
 }
