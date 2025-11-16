@@ -1,15 +1,19 @@
 // agencyUtils.ts
-import fetch from 'node-fetch';
-import type { Agency, CFRReference, AgenciesResponse } from './model/agencyTypes';
-import type { Title } from './model/titlesTypes';
-import type { HierarchyNode } from './model/hierarchyTypes';
-import { AGENCIES_TRUNCATE_LIMIT } from './config';
-import { clearAgencies, getDbPath, persistAgencies } from './db/agencyDatabaseHelper';
-import { getAgencyByShortName } from './db/agencyDatabaseHelper';
-import { fetchAndSaveTitles, loadTitlesMap } from './titleUtils';
+import fetch from "node-fetch";
+import type {
+  Agency,
+  CFRReference,
+  AgenciesResponse,
+} from "./model/agencyTypes";
+import type { Title } from "./model/titlesTypes";
+import type { HierarchyNode } from "./model/hierarchyTypes";
+import { AGENCIES_TRUNCATE_LIMIT } from "./config";
+import { clearAgencies, getDbPath, persistAgencies } from "./db/databaseHelper";
+import { getAgencyByShortName } from "./db/databaseHelper";
+import { fetchAndSaveTitles, loadTitlesMap } from "./titleUtils";
 import { getTitleByNumber } from "./db/titleDatabaseHelper";
 
-const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
+const API_URL = "https://www.ecfr.gov/api/admin/v1/agencies.json";
 
 // Shared utilities for working with agency hierarchies and maps.
 export type AgenciesMap = Record<string, Agency>;
@@ -19,19 +23,23 @@ export type AgenciesMap = Record<string, Agency>;
 // resulting agencies map. This centralizes fetch+truncate+persist logic so
 // callers can operate on the list of agency keys.
 export async function fetchAgencyList(): Promise<string[]> {
-  if (!API_URL) throw new Error('fetchAgencyList requires an apiUrl');
+  if (!API_URL) throw new Error("fetchAgencyList requires an apiUrl");
   const res = await fetch(API_URL);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: AgenciesResponse = await res.json();
 
-  const fullAgenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
+  const fullAgenciesList =
+    data && Array.isArray(data.agencies) ? data.agencies : [];
   // Use the repository-wide AGENCIES_TRUNCATE_LIMIT. A falsy or non-positive
   // value means "no truncation".
-  const truncatedAgenciesList = (AGENCIES_TRUNCATE_LIMIT > 0)
+  const truncatedAgenciesList =
+    AGENCIES_TRUNCATE_LIMIT > 0
       ? fullAgenciesList.slice(0, AGENCIES_TRUNCATE_LIMIT)
       : fullAgenciesList;
   if (truncatedAgenciesList.length !== fullAgenciesList.length) {
-    console.log(`Truncating agencies list from ${fullAgenciesList.length} to ${truncatedAgenciesList.length} entries for processing`);
+    console.log(
+      `Truncating agencies list from ${fullAgenciesList.length} to ${truncatedAgenciesList.length} entries for processing`
+    );
   }
 
   const agenciesMap: AgenciesMap = flattenAgencies(truncatedAgenciesList);
@@ -42,9 +50,16 @@ export async function fetchAgencyList(): Promise<string[]> {
     await clearAgencies();
     const agenciesToPersist: Agency[] = Object.values(agenciesMap);
     await persistAgencies(agenciesToPersist);
-    console.log(`Cleared and persisted agencies to ${getDbPath()} (${agenciesToPersist.length} entries)`);
+    console.log(
+      `Cleared and persisted agencies to ${getDbPath()} (${
+        agenciesToPersist.length
+      } entries)`
+    );
   } catch (err: any) {
-    console.error('Failed to clear/persist agencies to db.json:', err?.message || err);
+    console.error(
+      "Failed to clear/persist agencies to db.json:",
+      err?.message || err
+    );
   }
 
   // load titles from API
@@ -55,18 +70,22 @@ export async function fetchAgencyList(): Promise<string[]> {
 }
 
 // Call ECFR and return an array of { title, count } for the given agency slug.
-export async function getTitleCountsArray(agency_slug: string): Promise<Array<{ title: number; count: number }>> {
-  const url = `https://www.ecfr.gov/api/search/v1/counts/titles?agency_slugs%5B%5D=${encodeURIComponent(agency_slug)}`;
+export async function getTitleCountsArray(
+  agency_slug: string
+): Promise<Array<{ title: number; count: number }>> {
+  const url = `https://www.ecfr.gov/api/search/v1/counts/titles?agency_slugs%5B%5D=${encodeURIComponent(
+    agency_slug
+  )}`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data = await res.json();
-  if (!data.titles || typeof data.titles !== 'object') {
+  if (!data.titles || typeof data.titles !== "object") {
     return [];
   }
 
   return Object.entries(data.titles).map(([title, modificationCount]) => ({
     title: Number(title),
-    count: Number(modificationCount)
+    count: Number(modificationCount),
   }));
 }
 
@@ -77,11 +96,14 @@ export async function getTitleCountsArray(agency_slug: string): Promise<Array<{ 
 // }
 
 // Return the search (modification) count for one title for the given agency.
-export async function getSearchCountForTitle(agency: Agency, titleObj: Title): Promise<number> {
-  if (!agency || !agency.slug) throw new Error('Agency object missing slug');
+export async function getSearchCountForTitle(
+  agency: Agency,
+  titleObj: Title
+): Promise<number> {
+  if (!agency || !agency.slug) throw new Error("Agency object missing slug");
   if (!titleObj || titleObj.number == null) return 0;
   const counts = await getTitleCountsArray(agency.slug);
-  const match = counts.find(c => Number(c.title) === Number(titleObj.number));
+  const match = counts.find((c) => Number(c.title) === Number(titleObj.number));
   return match ? Number(match.count) : 0;
 }
 
@@ -89,10 +111,12 @@ export async function getSearchCountForTitle(agency: Agency, titleObj: Title): P
 // was previously implemented in `fetchAgencies.ts` — moving it here centralizes
 // agency processing logic. The function loads the agency from the DB, loads
 // the titles map, and calls `fetchAndSaveTitles` for each CFR reference.
-export async function processAgencyByShortName(shortName: string): Promise<void> {
+export async function processAgencyByShortName(
+  shortName: string
+): Promise<void> {
   if (!shortName || String(shortName).trim().length === 0) {
-     console.log(`Agency with short name '${shortName}' not valid.`);
-     return;
+    console.log(`Agency with short name '${shortName}' not valid.`);
+    return;
   }
   const key = String(shortName).trim();
   const agency = await getAgencyByShortName(key);
@@ -101,20 +125,29 @@ export async function processAgencyByShortName(shortName: string): Promise<void>
     return;
   }
 
-  console.log(`Processing CFR references for agency '${key}' (slug: ${agency.slug})`);
+  console.log(
+    `Processing CFR references for agency '${key}' (slug: ${agency.slug})`
+  );
   if (Array.isArray(agency.cfr_references)) {
     for (const ref of agency.cfr_references as CFRReference[]) {
       const title = await getTitleByNumber(ref.title);
       try {
-        console.log(`Fetching ${JSON.stringify(ref)} for agency '${agency.slug}'`);
+        console.log(
+          `Fetching ${JSON.stringify(ref)} for agency '${agency.slug}'`
+        );
         if (!title) {
-          console.warn(`Title ${String(ref.title)} not found in titles.json — skipping`);
+          console.warn(
+            `Title ${String(ref.title)} not found in titles.json — skipping`
+          );
           continue;
         }
         // eslint-disable-next-line no-await-in-loop
         await fetchAndSaveTitles(title, ref, agency);
       } catch (err: any) {
-        console.error(`Error processing title ${ref?.title} for agency ${agency.slug}:`, err?.message || err);
+        console.error(
+          `Error processing title ${ref?.title} for agency ${agency.slug}:`,
+          err?.message || err
+        );
       }
     }
   } else {
@@ -122,16 +155,18 @@ export async function processAgencyByShortName(shortName: string): Promise<void>
   }
 }
 
-
-
 // Fetch and persist hierarchy paths for an agency slug.
-export async function extractHierarchy(agency_slug: string): Promise<HierarchyNode[]> {
-  const api_url = `https://www.ecfr.gov/api/search/v1/counts/hierarchy?agency_slugs%5B%5D=${encodeURIComponent(agency_slug)}`;
+export async function extractHierarchy(
+  agency_slug: string
+): Promise<HierarchyNode[]> {
+  const api_url = `https://www.ecfr.gov/api/search/v1/counts/hierarchy?agency_slugs%5B%5D=${encodeURIComponent(
+    agency_slug
+  )}`;
   const res = await fetch(api_url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data = await res.json();
   if (!Array.isArray(data.children)) {
-    throw new Error('No hierarchy children found in response.');
+    throw new Error("No hierarchy children found in response.");
   }
 
   const output: HierarchyNode[] = data.children.flatMap((node: any) =>
@@ -149,9 +184,12 @@ function walkHierarchy(
   parentPath: string[] = []
 ): HierarchyNode[] {
   const currentLevel = node.level;
-  const currentHeading = node.heading ?? '';
-  const currentHierarchyHeading = node.hierarchy_heading ?? node.hierarchy ?? '';
-  const currentPart = currentHierarchyHeading ? `${currentHierarchyHeading}` : '';
+  const currentHeading = node.heading ?? "";
+  const currentHierarchyHeading =
+    node.hierarchy_heading ?? node.hierarchy ?? "";
+  const currentPart = currentHierarchyHeading
+    ? `${currentHierarchyHeading}`
+    : "";
   const currentNodeCount = node.count ?? 0;
 
   const newLevels = [...parentLevels, currentLevel];
@@ -198,34 +236,39 @@ function walkHierarchy(
     }
   }
 
-  const cfrRef = (typeof cfrPartial.title === 'number') ? (cfrPartial as CFRReference) : undefined;
+  const cfrRef =
+    typeof cfrPartial.title === "number"
+      ? (cfrPartial as CFRReference)
+      : undefined;
 
-  return [{
-    path: pathSegments.join(' > '),
-    levels: newLevels,
-    headings: newHeadings,
-    type: currentLevel,
-    count: currentNodeCount,
-    max_score: node.max_score ?? 0,
-    cfrReference: cfrRef,
-  }];
+  return [
+    {
+      path: pathSegments.join(" > "),
+      levels: newLevels,
+      headings: newHeadings,
+      type: currentLevel,
+      count: currentNodeCount,
+      max_score: node.max_score ?? 0,
+      cfrReference: cfrRef,
+    },
+  ];
 }
 
 // Flatten a hierarchical list of agencies into a map by short_name.
 function flattenAgencies(list: Agency[] = []): AgenciesMap {
-   const map: AgenciesMap = {};
-   function walk(items: Agency[], isChild = false) {
-     for (const a of items) {
-       a.isChild = isChild;
-       const key = a.short_name;
-       if (key && key.toString().trim().length > 0) {
-         map[key] = a;
-       }
-       if (Array.isArray(a.children) && a.children.length) {
-         walk(a.children, true);
-       }
-     }
-   }
-   walk(list, false);
-   return map;
- }
+  const map: AgenciesMap = {};
+  function walk(items: Agency[], isChild = false) {
+    for (const a of items) {
+      a.isChild = isChild;
+      const key = a.short_name;
+      if (key && key.toString().trim().length > 0) {
+        map[key] = a;
+      }
+      if (Array.isArray(a.children) && a.children.length) {
+        walk(a.children, true);
+      }
+    }
+  }
+  walk(list, false);
+  return map;
+}
