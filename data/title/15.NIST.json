@@ -1,0 +1,1548 @@
+{
+  "number": 15,
+  "name": "Commerce and Foreign Trade",
+  "latest_amended_on": "2025-09-30",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "a2e538ad62f920ac85972485e6db3207fd62fea67795b848428533b510eaa731",
+  "wordCount": 1584517,
+  "agencySlug": "national-institute-of-standards-and-technology",
+  "titleChapterCounts": {
+    "title": "15",
+    "chapter": "II",
+    "titleCount": 317,
+    "chapterCount": 317,
+    "titleDisplayHeading": "Title 15 | Commerce and Foreign Trade",
+    "chapterDisplayHeading": " Chapter II | National Institute of Standards and Technology, Department of Commerce",
+    "raw": [
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter A > Part 200",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Measurement Services",
+          "Policies, Services, Procedures, and Fees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "200"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter B > Part 230 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Standard Reference Materials",
+          "Standard Reference Materials",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "230",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter B > Part 230 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Standard Reference Materials",
+          "Standard Reference Materials",
+          "Purchase Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "230",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter B > Part 230 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Standard Reference Materials",
+          "Standard Reference Materials",
+          "Description of Services and List of Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "230",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter D > Part 240",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Standards for Barrels",
+          "Barrels and Other Containers for Lime",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "240"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter D > Part 241",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Standards for Barrels",
+          "Barrels for Fruits, Vegetables and Other Dry Commodities, and for Cranberries",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "241"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter E > Part 255",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Fellowships and Research Associates",
+          "Fellowships in Laboratory Standardization and Testing for Qualified Citizens of Other American Republics",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "E",
+          "part": "255"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter E > Part 256",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Fellowships and Research Associates",
+          "Research Associate Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "E",
+          "part": "256"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter C > Part 231 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Chips Program",
+          "Clawbacks of Chips Funding",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "231",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter C > Part 231 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Chips Program",
+          "Clawbacks of Chips Funding",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "231",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter C > Part 231 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Chips Program",
+          "Clawbacks of Chips Funding",
+          "Notification, Review, and Recovery",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "231",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter C > Part 231 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Chips Program",
+          "Clawbacks of Chips Funding",
+          "Other Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "231",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter F > Part 265 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Regulations Governing Traffic and Conduct",
+          "Regulations Governing Traffic and Conduct on the Grounds of the National Institute of Standards &amp; Technology, Gaithersburg, Maryland, and Boulder and Fort Collins, Colorado",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "F",
+          "part": "265",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter F > Part 265 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Regulations Governing Traffic and Conduct",
+          "Regulations Governing Traffic and Conduct on the Grounds of the National Institute of Standards &amp; Technology, Gaithersburg, Maryland, and Boulder and Fort Collins, Colorado",
+          "Traffic and Vehicular Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "F",
+          "part": "265",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter F > Part 265 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Regulations Governing Traffic and Conduct",
+          "Regulations Governing Traffic and Conduct on the Grounds of the National Institute of Standards &amp; Technology, Gaithersburg, Maryland, and Boulder and Fort Collins, Colorado",
+          "Buildings and Grounds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "F",
+          "part": "265",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter F > Part 265 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Regulations Governing Traffic and Conduct",
+          "Regulations Governing Traffic and Conduct on the Grounds of the National Institute of Standards &amp; Technology, Gaithersburg, Maryland, and Boulder and Fort Collins, Colorado",
+          "Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "F",
+          "part": "265",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Establishment and Deployment of Teams",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Investigations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Collection and Preservation of Evidence; Information Created Pursuant to an Investigation; and Protection of Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart D > Collection of Evidence",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Collection and Preservation of Evidence; Information Created Pursuant to an Investigation; and Protection of Information",
+          "Collection of Evidence"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart D > Entry and Inspection",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Collection and Preservation of Evidence; Information Created Pursuant to an Investigation; and Protection of Information",
+          "Entry and Inspection"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart D > Preservation of Evidence",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Collection and Preservation of Evidence; Information Created Pursuant to an Investigation; and Protection of Information",
+          "Preservation of Evidence"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart D > Information Created Pursuant to an Investigation",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Collection and Preservation of Evidence; Information Created Pursuant to an Investigation; and Protection of Information",
+          "Information Created Pursuant to an Investigation"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter G > Part 270 > Subpart D > Protection of Information",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "National Construction Safety Teams",
+          "National Construction Safety Teams",
+          "Collection and Preservation of Evidence; Information Created Pursuant to an Investigation; and Protection of Information",
+          "Protection of Information"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "G",
+          "part": "270",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter H > Part 272",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Making of Toy, Look-Alike, and Imitation Firearms",
+          "Marking of Toy, Look-Alike and Imitation Firearms",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "H",
+          "part": "272"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter I > Part 273",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Metric Conversion Policy for Federal Agencies",
+          "Metric Conversion Policy for Federal Agencies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "I",
+          "part": "273"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 280 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "Fastener Quality",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "280",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 280 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "Fastener Quality",
+          "Petitions, Affirmations, and Laboratory Accreditation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "280",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 280 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "Fastener Quality",
+          "Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "280",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 280 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "Fastener Quality",
+          "Recordal of Insignia",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "280",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 280 > Subpart D > The Written Application",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "Fastener Quality",
+          "Recordal of Insignia",
+          "The Written Application"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "280",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 280 > Subpart D > Post-Recordal Maintenance",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "Fastener Quality",
+          "Recordal of Insignia",
+          "Post-Recordal Maintenance"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "280",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 285",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "National Voluntary Laboratory Accreditation Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "285"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 287",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "Guidance on Federal Conformity Assessment",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "287"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter J > Part 286",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "Accreditation and Assessment Programs",
+          "National Voluntary Conformity Assessment System Evaluation (NVCASE) Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "J",
+          "part": "286"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 290",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Regional Centers for the Transfer of Manufacturing Technology",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "290"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 292",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Manufacturing Extension Partnership; Infrastructure Development Projects",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "292"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 295 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Advanced Technology Program",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "295",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 295 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Advanced Technology Program",
+          "Assistance to United States Industry-Led Joint Research and Development Ventures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "295",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 295 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Advanced Technology Program",
+          "Assistance to Single-Proposer U.S. Businesses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "295",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 291",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Manufacturing Extension Partnership; Environmental Projects",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "291"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 296 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Technology Innovation Program",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "296",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 296 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Technology Innovation Program",
+          "The Competition Process",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "296",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter II > Subchapter K > Part 296 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "NIST Extramural Programs",
+          "Technology Innovation Program",
+          "Dissemination of Program Results",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "K",
+          "part": "296",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 37 >  Chapter IV > Part 401",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Patents, Trademarks, and Copyrights",
+          "",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "",
+          "Rights to Inventions Made by Nonprofit Organizations and Small Business Firms Under Government Grants, Contracts, and Cooperative Agreements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 79,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 37,
+          "chapter": "IV",
+          "part": "401"
+        }
+      },
+      {
+        "path": "Title 37 >  Chapter IV > Part 501",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Patents, Trademarks, and Copyrights",
+          "",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "",
+          "Uniform Patent Policy for Rights in Inventions Made by Government Employees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 37,
+          "chapter": "IV",
+          "part": "501"
+        }
+      },
+      {
+        "path": "Title 37 >  Chapter IV > Part 404",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Patents, Trademarks, and Copyrights",
+          "",
+          "National Institute of Standards and Technology, Department of Commerce",
+          "",
+          "Licensing of Government-Owned Inventions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 37,
+          "chapter": "IV",
+          "part": "404"
+        }
+      }
+    ]
+  },
+  "searchCount": 317,
+  "versionSummary": {
+    "titleNumber": 15,
+    "totalVersions": 5939,
+    "firstDate": "2016-12-28",
+    "lastDate": "2025-09-30",
+    "uniqueParts": 160,
+    "uniqueSubparts": 26,
+    "typeCounts": {
+      "section": 4837,
+      "appendix": 1102
+    }
+  }
+}

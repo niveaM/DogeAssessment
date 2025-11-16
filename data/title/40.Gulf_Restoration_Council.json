@@ -1,0 +1,214 @@
+{
+  "number": 40,
+  "name": "Protection of Environment",
+  "latest_amended_on": "2025-09-29",
+  "latest_issue_date": "2025-09-29",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "5058c90db6825a6fc249f6eeff5d7afbb7ffef3ada6e0bc8a024ecbcd718361e",
+  "wordCount": 16834462,
+  "agencySlug": "gulf-coast-ecosystem-restoration-council",
+  "titleChapterCounts": {
+    "title": "40",
+    "chapter": "VIII",
+    "titleCount": 40,
+    "chapterCount": 40,
+    "titleDisplayHeading": "Title 40 | Protection of Environment",
+    "chapterDisplayHeading": " Chapter VIII | Gulf Coast Ecosystem Restoration Council",
+    "raw": [
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LIX > Part 5900",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Gulf Coast Ecosystem Restoration Council",
+          "",
+          "Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LIX",
+          "part": "5900"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter VIII > Part 1800 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Gulf Coast Ecosystem Restoration Council",
+          "",
+          "Spill Impact Component",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "VIII",
+          "part": "1800",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter VIII > Part 1800 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Gulf Coast Ecosystem Restoration Council",
+          "",
+          "Spill Impact Component",
+          "Minimum Allocation Available for Planning Purposes",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "VIII",
+          "part": "1800",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter VIII > Part 1800 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Gulf Coast Ecosystem Restoration Council",
+          "",
+          "Spill Impact Component",
+          "Spill Impact Formula",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "VIII",
+          "part": "1800",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter VIII > Part 1850 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Gulf Coast Ecosystem Restoration Council",
+          "",
+          "Availability of Records",
+          "Production or Disclosure Under the Freedom of Information Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "VIII",
+          "part": "1850",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter VIII > Part 1850 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Gulf Coast Ecosystem Restoration Council",
+          "",
+          "Availability of Records",
+          "Production or Disclosure Under the Privacy Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "VIII",
+          "part": "1850",
+          "subpart": "B"
+        }
+      }
+    ]
+  },
+  "searchCount": 40,
+  "versionSummary": {
+    "titleNumber": 40,
+    "totalVersions": 58179,
+    "firstDate": "2016-01-04",
+    "lastDate": "2025-09-29",
+    "uniqueParts": 365,
+    "uniqueSubparts": 224,
+    "typeCounts": {
+      "section": 52686,
+      "appendix": 5493
+    }
+  }
+}

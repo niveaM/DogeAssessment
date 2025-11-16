@@ -1,0 +1,94 @@
+{
+  "number": 7,
+  "name": "Agriculture",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "de40c026f715ea66d869c53b1d0b5ae8a404aca9312ab8f256cab5009594e516",
+  "wordCount": 5633788,
+  "agencySlug": "national-agricultural-statistics-service",
+  "titleChapterCounts": {
+    "title": "7",
+    "chapter": "XXXVI",
+    "titleCount": 12,
+    "chapterCount": 12,
+    "titleDisplayHeading": "Title 7 | Agriculture",
+    "chapterDisplayHeading": " Chapter XXXVI | National Agricultural Statistics Service, Department of Agriculture",
+    "raw": [
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXVI > Part 3600",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "National Agricultural Statistics Service, Department of Agriculture",
+          "",
+          "Organization and Functions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXVI",
+          "part": "3600"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXVI > Part 3601",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "National Agricultural Statistics Service, Department of Agriculture",
+          "",
+          "Public Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXVI",
+          "part": "3601"
+        }
+      }
+    ]
+  },
+  "searchCount": 12,
+  "versionSummary": {
+    "titleNumber": 7,
+    "totalVersions": 31108,
+    "firstDate": "2016-05-04",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 480,
+    "uniqueSubparts": 313,
+    "typeCounts": {
+      "section": 30688,
+      "appendix": 420
+    }
+  }
+}

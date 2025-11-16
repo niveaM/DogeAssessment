@@ -20,25 +20,33 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: AgenciesResponse = await res.json();
 
+  // // Truncate to the first 3 top-level agencies for faster local processing
+  // const truncatedAgenciesList = agenciesList.slice(0, 3);
+  // if (truncatedAgenciesList.length !== agenciesList.length) {
+  //   console.log(`Truncating agencies list from ${agenciesList.length} to ${truncatedAgenciesList.length} entries for processing`);
+  // }
+
   // Build a map of agencies keyed by their short_name (acronym).
   type AgenciesMap = Record<string, Agency>;
 
   function buildAgenciesMap(list: Agency[] = []): AgenciesMap {
     const map: AgenciesMap = {};
-    function walk(items: Agency[]) {
+    function walk(items: Agency[], isChild = false) {
       for (const a of items) {
+        a.isChild = isChild;
         const key = a.short_name;
         if (key && key.toString().trim().length > 0) {
           map[key] = a;
         }
         if (Array.isArray(a.children) && a.children.length) {
-          walk(a.children);
+          walk(a.children, true);
         }
       }
     }
-    walk(list);
+    walk(list, false);
     return map;
   }
+
   const agenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
   const agenciesMap = buildAgenciesMap(agenciesList);
 
@@ -100,7 +108,8 @@ async function processAgency(shortName: string | undefined, map: Record<string, 
         }
         // sequential to avoid overwhelming local processing; could be parallelized later
         // eslint-disable-next-line no-await-in-loop
-        ref.titleData = await fetchAndSaveTitles(titleObj, ref, agency);
+        const titleData = await fetchAndSaveTitles(titleObj, ref, agency);
+        // do nothing with titleData for now; could aggregate stats if desired
       } catch (err: any) {
         console.error(`Error processing title ${ref?.title} for agency ${agency.slug}:`, err?.message || err);
       }
@@ -108,4 +117,7 @@ async function processAgency(shortName: string | undefined, map: Record<string, 
   } else {
     console.log(`No CFR references found for agency '${key}'.`);
   }
+
+
+  
 }

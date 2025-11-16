@@ -1,0 +1,5344 @@
+{
+  "number": 50,
+  "name": "Wildlife and Fisheries",
+  "latest_amended_on": "2025-09-23",
+  "latest_issue_date": "2025-09-23",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "1a4b89da5d0d26384e7a7738f5b519a4f3d03e6ca2b96e370eebc39d4083622e",
+  "wordCount": 3621864,
+  "agencySlug": "national-oceanic-and-atmospheric-administration",
+  "titleChapterCounts": {
+    "title": "50",
+    "chapter": "IV",
+    "titleCount": 587,
+    "chapterCount": 158,
+    "titleDisplayHeading": "Title 50 | Wildlife and Fisheries",
+    "chapterDisplayHeading": " Chapter IV | Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+    "raw": [
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 902",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "NOAA Information Collection Requirements Under the Paperwork Reduction Act: OMB Control Numbers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 37,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "902"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 903",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Public Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "903"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Civil Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart C > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Hearing and Appeal Procedures",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 33,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart C > Discovery",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Hearing and Appeal Procedures",
+          "Discovery"
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart C > Hearings",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Hearing and Appeal Procedures",
+          "Hearings"
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart C > Post-Hearing",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Hearing and Appeal Procedures",
+          "Post-Hearing"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart C > Decision",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Hearing and Appeal Procedures",
+          "Decision"
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart D > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Permit Sanctions and Denials",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart D > Permit Sanctions for Noncompliance",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Permit Sanctions and Denials",
+          "Permit Sanctions for Noncompliance"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart D > Permit Sanction for Violations",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Permit Sanctions and Denials",
+          "Permit Sanction for Violations"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Written Warnings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 904 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Civil Procedures",
+          "Seizure and Forfeiture Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "904",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 905",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Use in Enforcement Proceedings of Information Collected by Voluntary Fishery Data Collectors",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "905"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 906",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "National Appeals Office Rules of Procedure",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "906"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 908",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Maintaining Records and Submitting Reports on Weather Modification Activities",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "908"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 909",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Marine Debris",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "909"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 911",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Policies and Procedures Concerning Use of the NOAA Space-Based Data Collection Systems",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "911"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 917 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "National Sea Grant Program Funding Regulations",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "917",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 917 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "National Sea Grant Program Funding Regulations",
+          "Sea Grant Matched Funding Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "917",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 917 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "National Sea Grant Program Funding Regulations",
+          "National Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "917",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 917 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "National Sea Grant Program Funding Regulations",
+          "International Cooperation Assistance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "917",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 917 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "National Sea Grant Program Funding Regulations",
+          "General Considerations Pertaining to Sea Grant Funding",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "917",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter A > Part 918",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations",
+          "Sea Grants",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "A",
+          "part": "918"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "Site Selection, Post Site Selection and Management Plan Development",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "Acquisition, Development and Preparation of the Final Management Plan",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "Reserve Designation and Subsequent Operation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "Ongoing Oversight, Performance Evaluation and Withdrawal of Designation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "Special Research Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "Special Monitoring Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "Special Interpretation and Education Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "General Financial Assistance Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 921",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Estuarine Research Reserve System Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "921"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Regulations of General Applicability",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 41,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Sanctuary Nomination Process",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Designation of National Marine Sanctuaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Management Plan Development and Implementation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Monitor National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Regulations of General Applicability",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 40,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Channel Islands National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 32,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Greater Farallones National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 45,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Gray's Reef National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 31,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "National Marine Sanctuary of American Samoa",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Cordell Bank National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 35,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Monterey Bay National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 46,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Flower Garden Banks National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 52,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Stellwagen Bank National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 36,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Olympic Coast National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 37,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Florida Keys National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 46,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart Q",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Hawaiian Islands Humpback Whale National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "Q"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart R",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Thunder Bay National Marine Sanctuary and Underwater Preserve",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 40,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "R"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart S",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Mallows Bay—Potomac River National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "S"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart T",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Wisconsin Shipwreck Coast National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "T"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart U",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Lake Ontario National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "U"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart V",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Chumash Heritage National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "V"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 922 > Subpart W",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "National Marine Sanctuary Program Regulations",
+          "Papahānaumokuākea National Marine Sanctuary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "922",
+          "subpart": "W"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Uses Subject to Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Special Management Areas",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Boundaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Authorities and Organization",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Coordination, Public Involvement and National Interest",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Review/Approval Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Amendments to and Termination of Approved Management Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Applications for Program Development or Implementation Grants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Allocation of Section 306 Program Administration Grants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Coastal Zone Enhancement Grants Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "Review of Performance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 923 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Coastal Zone Management Program Regulations",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "923",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "Consistency for Federal Agency Activities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "Consistency for Activities Requiring a Federal License or Permit",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "General Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "Consistency for Outer Continental Shelf (OCS) Exploration, Development and Production Activities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "Consistency for Federal Assistance to State and Local Governments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "Secretarial Mediation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "Appeal to the Secretary for Review Related to the Objectives of the Act and National Security Interests",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter B > Part 930 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Ocean and Coastal Resource Management",
+          "Federal Consistency with Approved Coastal Management Programs",
+          "Consistency of Federal Activities Having Interstate Coastal Effects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "B",
+          "part": "930",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter C > Part 946",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Regulations of the National Weather Service",
+          "Modernization of the National Weather Service",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "C",
+          "part": "946"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 950",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Environmental Data and Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "950"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 960 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Licensing of Private Remote Sensing Systems",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "960",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 960 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Licensing of Private Remote Sensing Systems",
+          "Licenses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "960",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 960 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Licensing of Private Remote Sensing Systems",
+          "Enforcement Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "960",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 960",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Licensing of Private Remote Sensing Systems",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "960"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 960 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Licensing of Private Remote Sensing Systems",
+          "Application Review and License Conditions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "960",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 960 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Licensing of Private Remote Sensing Systems",
+          "Appeals Regarding Licensing Decisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "960",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Applications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart B > Contents",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Applications",
+          "Contents"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart B > Procedures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Applications",
+          "Procedures"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Procedures for Applications Based on Exploration Commenced Before June 28, 1980; Resolution of Conflicts Among Overlapping Applications; Applications by New Entrants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Certification of Applications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Issuance/Transfer/Terms, Conditions and Restrictions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart E > Issuance/Transfer; Modification/Revision; Suspension/Revocation",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Issuance/Transfer/Terms, Conditions and Restrictions",
+          "Issuance/Transfer; Modification/Revision; Suspension/Revocation"
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart E > Terms, Conditions, and Restrictions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Issuance/Transfer/Terms, Conditions and Restrictions",
+          "Terms, Conditions, and Restrictions"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Resource Development Concepts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Environmental Effects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Safety of Life and Property at Sea",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart X",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Pre-enactment Exploration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "X"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart Y",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Pre-license Exploration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "Y"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 970 > Subpart Z",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Exploration Licenses",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "970",
+          "subpart": "Z"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart B > Contents",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Applications",
+          "Contents"
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart B > Procedures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Applications",
+          "Procedures"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Applications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Certification of Applications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Issuance/Transfer: Terms, Conditions and Restrictions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart D > Issuance/Transfer, Modification/Revision; Suspension/Revocation",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Issuance/Transfer: Terms, Conditions and Restrictions",
+          "Issuance/Transfer, Modification/Revision; Suspension/Revocation"
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart D > Terms, Conditions and Restrictions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Issuance/Transfer: Terms, Conditions and Restrictions",
+          "Terms, Conditions and Restrictions"
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Resource Development",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Environmental Effects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Safety of Life and Property at Sea",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Uniform Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter D > Part 971 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "General Regulations of the Environmental Data Service",
+          "Deep Seabed Mining Regulations for Commercial Recovery Permits",
+          "Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "D",
+          "part": "971",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter E > Part 990 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Oil Pollution Act Regulations",
+          "Natural Resource Damage Assessments",
+          "Authorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "E",
+          "part": "990",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter E > Part 990 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Oil Pollution Act Regulations",
+          "Natural Resource Damage Assessments",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "E",
+          "part": "990",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter E > Part 990 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Oil Pollution Act Regulations",
+          "Natural Resource Damage Assessments",
+          "Preassessment Phase",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "E",
+          "part": "990",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter E > Part 990 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Oil Pollution Act Regulations",
+          "Natural Resource Damage Assessments",
+          "Restoration Planning Phase",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "E",
+          "part": "990",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter E > Part 990 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Oil Pollution Act Regulations",
+          "Natural Resource Damage Assessments",
+          "Restoration Implementation Phase",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "E",
+          "part": "990",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter E > Part 990 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Oil Pollution Act Regulations",
+          "Natural Resource Damage Assessments",
+          "Introduction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "E",
+          "part": "990",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter G > Part 997 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Requirements for Certification by NOAA of Non-Federal Assets into the Integrated Coastal and Ocean Observation System",
+          "Regional Information Coordination Entities",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "G",
+          "part": "997",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter G > Part 997 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Requirements for Certification by NOAA of Non-Federal Assets into the Integrated Coastal and Ocean Observation System",
+          "Regional Information Coordination Entities",
+          "Certification and Decertification Process for a Regional Information Coordination Entity (RICE)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "G",
+          "part": "997",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter G > Part 997 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Requirements for Certification by NOAA of Non-Federal Assets into the Integrated Coastal and Ocean Observation System",
+          "Regional Information Coordination Entities",
+          "Certification and Application Requirements for an RCOS",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "G",
+          "part": "997",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter G > Part 998 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Requirements for Certification by NOAA of Non-Federal Assets into the Integrated Coastal and Ocean Observation System",
+          "National Oceanic and Atmospheric Administration Commissioned Officer Corps",
+          "Administrative",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "G",
+          "part": "998",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter G > Part 998 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Requirements for Certification by NOAA of Non-Federal Assets into the Integrated Coastal and Ocean Observation System",
+          "National Oceanic and Atmospheric Administration Commissioned Officer Corps",
+          "Appointment of Officer Candidates of the Commissioned Officer Corps of the National Oceanic and Atmospheric Administration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "G",
+          "part": "998",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter G > Part 998 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Requirements for Certification by NOAA of Non-Federal Assets into the Integrated Coastal and Ocean Observation System",
+          "National Oceanic and Atmospheric Administration Commissioned Officer Corps",
+          "Active Duty Service Obligations of NOAA Corps Officers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "G",
+          "part": "998",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter G > Part 998 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Requirements for Certification by NOAA of Non-Federal Assets into the Integrated Coastal and Ocean Observation System",
+          "National Oceanic and Atmospheric Administration Commissioned Officer Corps",
+          "National Oceanic and Atmospheric Administration Commissioned Officer Corps Whistleblower Protections",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "G",
+          "part": "998",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter F > Part 996 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "F",
+          "part": "996",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter F > Part 996 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "The Quality Assurance Program for Hydrographic Products",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "F",
+          "part": "996",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter F > Part 996 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Certification of a Hydrographic Product and Decertification.",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "F",
+          "part": "996",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter F > Part 996 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Other Quality Assurance Program Matters",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "F",
+          "part": "996",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter F > Part 995 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Certification Requirements for Distributors of NOAA Hydrographic Products",
+          "Certification and Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "F",
+          "part": "995",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter F > Part 995 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Certification Requirements for Distributors of NOAA Hydrographic Products",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "F",
+          "part": "995",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter F > Part 995 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Quality Assurance and Certification Requirements for NOAA Hydrographic Products and Services",
+          "Certification Requirements for Distributors of NOAA Hydrographic Products",
+          "Requirements for Certified Distributors and Value Added Distributors of NOAA ENC Products",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "F",
+          "part": "995",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter IX > Subchapter H > Part 998 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Oceanic and Atmospheric Administration, Department of Commerce",
+          "Regulations of NOAA Marine and Aviation",
+          "Marine and Aviation Operations",
+          "Shore Leave",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "IX",
+          "subchapter": "H",
+          "part": "998",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "South Pacific Tuna Fisheries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Eastern Pacific Tuna Fisheries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 131,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Pacific Halibut Fisheries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 61,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Fraser River Sockeye and Pink Salmon Fisheries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Antarctic Marine Living Resources",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 56,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Vessels of the United States Fishing in Colombian Treaty Waters",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "United States-Canada Fisheries Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "U.S. Nationals Fishing in Russian Fisheries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Transportation and Labeling of Fish or Wildlife",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Pacific Albacore Tuna Fisheries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "International Trade Documentation and Tracking Programs for Highly Migratory Species",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Identification and Certification of Nations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Vessels on IUU Vessel Lists",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "Western and Central Pacific Fisheries for Highly Migratory Species",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 66,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart Q",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "International Trade Documentation and Tracking Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "Q"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter III > Part 300 > Subpart R",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "International Fishing and Related Activities",
+          "",
+          "International Fisheries Regulations",
+          "High Seas Fisheries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "III",
+          "part": "300",
+          "subpart": "R"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 401",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Anadromous Fisheries Conservation, Development and Enhancement",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "401"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 402 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Interagency Cooperation - Endangered Species Act of 1973, as Amended",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "402",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 402 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Interagency Cooperation - Endangered Species Act of 1973, as Amended",
+          "Consultation Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "402",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 402 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Interagency Cooperation - Endangered Species Act of 1973, as Amended",
+          "Counterpart Regulations for Implementing the National Fire Plan",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "402",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 402 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Interagency Cooperation - Endangered Species Act of 1973, as Amended",
+          "Counterpart Regulations Governing Actions by the U.S. Environmental Protection Agency Under the Federal Insecticide, Fungicide and Rodenticide Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "402",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 403",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Transfer of Marine Mammal Management Authority to States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "403"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 404",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Papahānaumokuākea Marine National Monument",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "404"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 424 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Listing Endangered and Threatened Species and Designating Critical Habitat",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "424",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter A > Part 424 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Subchapter A",
+          "Listing Endangered and Threatened Species and Designating Critical Habitat",
+          "Revision of the Lists",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "424",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter C > Part 450",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Endangered Species Exemption Process",
+          "General Provisions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "450"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter C > Part 451",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Endangered Species Exemption Process",
+          "Application Procedure",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "451"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter C > Part 452",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Endangered Species Exemption Process",
+          "Consideration of Application by the Secretary",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "452"
+        }
+      },
+      {
+        "path": "Title 50 >  Chapter IV > Subchapter C > Part 453",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Wildlife and Fisheries",
+          "",
+          "Joint Regulations (United States Fish and Wildlife Service, Department of the Interior and National Marine Fisheries Service, National Oceanic and Atmospheric Administration, Department of Commerce); Endangered Species Committee Regulations",
+          "Endangered Species Exemption Process",
+          "Endangered Species Committee",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 50,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "453"
+        }
+      }
+    ]
+  },
+  "searchCount": 595,
+  "versionSummary": {
+    "titleNumber": 50,
+    "totalVersions": 11210,
+    "firstDate": "2016-04-29",
+    "lastDate": "2025-09-23",
+    "uniqueParts": 88,
+    "uniqueSubparts": 33,
+    "typeCounts": {
+      "section": 10320,
+      "appendix": 890
+    }
+  }
+}

@@ -215,6 +215,9 @@ export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference,
 
 
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
+
+  merged.titleChapterCounts.raw = undefined; // remove raw data to reduce output size
+
   return merged;
 }
 

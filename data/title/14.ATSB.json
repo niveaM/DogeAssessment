@@ -1,0 +1,126 @@
+{
+  "number": 14,
+  "name": "Aeronautics and Space",
+  "latest_amended_on": "2025-09-15",
+  "latest_issue_date": "2025-09-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "dc91986c39891bd84b84c1af584f5ae473a2be823166ca17d3ea317a19a36559",
+  "wordCount": 2187317,
+  "agencySlug": "air-transportation-stabilization-board",
+  "titleChapterCounts": {
+    "title": "14",
+    "chapter": "VI",
+    "titleCount": 30,
+    "chapterCount": 30,
+    "titleDisplayHeading": "Title 14 | Aeronautics and Space",
+    "chapterDisplayHeading": " Chapter VI | Air Transportation System Stabilization",
+    "raw": [
+      {
+        "path": "Title 14 >  Chapter VI > Subchapter A > Part 1300 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Aeronautics and Space",
+          "",
+          "Air Transportation System Stabilization",
+          "Office of Management and Budget",
+          "Aviation Disaster Relief—Air Carrier Guarantee Loan Program",
+          "Minimum Requirements and Application Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 14,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "1300",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 14 >  Chapter VI > Subchapter A > Part 1300 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Aeronautics and Space",
+          "",
+          "Air Transportation System Stabilization",
+          "Office of Management and Budget",
+          "Aviation Disaster Relief—Air Carrier Guarantee Loan Program",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 14,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "1300",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 14 >  Chapter VI > Subchapter B > Part 1310",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Aeronautics and Space",
+          "",
+          "Air Transportation System Stabilization",
+          "Air Transportation Stabilization Board",
+          "Air Carrier Guarantee Loan Program Administrative Regulations and Amendment or Waiver of a Term or Condition of Guaranteed Loan",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 14,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "1310"
+        }
+      }
+    ]
+  },
+  "searchCount": 30,
+  "versionSummary": {
+    "titleNumber": 14,
+    "totalVersions": 14932,
+    "firstDate": "2016-08-01",
+    "lastDate": "2025-09-15",
+    "uniqueParts": 206,
+    "uniqueSubparts": 82,
+    "typeCounts": {
+      "section": 14114,
+      "appendix": 818
+    }
+  }
+}

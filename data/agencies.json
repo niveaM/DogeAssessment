@@ -9,131 +9,10 @@
     "cfr_references": [
       {
         "title": 1,
-        "chapter": "III",
-        "titleData": {
-          "number": 1,
-          "name": "General Provisions",
-          "latest_amended_on": "2022-12-29",
-          "latest_issue_date": "2024-05-17",
-          "up_to_date_as_of": "2025-09-30",
-          "reserved": false,
-          "checksum": "924d9dedf98f9c9f6e623ca4fd2656a9b7b3c4a6531b90dae2eabfb6a52f38d2",
-          "wordCount": 68018,
-          "agencySlug": "administrative-conference-of-the-united-states",
-          "titleChapterCounts": {
-            "title": "1",
-            "chapter": "III",
-            "titleCount": 47,
-            "chapterCount": 47,
-            "titleDisplayHeading": "Title 1 | General Provisions",
-            "chapterDisplayHeading": " Chapter III | Administrative Conference of the United States",
-            "raw": [
-              {
-                "path": "Title 1 >  Chapter III > Part 301",
-                "levels": [
-                  "title",
-                  "subtitle",
-                  "chapter",
-                  "subchapter",
-                  "part",
-                  "subpart",
-                  "subject_group"
-                ],
-                "headings": [
-                  "General Provisions",
-                  "",
-                  "Administrative Conference of the United States",
-                  "",
-                  "Organization and Purpose",
-                  "",
-                  ""
-                ],
-                "type": "subject_group",
-                "count": 5,
-                "max_score": 2.0245311,
-                "cfrReference": {
-                  "title": 1,
-                  "chapter": "III",
-                  "part": "301"
-                }
-              },
-              {
-                "path": "Title 1 >  Chapter III > Part 304 > Subpart A",
-                "levels": [
-                  "title",
-                  "subtitle",
-                  "chapter",
-                  "subchapter",
-                  "part",
-                  "subpart",
-                  "subject_group"
-                ],
-                "headings": [
-                  "General Provisions",
-                  "",
-                  "Administrative Conference of the United States",
-                  "",
-                  "Disclosure of Records or Information",
-                  "Procedures for Disclosure of Records Under the Freedom of Information Act",
-                  ""
-                ],
-                "type": "subject_group",
-                "count": 27,
-                "max_score": 2.0245311,
-                "cfrReference": {
-                  "title": 1,
-                  "chapter": "III",
-                  "part": "304",
-                  "subpart": "A"
-                }
-              },
-              {
-                "path": "Title 1 >  Chapter III > Part 304 > Subpart B",
-                "levels": [
-                  "title",
-                  "subtitle",
-                  "chapter",
-                  "subchapter",
-                  "part",
-                  "subpart",
-                  "subject_group"
-                ],
-                "headings": [
-                  "General Provisions",
-                  "",
-                  "Administrative Conference of the United States",
-                  "",
-                  "Disclosure of Records or Information",
-                  "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
-                  ""
-                ],
-                "type": "subject_group",
-                "count": 15,
-                "max_score": 2.0245311,
-                "cfrReference": {
-                  "title": 1,
-                  "chapter": "III",
-                  "part": "304",
-                  "subpart": "B"
-                }
-              }
-            ]
-          },
-          "searchCount": 47,
-          "versionSummary": {
-            "titleNumber": 1,
-            "totalVersions": 421,
-            "firstDate": "2015-12-18",
-            "lastDate": "2022-12-29",
-            "uniqueParts": 30,
-            "uniqueSubparts": 7,
-            "typeCounts": {
-              "section": 421
-            }
-          }
-        }
+        "chapter": "III"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ACHP": {
     "name": "Advisory Council on Historic Preservation",
@@ -147,7 +26,8 @@
         "title": 36,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "SIGAR": {
     "name": "Special Inspector General for Afghanistan Reconstruction",
@@ -161,7 +41,8 @@
         "title": 5,
         "chapter": "LXXXIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "USADF": {
     "name": "African Development Foundation",
@@ -179,7 +60,8 @@
         "title": 48,
         "chapter": "57"
       }
-    ]
+    ],
+    "isChild": false
   },
   "USAGM": {
     "name": "United States Agency for Global Media",
@@ -197,7 +79,8 @@
         "title": 48,
         "chapter": "19"
       }
-    ]
+    ],
+    "isChild": false
   },
   "USDA": {
     "name": "Department of Agriculture",
@@ -237,7 +120,8 @@
             "title": 9,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Agricultural Research Service",
@@ -250,7 +134,8 @@
             "title": 7,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Animal and Plant Health Inspection Service",
@@ -267,7 +152,8 @@
             "title": 9,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Commodity Credit Corporation",
@@ -280,7 +166,8 @@
             "title": 7,
             "chapter": "XIV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Economic Research Service",
@@ -293,7 +180,8 @@
             "title": 7,
             "chapter": "XXXVII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Farm Service Agency",
@@ -306,7 +194,8 @@
             "title": 7,
             "chapter": "VII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Crop Insurance Corporation",
@@ -319,7 +208,8 @@
             "title": 7,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Food and Nutrition Service",
@@ -332,7 +222,8 @@
             "title": 7,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Food Safety and Inspection Service",
@@ -345,7 +236,8 @@
             "title": 9,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Foreign Agricultural Service",
@@ -358,7 +250,8 @@
             "title": 7,
             "chapter": "XV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Forest Service",
@@ -371,7 +264,8 @@
             "title": 36,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Agricultural Statistics Service",
@@ -384,7 +278,8 @@
             "title": 7,
             "chapter": "XXXVI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Institute of Food and Agriculture",
@@ -397,7 +292,8 @@
             "title": 7,
             "chapter": "XXXIV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Natural Resources Conservation Service",
@@ -410,7 +306,8 @@
             "title": 7,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Advocacy and Outreach",
@@ -423,7 +320,8 @@
             "title": 7,
             "chapter": "XXV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Chief Financial Officer",
@@ -436,7 +334,8 @@
             "title": 7,
             "chapter": "XXX"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Energy Policy and New Uses",
@@ -449,7 +348,8 @@
             "title": 7,
             "chapter": "XXIX"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Environmental Quality",
@@ -462,7 +362,8 @@
             "title": 7,
             "chapter": "XXXI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Information Resources Management",
@@ -475,7 +376,8 @@
             "title": 7,
             "chapter": "XXVII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Inspector General",
@@ -488,7 +390,8 @@
             "title": 7,
             "chapter": "XXVI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Operations",
@@ -501,7 +404,8 @@
             "title": 7,
             "chapter": "XXVIII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Procurement and Property Management",
@@ -514,7 +418,8 @@
             "title": 7,
             "chapter": "XXXII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary of Agriculture",
@@ -527,7 +432,8 @@
             "title": 7,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Transportation",
@@ -540,7 +446,8 @@
             "title": 7,
             "chapter": "XXXIII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Rural Business-Cooperative Service",
@@ -561,7 +468,8 @@
             "title": 7,
             "chapter": "L"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Rural Housing Service",
@@ -582,7 +490,8 @@
             "title": 7,
             "chapter": "L"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Rural Utilities Service",
@@ -607,7 +516,8 @@
             "title": 7,
             "chapter": "L"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "World Agricultural Outlook Board",
@@ -620,7 +530,8 @@
             "title": 7,
             "chapter": "XXXVIII"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -644,7 +555,8 @@
         "title": 48,
         "chapter": "4"
       }
-    ]
+    ],
+    "isChild": false
   },
   "AMS": {
     "name": "Agricultural Marketing Service",
@@ -677,7 +589,8 @@
         "title": 9,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ARS": {
     "name": "Agricultural Research Service",
@@ -690,7 +603,8 @@
         "title": 7,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "APHIS": {
     "name": "Animal and Plant Health Inspection Service",
@@ -707,7 +621,8 @@
         "title": 9,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "CCC": {
     "name": "Commodity Credit Corporation",
@@ -720,7 +635,8 @@
         "title": 7,
         "chapter": "XIV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ERS": {
     "name": "Economic Research Service",
@@ -733,7 +649,8 @@
         "title": 7,
         "chapter": "XXXVII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FSA": {
     "name": "Farm Service Agency",
@@ -746,7 +663,8 @@
         "title": 7,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FCIC": {
     "name": "Federal Crop Insurance Corporation",
@@ -759,7 +677,8 @@
         "title": 7,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FNS": {
     "name": "Food and Nutrition Service",
@@ -772,7 +691,8 @@
         "title": 7,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FSIS": {
     "name": "Food Safety and Inspection Service",
@@ -785,7 +705,8 @@
         "title": 9,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FAS": {
     "name": "Foreign Agricultural Service",
@@ -798,7 +719,8 @@
         "title": 7,
         "chapter": "XV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FS": {
     "name": "Fiscal Service",
@@ -811,7 +733,8 @@
         "title": 31,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NASS": {
     "name": "National Agricultural Statistics Service",
@@ -824,7 +747,8 @@
         "title": 7,
         "chapter": "XXXVI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NIFA": {
     "name": "National Institute of Food and Agriculture",
@@ -837,7 +761,8 @@
         "title": 7,
         "chapter": "XXXIV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NRCS": {
     "name": "Natural Resources Conservation Service",
@@ -850,7 +775,8 @@
         "title": 7,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OAO": {
     "name": "Office of Advocacy and Outreach",
@@ -863,7 +789,8 @@
         "title": 7,
         "chapter": "XXV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OEPNU": {
     "name": "Office of Energy Policy and New Uses",
@@ -876,7 +803,8 @@
         "title": 7,
         "chapter": "XXIX"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OIG USDA": {
     "name": "Office of Inspector General",
@@ -889,7 +817,8 @@
         "title": 7,
         "chapter": "XXVI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OPPM": {
     "name": "Office of Procurement and Property Management",
@@ -902,7 +831,8 @@
         "title": 7,
         "chapter": "XXXII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "RBS": {
     "name": "Rural Business-Cooperative Service",
@@ -923,7 +853,8 @@
         "title": 7,
         "chapter": "L"
       }
-    ]
+    ],
+    "isChild": true
   },
   "RHS": {
     "name": "Rural Housing Service",
@@ -944,7 +875,8 @@
         "title": 7,
         "chapter": "L"
       }
-    ]
+    ],
+    "isChild": true
   },
   "RUS": {
     "name": "Rural Utilities Service",
@@ -969,7 +901,8 @@
         "title": 7,
         "chapter": "L"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ATSB": {
     "name": "Air Transportation System Stabilization",
@@ -983,7 +916,8 @@
         "title": 14,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ABMC": {
     "name": "American Battle Monuments Commission",
@@ -997,7 +931,8 @@
         "title": 36,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ARC": {
     "name": "Appalachian Regional Commission",
@@ -1011,7 +946,8 @@
         "title": 5,
         "chapter": "IX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ATBCB": {
     "name": "Architectural and Transportation Barriers Compliance Board",
@@ -1025,7 +961,8 @@
         "title": 36,
         "chapter": "XI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ARCTIC": {
     "name": "Arctic Research Commission",
@@ -1039,7 +976,8 @@
         "title": 45,
         "chapter": "XXIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "AFRH": {
     "name": "Armed Forces Retirement Home",
@@ -1057,7 +995,8 @@
         "title": 38,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CPPBSD": {
     "name": "Committee for Purchase From People Who Are Blind or Severely Disabled",
@@ -1071,7 +1010,8 @@
         "title": 41,
         "chapter": "51"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CIA": {
     "name": "Central Intelligence Agency",
@@ -1085,7 +1025,8 @@
         "title": 32,
         "chapter": "XIX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CSB": {
     "name": "Chemical Safety and Hazard Investigation Board",
@@ -1099,7 +1040,8 @@
         "title": 40,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CRC": {
     "name": "Commission on Civil Rights",
@@ -1117,7 +1059,8 @@
         "title": 45,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DOC": {
     "name": "Department of Commerce",
@@ -1137,7 +1080,8 @@
             "title": 15,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Economic Analysis",
@@ -1150,7 +1094,8 @@
             "title": 15,
             "chapter": "VIII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Industry and Security",
@@ -1163,7 +1108,8 @@
             "title": 15,
             "chapter": "VII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Economic Development Administration",
@@ -1176,7 +1122,8 @@
             "title": 13,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Foreign-Trade Zones Board",
@@ -1189,7 +1136,8 @@
             "title": 15,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "International Trade Administration",
@@ -1206,7 +1154,8 @@
             "title": 19,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Minority Business Development Agency",
@@ -1219,7 +1168,8 @@
             "title": 15,
             "chapter": "XIV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Institute of Standards and Technology",
@@ -1236,7 +1186,8 @@
             "title": 37,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Oceanic and Atmospheric Administration",
@@ -1257,7 +1208,8 @@
             "title": 50,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Oceanic and Atmospheric Administration National Marine Fisheries Service",
@@ -1270,7 +1222,8 @@
             "title": 50,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Technical Information Service",
@@ -1283,7 +1236,8 @@
             "title": 15,
             "chapter": "XI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Telecommunications and Information Administration",
@@ -1304,7 +1258,8 @@
             "title": 47,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary of Commerce",
@@ -1317,7 +1272,8 @@
             "title": 15,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Under-Secretary for Economic Affairs",
@@ -1330,7 +1286,8 @@
             "title": 15,
             "chapter": "XV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "United States Patent and Trademark Office",
@@ -1343,7 +1300,8 @@
             "title": 37,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -1359,7 +1317,8 @@
         "title": 48,
         "chapter": "13"
       }
-    ]
+    ],
+    "isChild": false
   },
   "USBC": {
     "name": "Bureau of Census",
@@ -1372,7 +1331,8 @@
         "title": 15,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "EAB": {
     "name": "Bureau of Economic Analysis",
@@ -1385,7 +1345,8 @@
         "title": 15,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "BIS": {
     "name": "Bureau of Industry and Security",
@@ -1398,7 +1359,8 @@
         "title": 15,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "EDA": {
     "name": "Economic Development Administration",
@@ -1411,7 +1373,8 @@
         "title": 13,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FTZB": {
     "name": "Foreign-Trade Zones Board",
@@ -1424,7 +1387,8 @@
         "title": 15,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ITA": {
     "name": "International Trade Administration",
@@ -1441,7 +1405,8 @@
         "title": 19,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "MBDA": {
     "name": "Minority Business Development Agency",
@@ -1454,7 +1419,8 @@
         "title": 15,
         "chapter": "XIV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NIST": {
     "name": "National Institute of Standards and Technology",
@@ -1471,7 +1437,8 @@
         "title": 37,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NOAA": {
     "name": "National Oceanic and Atmospheric Administration",
@@ -1492,7 +1459,8 @@
         "title": 50,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NTIS": {
     "name": "National Technical Information Service",
@@ -1505,7 +1473,8 @@
         "title": 15,
         "chapter": "XI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NTIA": {
     "name": "National Telecommunications and Information Administration",
@@ -1526,7 +1495,8 @@
         "title": 47,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OUSEA": {
     "name": "Office of Under-Secretary for Economic Affairs",
@@ -1539,7 +1509,8 @@
         "title": 15,
         "chapter": "XV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "PTO": {
     "name": "United States Patent and Trademark Office",
@@ -1552,7 +1523,8 @@
         "title": 37,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "CFTC": {
     "name": "Commodity Futures Trading Commission",
@@ -1570,7 +1542,8 @@
         "title": 17,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CFPB": {
     "name": "Consumer Financial Protection Bureau",
@@ -1588,7 +1561,8 @@
         "title": 12,
         "chapter": "X"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CPSC": {
     "name": "Consumer Product Safety Commission",
@@ -1606,7 +1580,8 @@
         "title": 16,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CIGIE": {
     "name": "Council of the Inspectors General on Integrity and Efficiency",
@@ -1620,7 +1595,8 @@
         "title": 5,
         "chapter": "XCVIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CSOSA": {
     "name": "Court Services and Offender Supervision Agency for the District of Columbia",
@@ -1638,7 +1614,8 @@
         "title": 28,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DNFSB": {
     "name": "Defense Nuclear Facilities Safety Board",
@@ -1652,7 +1629,8 @@
         "title": 10,
         "chapter": "XVII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DOD": {
     "name": "Department of Defense",
@@ -1676,7 +1654,8 @@
             "title": 36,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Defense Acquisition Regulations System",
@@ -1689,7 +1668,8 @@
             "title": 48,
             "chapter": "2"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Defense Logistics Agency",
@@ -1706,7 +1686,8 @@
             "title": 48,
             "chapter": "54"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Department of Navy Acquisition Regulations",
@@ -1719,7 +1700,8 @@
             "title": 48,
             "chapter": "52"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Geospatial-Intelligence Agency",
@@ -1727,7 +1709,8 @@
         "display_name": "National Geospatial-Intelligence Agency, Department of Defense",
         "sortable_name": "National Geospatial-Intelligence Agency",
         "slug": "national-geospatial-intelligence-agency",
-        "cfr_references": []
+        "cfr_references": [],
+        "isChild": true
       },
       {
         "name": "Office of the Secretary",
@@ -1740,7 +1723,8 @@
             "title": 32,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -1760,7 +1744,8 @@
         "title": 40,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "COE": {
     "name": "Army Corps of Engineers",
@@ -1777,7 +1762,8 @@
         "title": 36,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "DARS": {
     "name": "Defense Acquisition Regulations System",
@@ -1790,7 +1776,8 @@
         "title": 48,
         "chapter": "2"
       }
-    ]
+    ],
+    "isChild": true
   },
   "DLA": {
     "name": "Defense Logistics Agency",
@@ -1807,7 +1794,8 @@
         "title": 48,
         "chapter": "54"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NGA": {
     "name": "National Geospatial-Intelligence Agency",
@@ -1815,7 +1803,8 @@
     "display_name": "National Geospatial-Intelligence Agency, Department of Defense",
     "sortable_name": "National Geospatial-Intelligence Agency",
     "slug": "national-geospatial-intelligence-agency",
-    "cfr_references": []
+    "cfr_references": [],
+    "isChild": true
   },
   "DRBC": {
     "name": "Delaware River Basin Commission",
@@ -1829,7 +1818,8 @@
         "title": 18,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DC": {
     "name": "Denali Commission",
@@ -1843,7 +1833,8 @@
         "title": 45,
         "chapter": "IX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ODNI": {
     "name": "Office of Director of National Intelligence",
@@ -1861,7 +1852,8 @@
         "title": 32,
         "chapter": "XVII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NCD": {
     "name": "National Council on Disability",
@@ -1879,7 +1871,8 @@
         "title": 34,
         "chapter": "XII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ED": {
     "name": "Department of Education",
@@ -1899,7 +1892,8 @@
             "title": 48,
             "chapter": "34"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office for Civil Rights",
@@ -1912,7 +1906,8 @@
             "title": 34,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of and Adult Education Technical Career",
@@ -1925,7 +1920,8 @@
             "title": 34,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Bilingual Education and Minority Languages Affairs",
@@ -1938,7 +1934,8 @@
             "title": 34,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Elementary and Secondary Education",
@@ -1951,7 +1948,8 @@
             "title": 34,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Postsecondary Education",
@@ -1964,7 +1962,8 @@
             "title": 34,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary of Education",
@@ -1977,7 +1976,8 @@
             "title": 34,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Special Education and Rehabilitative Services",
@@ -1990,7 +1990,8 @@
             "title": 34,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -2002,7 +2003,8 @@
         "title": 5,
         "chapter": "LIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "EAC": {
     "name": "Election Assistance Commission",
@@ -2020,7 +2022,8 @@
         "title": 11,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DOE": {
     "name": "Department of Energy",
@@ -2044,7 +2047,8 @@
             "title": 18,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -2076,7 +2080,8 @@
         "title": 48,
         "chapter": "9"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FERC": {
     "name": "Federal Energy Regulatory Commission",
@@ -2093,7 +2098,8 @@
         "title": 18,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "JBEA": {
     "name": "Joint Board for the Enrollment of Actuaries",
@@ -2107,7 +2113,8 @@
         "title": 20,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "EPA": {
     "name": "Environmental Protection Agency",
@@ -2145,7 +2152,8 @@
         "title": 48,
         "chapter": "15"
       }
-    ]
+    ],
+    "isChild": false
   },
   "EEOC": {
     "name": "Equal Employment Opportunity Commission",
@@ -2163,7 +2171,8 @@
         "title": 29,
         "chapter": "XIV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "EOP": {
     "name": "Executive Office of the President",
@@ -2183,7 +2192,8 @@
             "title": 40,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Security Council",
@@ -2200,7 +2210,8 @@
             "title": 47,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Science and Technology Policy",
@@ -2217,7 +2228,8 @@
             "title": 47,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of the Intellectual Property Enforcement Coordinator",
@@ -2230,7 +2242,8 @@
             "title": 5,
             "chapter": "CIV"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -2238,7 +2251,8 @@
         "title": 3,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CEQ": {
     "name": "Council on Environmental Quality",
@@ -2251,7 +2265,8 @@
         "title": 40,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NSC": {
     "name": "National Security Council",
@@ -2268,7 +2283,8 @@
         "title": 47,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OSTP": {
     "name": "Office of Science and Technology Policy",
@@ -2285,7 +2301,8 @@
         "title": 47,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "IPEC": {
     "name": "Office of the Intellectual Property Enforcement Coordinator",
@@ -2298,7 +2315,8 @@
         "title": 5,
         "chapter": "CIV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "EIB/USEIB": {
     "name": "Export-Import Bank of the United States",
@@ -2320,7 +2338,8 @@
         "title": 12,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FCA": {
     "name": "Farm Credit Administration",
@@ -2338,7 +2357,8 @@
         "title": 12,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FCSIC": {
     "name": "Farm Credit System Insurance Corporation",
@@ -2356,7 +2376,8 @@
         "title": 12,
         "chapter": "XIV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FASC": {
     "name": "Federal Acquisition Security Council",
@@ -2371,7 +2392,8 @@
         "subtitle": "D",
         "chapter": "201"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FCC": {
     "name": "Federal Communications Commission",
@@ -2393,7 +2415,8 @@
         "title": 47,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FDIC": {
     "name": "Federal Deposit Insurance Corporation",
@@ -2411,7 +2434,8 @@
         "title": 12,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FEC": {
     "name": "Federal Election Commission",
@@ -2429,7 +2453,8 @@
         "title": 11,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FFIEC": {
     "name": "Federal Financial Institutions Examination Council",
@@ -2443,7 +2468,8 @@
         "title": 12,
         "chapter": "XI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FHFA": {
     "name": "Federal Housing Finance Agency",
@@ -2461,7 +2487,8 @@
         "title": 12,
         "chapter": "XII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FLRA": {
     "name": "Federal Labor Relations Authority",
@@ -2481,7 +2508,8 @@
             "title": 5,
             "chapter": "XIV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "General Counsel of the Federal Labor Relations Authority",
@@ -2500,7 +2528,8 @@
             "chapter": "XIV",
             "subchapter": "C"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -2512,7 +2541,8 @@
         "title": 22,
         "chapter": "XIV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FSIP": {
     "name": "Federal Service Impasses Panel ",
@@ -2525,7 +2555,8 @@
         "title": 5,
         "chapter": "XIV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FMC": {
     "name": "Federal Maritime Commission",
@@ -2539,7 +2570,8 @@
         "title": 46,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FMCS": {
     "name": "Federal Mediation and Conciliation Service",
@@ -2557,7 +2589,8 @@
         "title": 29,
         "chapter": "XII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "MSHFRC": {
     "name": "Federal Mine Safety and Health Review Commission",
@@ -2575,7 +2608,8 @@
         "title": 29,
         "chapter": "XXVII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FPISC": {
     "name": "Federal Permitting Improvement Steering Council",
@@ -2589,7 +2623,8 @@
         "title": 40,
         "chapter": "IX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ACFR": {
     "name": "Administrative Committee of the Federal Register",
@@ -2603,7 +2638,8 @@
         "title": 1,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FRS": {
     "name": "Federal Reserve System",
@@ -2623,7 +2659,8 @@
             "title": 5,
             "chapter": "LVIII"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -2631,7 +2668,8 @@
         "title": 12,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FRTIB": {
     "name": "Federal Retirement Thrift Investment Board",
@@ -2649,7 +2687,8 @@
         "title": 5,
         "chapter": "LXXVI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FTC": {
     "name": "Federal Trade Commission",
@@ -2667,7 +2706,8 @@
         "title": 16,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FSOC": {
     "name": "Financial Stability Oversight Council",
@@ -2681,7 +2721,8 @@
         "title": 12,
         "chapter": "XIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CFA": {
     "name": "Commission of Fine Arts",
@@ -2695,7 +2736,8 @@
         "title": 45,
         "chapter": "XXI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FirstNet": {
     "name": "First Responder Network Authority",
@@ -2709,7 +2751,8 @@
         "title": 47,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FSGB": {
     "name": "Foreign Service Grievance Board",
@@ -2723,7 +2766,8 @@
         "title": 22,
         "chapter": "IX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "Disputes Panel": {
     "name": "Foreign Service Impasse Disputes Panel",
@@ -2743,7 +2787,8 @@
         "chapter": "XIV",
         "subchapter": "D"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FSLRB": {
     "name": "Foreign Service Labor Relations Board",
@@ -2763,7 +2808,8 @@
         "chapter": "XIV",
         "subchapter": "C"
       }
-    ]
+    ],
+    "isChild": false
   },
   "GSA": {
     "name": "General Services Administration",
@@ -2783,7 +2829,8 @@
             "title": 48,
             "chapter": "61"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -2799,7 +2846,8 @@
         "title": 48,
         "chapter": "5"
       }
-    ]
+    ],
+    "isChild": false
   },
   "GAO": {
     "name": "Government Accountability Office",
@@ -2813,7 +2861,8 @@
         "title": 4,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "OGE": {
     "name": "Office of Government Ethics",
@@ -2827,7 +2876,8 @@
         "title": 5,
         "chapter": "XVI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "Gulf Restoration Council": {
     "name": "Gulf Coast Ecosystem Restoration Council",
@@ -2845,7 +2895,8 @@
         "title": 40,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "HST": {
     "name": "Harry S. Truman Scholarship Foundation",
@@ -2859,7 +2910,8 @@
         "title": 45,
         "chapter": "XVIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "HHS": {
     "name": "Department of Health and Human Services",
@@ -2879,7 +2931,8 @@
             "title": 45,
             "chapter": "XIII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Centers for Medicare & Medicaid Services",
@@ -2892,7 +2945,8 @@
             "title": 42,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Food and Drug Administration",
@@ -2905,7 +2959,8 @@
             "title": 21,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Indian Health Service",
@@ -2923,7 +2978,8 @@
             "chapter": "I",
             "subchapter": "M"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Administration for Children and Families Child Support Enforcement (Child Support Enforcement Program)",
@@ -2936,7 +2992,8 @@
             "title": 45,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Administration for Children and Families Community Services",
@@ -2949,7 +3006,8 @@
             "title": 45,
             "chapter": "X"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Administration for Children and Families Family Assistance (Assistance Programs)",
@@ -2962,7 +3020,8 @@
             "title": 45,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Administration for Children and Families Refugee Resettlement",
@@ -2975,7 +3034,8 @@
             "title": 45,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Inspector General-Health Care",
@@ -2988,7 +3048,8 @@
             "title": 42,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Public Health Service",
@@ -3001,7 +3062,8 @@
             "title": 42,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -3021,7 +3083,8 @@
         "title": 48,
         "chapter": "3"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ACF": {
     "name": "Administration for Children and Families",
@@ -3034,7 +3097,8 @@
         "title": 45,
         "chapter": "XIII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "CMS": {
     "name": "Centers for Medicare & Medicaid Services",
@@ -3047,7 +3111,8 @@
         "title": 42,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FDA": {
     "name": "Food and Drug Administration",
@@ -3060,7 +3125,8 @@
         "title": 21,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "IHS": {
     "name": "Indian Health Service",
@@ -3078,7 +3144,8 @@
         "chapter": "I",
         "subchapter": "M"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ORR": {
     "name": "Office of Administration for Children and Families Refugee Resettlement",
@@ -3091,7 +3158,8 @@
         "title": 45,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "PHS": {
     "name": "Public Health Service",
@@ -3104,7 +3172,8 @@
         "title": 42,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "DHS": {
     "name": "Department of Homeland Security",
@@ -3132,7 +3201,8 @@
             "title": 49,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Coast Guard (Great Lakes Pilotage)",
@@ -3145,7 +3215,8 @@
             "title": 46,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Department of Homeland Security Acquisition Regulation",
@@ -3158,7 +3229,8 @@
             "title": 48,
             "chapter": "30"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Emergency Management Agency",
@@ -3171,7 +3243,8 @@
             "title": 44,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Law Enforcement Training Center",
@@ -3184,7 +3257,8 @@
             "title": 31,
             "chapter": "VII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Human Resources Management System (Homeland Security - Office of Personnel Management)",
@@ -3197,7 +3271,8 @@
             "title": 5,
             "chapter": "XCVII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of the Secretary of Homeland Security",
@@ -3210,7 +3285,8 @@
             "title": 6,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Secret Service",
@@ -3223,7 +3299,8 @@
             "title": 31,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Transportation Security Administration",
@@ -3236,7 +3313,8 @@
             "title": 49,
             "chapter": "XII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "U.S. Customs and Border Protection",
@@ -3249,7 +3327,8 @@
             "title": 19,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -3265,7 +3344,8 @@
         "title": 8,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "USCG": {
     "name": "Coast Guard",
@@ -3286,7 +3366,8 @@
         "title": 49,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "HSAR": {
     "name": "Department of Homeland Security Acquisition Regulation",
@@ -3299,7 +3380,8 @@
         "title": 48,
         "chapter": "30"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FEMA": {
     "name": "Federal Emergency Management Agency",
@@ -3312,7 +3394,8 @@
         "title": 44,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FLETC": {
     "name": "Federal Law Enforcement Training Center",
@@ -3325,7 +3408,8 @@
         "title": 31,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "USSS": {
     "name": "Secret Service",
@@ -3338,7 +3422,8 @@
         "title": 31,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "TSA": {
     "name": "Transportation Security Administration",
@@ -3351,7 +3436,8 @@
         "title": 49,
         "chapter": "XII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "USCBP": {
     "name": "U.S. Customs and Border Protection",
@@ -3364,7 +3450,8 @@
         "title": 19,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "HUD": {
     "name": "Department of Housing and Urban Development",
@@ -3384,7 +3471,8 @@
             "title": 24,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Assistant Secretary for Community Planning and Development",
@@ -3397,7 +3485,8 @@
             "title": 24,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Assistant Secretary for Equal Opportunity",
@@ -3410,7 +3499,8 @@
             "title": 24,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Assistant Secretary for Housing - Federal Housing Commissioner",
@@ -3431,7 +3521,8 @@
             "title": 24,
             "chapter": "XX"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Assistant Secretary for Public and Indian Housing",
@@ -3444,7 +3535,8 @@
             "title": 24,
             "chapter": "IX"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Federal Housing Enterprise Oversight",
@@ -3457,7 +3549,8 @@
             "title": 12,
             "chapter": "XVII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Housing and Multifamily Housing Assistance Restructuring",
@@ -3470,7 +3563,8 @@
             "title": 24,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Inspector General, Housing and Urban Development",
@@ -3483,7 +3577,8 @@
             "title": 24,
             "chapter": "XII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary",
@@ -3496,7 +3591,8 @@
             "title": 24,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary (Housing Assistance Programs and Public and Indian Housing Programs)",
@@ -3509,7 +3605,8 @@
             "title": 24,
             "chapter": "VII"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -3525,7 +3622,8 @@
         "title": 48,
         "chapter": "24"
       }
-    ]
+    ],
+    "isChild": false
   },
   "GinnieMae": {
     "name": "Government National Mortgage Association",
@@ -3538,7 +3636,8 @@
         "title": 24,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "USIP": {
     "name": "United States Institute of Peace",
@@ -3552,7 +3651,8 @@
         "title": 22,
         "chapter": "XVII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "IAF": {
     "name": "Inter-American Foundation",
@@ -3570,7 +3670,8 @@
         "title": 22,
         "chapter": "X"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DOI": {
     "name": "Department of Interior",
@@ -3594,7 +3695,8 @@
             "title": 25,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Land Management",
@@ -3607,7 +3709,8 @@
             "title": 43,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Ocean Energy Management",
@@ -3620,7 +3723,8 @@
             "title": 30,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Reclamation",
@@ -3633,7 +3737,8 @@
             "title": 43,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Safety and Environmental Enforcement",
@@ -3646,7 +3751,8 @@
             "title": 30,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Geological Survey",
@@ -3659,7 +3765,8 @@
             "title": 30,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Indian Arts and Crafts Board",
@@ -3672,7 +3779,8 @@
             "title": 25,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Indian Gaming Commission",
@@ -3685,7 +3793,8 @@
             "title": 25,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Park Service",
@@ -3698,7 +3807,8 @@
             "title": 36,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Indian Affairs Assistant Secretary",
@@ -3711,7 +3821,8 @@
             "title": 25,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Natural Resources Revenue",
@@ -3724,7 +3835,8 @@
             "title": 30,
             "chapter": "XII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary of the Interior",
@@ -3737,7 +3849,8 @@
             "title": 43,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Special Trustee for American Indians",
@@ -3750,7 +3863,8 @@
             "title": 25,
             "chapter": "VII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Surface Mining Reclamation and Enforcement",
@@ -3763,7 +3877,8 @@
             "title": 30,
             "chapter": "VII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "United States Fish and Wildlife Service",
@@ -3784,7 +3899,8 @@
             "title": 50,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -3804,7 +3920,8 @@
         "title": 48,
         "chapter": "14"
       }
-    ]
+    ],
+    "isChild": false
   },
   "BIA": {
     "name": "Bureau of Indian Affairs",
@@ -3821,7 +3938,8 @@
         "title": 25,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "BLM": {
     "name": "Bureau of Land Management",
@@ -3834,7 +3952,8 @@
         "title": 43,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "BOEM": {
     "name": "Bureau of Ocean Energy Management",
@@ -3847,7 +3966,8 @@
         "title": 30,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "BOR": {
     "name": "Bureau of Reclamation",
@@ -3860,7 +3980,8 @@
         "title": 43,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "BSEE": {
     "name": "Bureau of Safety and Environmental Enforcement",
@@ -3873,7 +3994,8 @@
         "title": 30,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "USGS": {
     "name": "Geological Survey",
@@ -3886,7 +4008,8 @@
         "title": 30,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "IACB": {
     "name": "Indian Arts and Crafts Board",
@@ -3899,7 +4022,8 @@
         "title": 25,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NIGC": {
     "name": "National Indian Gaming Commission",
@@ -3912,7 +4036,8 @@
         "title": 25,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NPS": {
     "name": "National Park Service",
@@ -3925,7 +4050,8 @@
         "title": 36,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ONRR": {
     "name": "Office of Natural Resources Revenue",
@@ -3938,7 +4064,8 @@
         "title": 30,
         "chapter": "XII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OST": {
     "name": "Office of Special Trustee for American Indians",
@@ -3951,7 +4078,8 @@
         "title": 25,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OSM": {
     "name": "Office of Surface Mining Reclamation and Enforcement",
@@ -3964,7 +4092,8 @@
         "title": 30,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FWS": {
     "name": "United States Fish and Wildlife Service",
@@ -3985,7 +4114,8 @@
         "title": 50,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "IBWC": {
     "name": "United States Section United States and Mexico International Boundary and Water Commission",
@@ -3999,7 +4129,8 @@
         "title": 22,
         "chapter": "XI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DFC": {
     "name": "United States International Development Finance Corporation",
@@ -4021,7 +4152,8 @@
         "title": 22,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "USAID": {
     "name": "Agency for International Development",
@@ -4043,7 +4175,8 @@
         "title": 48,
         "chapter": "7"
       }
-    ]
+    ],
+    "isChild": false
   },
   "IJC": {
     "name": "United States and Canada International Joint Commission",
@@ -4057,7 +4190,8 @@
         "title": 22,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ITC": {
     "name": "United States International Trade Commission",
@@ -4071,7 +4205,8 @@
         "title": 19,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ICC": {
     "name": "Interstate Commerce Commission",
@@ -4085,7 +4220,8 @@
         "title": 5,
         "chapter": "XL"
       }
-    ]
+    ],
+    "isChild": false
   },
   "JUSFC": {
     "name": "Japan-United States Friendship Commission",
@@ -4099,7 +4235,8 @@
         "title": 22,
         "chapter": "XVI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DOJ": {
     "name": "Department of Justice",
@@ -4119,7 +4256,8 @@
             "title": 27,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Prisons",
@@ -4132,7 +4270,8 @@
             "title": 28,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Drug Enforcement Administration",
@@ -4145,7 +4284,8 @@
             "title": 21,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Executive Office for Immigration Review",
@@ -4158,7 +4298,8 @@
             "title": 8,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Prison Industries",
@@ -4171,7 +4312,8 @@
             "title": 28,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Foreign Claims Settlement Commission of the United States",
@@ -4184,7 +4326,8 @@
             "title": 45,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Offices of Independent Counsel",
@@ -4197,7 +4340,8 @@
             "title": 28,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -4233,7 +4377,8 @@
         "title": 48,
         "chapter": "28"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ATF": {
     "name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
@@ -4246,7 +4391,8 @@
         "title": 27,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "BOP": {
     "name": "Bureau of Prisons",
@@ -4259,7 +4405,8 @@
         "title": 28,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "DEA": {
     "name": "Drug Enforcement Administration",
@@ -4272,7 +4419,8 @@
         "title": 21,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "EOIR": {
     "name": "Executive Office for Immigration Review",
@@ -4285,7 +4433,8 @@
         "title": 8,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FPI": {
     "name": "Federal Prison Industries",
@@ -4298,7 +4447,8 @@
         "title": 28,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FCSC": {
     "name": "Foreign Claims Settlement Commission of the United States",
@@ -4311,7 +4461,8 @@
         "title": 45,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "DOL": {
     "name": "Department of Labor",
@@ -4331,7 +4482,8 @@
             "title": 20,
             "chapter": "VII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Employee Benefits Security Administration",
@@ -4344,7 +4496,8 @@
             "title": 29,
             "chapter": "XXV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Employees' Compensation Appeals Board",
@@ -4357,7 +4510,8 @@
             "title": 20,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Employment and Training Administration",
@@ -4370,7 +4524,8 @@
             "title": 20,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Mine Safety and Health Administration",
@@ -4383,7 +4538,8 @@
             "title": 30,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Occupational Safety and Health Administration",
@@ -4396,7 +4552,8 @@
             "title": 29,
             "chapter": "XVII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Assistant Secretary for Veterans' Employment and Training Service",
@@ -4413,7 +4570,8 @@
             "title": 41,
             "chapter": "61"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Federal Contract Compliance Programs",
@@ -4426,7 +4584,8 @@
             "title": 41,
             "chapter": "60"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Labor-Management Standards",
@@ -4443,7 +4602,8 @@
             "title": 29,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary of Labor",
@@ -4456,7 +4616,8 @@
             "title": 29,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Workers' Compensation Programs",
@@ -4473,7 +4634,8 @@
             "title": 20,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Wage and Hour Division",
@@ -4486,7 +4648,8 @@
             "title": 29,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -4506,7 +4669,8 @@
         "title": 48,
         "chapter": "29"
       }
-    ]
+    ],
+    "isChild": false
   },
   "BRB": {
     "name": "Benefits Review Board",
@@ -4519,7 +4683,8 @@
         "title": 20,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "EBSA": {
     "name": "Employee Benefits Security Administration",
@@ -4532,7 +4697,8 @@
         "title": 29,
         "chapter": "XXV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ECAB": {
     "name": "Employees' Compensation Appeals Board",
@@ -4545,7 +4711,8 @@
         "title": 20,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "ETA": {
     "name": "Employment and Training Administration",
@@ -4558,7 +4725,8 @@
         "title": 20,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "MSHA": {
     "name": "Mine Safety and Health Administration",
@@ -4571,7 +4739,8 @@
         "title": 30,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OSHA": {
     "name": "Occupational Safety and Health Administration",
@@ -4584,7 +4753,8 @@
         "title": 29,
         "chapter": "XVII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OFCCP": {
     "name": "Office of Federal Contract Compliance Programs",
@@ -4597,7 +4767,8 @@
         "title": 41,
         "chapter": "60"
       }
-    ]
+    ],
+    "isChild": true
   },
   "LMSO": {
     "name": "Office of Labor-Management Standards",
@@ -4614,7 +4785,8 @@
         "title": 29,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OWCP": {
     "name": "Office of Workers' Compensation Programs",
@@ -4631,7 +4803,8 @@
         "title": 20,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "WHD": {
     "name": "Wage and Hour Division",
@@ -4644,7 +4817,8 @@
         "title": 29,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "LSC": {
     "name": "Legal Services Corporation",
@@ -4658,7 +4832,8 @@
         "title": 45,
         "chapter": "XVI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NCLIS": {
     "name": "National Commission on Libraries and Information Science",
@@ -4672,7 +4847,8 @@
         "title": 45,
         "chapter": "XVII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "LOC": {
     "name": "Library of Congress",
@@ -4692,7 +4868,8 @@
             "title": 37,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "U.S. Copyright Office",
@@ -4705,7 +4882,8 @@
             "title": 37,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -4713,7 +4891,8 @@
         "title": 36,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CRB": {
     "name": "Copyright Royalty Board",
@@ -4726,7 +4905,8 @@
         "title": 37,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "COLC": {
     "name": "U.S. Copyright Office",
@@ -4739,7 +4919,8 @@
         "title": 37,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OMB": {
     "name": "Office of Management and Budget",
@@ -4759,7 +4940,8 @@
             "title": 48,
             "chapter": "99"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -4779,7 +4961,8 @@
         "title": 48,
         "chapter": "99"
       }
-    ]
+    ],
+    "isChild": false
   },
   "OFPP": {
     "name": "Office of Federal Procurement Policy",
@@ -4792,7 +4975,8 @@
         "title": 48,
         "chapter": "99"
       }
-    ]
+    ],
+    "isChild": true
   },
   "MMC": {
     "name": "Marine Mammal Commission",
@@ -4806,7 +4990,8 @@
         "title": 50,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": false
   },
   "MSPB": {
     "name": "Merit Systems Protection Board",
@@ -4824,7 +5009,8 @@
         "title": 5,
         "chapter": "LXIV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "Military Compensation and Retirement Modernization Commission": {
     "name": "Military Compensation and Retirement Modernization Commission",
@@ -4838,7 +5024,8 @@
         "title": 5,
         "chapter": "XCIX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NCMNPS": {
     "name": "National Commission on Military, National, and Public Service",
@@ -4853,7 +5040,8 @@
         "chapter": "IV",
         "part": "426"
       }
-    ]
+    ],
+    "isChild": false
   },
   "MCC": {
     "name": "Millennium Challenge Corporation",
@@ -4867,7 +5055,8 @@
         "title": 22,
         "chapter": "XIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "Udall Foundation": {
     "name": "Morris K. Udall and Stewart L. Udall Foundation",
@@ -4881,7 +5070,8 @@
         "title": 36,
         "chapter": "XVI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NASA": {
     "name": "National Aeronautics and Space Administration",
@@ -4907,7 +5097,8 @@
         "title": 48,
         "chapter": "18"
       }
-    ]
+    ],
+    "isChild": false
   },
   "CORP/CNCS": {
     "name": "Corporation for National and Community Service",
@@ -4929,7 +5120,8 @@
         "title": 45,
         "chapter": "XXV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NARA": {
     "name": "National Archives and Records Administration",
@@ -4949,7 +5141,8 @@
             "title": 32,
             "chapter": "XX"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Federal Register",
@@ -4962,7 +5155,8 @@
             "title": 1,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -4978,7 +5172,8 @@
         "title": 36,
         "chapter": "XII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ISOO": {
     "name": "Information Security Oversight Office",
@@ -4991,7 +5186,8 @@
         "title": 32,
         "chapter": "XX"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OFR": {
     "name": "Office of Federal Register",
@@ -5004,7 +5200,8 @@
         "title": 1,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NCPC": {
     "name": "National Capital Planning Commission",
@@ -5023,7 +5220,8 @@
         "title": 1,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NCTC": {
     "name": "National Counterintelligence Center",
@@ -5037,7 +5235,8 @@
         "title": 32,
         "chapter": "XVIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NCUA": {
     "name": "National Credit Union Administration",
@@ -5055,7 +5254,8 @@
         "title": 12,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NCPPCC": {
     "name": "National Crime Prevention and Privacy Compact Council",
@@ -5069,7 +5269,8 @@
         "title": 28,
         "chapter": "IX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ONDCP": {
     "name": "Office of National Drug Control Policy",
@@ -5087,7 +5288,8 @@
         "title": 21,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ARTS": {
     "name": "National Foundation on the Arts and the Humanities",
@@ -5111,7 +5313,8 @@
             "title": 5,
             "chapter": "LXVII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Endowment for the Arts",
@@ -5128,7 +5331,8 @@
             "title": 5,
             "chapter": "LV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Endowment for the Humanities",
@@ -5145,7 +5349,8 @@
             "title": 5,
             "chapter": "LVI"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -5153,7 +5358,8 @@
         "title": 45,
         "chapter": "XI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NEA": {
     "name": "National Endowment for the Arts",
@@ -5170,7 +5376,8 @@
         "title": 5,
         "chapter": "LV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NLRB": {
     "name": "National Labor Relations Board",
@@ -5188,7 +5395,8 @@
         "title": 29,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NMB": {
     "name": "National Mediation Board",
@@ -5206,7 +5414,8 @@
         "title": 29,
         "chapter": "X"
       }
-    ]
+    ],
+    "isChild": false
   },
   "AMTRAK": {
     "name": "National Railroad Passenger Corporation",
@@ -5220,7 +5429,8 @@
         "title": 49,
         "chapter": "VII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NSF": {
     "name": "National Science Foundation",
@@ -5246,7 +5456,8 @@
         "title": 48,
         "chapter": "25"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NTSB": {
     "name": "National Transportation Safety Board",
@@ -5260,7 +5471,8 @@
         "title": 49,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "ONHIR": {
     "name": "Office of Navajo and Hopi Indian Relocation",
@@ -5274,7 +5486,8 @@
         "title": 25,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NEIGHBOR": {
     "name": "Neighborhood Reinvestment Corporation",
@@ -5288,7 +5501,8 @@
         "title": 24,
         "chapter": "XXV"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NRC": {
     "name": "Nuclear Regulatory Commission",
@@ -5314,7 +5528,8 @@
         "title": 48,
         "chapter": "20"
       }
-    ]
+    ],
+    "isChild": false
   },
   "NWTRB": {
     "name": "Nuclear Waste Technical Review Board",
@@ -5328,7 +5543,8 @@
         "title": 10,
         "chapter": "XIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "OSHRC": {
     "name": "Occupational Safety and Health Review Commission",
@@ -5342,7 +5558,8 @@
         "title": 29,
         "chapter": "XX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "PC": {
     "name": "Peace Corps",
@@ -5360,7 +5577,8 @@
         "title": 22,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": false
   },
   "PBGC": {
     "name": "Pension Benefit Guaranty Corporation",
@@ -5374,7 +5592,8 @@
         "title": 29,
         "chapter": "XL"
       }
-    ]
+    ],
+    "isChild": false
   },
   "OPM": {
     "name": "Office of Personnel Management",
@@ -5412,7 +5631,8 @@
         "title": 48,
         "chapter": "21"
       }
-    ]
+    ],
+    "isChild": false
   },
   "PRC": {
     "name": "Postal Regulatory Commission",
@@ -5430,7 +5650,8 @@
         "title": 39,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": false
   },
   "USPS": {
     "name": "United States Postal Service",
@@ -5448,7 +5669,8 @@
         "title": 39,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "PT": {
     "name": "Presidio Trust",
@@ -5462,7 +5684,8 @@
         "title": 36,
         "chapter": "X"
       }
-    ]
+    ],
+    "isChild": false
   },
   "PCLOB": {
     "name": "Privacy and Civil Liberties Oversight Board",
@@ -5476,7 +5699,8 @@
         "title": 6,
         "chapter": "X"
       }
-    ]
+    ],
+    "isChild": false
   },
   "RRB": {
     "name": "Railroad Retirement Board",
@@ -5490,7 +5714,8 @@
         "title": 20,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": false
   },
   "SEC": {
     "name": "Securities and Exchange Commission",
@@ -5508,7 +5733,8 @@
         "title": 17,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": false
   },
   "SSS": {
     "name": "Selective Service System",
@@ -5522,7 +5748,8 @@
         "title": 32,
         "chapter": "XVI"
       }
-    ]
+    ],
+    "isChild": false
   },
   "SBA": {
     "name": "Small Business Administration",
@@ -5540,7 +5767,8 @@
         "title": 13,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": false
   },
   "SSA": {
     "name": "Social Security Administration",
@@ -5562,7 +5790,8 @@
         "title": 48,
         "chapter": "23"
       }
-    ]
+    ],
+    "isChild": false
   },
   "OSC": {
     "name": "Office of Special Counsel",
@@ -5580,7 +5809,8 @@
         "title": 5,
         "chapter": "CII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DOS": {
     "name": "Department of State",
@@ -5606,7 +5836,8 @@
         "title": 48,
         "chapter": "6"
       }
-    ]
+    ],
+    "isChild": false
   },
   "STB": {
     "name": "Surface Transportation Board",
@@ -5620,7 +5851,8 @@
         "title": 49,
         "chapter": "X"
       }
-    ]
+    ],
+    "isChild": false
   },
   "SRBC": {
     "name": "Susquehanna River Basin Commission",
@@ -5634,7 +5866,8 @@
         "title": 18,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "TVA": {
     "name": "Tennessee Valley Authority",
@@ -5652,7 +5885,8 @@
         "title": 18,
         "chapter": "XIII"
       }
-    ]
+    ],
+    "isChild": false
   },
   "DOT": {
     "name": "Department of Transportation",
@@ -5672,7 +5906,8 @@
             "title": 14,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Aviation Administration Commercial Space Transportation",
@@ -5685,7 +5920,8 @@
             "title": 14,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Highway Administration",
@@ -5702,7 +5938,8 @@
             "title": 23,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Motor Carrier Safety Administration",
@@ -5715,7 +5952,8 @@
             "title": 49,
             "chapter": "III"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Railroad Administration",
@@ -5728,7 +5966,8 @@
             "title": 49,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Federal Transit Administration",
@@ -5741,7 +5980,8 @@
             "title": 49,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Great Lakes St. Lawrence Seaway Development Corporation",
@@ -5754,7 +5994,8 @@
             "title": 33,
             "chapter": "IV"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Maritime Administration",
@@ -5767,7 +6008,8 @@
             "title": 46,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "National Highway Traffic Safety Administration",
@@ -5792,7 +6034,8 @@
             "title": 49,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary (Aviation Proceedings)",
@@ -5805,7 +6048,8 @@
             "title": 14,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary of Transportation",
@@ -5818,7 +6062,8 @@
             "title": 49,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Pipeline and Hazardous Materials Safety Administration",
@@ -5831,7 +6076,8 @@
             "title": 49,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -5851,7 +6097,8 @@
         "title": 48,
         "chapter": "12"
       }
-    ]
+    ],
+    "isChild": false
   },
   "FAA": {
     "name": "Federal Aviation Administration",
@@ -5864,7 +6111,8 @@
         "title": 14,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "AST": {
     "name": "Federal Aviation Administration Commercial Space Transportation",
@@ -5877,7 +6125,8 @@
         "title": 14,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FHWA": {
     "name": "Federal Highway Administration",
@@ -5894,7 +6143,8 @@
         "title": 23,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FMCSA": {
     "name": "Federal Motor Carrier Safety Administration",
@@ -5907,7 +6157,8 @@
         "title": 49,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FRA": {
     "name": "Federal Railroad Administration",
@@ -5920,7 +6171,8 @@
         "title": 49,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "FTA": {
     "name": "Federal Transit Administration",
@@ -5933,7 +6185,8 @@
         "title": 49,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "SAINT": {
     "name": "Great Lakes St. Lawrence Seaway Development Corporation",
@@ -5946,7 +6199,8 @@
         "title": 33,
         "chapter": "IV"
       }
-    ]
+    ],
+    "isChild": true
   },
   "MARAD": {
     "name": "Maritime Administration",
@@ -5959,7 +6213,8 @@
         "title": 46,
         "chapter": "II"
       }
-    ]
+    ],
+    "isChild": true
   },
   "NHTSA": {
     "name": "National Highway Traffic Safety Administration",
@@ -5984,7 +6239,8 @@
         "title": 49,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "PHMSA": {
     "name": "Pipeline and Hazardous Materials Safety Administration",
@@ -5997,7 +6253,8 @@
         "title": 49,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "TREAS": {
     "name": "Department of Treasury",
@@ -6017,7 +6274,8 @@
             "title": 27,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of Engraving and Printing",
@@ -6030,7 +6288,8 @@
             "title": 31,
             "chapter": "VI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Bureau of the Fiscal Service",
@@ -6044,7 +6303,8 @@
             "chapter": "II",
             "subchapter": "A"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Community Development Financial Institutions Fund",
@@ -6057,7 +6317,8 @@
             "title": 12,
             "chapter": "XVIII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Comptroller of the Currency",
@@ -6070,7 +6331,8 @@
             "title": 12,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Financial Crimes Enforcement Network",
@@ -6083,7 +6345,8 @@
             "title": 31,
             "chapter": "X"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Fiscal Service",
@@ -6096,7 +6359,8 @@
             "title": 31,
             "chapter": "II"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Internal Revenue Service",
@@ -6109,7 +6373,8 @@
             "title": 26,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Monetary Offices",
@@ -6122,7 +6387,8 @@
             "title": 31,
             "chapter": "I"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Financial Research",
@@ -6135,7 +6401,8 @@
             "title": 12,
             "chapter": "XVI"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Foreign Assets Control",
@@ -6148,7 +6415,8 @@
             "title": 31,
             "chapter": "V"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Investment Security",
@@ -6161,7 +6429,8 @@
             "title": 31,
             "chapter": "VIII"
           }
-        ]
+        ],
+        "isChild": true
       },
       {
         "name": "Office of Secretary of the Treasury",
@@ -6174,7 +6443,8 @@
             "title": 31,
             "subtitle": "A"
           }
-        ]
+        ],
+        "isChild": true
       }
     ],
     "cfr_references": [
@@ -6202,7 +6472,8 @@
         "title": 48,
         "chapter": "10"
       }
-    ]
+    ],
+    "isChild": false
   },
   "TTB": {
     "name": "Alcohol and Tobacco Tax and Trade Bureau",
@@ -6215,7 +6486,8 @@
         "title": 27,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "BEP": {
     "name": "Bureau of Engraving and Printing",
@@ -6228,7 +6500,8 @@
         "title": 31,
         "chapter": "VI"
       }
-    ]
+    ],
+    "isChild": true
   },
   "CDFI": {
     "name": "Community Development Financial Institutions Fund",
@@ -6241,7 +6514,8 @@
         "title": 12,
         "chapter": "XVIII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OCC": {
     "name": "Comptroller of the Currency",
@@ -6254,7 +6528,8 @@
         "title": 12,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "TD": {
     "name": "Financial Crimes Enforcement Network",
@@ -6267,7 +6542,8 @@
         "title": 31,
         "chapter": "X"
       }
-    ]
+    ],
+    "isChild": true
   },
   "IRS": {
     "name": "Internal Revenue Service",
@@ -6280,7 +6556,8 @@
         "title": 26,
         "chapter": "I"
       }
-    ]
+    ],
+    "isChild": true
   },
   "OFAC": {
     "name": "Office of Foreign Assets Control",
@@ -6293,7 +6570,8 @@
         "title": 31,
         "chapter": "V"
       }
-    ]
+    ],
+    "isChild": true
   },
   "IIO": {
     "name": "Office of Investment Security",
@@ -6306,7 +6584,8 @@
         "title": 31,
         "chapter": "VIII"
       }
-    ]
+    ],
+    "isChild": true
   },
   "USTR": {
     "name": "Office of United States Trade Representative",
@@ -6320,7 +6599,8 @@
         "title": 15,
         "chapter": "XX"
       }
-    ]
+    ],
+    "isChild": false
   },
   "URMCC": {
     "name": "Utah Reclamation Mitigation and Conservation Commission",
@@ -6334,7 +6614,8 @@
         "title": 43,
         "chapter": "III"
       }
-    ]
+    ],
+    "isChild": false
   },
   "VA": {
     "name": "Department of Veterans Affairs",
@@ -6356,6 +6637,7 @@
         "title": 48,
         "chapter": "8"
       }
-    ]
+    ],
+    "isChild": false
   }
 }

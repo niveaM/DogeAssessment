@@ -1,0 +1,94 @@
+{
+  "number": 5,
+  "name": "Administrative Personnel",
+  "latest_amended_on": "2025-09-15",
+  "latest_issue_date": "2025-09-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "8cc9f77057f7ba5ece26cbee9552c7d1d6c866e3606d8d42ab2a51bc69feccd2",
+  "wordCount": 1630237,
+  "agencySlug": "office-of-the-intellectual-property-enforcement-coordinator",
+  "titleChapterCounts": {
+    "title": "5",
+    "chapter": "CIV",
+    "titleCount": 24,
+    "chapterCount": 24,
+    "titleDisplayHeading": "Title 5 | Administrative Personnel",
+    "chapterDisplayHeading": " Chapter CIV | Office of the Intellectual Property Enforcement Coordinator",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter CIV > Part 10400 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Office of the Intellectual Property Enforcement Coordinator",
+          "",
+          "Public Availability of Information",
+          "Freedom of Information Act Policies and Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "CIV",
+          "part": "10400",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter CIV > Part 10400 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Office of the Intellectual Property Enforcement Coordinator",
+          "",
+          "Public Availability of Information",
+          "Privacy Act Policies and Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "CIV",
+          "part": "10400",
+          "subpart": "B"
+        }
+      }
+    ]
+  },
+  "searchCount": 24,
+  "versionSummary": {
+    "titleNumber": 5,
+    "totalVersions": 8235,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-15",
+    "uniqueParts": 287,
+    "uniqueSubparts": 25,
+    "typeCounts": {
+      "section": 8068,
+      "appendix": 167
+    }
+  }
+}

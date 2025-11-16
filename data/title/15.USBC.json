@@ -1,0 +1,552 @@
+{
+  "number": 15,
+  "name": "Commerce and Foreign Trade",
+  "latest_amended_on": "2025-09-30",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "a2e538ad62f920ac85972485e6db3207fd62fea67795b848428533b510eaa731",
+  "wordCount": 1584517,
+  "agencySlug": "census-bureau",
+  "titleChapterCounts": {
+    "title": "15",
+    "chapter": "I",
+    "titleCount": 231,
+    "chapterCount": 231,
+    "titleDisplayHeading": "Title 15 | Commerce and Foreign Trade",
+    "chapterDisplayHeading": " Chapter I | Bureau of the Census, Department of Commerce",
+    "raw": [
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "Export Control and Licensing Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "Special Provisions and Specific-Type Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "Exemptions From the Requirements for the Filing of Electronic Export Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "General Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 66,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "General Carrier and Manifest Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "Import Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "General Administrative Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 30",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Foreign Trade Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "30"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 40",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Training of Foreign Participants in Census Procedures and General Statistics",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "40"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 50",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Special Services and Studies by the Bureau of the Census",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "50"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 60",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Public Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "60"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 70",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Cutoff Dates for Recognition of Boundary Changes for the 2010 Census",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "70"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 90",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Procedure for Challenging Population Estimates",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "90"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 100",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Seal",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "100"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 80",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Furnishing Personal Census Data from Census of Population Schedules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "80"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter I > Part 101",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of the Census, Department of Commerce",
+          "",
+          "Release of Decennial Census Population Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "I",
+          "part": "101"
+        }
+      }
+    ]
+  },
+  "searchCount": 238,
+  "versionSummary": {
+    "titleNumber": 15,
+    "totalVersions": 5939,
+    "firstDate": "2016-12-28",
+    "lastDate": "2025-09-30",
+    "uniqueParts": 160,
+    "uniqueSubparts": 26,
+    "typeCounts": {
+      "section": 4837,
+      "appendix": 1102
+    }
+  }
+}

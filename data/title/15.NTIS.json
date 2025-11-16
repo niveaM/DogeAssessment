@@ -1,0 +1,250 @@
+{
+  "number": 15,
+  "name": "Commerce and Foreign Trade",
+  "latest_amended_on": "2025-09-30",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "a2e538ad62f920ac85972485e6db3207fd62fea67795b848428533b510eaa731",
+  "wordCount": 1584517,
+  "agencySlug": "national-technical-information-service",
+  "titleChapterCounts": {
+    "title": "15",
+    "chapter": "XI",
+    "titleCount": 29,
+    "chapterCount": 29,
+    "titleDisplayHeading": "Title 15 | Commerce and Foreign Trade",
+    "chapterDisplayHeading": " Chapter XI | National Technical Information Service, Department of Commerce",
+    "raw": [
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XI > Part 1110 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Technical Information Service, Department of Commerce",
+          "",
+          "Certification Program for Access to the Death Master File",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XI",
+          "part": "1110",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XI > Part 1110 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Technical Information Service, Department of Commerce",
+          "",
+          "Certification Program for Access to the Death Master File",
+          "Certification Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XI",
+          "part": "1110",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XI > Part 1110 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Technical Information Service, Department of Commerce",
+          "",
+          "Certification Program for Access to the Death Master File",
+          "Penalties and Audits",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XI",
+          "part": "1110",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XI > Part 1110 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Technical Information Service, Department of Commerce",
+          "",
+          "Certification Program for Access to the Death Master File",
+          "Administrative Appeal",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XI",
+          "part": "1110",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XI > Part 1110 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Technical Information Service, Department of Commerce",
+          "",
+          "Certification Program for Access to the Death Master File",
+          "Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XI",
+          "part": "1110",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XI > Part 1110 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Technical Information Service, Department of Commerce",
+          "",
+          "Certification Program for Access to the Death Master File",
+          "Accredited Conformity Assessment Bodies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XI",
+          "part": "1110",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XI > Part 1180",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "National Technical Information Service, Department of Commerce",
+          "",
+          "Transfer by Federal Agencies of Scientific, Technical and Engineering Information to the National Technical Information Service",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XI",
+          "part": "1180"
+        }
+      }
+    ]
+  },
+  "searchCount": 29,
+  "versionSummary": {
+    "titleNumber": 15,
+    "totalVersions": 5939,
+    "firstDate": "2016-12-28",
+    "lastDate": "2025-09-30",
+    "uniqueParts": 160,
+    "uniqueSubparts": 26,
+    "typeCounts": {
+      "section": 4837,
+      "appendix": 1102
+    }
+  }
+}

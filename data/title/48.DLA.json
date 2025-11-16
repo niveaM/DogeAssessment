@@ -1,0 +1,247 @@
+{
+  "number": 48,
+  "name": "Federal Acquisition Regulations System",
+  "latest_amended_on": "2025-09-22",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "affb81157cae321c3920343c1a1fc434fe84e534557ded72d2b1a586764a1754",
+  "wordCount": 2667983,
+  "agencySlug": "defense-logistics-agency",
+  "titleChapterCounts": {
+    "title": "48",
+    "chapter": "54",
+    "titleCount": 7,
+    "chapterCount": 7,
+    "titleDisplayHeading": "Title 48 | Federal Acquisition Regulations System",
+    "chapterDisplayHeading": " Chapter 54 | Defense Logistics Agency, Department of Defense",
+    "raw": [
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XII > Subchapter B > Part 1280",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Defense Logistics Agency",
+          "Miscellaneous",
+          "Investigating and Processing Certain Noncontractual Claims and Reporting Related Litigation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XII",
+          "subchapter": "B",
+          "part": "1280"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XII > Subchapter B > Part 1288",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Defense Logistics Agency",
+          "Miscellaneous",
+          "Registration of Privately Owned Motor Vehicles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XII",
+          "subchapter": "B",
+          "part": "1288"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XII > Subchapter B > Part 1290",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Defense Logistics Agency",
+          "Miscellaneous",
+          "Preparing and Processing Minor Offenses and Violation Notices Referred to U.S. District Courts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XII",
+          "subchapter": "B",
+          "part": "1290"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XII > Subchapter B > Part 1292",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Defense Logistics Agency",
+          "Miscellaneous",
+          "Security of DLA Activities and Resources",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XII",
+          "subchapter": "B",
+          "part": "1292"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 54 > Part 5452 > Subpart 5452.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Defense Logistics Agency, Department of Defense",
+          "",
+          "Solicitation Provisions and Contract Clauses",
+          "Texts of Provisions and Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "54",
+          "part": "5452",
+          "subpart": "5452.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 54 > Part 5416 > Subpart 5416.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Defense Logistics Agency, Department of Defense",
+          "",
+          "Types of Contracts",
+          "Fixed Price Contracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "54",
+          "part": "5416",
+          "subpart": "5416.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 54 > Part 5433",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Defense Logistics Agency, Department of Defense",
+          "",
+          "Protests, Disputes and Appeals",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "54",
+          "part": "5433"
+        }
+      }
+    ]
+  },
+  "searchCount": 7,
+  "versionSummary": {
+    "titleNumber": 48,
+    "totalVersions": 27204,
+    "firstDate": "2014-10-17",
+    "lastDate": "2025-09-22",
+    "uniqueParts": 873,
+    "uniqueSubparts": 2408,
+    "typeCounts": {
+      "section": 27119,
+      "appendix": 85
+    }
+  }
+}

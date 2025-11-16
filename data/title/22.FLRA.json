@@ -1,0 +1,1888 @@
+{
+  "number": 22,
+  "name": "Foreign Relations",
+  "latest_amended_on": "2025-09-18",
+  "latest_issue_date": "2025-09-18",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "2b7abca803ce52b77ac45318b15e66377379ad767295be2fa9a5fb4fba0720fd",
+  "wordCount": 951930,
+  "agencySlug": "federal-labor-relations-authority",
+  "titleChapterCounts": {
+    "title": "22",
+    "chapter": "XIV",
+    "titleCount": 160,
+    "chapterCount": 160,
+    "titleDisplayHeading": "Title 22 | Foreign Relations",
+    "chapterDisplayHeading": " Chapter XIV | Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2411",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Availability of Official Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 56,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2411"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2413",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Open Meetings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2413"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2412",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Privacy",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 31,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2412"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2414",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Ex Parte Communications",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 5.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2414"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2415",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Employee Responsibilities and Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 5.0232058,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2415"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2417 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Testimony by Employees Relating to Official Information and Production of Official Records in Legal Proceedings",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 5.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2417",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2417 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Testimony by Employees Relating to Official Information and Production of Official Records in Legal Proceedings",
+          "Requests or Demands for Testimony and Production of Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2417",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2417 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Testimony by Employees Relating to Official Information and Production of Official Records in Legal Proceedings",
+          "Schedule of Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2417",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2417 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Testimony by Employees Relating to Official Information and Production of Official Records in Legal Proceedings",
+          "Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 5.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2417",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2416",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Federal Labor Relations Authority",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2416"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2418 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "FLRA Debt Collection",
+          "Procedures to Collect FLRA Debts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2418",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2418 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "FLRA Debt Collection",
+          "Procedures for Offset of FLRA Payments to Collect Debts Owed to Other Federal Agencies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 5.023803,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2418",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2418 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "FLRA Debt Collection",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 5.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2418",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter B > Part 2418",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "General Provisions",
+          "FLRA Debt Collection",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 5.0232058,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "2418"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2420",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Purpose and Scope",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2420"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2421",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Meaning of Terms as Used in This Subchapter",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2421"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2422",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Representation Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2422"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2423",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Unfair Labor Practice Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2423"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2423 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Unfair Labor Practice Proceedings",
+          "Filing, Investigating, Resolving, and Acting on Charges",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2423",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2423 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Unfair Labor Practice Proceedings",
+          "Post Complaint, Prehearing Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2423",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2423 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Unfair Labor Practice Proceedings",
+          "Hearing Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2423",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2423 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Unfair Labor Practice Proceedings",
+          "Post-Transmission and Exceptions to Authority Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2423",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2424 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Negotiability Proceedings",
+          "Processing a Petition for Review",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2424",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2424 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Negotiability Proceedings",
+          "Decision and Order",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2424",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2424 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Negotiability Proceedings",
+          "Applicability of This Part and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2424",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2424 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Negotiability Proceedings",
+          "Alternative Dispute Resolution; Requesting and Providing Allegations Concerning the Duty To Bargain",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2424",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2424 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Negotiability Proceedings",
+          "Filing and Responding to a Petition for Review; Conferences",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2424",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2424 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Negotiability Proceedings",
+          "Criteria for Determining Compelling Need for Agency Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2424",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2426 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "National Consultation Rights and Consultation Rights on Government-Wide Rules or Regulations",
+          "National Consultation Rights",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2426",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2426 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "National Consultation Rights and Consultation Rights on Government-Wide Rules or Regulations",
+          "Consultation Rights on Government-wide Rules or Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2426",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2427",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "General Statements of Policy or Guidance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2427"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2428",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Enforcement of Assistant Secretary Standards of Conduct Decisions and Orders",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2428"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2429 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Miscellaneous and General Requirements",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2429",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2429 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Miscellaneous and General Requirements",
+          "General Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2429",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2425",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Review of Arbitration Awards",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2425"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter C > Part 2430",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Labor Relations Authority and General Counsel of the Federal Labor Relations Authority",
+          "Awards of Attorney Fees and Other Expenses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "2430"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter D > Part 2470 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Service Impasses Panel",
+          "General",
+          "Purpose",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "2470",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter D > Part 2470 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Service Impasses Panel",
+          "General",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "2470",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter D > Part 2472 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Service Impasses Panel",
+          "Impasses Arising Pursuant to Agency Determinations Not to Establish or to Terminate Flexible or Compressed Work Schedules",
+          "Purpose and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "2472",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter D > Part 2472 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Service Impasses Panel",
+          "Impasses Arising Pursuant to Agency Determinations Not to Establish or to Terminate Flexible or Compressed Work Schedules",
+          "Procedures of the Panel",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "2472",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter D > Part 2471",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Service Impasses Panel",
+          "Procedures of the Panel",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "2471"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV > Subchapter D > Part 2473",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "Federal Service Impasses Panel",
+          "Subpoenas",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "2473"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XIV",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority, General Counsel of the Federal Labor Relations Authority and Federal Service Impasses Panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XIV"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter XLIX > Part 5901",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Labor Relations Authority",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Federal Labor Relations Authority",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XLIX",
+          "part": "5901"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter B > Part 1411",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "General Provisions",
+          "Availability of Official Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "1411"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter B > Part 1413",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "General Provisions",
+          "Open Meetings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "1413"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter B > Part 1414",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "General Provisions",
+          "Ex Parte Communications",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "1414"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1420",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Purpose and Scope",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 5.023803,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1420"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1421",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Meaning of Terms as Used in This Subchapter",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1421"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1422",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Representation Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1422"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1423",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Unfair Labor Practice Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 31,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1423"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1424",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Expedited Review of Negotiability Issues",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 5.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1424"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1425",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Review of Implementation Dispute Actions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 5.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1425"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1427",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "General Statements of Policy or Guidance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 5.023803,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1427"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1428",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Enforcement of Assistant Secretary Standards of Conduct Decisions and Orders",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 5.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1428"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1429 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Miscellaneous and General Requirements",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1429",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter C > Part 1429 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Labor Relations Board and General Counsel of the Federal Labor Relations Authority",
+          "Miscellaneous and General Requirements",
+          "General Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 5.024531,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "C",
+          "part": "1429",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter D > Part 1470 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Impasse Disputes Panel",
+          "General",
+          "Purpose",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "1470",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter D > Part 1470 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Impasse Disputes Panel",
+          "General",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "1470",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter D > Part 1471",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Impasse Disputes Panel",
+          "Procedures of the Panel",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "1471"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV"
+        }
+      }
+    ]
+  },
+  "searchCount": 160,
+  "versionSummary": {
+    "titleNumber": 22,
+    "totalVersions": 5233,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-18",
+    "uniqueParts": 218,
+    "uniqueSubparts": 16,
+    "typeCounts": {
+      "section": 5104,
+      "appendix": 129
+    }
+  }
+}

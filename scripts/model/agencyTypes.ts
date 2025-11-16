@@ -23,6 +23,7 @@ export interface Agency {
   summary?: string | null;
   // keep original raw if needed for debugging
   _raw?: any;
+  isChild?: boolean;
 }
 
 export interface AgencyDisplay {

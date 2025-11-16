@@ -1,0 +1,94 @@
+{
+  "number": 7,
+  "name": "Agriculture",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "de40c026f715ea66d869c53b1d0b5ae8a404aca9312ab8f256cab5009594e516",
+  "wordCount": 5633788,
+  "agencySlug": "economic-research-service",
+  "titleChapterCounts": {
+    "title": "7",
+    "chapter": "XXXVII",
+    "titleCount": 11,
+    "chapterCount": 11,
+    "titleDisplayHeading": "Title 7 | Agriculture",
+    "chapterDisplayHeading": " Chapter XXXVII | Economic Research Service, Department of Agriculture",
+    "raw": [
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXVII > Part 3700",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Economic Research Service, Department of Agriculture",
+          "",
+          "Organization and Functions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXVII",
+          "part": "3700"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXVII > Part 3701",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Economic Research Service, Department of Agriculture",
+          "",
+          "Public Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXVII",
+          "part": "3701"
+        }
+      }
+    ]
+  },
+  "searchCount": 11,
+  "versionSummary": {
+    "titleNumber": 7,
+    "totalVersions": 31108,
+    "firstDate": "2016-05-04",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 480,
+    "uniqueSubparts": 313,
+    "typeCounts": {
+      "section": 30688,
+      "appendix": 420
+    }
+  }
+}

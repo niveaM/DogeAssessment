@@ -1,0 +1,3304 @@
+{
+  "number": 5,
+  "name": "Administrative Personnel",
+  "latest_amended_on": "2025-09-15",
+  "latest_issue_date": "2025-09-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "8cc9f77057f7ba5ece26cbee9552c7d1d6c866e3606d8d42ab2a51bc69feccd2",
+  "wordCount": 1630237,
+  "agencySlug": "consumer-financial-protection-bureau",
+  "titleChapterCounts": {
+    "title": "5",
+    "chapter": "LXXXIV",
+    "titleCount": 32,
+    "chapterCount": 32,
+    "titleDisplayHeading": "Title 5 | Administrative Personnel",
+    "chapterDisplayHeading": " Chapter LXXXIV | Bureau of Consumer Financial Protection",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter LXXXIV > Part 9401",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Bureau of Consumer Financial Protection",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 32,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "LXXXIV",
+          "part": "9401"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1001",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Financial Products or Services",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1001"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1002 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Equal Credit Opportunity Act (Regulation B)",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1002",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1002",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Equal Credit Opportunity Act (Regulation B)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 70,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1002"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1002 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Equal Credit Opportunity Act (Regulation B)",
+          "Small Business Lending Data Collection",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1002",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1003",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Home Mortgage Disclosure (Regulation C)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 69,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1003"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1004",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Alternative Mortgage Transaction Parity (Regulation D)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1004"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1005 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Electronic Fund Transfers (Regulation E)",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 50,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1005",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1005",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Electronic Fund Transfers (Regulation E)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1005"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1005 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Electronic Fund Transfers (Regulation E)",
+          "Requirements for Remittance Transfers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1005",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1007",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "S.A.F.E. Mortgage Licensing Act—Federal Registration of Residential Mortgage Loan Originators (Regulation G)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1007"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1006 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Debt Collection Practices Act (Regulation F)",
+          "Rules for FDCPA Debt Collectors",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1006",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1006",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Debt Collection Practices Act (Regulation F)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1006"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1006 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Debt Collection Practices Act (Regulation F)",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1006",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1006 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Debt Collection Practices Act (Regulation F)",
+          "Procedures for State Application for Exemption From the Provisions of the Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1006",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1008 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "S.A.F.E. Mortgage Licensing Act - State Compliance and Bureau Registration System (Regulation H)",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1008",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1008 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "S.A.F.E. Mortgage Licensing Act - State Compliance and Bureau Registration System (Regulation H)",
+          "Determination of State Compliance With the S.A.F.E. Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1008",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1008 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "S.A.F.E. Mortgage Licensing Act - State Compliance and Bureau Registration System (Regulation H)",
+          "Enforcement of the Bureau's Licensing System",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1008",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1008 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "S.A.F.E. Mortgage Licensing Act - State Compliance and Bureau Registration System (Regulation H)",
+          "The Bureau's Loan Originator Licensing System and Nationwide Mortgage Licensing and Registry System",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1008",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1008",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "S.A.F.E. Mortgage Licensing Act - State Compliance and Bureau Registration System (Regulation H)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1008"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1008 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "S.A.F.E. Mortgage Licensing Act - State Compliance and Bureau Registration System (Regulation H)",
+          "Minimum Requirements for Administration of the NMLSR",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1008",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1009",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Disclosure Requirements for Depository Institutions Lacking Federal Deposit Insurance (Regulation I)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1009"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1010 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Land Registration (Regulation J)",
+          "General Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1010",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1010 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Land Registration (Regulation J)",
+          "Reporting Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 32,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1010",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1010 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Land Registration (Regulation J)",
+          "Certification of Substantially Equivalent State Law",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1010",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1010",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Land Registration (Regulation J)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1010"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1011 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Purchasers' Revocation Rights, Sales Practices and Standards (Regulation K)",
+          "Purchasers' Revocation Rights",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1011",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1011 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Purchasers' Revocation Rights, Sales Practices and Standards (Regulation K)",
+          "Sales Practices and Standards",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1011",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1011 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Purchasers' Revocation Rights, Sales Practices and Standards (Regulation K)",
+          "Advertising Disclaimers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1011",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1012 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Special Rules of Practice (Regulation L)",
+          "Filing Assistance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1012",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1012 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Special Rules of Practice (Regulation L)",
+          "Adjudicatory Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1012",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1013",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Consumer Leasing (Regulation M)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1013"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1014",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Mortgage Acts and Practices - Advertising (Regulation N)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1014"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1015",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Mortgage Assistance Relief Services (Regulation O)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1015"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1016",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Privacy of Consumer Financial Information (Regulation P)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1016"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1016 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Privacy of Consumer Financial Information (Regulation P)",
+          "Privacy and Opt Out Notices",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1016",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1016 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Privacy of Consumer Financial Information (Regulation P)",
+          "Limits on Disclosures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1016",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1016 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Privacy of Consumer Financial Information (Regulation P)",
+          "Exceptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1016",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1016 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Privacy of Consumer Financial Information (Regulation P)",
+          "Relation to Other Laws",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1016",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Affiliate Marketing",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Medical Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Duties of Users Regarding Risk-Based Pricing",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Duties of Furnishers of Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Duties of Users Regarding Obtaining and Using Consumer Reports",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Duties of Users of Consumer Reports Regarding Identity Theft",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Duties of Consumer Reporting Agencies Regarding Identity Theft",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Miscellaneous Duties of Consumer Reporting Agencies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "Duties of Consumer Reporting Agencies Regarding Disclosures to Consumers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1022",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Fair Credit Reporting (Regulation V)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1022"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1024 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Real Estate Settlement Procedures Act (Regulation X)",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1024",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1024 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Real Estate Settlement Procedures Act (Regulation X)",
+          "Mortgage Settlement and Escrow Accounts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1024",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1024",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Real Estate Settlement Procedures Act (Regulation X)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1024"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1024 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Real Estate Settlement Procedures Act (Regulation X)",
+          "Mortgage Servicing",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 39,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1024",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "Open-End Credit",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "Closed-End Credit",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "Special Rules for Certain Home Mortgage Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 49,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "Special Rules for Private Education Loans",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "Special Rules Applicable to Credit Card Accounts and Open-End Credit Offered to College Students",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 42,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1026",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Lending (Regulation Z)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 111,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1026"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1030",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Truth in Savings (Regulation DD)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1030"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1033 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Personal Financial Data Rights",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1033",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1033",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Personal Financial Data Rights",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1033"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1033 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Personal Financial Data Rights",
+          "Making Covered Data Available",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1033",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1033 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Personal Financial Data Rights",
+          "Data Provider Interfaces; Responding to Requests",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1033",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1033 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Personal Financial Data Rights",
+          "Authorized Third Parties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1033",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1040",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Arbitration Agreements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1040"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1070 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Disclosure of Records and Information",
+          "General Provisions and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1070",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1070 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Disclosure of Records and Information",
+          "Freedom of Information Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1070",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1070 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Disclosure of Records and Information",
+          "Disclosure of CFPB Information in Connection with Legal Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1070",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1070 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Disclosure of Records and Information",
+          "The Privacy Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1070",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1070 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Disclosure of Records and Information",
+          "Confidential Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1070",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1041 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Payday, Vehicle Title, and Certain High-Cost Installment Loans",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1041",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1041 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Payday, Vehicle Title, and Certain High-Cost Installment Loans",
+          "Underwriting",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1041",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1041 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Payday, Vehicle Title, and Certain High-Cost Installment Loans",
+          "Payments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1041",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1041 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Payday, Vehicle Title, and Certain High-Cost Installment Loans",
+          "Information Furnishing, Recordkeeping, Anti-Evasion, and Severability",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1041",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1041",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Payday, Vehicle Title, and Certain High-Cost Installment Loans",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1041"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1071 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rule Implementing Equal Access to Justice Act",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1071",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1071 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rule Implementing Equal Access to Justice Act",
+          "Information Required from Applicants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1071",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1071 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rule Implementing Equal Access to Justice Act",
+          "Procedures for Considering Applications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1071",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1072",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Disability in Programs and Activities Conducted by the Bureau of Consumer Financial Protection",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1072"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1073 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedures for Bureau Debt Collection",
+          "Scope, Purpose, and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1073",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1073 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedures for Bureau Debt Collection",
+          "Administrative Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1073",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1073 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedures for Bureau Debt Collection",
+          "Salary Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1073",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1073 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedures for Bureau Debt Collection",
+          "Administrative Wage Garnishment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1073",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1073 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedures for Bureau Debt Collection",
+          "Tax Refund Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1073",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1074",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedure Relating to Rulemaking",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1074"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1074 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedure Relating to Rulemaking",
+          "XXX",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1074",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1074 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedure Relating to Rulemaking",
+          "Use of Supervisory Guidance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1074",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1075",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Consumer Financial Civil Penalty Fund Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1075"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1080",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rules Relating to Investigations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1080"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1076",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Claims Against the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1076"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1081 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rules of Practice for Adjudication Proceedings",
+          "General Rules",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 44,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1081",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1081 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rules of Practice for Adjudication Proceedings",
+          "Initiation of Proceedings and Prehearing Rules",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 39,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1081",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1081 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rules of Practice for Adjudication Proceedings",
+          "Hearings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1081",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1081 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rules of Practice for Adjudication Proceedings",
+          "Decision and Appeals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1081",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1081 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Rules of Practice for Adjudication Proceedings",
+          "Temporary Cease-and-Desist Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1081",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1082",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "State Official Notification Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1082"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1090 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Defining Larger Participants of Certain Consumer Financial Product and Service Markets",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1090",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1090 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Defining Larger Participants of Certain Consumer Financial Product and Service Markets",
+          "Markets",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1090",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1091 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedural Rule to Establish Supervisory Authority over Certain Nonbank Covered Persons Based on Risk Determination",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1091",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1091 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedural Rule to Establish Supervisory Authority over Certain Nonbank Covered Persons Based on Risk Determination",
+          "Determination and Voluntary Consent Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1091",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1091 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedural Rule to Establish Supervisory Authority over Certain Nonbank Covered Persons Based on Risk Determination",
+          "Post-Determination Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1091",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1091 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Procedural Rule to Establish Supervisory Authority over Certain Nonbank Covered Persons Based on Risk Determination",
+          "Time Limits and Deadlines",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1091",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1083",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Civil Penalty Adjustments",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1083"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1092 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Nonbank Registration",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1092",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1092 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Nonbank Registration",
+          "Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1092",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter X > Part 1092",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Bureau of Consumer Financial Protection",
+          "",
+          "Nonbank Registration",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "X",
+          "part": "1092"
+        }
+      }
+    ]
+  },
+  "searchCount": 32,
+  "versionSummary": {
+    "titleNumber": 5,
+    "totalVersions": 8235,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-15",
+    "uniqueParts": 287,
+    "uniqueSubparts": 25,
+    "typeCounts": {
+      "section": 8068,
+      "appendix": 167
+    }
+  }
+}

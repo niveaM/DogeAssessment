@@ -1,0 +1,1940 @@
+{
+  "number": 15,
+  "name": "Commerce and Foreign Trade",
+  "latest_amended_on": "2025-09-30",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "a2e538ad62f920ac85972485e6db3207fd62fea67795b848428533b510eaa731",
+  "wordCount": 1584517,
+  "agencySlug": "industry-and-security-bureau",
+  "titleChapterCounts": {
+    "title": "15",
+    "chapter": "VII",
+    "titleCount": 1934,
+    "chapterCount": 1934,
+    "titleDisplayHeading": "Title 15 | Commerce and Foreign Trade",
+    "chapterDisplayHeading": " Chapter VII | Bureau of Industry and Security, Department of Commerce",
+    "raw": [
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Purpose",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Industrial Priorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Overview",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Allocation Actions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Industrial Priorities for Energy Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Special Priorities Assistance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Official Actions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Compliance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Adjustments, Exceptions, and Appeals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 700 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Defense Priorities and Allocations System",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "700",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 701",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Reporting of Offsets Agreements in Sales of Weapon Systems or Defense-Related Items to Foreign Countries or Foreign Firms",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "701"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 702",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Industrial Base Surveys - Data Collections",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "702"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter A > Part 705",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "National Security Industrial Base Regulations",
+          "Effect of Imported Articles on the National Security",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 46,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "A",
+          "part": "705"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 710",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "General Information and Overview of the Chemical Weapons Convention Regulations (CWCR)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "710"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 711",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "General Information Regarding Declaration, Reporting, and Advance Notification Requirements, and the Electronic Filing of Declarations and Reports",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "711"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 712",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Activities Involving Schedule 1 Chemicals",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "712"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 713",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Activities Involving Schedule 2 Chemicals",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "713"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 714",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Activities Involving Schedule 3 Chemicals",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "714"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 715",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Activities Involving Unscheduled Discrete Organic Chemicals (UDOCs)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "715"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 716",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Initial and Routine Inspections of Declared Facilities",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "716"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 717",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "CWC Clarification Procedures (Consultations and Challenge Inspections)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "717"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 718",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Confidential Business Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "718"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 719",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Enforcement",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "719"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 721",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Inspection of Records and Recordkeeping",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "721"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter B > Part 720",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Chemical Weapons Convention Regulations",
+          "Denial of Export Privileges",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "B",
+          "part": "720"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 730",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "General Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "730"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 732",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Steps for Using the EAR",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "732"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 734",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Scope of the Export Administration Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 96,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "734"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 736",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "General Prohibitions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "736"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 738",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Commerce Control List Overview and the Country Chart",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 39,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "738"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 740",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "License Exceptions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 228,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "740"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 742",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Control Policy - CCL Based Controls",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 142,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "742"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 743",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Special Reporting and Notification",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "743"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 744",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Control Policy: End-User and End-Use Based",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 305,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "744"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 745",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Chemical Weapons Convention Requirements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "745"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 746",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Embargoes and Other Special Controls",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 117,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "746"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 748",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Applications (Classification, Advisory, and License) and Documentation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 90,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "748"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 750",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Application Processing, Issuance, and Denial",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "750"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 754",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Short Supply Controls",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "754"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 756",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Appeals",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "756"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 758",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Export Clearance Requirements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 44,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "758"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 760",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Restrictive Trade Practices or Boycotts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "760"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 762",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Recordkeeping",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 36,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "762"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 764",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Enforcement and Protective Measures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "764"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 766",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Administrative Enforcement Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 36,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "766"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 768",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Foreign Availability Determination Procedures and Criteria",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "768"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 772",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Definitions of Terms",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 41,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "772"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 770",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "Interpretations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "770"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter C > Part 774",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Export Administration Regulations",
+          "The Commerce Control List",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 132,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "C",
+          "part": "774"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter E > Part 791 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Information and Communications Technology and Services Regulations",
+          "Securing the Information and Communications Technology and Services Supply Chain",
+          "Review of ICTS Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 32,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "E",
+          "part": "791",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter E > Part 791 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Information and Communications Technology and Services Regulations",
+          "Securing the Information and Communications Technology and Services Supply Chain",
+          "Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "E",
+          "part": "791",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter E > Part 791 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Information and Communications Technology and Services Regulations",
+          "Securing the Information and Communications Technology and Services Supply Chain",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "E",
+          "part": "791",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter E > Part 791 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Information and Communications Technology and Services Regulations",
+          "Securing the Information and Communications Technology and Services Supply Chain",
+          "ICTS Supply Chain: Connected Vehicles",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "E",
+          "part": "791",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter D > Part 781",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Additional Protocol Regulations",
+          "General Information and Overview of the Additional Protocol Regulations (APR)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "D",
+          "part": "781"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter D > Part 782",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Additional Protocol Regulations",
+          "General Information Regarding Reporting Requirements and Procedures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "D",
+          "part": "782"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter D > Part 783",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Additional Protocol Regulations",
+          "Civil Nuclear Fuel Cycle-Related Activities Not Involving Nuclear Materials",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "D",
+          "part": "783"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter D > Part 784",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Additional Protocol Regulations",
+          "Complementary Access",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "D",
+          "part": "784"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter D > Part 786",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Additional Protocol Regulations",
+          "Records and Recordkeeping",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "D",
+          "part": "786"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter VII > Subchapter D > Part 785",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Bureau of Industry and Security, Department of Commerce",
+          "Additional Protocol Regulations",
+          "Enforcement",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "VII",
+          "subchapter": "D",
+          "part": "785"
+        }
+      }
+    ]
+  },
+  "searchCount": 1950,
+  "versionSummary": {
+    "titleNumber": 15,
+    "totalVersions": 5939,
+    "firstDate": "2016-12-28",
+    "lastDate": "2025-09-30",
+    "uniqueParts": 160,
+    "uniqueSubparts": 26,
+    "typeCounts": {
+      "section": 4837,
+      "appendix": 1102
+    }
+  }
+}

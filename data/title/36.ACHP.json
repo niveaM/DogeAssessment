@@ -1,0 +1,298 @@
+{
+  "number": 36,
+  "name": "Parks, Forests, and Public Property",
+  "latest_amended_on": "2025-07-18",
+  "latest_issue_date": "2025-09-17",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "1085ca5a65b797174edb1ec4572637cfa87170b502fb2dcb134b4a90a7eb4915",
+  "wordCount": 1086818,
+  "agencySlug": "advisory-council-on-historic-preservation",
+  "titleChapterCounts": {
+    "title": "36",
+    "chapter": "VIII",
+    "titleCount": 60,
+    "chapterCount": 60,
+    "titleDisplayHeading": "Title 36 | Parks, Forests, and Public Property",
+    "chapterDisplayHeading": " Chapter VIII | Advisory Council on Historic Preservation",
+    "raw": [
+      {
+        "path": "Title 36 >  Chapter VIII > Part 800 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Protection of Historic Properties",
+          "The section 106 Process",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "800",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 800 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Protection of Historic Properties",
+          "Purposes and Participants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "800",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 800 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Protection of Historic Properties",
+          "Program Alternatives",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "800",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 800",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Protection of Historic Properties",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "800"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 801",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Historic Preservation Requirements of the Urban Development Action Grant Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "801"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 805",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Procedures for Implementation of National Environmental Policy Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "805"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 811",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Employee Responsibilities and Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "811"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 812",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Advisory Council on Historic Preservation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "812"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter VIII > Part 810",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Advisory Council on Historic Preservation",
+          "",
+          "Freedom of Information Act Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "VIII",
+          "part": "810"
+        }
+      }
+    ]
+  },
+  "searchCount": 60,
+  "versionSummary": {
+    "titleNumber": 36,
+    "totalVersions": 4446,
+    "firstDate": "2016-12-13",
+    "lastDate": "2025-07-18",
+    "uniqueParts": 168,
+    "uniqueSubparts": 21,
+    "typeCounts": {
+      "section": 4353,
+      "appendix": 93
+    }
+  }
+}

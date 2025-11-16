@@ -1,0 +1,544 @@
+{
+  "number": 47,
+  "name": "Telecommunication",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-26",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "c4440001d3f6ef767a8f94016526fe0ec7a78226df4127792569cc5e54ebdaf6",
+  "wordCount": 2356946,
+  "agencySlug": "science-and-technology-policy-office",
+  "titleChapterCounts": {
+    "title": "47",
+    "chapter": "II",
+    "titleCount": 45,
+    "chapterCount": 45,
+    "titleDisplayHeading": "Title 47 | Telecommunication",
+    "chapterDisplayHeading": " Chapter II | Office of Science and Technology Policy and National Security Council",
+    "raw": [
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "Original Classification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "Derivative Classification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "Declassification and Downgrading",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "Safeguarding",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "Foreign Government Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "Security Education",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2400 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations to Implement E.O. 12356; Office of Science and Technology Policy Information Security Program",
+          "Office of Science and Technology Policy Information Security Program Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2400",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXIV > Part 2402",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Office of Science and Technology Policy",
+          "",
+          "Regulations Implementing the Freedom of Information Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXIV",
+          "part": "2402"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 201",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Executive Policy",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "201"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 202",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "National Security and Emergency Preparedness Planning and Execution",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "202"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 211",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Emergency Restoration Priority Procedures for Telecommunications Services",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "211"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 212",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Procedures for Obtaining International Telecommunication Service for Use During a Wartime Emergency",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "212"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 213",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Government and Public Correspondence Telecommunications Precedence System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "213"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 214",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Procedures for the Use and Coordination of the Radio Spectrum During a Wartime Emergency",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "214"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 215",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Federal Government Focal Point for Electromagnetic Pulse (EMP) Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "215"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 216",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "National Communications System Issuance System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "216"
+        }
+      }
+    ]
+  },
+  "searchCount": 45,
+  "versionSummary": {
+    "titleNumber": 47,
+    "totalVersions": 13469,
+    "firstDate": "2016-12-01",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 69,
+    "uniqueSubparts": 38,
+    "typeCounts": {
+      "section": 13388,
+      "appendix": 81
+    }
+  }
+}

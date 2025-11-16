@@ -1,0 +1,6478 @@
+{
+  "number": 31,
+  "name": "Money and Finance: Treasury",
+  "latest_amended_on": "2025-09-25",
+  "latest_issue_date": "2025-09-25",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "a65bd82cdb212c6152f67e4cfa133f0ea9d810afffd4b650afbcfd65de389def",
+  "wordCount": 1366472,
+  "agencySlug": "fiscal-service",
+  "titleChapterCounts": {
+    "title": "31",
+    "chapter": "II",
+    "titleCount": 1414,
+    "chapterCount": 1414,
+    "titleDisplayHeading": "Title 31 | Money and Finance: Treasury",
+    "chapterDisplayHeading": " Chapter II | Fiscal Service, Department of the Treasury",
+    "raw": [
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 202",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Depositaries and Financial Agents of the Federal Government",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "202"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 203 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payment of Federal Taxes and the Treasury Tax and Loan Program",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "203",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 203 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payment of Federal Taxes and the Treasury Tax and Loan Program",
+          "Electronic Federal Tax Payments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "203",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 203 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payment of Federal Taxes and the Treasury Tax and Loan Program",
+          "PATAX",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "203",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 203 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payment of Federal Taxes and the Treasury Tax and Loan Program",
+          "Investment Program and Collateral Security Requirements for TT&amp;L Depositaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "203",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 205",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Rules and Procedures for Efficient Federal-State Funds Transfers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "205"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 205 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Rules and Procedures for Efficient Federal-State Funds Transfers",
+          "Rules Applicable to Federal Assistance Programs Included in a Treasury-State Agreement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "205",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 205 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Rules and Procedures for Efficient Federal-State Funds Transfers",
+          "Rules Applicable to Federal Assistance Programs Not Included in a Treasury-State Agreement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "205",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 206",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Management of Federal Agency Receipts, Disbursements, and Operation of the Cash Management Improvements Fund",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "206"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 208",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Management of Federal Agency Disbursements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "208"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 210",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Federal Government Participation in the Automated Clearing House",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "210"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 210 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Federal Government Participation in the Automated Clearing House",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "210",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 210 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Federal Government Participation in the Automated Clearing House",
+          "Reclamation of Benefit Payments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "210",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 211",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Delivery of Checks and Warrants to Addresses Outside the United States, Its Territories and Possessions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "211"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 212",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Garnishment of Accounts Containing Federal Benefit Payments",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "212"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 215 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Withholding of District of Columbia, State, City and County Income or Employment Taxes by Federal Agencies",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "215",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 215 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Withholding of District of Columbia, State, City and County Income or Employment Taxes by Federal Agencies",
+          "Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "215",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 215 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Withholding of District of Columbia, State, City and County Income or Employment Taxes by Federal Agencies",
+          "Withholding Agreement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "215",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 223",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Surety Companies Doing Business with the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 67,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "223"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 224",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Federal Process Agents of Surety Corporations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "224"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 225",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Acceptance of Bonds Secured by Government Obligations in Lieu of Bonds with Sureties",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "225"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 226",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Recognition of Insurance Covering Treasury Tax and Loan Depositaries",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "226"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 235",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Issuance of Settlement Checks for Forged Checks Drawn on Designated Depositaries",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "235"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 240 > General Provisions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Indorsement and Payment of Checks Drawn on the United States Treasury",
+          "",
+          "General Provisions"
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "240"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 240 > Indorsement of Checks",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Indorsement and Payment of Checks Drawn on the United States Treasury",
+          "",
+          "Indorsement of Checks"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "240"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 240",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Indorsement and Payment of Checks Drawn on the United States Treasury",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "240"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 245",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Claims on Account of Treasury Checks",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "245"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 248",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Issue of Substitutes of Lost, Stolen, Destroyed, Mutilated and Defaced Checks of the United States Drawn on Accounts Maintained in Depositary Banks in Foreign Countries or United States Territories or Possessions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "248"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 248 > Delegation of Authority",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Issue of Substitutes of Lost, Stolen, Destroyed, Mutilated and Defaced Checks of the United States Drawn on Accounts Maintained in Depositary Banks in Foreign Countries or United States Territories or Possessions",
+          "",
+          "Delegation of Authority"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "248"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 248 > Action To Be Taken by Claimants",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Issue of Substitutes of Lost, Stolen, Destroyed, Mutilated and Defaced Checks of the United States Drawn on Accounts Maintained in Depositary Banks in Foreign Countries or United States Territories or Possessions",
+          "",
+          "Action To Be Taken by Claimants"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "248"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 250",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payment on Account of Awards of the Foreign Claims Settlement Commission of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "250"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 256 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Obtaining Payments from the Judgment Fund and Under Private Relief Bills",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "256",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 256 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Obtaining Payments from the Judgment Fund and Under Private Relief Bills",
+          "Requesting Payments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "256",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 256 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Obtaining Payments from the Judgment Fund and Under Private Relief Bills",
+          "Debt Collection",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "256",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 256 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Obtaining Payments from the Judgment Fund and Under Private Relief Bills",
+          "Interest and Litigation Costs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "256",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 256 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Obtaining Payments from the Judgment Fund and Under Private Relief Bills",
+          "Reimbursements to the Judgment Fund",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "256",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 256 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Obtaining Payments from the Judgment Fund and Under Private Relief Bills",
+          "Additional Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "256",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 256 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Obtaining Payments from the Judgment Fund and Under Private Relief Bills",
+          "Private Relief Bills",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "256",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 270",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Availability of Records",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "270"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 285 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Debt Collection Authorities Under the Debt Collection Improvement Act of 1996",
+          "Disbursing Official Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "285",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 285 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Debt Collection Authorities Under the Debt Collection Improvement Act of 1996",
+          "Authorities Other Than Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "285",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 281",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Foreign Exchange Operations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "281"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Registration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Transfers, Exchanges and Reissues",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Redemption or Payment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Interest",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Assignments of Registered Securities - General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Assignments by or in Behalf of Individuals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Assignments in Behalf of Estates of Deceased Owners",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Assignments by or in Behalf of Trustees and Similar Fiduciaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Assignments in Behalf of Private or Public Organizations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Attorneys in Fact",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Transfer Through Judicial Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Requests for Suspension of Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Relief for Loss, Theft, Destruction, Mutilation, or Defacement of Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Book-Entry Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 306 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing U.S. Securities",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "306",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 308",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "General Regulations Governing Full-Paid Interim Certificates",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "308"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 309",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Issue and Sale of Treasury Bills",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "309"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 312",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Federal Savings and Loan Associations and Federal Credit Unions as Fiscal Agents of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "312"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Registration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Limitations on Annual Purchases",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Limitations on Transfer or Pledge",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Relief for Loss, Theft, Destruction, Mutilation, Defacement, or Nonreceipt of Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Limitations on Judicial Proceedings - No Stoppage or Caveats Permitted",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Interest",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "General Provisions for Payment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Reissue and Denominational Exchange",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Certifying Officers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Minors, Incompetents, Aged Persons, Absentees, et al.",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Fiduciaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Deceased Owner, Coowner or Beneficiary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Private Organizations (Corporations, Associations, Partnerships, etc.) and Governmental Agencies, Units and Officers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Escheat and Unclaimed Property Claims by States",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 315 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing U.S. Savings Bonds, Series a, B, C, D, E, F, G, H, J, and K, and U.S. Savings Notes",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "315",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 316",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series E",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "316"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 317",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Agencies for Issue of United States Savings Bonds",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "317"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "Payment and Transmittal of Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "Procedures for Qualification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "Scope of Authority",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "Losses Resulting From Erroneous Payments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "Forwarding Items",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 321 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Payments by Banks and Other Financial Institutions of Definitive United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "321",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 323 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Disclosure of Records",
+          "Freedom of Information Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "323",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 323 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Disclosure of Records",
+          "SECURE 2.0 Act of 2022",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "323",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 323",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Disclosure of Records",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "323"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 328",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Restrictive Endorsements of U.S. Bearer Securities",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "328"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 330",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Payment Under Special Endorsement of United States Savings Bonds and United States Savings Notes (Freedom Shares)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "330"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 332",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series H",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "332"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 337",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Supplemental Regulations Governing Federal Housing Administration Debentures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "337"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 337 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Supplemental Regulations Governing Federal Housing Administration Debentures",
+          "Certificated Debentures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "337",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 337 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Supplemental Regulations Governing Federal Housing Administration Debentures",
+          "Book-Entry Debentures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "337",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 337 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Supplemental Regulations Governing Federal Housing Administration Debentures",
+          "Additional Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "337",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 339",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Exchange Offering of United States Savings Bonds, Series H",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "339"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 340",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing the Sale of Treasury Bonds Through Competitive Bidding",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "340"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 341",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing United States Retirement Plan Bonds",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "341"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 342",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Notes",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "342"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 343 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing the Offering of United States Mortgage Guaranty Insurance Company Tax and Loss Bonds",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "343",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 343 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing the Offering of United States Mortgage Guaranty Insurance Company Tax and Loss Bonds",
+          "Tax and Loss Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "343",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 345",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing 5 Percent Treasury Certificates of Indebtedness—R.E.A. Series",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "345"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 344 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "U.S. Treasury Securities - State and Local Government Series",
+          "Time Deposit Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "344",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 344",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "U.S. Treasury Securities - State and Local Government Series",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "344"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 344 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "U.S. Treasury Securities - State and Local Government Series",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "344",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 344 > Subpart A > SLGSafe ® Service",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "U.S. Treasury Securities - State and Local Government Series",
+          "General Information",
+          "SLGSafe ® Service"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "344",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 344 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "U.S. Treasury Securities - State and Local Government Series",
+          "Demand Deposit Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "344",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 344 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "U.S. Treasury Securities - State and Local Government Series",
+          "Special Zero Interest Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "344",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 346",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing United States Individual Retirement Bonds",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "346"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 348",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Depositary Compensation Securities",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "348"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 347 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Retirement Savings Bonds",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "347",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 347 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Retirement Savings Bonds",
+          "Treasury's Retirement Savings Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "347",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 347 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Retirement Savings Bonds",
+          "Interest",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "347",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 347 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Retirement Savings Bonds",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "347",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 347 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Retirement Savings Bonds",
+          "Auto-IRA Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "347",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 347 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Retirement Savings Bonds",
+          "Miscellaneous Provisions for Retirement Savings Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "347",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart B > General Provisions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Maturities, Redemption Values, and Investment Yields of Series EE Savings Bonds",
+          "General Provisions"
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart B > Series EE Savings Bonds With Issue Dates of May 1, 1997, Through April 1, 2005",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Maturities, Redemption Values, and Investment Yields of Series EE Savings Bonds",
+          "Series EE Savings Bonds With Issue Dates of May 1, 1997, Through April 1, 2005"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart B > Series EE Savings Bonds with Issue Dates Prior to May 1, 1995",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Maturities, Redemption Values, and Investment Yields of Series EE Savings Bonds",
+          "Series EE Savings Bonds with Issue Dates Prior to May 1, 1995"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart B > Series EE Savings Bonds With Issue Dates From May 1, 1995, Through April 1, 1997",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Maturities, Redemption Values, and Investment Yields of Series EE Savings Bonds",
+          "Series EE Savings Bonds With Issue Dates From May 1, 1995, Through April 1, 1997"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart B > Series EE Savings Bonds With Issue Dates of May 1, 2005, or Thereafter",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Maturities, Redemption Values, and Investment Yields of Series EE Savings Bonds",
+          "Series EE Savings Bonds With Issue Dates of May 1, 2005, or Thereafter"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Definitive Series EE Savings Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Book-entry Series EE Savings Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 351 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series EE",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "351",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 352",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series HH",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "352"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Limitations on Annual Purchases",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Registration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Limitations on Transfer or Pledge",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Judicial Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Relief for Loss, Theft, Destruction, Mutilation, Defacement, or Nonreceipt of Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Interest",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "General Provisions for Payment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Reissue and Denominational Exchange",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Certifying Officers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Deceased Owner, Coowner or Beneficiary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Minors, Incompetents, Aged Persons, Absentees, et al.",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Fiduciaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Private Organizations (Corporations, Associations, Partnerships, et cetera) and Governmental Agencies, Units and Officers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Escheat and Unclaimed Property Claims by States",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 353 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series EE and HH",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "353",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 354",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Book-Entry Securities of the Student Loan Marketing Association (Sallie Mae)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "354"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 355",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Fiscal Agency Checks",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "355"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 356 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Sale and Issue of Marketable Book-Entry Treasury Bills, Notes, and Bonds (Department of the Treasury Circular, Fiscal Service Series No. 1-93)",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "356",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 356 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Sale and Issue of Marketable Book-Entry Treasury Bills, Notes, and Bonds (Department of the Treasury Circular, Fiscal Service Series No. 1-93)",
+          "Bidding, Certifications, and Payment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "356",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 356 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Sale and Issue of Marketable Book-Entry Treasury Bills, Notes, and Bonds (Department of the Treasury Circular, Fiscal Service Series No. 1-93)",
+          "Determination of Auction Awards; Settlement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "356",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 356",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Sale and Issue of Marketable Book-Entry Treasury Bills, Notes, and Bonds (Department of the Treasury Circular, Fiscal Service Series No. 1-93)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "356"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 356 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Sale and Issue of Marketable Book-Entry Treasury Bills, Notes, and Bonds (Department of the Treasury Circular, Fiscal Service Series No. 1-93)",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "356",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 357 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Book-Entry Treasury Bonds, Notes and Bills Held in Treasury/Reserve Automated Debt Entry System (TRADES) and Legacy Treasury Direct",
+          "Treasury/Reserve Automated Debt Entry System (TRADES)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "357",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 357 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Book-Entry Treasury Bonds, Notes and Bills Held in Treasury/Reserve Automated Debt Entry System (TRADES) and Legacy Treasury Direct",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "357",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 357 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Book-Entry Treasury Bonds, Notes and Bills Held in Treasury/Reserve Automated Debt Entry System (TRADES) and Legacy Treasury Direct",
+          "Legacy Treasury Direct Book-Entry Securities System (Legacy Treasury Direct)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "357",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 357",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Book-Entry Treasury Bonds, Notes and Bills Held in Treasury/Reserve Automated Debt Entry System (TRADES) and Legacy Treasury Direct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "357"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 357 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Book-Entry Treasury Bonds, Notes and Bills Held in Treasury/Reserve Automated Debt Entry System (TRADES) and Legacy Treasury Direct",
+          "Additional Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "357",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 358",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Book-Entry Conversion of Bearer Corpora and Detached Bearer Coupons",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "358"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 359 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series I",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "359",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 359",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series I",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "359"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 359 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series I",
+          "Definitive Series I Savings Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "359",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 359 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series I",
+          "Book-Entry Series I Savings Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "359",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 359 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Offering of United States Savings Bonds, Series I",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "359",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Limitations on Annual Purchases",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Registration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Limitations on Transfer or Pledge",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Judicial Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Relief for Loss, Theft, Destruction, Mutilation, Defacement, or Nonreceipt of Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Deceased Owner, Coowner or Beneficiary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "General Provisions for Payment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Reissue and Denominational Exchange",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Certifying Officers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Minors, Incompetents, Aged Persons, Absentees, et al.",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Fiduciaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Escheat and Unclaimed Property Claims by States",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 360 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Definitive United States Savings Bonds, Series I",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "360",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 361",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Claims Pursuant to the Government Losses in Shipment Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "361"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 362",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Declaration of Valuables Under the Government Losses in Shipment Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "362"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "General Provisions Governing Securities Held in TreasuryDirect",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 39,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart C > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Book-Entry Savings Bonds Purchased Through TreasuryDirect",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart C > Gifts",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Book-Entry Savings Bonds Purchased Through TreasuryDirect",
+          "Gifts"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart C > Payment",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Book-Entry Savings Bonds Purchased Through TreasuryDirect",
+          "Payment"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart D > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Zero-Percent Certificate of Indebtedness",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart D > Zero-Percent Certificate of Indebtedness",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Zero-Percent Certificate of Indebtedness",
+          "Zero-Percent Certificate of Indebtedness"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart D > Payroll Zero-Percent Certificate of Indebtedness",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Zero-Percent Certificate of Indebtedness",
+          "Payroll Zero-Percent Certificate of Indebtedness"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Conversion of a Definitive Savings Bond",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Marketable Treasury Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 363 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Regulations Governing Securities Held in TreasuryDirect",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "363",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 370 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Electronic Transactions and Funds Transfers Relating to United States Securities",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "370",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 370 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Electronic Transactions and Funds Transfers Relating to United States Securities",
+          "Credit ACH Entries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "370",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 370 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Electronic Transactions and Funds Transfers Relating to United States Securities",
+          "Debit Entries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "370",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 370 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Electronic Transactions and Funds Transfers Relating to United States Securities",
+          "Electronic Submission of Transaction Requests Through the Bureau of the Fiscal Service",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "370",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 370 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Electronic Transactions and Funds Transfers Relating to United States Securities",
+          "Additional Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "370",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 375 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Marketable Treasury Securities Redemption Operations",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "375",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 375 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Marketable Treasury Securities Redemption Operations",
+          "Offering, Certifications, and Delivery",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "375",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 375 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Marketable Treasury Securities Redemption Operations",
+          "Determination of Redemption Operation Results; Settlement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "375",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 375 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Marketable Treasury Securities Redemption Operations",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "375",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 380 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Collateral Acceptability and Valuation",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "380",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 380 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Collateral Acceptability and Valuation",
+          "Acceptable Collateral and Its Valuation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "380",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 380 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Collateral Acceptability and Valuation",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "380",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 31 > Subtitle B >  Chapter II > Subchapter A > Part 391",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Money and Finance: Treasury",
+          "Regulations Relating to Money and Finance",
+          "Fiscal Service, Department of the Treasury",
+          "Bureau of the Fiscal Service",
+          "Waiver of Interest, Administrative Costs, and Penalties",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 31,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "391"
+        }
+      }
+    ]
+  },
+  "searchCount": 1461,
+  "versionSummary": {
+    "titleNumber": 31,
+    "totalVersions": 9561,
+    "firstDate": "2016-09-02",
+    "lastDate": "2025-09-25",
+    "uniqueParts": 198,
+    "uniqueSubparts": 16,
+    "typeCounts": {
+      "section": 9259,
+      "appendix": 302
+    }
+  }
+}

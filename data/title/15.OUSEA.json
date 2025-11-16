@@ -1,0 +1,220 @@
+{
+  "number": 15,
+  "name": "Commerce and Foreign Trade",
+  "latest_amended_on": "2025-09-30",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "a2e538ad62f920ac85972485e6db3207fd62fea67795b848428533b510eaa731",
+  "wordCount": 1584517,
+  "agencySlug": "under-secretary-for-economic-affairs",
+  "titleChapterCounts": {
+    "title": "15",
+    "chapter": "XV",
+    "titleCount": 57,
+    "chapterCount": 57,
+    "titleDisplayHeading": "Title 15 | Commerce and Foreign Trade",
+    "chapterDisplayHeading": " Chapter XV | Office of the Under-Secretary for Economic Affairs, Department of Commerce",
+    "raw": [
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XV > Part 1500 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Office of the Under-Secretary for Economic Affairs, Department of Commerce",
+          "",
+          "Concrete Masonry Research, Education, and Promotion",
+          "Referendum Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XV",
+          "part": "1500",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XV > Part 1500 > Subpart A > Definitions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Office of the Under-Secretary for Economic Affairs, Department of Commerce",
+          "",
+          "Concrete Masonry Research, Education, and Promotion",
+          "Concrete Masonry Products Research, Education, and Promotion Order",
+          "Definitions"
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XV",
+          "part": "1500",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XV > Part 1500 > Subpart A > Concrete Masonry Products Board",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Office of the Under-Secretary for Economic Affairs, Department of Commerce",
+          "",
+          "Concrete Masonry Research, Education, and Promotion",
+          "Concrete Masonry Products Research, Education, and Promotion Order",
+          "Concrete Masonry Products Board"
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XV",
+          "part": "1500",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XV > Part 1500 > Subpart A > Expenses and Assessments",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Office of the Under-Secretary for Economic Affairs, Department of Commerce",
+          "",
+          "Concrete Masonry Research, Education, and Promotion",
+          "Concrete Masonry Products Research, Education, and Promotion Order",
+          "Expenses and Assessments"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XV",
+          "part": "1500",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XV > Part 1500 > Subpart A > Reports, Books, and Records",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Office of the Under-Secretary for Economic Affairs, Department of Commerce",
+          "",
+          "Concrete Masonry Research, Education, and Promotion",
+          "Concrete Masonry Products Research, Education, and Promotion Order",
+          "Reports, Books, and Records"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XV",
+          "part": "1500",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter XV > Part 1500 > Subpart A > Miscellaneous",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "Office of the Under-Secretary for Economic Affairs, Department of Commerce",
+          "",
+          "Concrete Masonry Research, Education, and Promotion",
+          "Concrete Masonry Products Research, Education, and Promotion Order",
+          "Miscellaneous"
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "XV",
+          "part": "1500",
+          "subpart": "A"
+        }
+      }
+    ]
+  },
+  "searchCount": 57,
+  "versionSummary": {
+    "titleNumber": 15,
+    "totalVersions": 5939,
+    "firstDate": "2016-12-28",
+    "lastDate": "2025-09-30",
+    "uniqueParts": 160,
+    "uniqueSubparts": 26,
+    "typeCounts": {
+      "section": 4837,
+      "appendix": 1102
+    }
+  }
+}

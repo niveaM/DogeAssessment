@@ -1,0 +1,1906 @@
+{
+  "number": 7,
+  "name": "Agriculture",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "de40c026f715ea66d869c53b1d0b5ae8a404aca9312ab8f256cab5009594e516",
+  "wordCount": 5633788,
+  "agencySlug": "natural-resources-conservation-service",
+  "titleChapterCounts": {
+    "title": "7",
+    "chapter": "VI",
+    "titleCount": 379,
+    "chapterCount": 379,
+    "titleDisplayHeading": "Title 7 | Agriculture",
+    "chapterDisplayHeading": " Chapter VI | Natural Resources Conservation Service, Department of Agriculture",
+    "raw": [
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter A > Part 600",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "General",
+          "Organization",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "600"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter A > Part 601",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "General",
+          "Functions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "601"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 610 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Technical Assistance",
+          "Conservation Operations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "610",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 610 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Technical Assistance",
+          "Soil Erosion Prediction Equations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "610",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 610 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Technical Assistance",
+          "State Technical Committees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "610",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 610 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Technical Assistance",
+          "Conservation of Private Grazing Land",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "610",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 611 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Soil Surveys",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 611 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Soil Surveys",
+          "Soil Survey Operations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 611 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Soil Surveys",
+          "Cartographic Operations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 612",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Snow Surveys and Water Supply Forecasts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "612"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 613",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "Plant Materials Centers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "613"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter B > Part 614",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Conservation Operations",
+          "NRCS Appeal Procedures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 621 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "River Basin Investigations and Surveys",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "621",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 621 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "River Basin Investigations and Surveys",
+          "USDA Cooperative Studies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "621",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 621 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "River Basin Investigations and Surveys",
+          "Floodplain Management Assistance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "621",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 621 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "River Basin Investigations and Surveys",
+          "Joint Investigations and Reports With the Department of the Army",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "621",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 621 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "River Basin Investigations and Surveys",
+          "Interagency Coordination",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "621",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 622 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "Watershed Projects",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "622",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 622 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "Watershed Projects",
+          "Qualifications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "622",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 622 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "Watershed Projects",
+          "Application Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "622",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 622 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "Watershed Projects",
+          "Planning",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "622",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 623",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "Emergency Wetlands Reserve Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "623"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 624",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "Emergency Watershed Protection",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "624"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter C > Part 625",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Water Resources",
+          "Healthy Forests Reserve Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "C",
+          "part": "625"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 650 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Compliance with NEPA",
+          "Procedures for NRCS-Assisted Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "650",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 650 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Compliance with NEPA",
+          "Related Environmental Concerns",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "650",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 652 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Technical Service Provider Assistance",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "652",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 652 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Technical Service Provider Assistance",
+          "Certification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "652",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 652 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Technical Service Provider Assistance",
+          "Decertification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "652",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 653",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Technical Standards",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "653"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 654 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Operation and Maintenance",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "654",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 654 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Operation and Maintenance",
+          "Federal Financially-Assisted Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "654",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 654 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Operation and Maintenance",
+          "Conservation Operations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "654",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 654 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Operation and Maintenance",
+          "Emergency Watershed Protection",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "654",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 654 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Operation and Maintenance",
+          "Great Plains Conservation Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "654",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 656",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Procedures for the Protection of Archeological and Historical Properties Encountered in NRCS-Assisted Programs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "656"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 657 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Prime and Unique Farmlands",
+          "Important Farmlands Inventory",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "657",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter F > Part 658",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Support Activities",
+          "Farmland Protection Policy Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "F",
+          "part": "658"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 630",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Long Term Contracting",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "630"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 631 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Great Plains Conservation Program",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "631",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 631 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Great Plains Conservation Program",
+          "Contracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "631",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 631 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Great Plains Conservation Program",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "631",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 632 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Abandoned Mine Program",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "632",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 632 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Abandoned Mine Program",
+          "Qualifications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "632",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 632 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Abandoned Mine Program",
+          "Participation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "632",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 632 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Abandoned Mine Program",
+          "Cost-Share Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "632",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 632 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Abandoned Mine Program",
+          "Appeals and Violations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "632",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 632 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Abandoned Mine Program",
+          "Environment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "632",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 633",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Water Bank Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "633"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 635",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Equitable Relief from Ineligibility",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "635"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 634 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Clean Water Program",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "634",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 634 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Clean Water Program",
+          "Project Authorization and Funding",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "634",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 634 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Clean Water Program",
+          "Participant RCWP Contracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "634",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 634 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Clean Water Program",
+          "Financial Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "634",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 634 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Rural Clean Water Program",
+          "Monitoring and Evaluation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "634",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter D > Part 636",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Long Term Contracting",
+          "Wildlife Habitat Incentive Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "D",
+          "part": "636"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter G > Part 661",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Miscellaneous",
+          "Public Information and Right to Privacy",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "G",
+          "part": "661"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter G > Part 661 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Miscellaneous",
+          "Public Information and Right to Privacy",
+          "Availability of Records and Materials",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "G",
+          "part": "661",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter VI > Subchapter G > Part 661 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Natural Resources Conservation Service, Department of Agriculture",
+          "Miscellaneous",
+          "Public Information and Right to Privacy",
+          "Right to Privacy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "VI",
+          "subchapter": "G",
+          "part": "661",
+          "subpart": "B"
+        }
+      }
+    ]
+  },
+  "searchCount": 398,
+  "versionSummary": {
+    "titleNumber": 7,
+    "totalVersions": 31108,
+    "firstDate": "2016-05-04",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 480,
+    "uniqueSubparts": 313,
+    "typeCounts": {
+      "section": 30688,
+      "appendix": 420
+    }
+  }
+}

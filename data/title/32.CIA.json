@@ -1,0 +1,814 @@
+{
+  "number": 32,
+  "name": "National Defense",
+  "latest_amended_on": "2025-08-27",
+  "latest_issue_date": "2025-09-16",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "f1240abff1a54d26edd2179a1527894bc7a5fe8e67a25d033b6c88f15a2bd43a",
+  "wordCount": 1789217,
+  "agencySlug": "central-intelligence-agency",
+  "titleChapterCounts": {
+    "title": "32",
+    "chapter": "XIX",
+    "titleCount": 177,
+    "chapterCount": 177,
+    "titleDisplayHeading": "Title 32 | National Defense",
+    "chapterDisplayHeading": " Chapter XIX | Central Intelligence Agency",
+    "raw": [
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1900 > CIA Action on FOIA Administrative Appeals",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Access to CIA Records Under the Freedom of Information Act (FOIA)",
+          "",
+          "CIA Action on FOIA Administrative Appeals"
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1900"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1900 > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Access to CIA Records Under the Freedom of Information Act (FOIA)",
+          "",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1900"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1900 > Filing of FOIA Requests",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Access to CIA Records Under the Freedom of Information Act (FOIA)",
+          "",
+          "Filing of FOIA Requests"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1900"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1900 > CIA Action on FOIA Requests",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Access to CIA Records Under the Freedom of Information Act (FOIA)",
+          "",
+          "CIA Action on FOIA Requests"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1900"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1900 > Additional Administrative Matters",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Access to CIA Records Under the Freedom of Information Act (FOIA)",
+          "",
+          "Additional Administrative Matters"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1900"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1901 > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Rights Under the Privacy Act of 1974",
+          "",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1901"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1901 > Filing of Privacy Act Requests",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Rights Under the Privacy Act of 1974",
+          "",
+          "Filing of Privacy Act Requests"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1901"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1901 > Action on Privacy Act Requests",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Rights Under the Privacy Act of 1974",
+          "",
+          "Action on Privacy Act Requests"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1901"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1901 > Additional Administrative Matters",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Rights Under the Privacy Act of 1974",
+          "",
+          "Additional Administrative Matters"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1901"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1901 > Action on Privacy Act Administrative Appeals",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Rights Under the Privacy Act of 1974",
+          "",
+          "Action on Privacy Act Administrative Appeals"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1901"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1901 > Prohibitions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Rights Under the Privacy Act of 1974",
+          "",
+          "Prohibitions"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1901"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1901 > Exemptions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Rights Under the Privacy Act of 1974",
+          "",
+          "Exemptions"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1901"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1903",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Conduct on Agency Installations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1903"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1904",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Procedures Governing Acceptance of Service of Process",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1904"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1905",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Production of Official Records or Disclosure of Official Information in Proceedings Before Federal, State or Local Governmental Entities of Competent Jurisdiction",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1905"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1906",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Central Intelligence Agency",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1906"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1907 > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Challenges to Classification of Documents by Authorized Holders Pursuant to Sec. 1.8 of Executive Order 13526",
+          "",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1907"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1907 > Filing of Challenges",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Challenges to Classification of Documents by Authorized Holders Pursuant to Sec. 1.8 of Executive Order 13526",
+          "",
+          "Filing of Challenges"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1907"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1907 > Action on Challenges",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Challenges to Classification of Documents by Authorized Holders Pursuant to Sec. 1.8 of Executive Order 13526",
+          "",
+          "Action on Challenges"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1907"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1907 > Right of Appeal",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Challenges to Classification of Documents by Authorized Holders Pursuant to Sec. 1.8 of Executive Order 13526",
+          "",
+          "Right of Appeal"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1907"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1908 > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Requests for Mandatory Declassification Review of Classified Information Pursuant to Sec. 3.5 of Executive Order 13526",
+          "",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1908"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1908 > Filing of Mandatory Declassification Review (MDR) Requests",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Requests for Mandatory Declassification Review of Classified Information Pursuant to Sec. 3.5 of Executive Order 13526",
+          "",
+          "Filing of Mandatory Declassification Review (MDR) Requests"
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1908"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1908 > Further Appeals",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Public Requests for Mandatory Declassification Review of Classified Information Pursuant to Sec. 3.5 of Executive Order 13526",
+          "",
+          "Further Appeals"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1908"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1909",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Access to Classified CIA Information by Historical Researchers and Certain Former Government Personnel Pursuant to Sec. 4.4 of Executive Order 13526",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1909"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1910",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Debarment and Suspension Procedures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1910"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XIX > Part 1911",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "Central Intelligence Agency",
+          "",
+          "Special Procedures for Discretionary Access to Classified Historical Central Intelligence Agency Records Requested by Other Federal Agencies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XIX",
+          "part": "1911"
+        }
+      }
+    ]
+  },
+  "searchCount": 177,
+  "versionSummary": {
+    "titleNumber": 32,
+    "totalVersions": 9637,
+    "firstDate": "2016-10-07",
+    "lastDate": "2025-08-27",
+    "uniqueParts": 362,
+    "uniqueSubparts": 16,
+    "typeCounts": {
+      "section": 9015,
+      "appendix": 622
+    }
+  }
+}

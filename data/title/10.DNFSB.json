@@ -1,0 +1,388 @@
+{
+  "number": 10,
+  "name": "Energy",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-26",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "49094c74da6cb8e243378a123a48c9d8970862c3ae9f8103c57abae99f47b139",
+  "wordCount": 2602512,
+  "agencySlug": "defense-nuclear-facilities-safety-board",
+  "titleChapterCounts": {
+    "title": "10",
+    "chapter": "XVII",
+    "titleCount": 103,
+    "chapterCount": 103,
+    "titleDisplayHeading": "Title 10 | Energy",
+    "chapterDisplayHeading": " Chapter XVII | Defense Nuclear Facilities Safety Board",
+    "raw": [
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1703",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Public Information and Requests",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1703"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1704",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Rules Implementing the Government in the Sunshine Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1704"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1705",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Privacy Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1705"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1706",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Organizational and Consultant Conflicts of Interests",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1706"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1707 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Testimony by DNFSB Employees and Production of Official Records in Legal Proceedings",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1707",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1707 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Testimony by DNFSB Employees and Production of Official Records in Legal Proceedings",
+          "Requests for Testimony and Production of Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1707",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1707 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Testimony by DNFSB Employees and Production of Official Records in Legal Proceedings",
+          "Schedule of Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1707",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1707 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Testimony by DNFSB Employees and Production of Official Records in Legal Proceedings",
+          "Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1707",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1709",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Debt Collection Procedures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1709"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1710 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Federal Employee Salary Offset Procedures for the Collection of a Debt Owed to the Federal Government",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1710",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1710 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Federal Employee Salary Offset Procedures for the Collection of a Debt Owed to the Federal Government",
+          "Notice, Hearing, and Salary Offset Process",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1710",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 10 >  Chapter XVII > Part 1708",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Energy",
+          "",
+          "Defense Nuclear Facilities Safety Board",
+          "",
+          "Procedures for Safety Investigations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 10,
+          "chapter": "XVII",
+          "part": "1708"
+        }
+      }
+    ]
+  },
+  "searchCount": 103,
+  "versionSummary": {
+    "titleNumber": 10,
+    "totalVersions": 11769,
+    "firstDate": "2016-12-30",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 183,
+    "uniqueSubparts": 28,
+    "typeCounts": {
+      "section": 10612,
+      "appendix": 1157
+    }
+  }
+}

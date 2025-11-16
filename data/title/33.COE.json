@@ -1,0 +1,2233 @@
+{
+  "number": 33,
+  "name": "Navigation and Navigable Waters",
+  "latest_amended_on": "2025-09-30",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "a353ea087bcd4035ea04d086b52223dd6dcea47a6fdd24722de3c5a9361edf4e",
+  "wordCount": 1512121,
+  "agencySlug": "engineers-corps",
+  "titleChapterCounts": {
+    "title": "33",
+    "chapter": "II",
+    "titleCount": 833,
+    "chapterCount": 833,
+    "titleDisplayHeading": "Title 33 | Navigation and Navigable Waters",
+    "chapterDisplayHeading": " Chapter II | Corps of Engineers, Department of the Army, Department of Defense",
+    "raw": [
+      {
+        "path": "Title 33 >  Chapter II > Part 203 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Employment of Army and Other Resources, Natural Disaster Procedures",
+          "Introduction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "203",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 203 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Employment of Army and Other Resources, Natural Disaster Procedures",
+          "Disaster Preparedness",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "203",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 203 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Employment of Army and Other Resources, Natural Disaster Procedures",
+          "Emergency Operations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "203",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 203 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Employment of Army and Other Resources, Natural Disaster Procedures",
+          "Rehabilitation Assistance for Flood Control Works Damaged by Flood or Coastal Storm: The Corps Rehabilitation and Inspection Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "203",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 203 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Employment of Army and Other Resources, Natural Disaster Procedures",
+          "Emergency Water Supplies: Contaminated Water Sources and Drought Assistance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "203",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 203 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Employment of Army and Other Resources, Natural Disaster Procedures",
+          "Advance Measures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "203",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 203 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Employment of Army and Other Resources, Natural Disaster Procedures",
+          "Local Interests/Cooperation Agreements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "203",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 207",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Navigation Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 64,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "207"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 208",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Flood Control Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "208"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 209",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Administrative Procedure",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "209"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 221",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Work for Others",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "221"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 210",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Procurement Activities of the Corps of Engineers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "210"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 214",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Emergency Supplies of Drinking Water",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "214"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 222",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Engineering and Design",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "222"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 220",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Design Criteria for Dam and Lake Projects",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "220"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 223",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Boards, Commissions, and Committees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "223"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 234",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Corps of Engineers Agency Specific Procedures to Implement the Principles, Requirements and Guidelines for Federal Investments in Water Resources",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "234"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 230",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Procedures for Implementing NEPA",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 32,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "230"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 236",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Water Resource Policies and Authorities: Corps of Engineers Participation in Improvements for Environmental Quality",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "236"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 238",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Water Resources Policies and Authorities: Flood Damage Reduction Measures in Urban Areas",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "238"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 239",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Water Resources Policies and Authorities: Federal Participation in Covered Flood Control Channels",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "239"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 240",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "General Credit for Flood Control",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "240"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 322",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Permits for Structures or Work in or Affecting Navigable Waters of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "322"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 241",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Flood Control Cost-Sharing Requirements Under the Ability to Pay Provision",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "241"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 242",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Flood Plain Management Services Program Establishment of Fees for Cost Recovery",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "242"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 245",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Removal of Wrecks and Other Obstructions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "245"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 325",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "325"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 263 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Continuing Authorities Programs",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "263",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 263 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Continuing Authorities Programs",
+          "Navigation Policy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "263",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 263 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Continuing Authorities Programs",
+          "Flood Control Policy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "263",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 263 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Continuing Authorities Programs",
+          "Shore Protection Policy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "263",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 263",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Continuing Authorities Programs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "263"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 273",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Aquatic Plant Control",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "273"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 274 > Project Operation",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Pest Control Program for Civil Works Projects",
+          "",
+          "Project Operation"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "274"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 274",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Pest Control Program for Civil Works Projects",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "274"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 276",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Water Resources Policies and Authorities: Application of Section 134a of Public Law 94-587",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "276"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 277",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Water Resources Policies and Authorities: Navigation Policy: Cost Apportionment of Bridge Alterations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "277"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "Purpose and Policy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "NEPA and General Concepts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "Environmental Impact Statements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "Efficient Environmental Reviews",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "Agency Decision Making",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "Procedures for Applicant-Prepared NEPA Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 333 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Processing of Department of the Army Permits and 33 U.S.C. 408 Permissions, National Environmental Policy Act Implementing Procedures",
+          "Severability",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "333",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 279",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Resource Use: Establishment of Objectives",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "279"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 320",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "General Regulatory Policies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "320"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 321",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Permits for Dams and Dikes in Navigable Waters of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "321"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 323",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Permits for Discharges of Dredged or Fill Material into Waters of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "323"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 324",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Permits for Ocean Dumping of Dredged Material",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "324"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 326",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Enforcement",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "326"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 327",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Public Hearings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "327"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 328",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Definition of Waters of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "328"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 329",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Definition of Navigable Waters of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "329"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 330",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Nationwide Permit Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "330"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 331",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Administrative Appeal Process",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "331"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 332",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Compensatory Mitigation for Losses of Aquatic Resources",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "332"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 334",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Danger Zone and Restricted Area Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 233,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "334"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 386",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Credit Assistance for Water Resources Infrastructure Projects",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "386"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 335",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Operation and Maintenance of Army Corps of Engineers Civil Works Projects Involving the Discharge of Dredged or Fill Material into Waters of the U.S. or Ocean Waters",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "335"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 336",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Factors to Be Considered in the Evaluation of Army Corps of Engineers Dredging Projects Involving the Discharge of Dredged Material into Waters of the U.S. and Ocean Waters",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "336"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 337",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Practice and Procedure",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "337"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 338",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Other Corps Activities Involving the Discharge of Dredged Material or Fill into Waters of the U.S.",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "338"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 384",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Intergovernmental Review of Department of the Army Corps of Engineers Programs and Activities",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "384"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 385",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Programmatic Regulations for the Comprehensive Everglades Restoration Plan",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "385"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 385 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Programmatic Regulations for the Comprehensive Everglades Restoration Plan",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "385",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 385 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Programmatic Regulations for the Comprehensive Everglades Restoration Plan",
+          "Program Goals and Responsibilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "385",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 385 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Programmatic Regulations for the Comprehensive Everglades Restoration Plan",
+          "CERP Implementation Processes",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "385",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 385 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Programmatic Regulations for the Comprehensive Everglades Restoration Plan",
+          "Incorporating New Information Into the Plan",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "385",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 33 >  Chapter II > Part 385 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Navigation and Navigable Waters",
+          "",
+          "Corps of Engineers, Department of the Army, Department of Defense",
+          "",
+          "Programmatic Regulations for the Comprehensive Everglades Restoration Plan",
+          "Ensuring Protection of the Natural System and Water Availability Consistent With the Goals and Purpose of the Plan",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 33,
+          "chapter": "II",
+          "part": "385",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter III > Part 312",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Corps of Engineers, Department of the Army",
+          "",
+          "Prohibition of Discriminatory Practices in Water Resource Development Projects",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "III",
+          "part": "312"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter III > Part 327",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Corps of Engineers, Department of the Army",
+          "",
+          "Rules and Regulations Governing Public Use of Water Resource Development Projects Administered by the Chief of Engineers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "III",
+          "part": "327"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter III > Part 328",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Corps of Engineers, Department of the Army",
+          "",
+          "Regulation of Seaplane Operations at Civil Works Water Resource Development Projects Administered by the Chief of Engineers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "III",
+          "part": "328"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter III > Part 330",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Corps of Engineers, Department of the Army",
+          "",
+          "Regulation of Law Enforcement Services Contracts at Civil Works Water Resource Projects Administered by the Chief of Engineers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "III",
+          "part": "330"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter III > Part 331",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Corps of Engineers, Department of the Army",
+          "",
+          "Regulations Governing the Protection, Use and Management of the Falls of the Ohio National Wildlife Conservation Area, Kentucky and Indiana",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "III",
+          "part": "331"
+        }
+      }
+    ]
+  },
+  "searchCount": 975,
+  "versionSummary": {
+    "titleNumber": 33,
+    "totalVersions": 8926,
+    "firstDate": "2016-12-15",
+    "lastDate": "2025-09-30",
+    "uniqueParts": 156,
+    "uniqueSubparts": 73,
+    "typeCounts": {
+      "section": 8787,
+      "appendix": 139
+    }
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "number": 41,
+  "name": "Public Contracts and Property Management",
+  "latest_amended_on": "2025-01-21",
+  "latest_issue_date": "2025-08-12",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "40211588e4486fd2d59f64c7a5be4aeea6b18a172757f2326d54ce7f47448dd8",
+  "wordCount": 740454,
+  "agencySlug": "committee-for-purchase-from-people-who-are-blind-or-severely-disabled",
+  "titleChapterCounts": {
+    "title": "41",
+    "chapter": "51",
+    "titleCount": 159,
+    "chapterCount": 159,
+    "titleDisplayHeading": "Title 41 | Public Contracts and Property Management",
+    "chapterDisplayHeading": " Chapter 51 | Committee for Purchase from People Who Are Blind or Severely Disabled",
+    "raw": [
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "General",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Central Nonprofit Agencies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-3"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Nonprofit Agencies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-4"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Contracting Requirements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-5"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Procurement Procedures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-6"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Procedures for Environmental Analysis",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-7"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-8",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Public Availabilty of Agency Materials",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-8"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-9 > Subpart 51-9.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Privacy Act Rules",
+          "General Policy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-9",
+          "subpart": "51-9.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-9 > Subpart 51-9.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Privacy Act Rules",
+          "Disclosure of Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-9",
+          "subpart": "51-9.2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-9 > Subpart 51-9.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Privacy Act Rules",
+          "Individual Access to Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-9",
+          "subpart": "51-9.3"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-9 > Subpart 51-9.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Privacy Act Rules",
+          "Requests To Amend Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-9",
+          "subpart": "51-9.4"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-9 > Subpart 51-9.6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Privacy Act Rules",
+          "Exemptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-9",
+          "subpart": "51-9.6"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-9 > Subpart 51-9.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Privacy Act Rules",
+          "Report on New Systems and Alteration of Existing Systems",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-9",
+          "subpart": "51-9.5"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-9 > Subpart 51-9.7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Privacy Act Rules",
+          "Rules of Conduct for Disclosure of Information About an Individual",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-9",
+          "subpart": "51-9.7"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-10",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-10"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle B >  Chapter 51 > Part 51-11",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Other Provisions Relating to Public Contracts",
+          "Committee for Purchase from People Who Are Blind or Severely Disabled",
+          "",
+          "Production or Disclosure in Federal and State Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "B",
+          "chapter": "51",
+          "part": "51-11"
+        }
+      }
+    ]
+  },
+  "searchCount": 165,
+  "versionSummary": {
+    "titleNumber": 41,
+    "totalVersions": 6988,
+    "firstDate": "2015-09-14",
+    "lastDate": "2025-01-21",
+    "uniqueParts": 193,
+    "uniqueSubparts": 175,
+    "typeCounts": {
+      "section": 6888,
+      "appendix": 100
+    }
+  }
+}

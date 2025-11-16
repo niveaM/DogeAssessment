@@ -1,0 +1,151 @@
+{
+  "number": 34,
+  "name": "Education",
+  "latest_amended_on": "2025-08-15",
+  "latest_issue_date": "2025-08-19",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "12dcc159e85d18b3ef60d3207828da66f465ad1bb5d997110142696cded9fcc4",
+  "wordCount": 1254142,
+  "agencySlug": "national-council-on-disability",
+  "titleChapterCounts": {
+    "title": "34",
+    "chapter": "XII",
+    "titleCount": 19,
+    "chapterCount": 19,
+    "titleDisplayHeading": "Title 34 | Education",
+    "chapterDisplayHeading": " Chapter XII | National Council on Disability",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter C > Part 10000",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "National Council on Disability",
+          "",
+          "Procedures for Disclosure of Records Under the Freedom of Information Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "C",
+          "part": "10000"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter C > Part 10001",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "National Council on Disability",
+          "",
+          "Implementation of the Privacy Act of 1974",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "C",
+          "part": "10001"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter C > Part 10002",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "National Council on Disability",
+          "",
+          "Implementation of the Government in the Sunshine Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "C",
+          "part": "10002"
+        }
+      },
+      {
+        "path": "Title 34 > Subtitle C >  Chapter XII > Part 1200",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Education",
+          "Regulations Relating to Education",
+          "National Council on Disability",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the National Council on Disability",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 34,
+          "subtitle": "C",
+          "chapter": "XII",
+          "part": "1200"
+        }
+      }
+    ]
+  },
+  "searchCount": 19,
+  "versionSummary": {
+    "titleNumber": 34,
+    "totalVersions": 8042,
+    "firstDate": "2016-11-17",
+    "lastDate": "2025-08-15",
+    "uniqueParts": 138,
+    "uniqueSubparts": 19,
+    "typeCounts": {
+      "section": 7908,
+      "appendix": 134
+    }
+  }
+}

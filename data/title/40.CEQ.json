@@ -1,0 +1,1043 @@
+{
+  "number": 40,
+  "name": "Protection of Environment",
+  "latest_amended_on": "2025-09-29",
+  "latest_issue_date": "2025-09-29",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "5058c90db6825a6fc249f6eeff5d7afbb7ffef3ada6e0bc8a024ecbcd718361e",
+  "wordCount": 16834462,
+  "agencySlug": "council-on-environmental-quality",
+  "titleChapterCounts": {
+    "title": "40",
+    "chapter": "V",
+    "titleCount": 317,
+    "chapterCount": 317,
+    "titleDisplayHeading": "Title 40 | Protection of Environment",
+    "chapterDisplayHeading": " Chapter V | Council on Environmental Quality",
+    "raw": [
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1501",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "NEPA and Agency Planning",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 24,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1501"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1502",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "Environmental Impact Statement",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 49,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1502"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1505",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "NEPA and Agency Decision Making",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1505"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1506",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "Other Requirements of NEPA",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 24,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1506"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1507",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "Agency Compliance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1507"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1508",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "Definitions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1508"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1500",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "Purpose and Policy",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1500"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1503",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "Commenting on Environmental Impact Statements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1503"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter A > Part 1504",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "National Environmental Policy Act Implementing Regulations",
+          "Dispute Resolution and Pre-Decisional Referrals",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "A",
+          "part": "1504"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1500",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Purpose, Policy, and Mandate",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1500"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1501",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "NEPA and Agency Planning",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1501"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1502",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Environmental Impact Statement",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1502"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1503",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Commenting",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1503"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1504",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Predecision Referrals to the Council of Proposed Federal Actions Determined to Be Environmentally Unsatisfactory",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1504"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1505",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "NEPA and Agency Decisionmaking",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1505"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1506",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Other Requirements of NEPA",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1506"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1507",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Agency Compliance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1507"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1508",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Terminology and Index",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1508"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1515 > Organization of CEQ",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Freedom of Information Act Procedures",
+          "",
+          "Organization of CEQ"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1515"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1515 > Procedures for Requesting Records",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Freedom of Information Act Procedures",
+          "",
+          "Procedures for Requesting Records"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1515"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1515 > Availability of Information",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Freedom of Information Act Procedures",
+          "",
+          "Availability of Information"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1515"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1515 > Costs",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Freedom of Information Act Procedures",
+          "",
+          "Costs"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1515"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1516",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Privacy Act Implementation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1516"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1517",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Public Meeting Procedures of the Council on Environmental Quality",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1517"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Part 1518",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "",
+          "Office of Environmental Quality Management Fund",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "part": "1518"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1515 > Purpose",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Freedom of Information Act Procedures",
+          "",
+          "Purpose"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1515"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1515 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Freedom of Information Act Procedures",
+          "The Council on Environmental Quality's FOIA Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1515",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1515 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Freedom of Information Act Procedures",
+          "Making a FOIA Request and Receiving a Response",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1515",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1515 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Freedom of Information Act Procedures",
+          "Appealing a FOIA Request",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1515",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1515 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Freedom of Information Act Procedures",
+          "Fees for FOIA Requests and Appeals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1515",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1515 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Freedom of Information Act Procedures",
+          "Confidential Commercial Information and Preservation of Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1515",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1519",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Guidance Documents",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1519"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1516",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Privacy Act Implementation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1516"
+        }
+      },
+      {
+        "path": "Title 40 >  Chapter V > Subchapter B > Part 1518",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Protection of Environment",
+          "",
+          "Council on Environmental Quality",
+          "Administrative Procedures and Operations",
+          "Office of Environmental Quality Management Fund",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 40,
+          "chapter": "V",
+          "subchapter": "B",
+          "part": "1518"
+        }
+      }
+    ]
+  },
+  "searchCount": 426,
+  "versionSummary": {
+    "titleNumber": 40,
+    "totalVersions": 58179,
+    "firstDate": "2016-01-04",
+    "lastDate": "2025-09-29",
+    "uniqueParts": 365,
+    "uniqueSubparts": 224,
+    "typeCounts": {
+      "section": 52686,
+      "appendix": 5493
+    }
+  }
+}

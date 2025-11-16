@@ -1,0 +1,5188 @@
+{
+  "number": 5,
+  "name": "Administrative Personnel",
+  "latest_amended_on": "2025-09-15",
+  "latest_issue_date": "2025-09-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "8cc9f77057f7ba5ece26cbee9552c7d1d6c866e3606d8d42ab2a51bc69feccd2",
+  "wordCount": 1630237,
+  "agencySlug": "federal-trade-commission",
+  "titleChapterCounts": {
+    "title": "5",
+    "chapter": "XLVII",
+    "titleCount": 2,
+    "chapterCount": 2,
+    "titleDisplayHeading": "Title 5 | Administrative Personnel",
+    "chapterDisplayHeading": " Chapter XLVII | Federal Trade Commission",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter XLVII > Part 5701",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Trade Commission",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Federal Trade Commission",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XLVII",
+          "part": "5701"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 0",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Organization",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 40,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "0"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart A > Advisory Opinions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Industry Guidance",
+          "Advisory Opinions"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart A > Industry Guides",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Industry Guidance",
+          "Industry Guides"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Rules and Rulemaking Under Section 18(a)(1)(B) of the FTC Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Rules Promulgated Under Authority Other Than Section 18(a)(1)(B) of the FTC Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Petitions for Rulemaking or Exemption",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Export Trade Associations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Trademark Cancellation Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Injunctive and Condemnation Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Administration of the Fair Credit Reporting Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Procedures for Implementation of the National Environmental Policy Act of 1969",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Economic Surveys, Investigations and Reports",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Penalties for Violation of Appliance Labeling Rules",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Civil Penalty Adjustments Under the Federal Civil Penalties Inflation Adjustment Act of 1990, as Amended",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Submissions Under the Small Business Regulatory Enforcement Fairness Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Administrative Wage Garnishment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "OMB Control Numbers for Commission Information Collection Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Administrative Debt Collection, Including Administrative Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart Q",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Tax Refund Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "Q"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart R",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Policy With Regard to Indemnification of FTC Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "R"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart S",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Procedures for Submissions Under the Horseracing Integrity and Safety Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "S"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart T",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Procedures for Review of Final Civil Sanctions Imposed under the Horseracing Integrity and Safety Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "T"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 1 > Subpart U",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "General Procedures",
+          "Procedures for Oversight of the Horseracing Integrity and Safety Authority's Annual Budget",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "1",
+          "subpart": "U"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 2 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Nonadjudicative Procedures",
+          "Inquiries; Investigations; Compulsory Processes",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "2",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 2 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Nonadjudicative Procedures",
+          "Consent Order Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "2",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 2 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Nonadjudicative Procedures",
+          "Requests To Reopen",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "2",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 2 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Nonadjudicative Procedures",
+          "Reports of Compliance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "2",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 2 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Nonadjudicative Procedures",
+          "Petitions Filed Under Section 7A of the Clayton Act, as Amended, for Review of Requests for Additional Information or Documentary Material",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "2",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Scope of Rules; Nature of Adjudicative Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Pleadings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Prehearing Procedures; Motions; Interlocutory Appeals; Summary Decisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Decision",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Discovery; Compulsory Process",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Reopening of Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Recovery of Awards Under the Equal Access to Justice Act in Commission Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 3 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Hearings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "3",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Miscellaneous Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "4"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 5 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Standards of Conduct",
+          "Employee Conduct Standards and Financial Conflicts of Interest",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "5",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 5 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Standards of Conduct",
+          "Financial Disclosure Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "5",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 5 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Standards of Conduct",
+          "Disciplinary Actions Concerning Postemployment Conflict of Interest",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "5",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Federal Trade Commission",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "6"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 14",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Administrative Interpretations, General Policy Statements, and Enforcement Policy Statements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "14"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter A > Part 16",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Organization, Procedures and Rules of Practice",
+          "Advisory Committee Management",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "A",
+          "part": "16"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 18",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for the Nursery Industry",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "18"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 20",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for the Rebuilt, Reconditioned, and Other Used Automobile Parts Industry",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "20"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 23",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for the Jewelry, Precious Metals, and Pewter Industries",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 58,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "23"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 24",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for Select Leather and Imitation Leather Products",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "24"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 238",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides Against Bait Advertising",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "238"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 233",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides Against Deceptive Pricing",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "233"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 239",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for the Advertising of Warranties and Guarantees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "239"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 240",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for Advertising Allowances and Other Merchandising Payments and Services",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "240"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 251",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guide Concerning Use of the Word “Free” and Similar Representations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "251"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 254",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for Private Vocational and Distance Education Schools",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "254"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 259",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guide Concerning Fuel Economy Advertising for New Automobiles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "259"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 255",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides Concerning Use of Endorsements and Testimonials in Advertising",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "255"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter B > Part 260",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Guides and Trade Practice Rules",
+          "Guides for the Use of Environmental Marketing Claims",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "B",
+          "part": "260"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 300 > Definitions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under the Wool Products Labeling Act of 1939",
+          "",
+          "Definitions"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "300"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 300 > Labeling",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under the Wool Products Labeling Act of 1939",
+          "",
+          "Labeling"
+        ],
+        "type": "subject_group",
+        "count": 33,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "300"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 300 > Manufacturers' Records",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under the Wool Products Labeling Act of 1939",
+          "",
+          "Manufacturers' Records"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "300"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 300 > Guaranties",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under the Wool Products Labeling Act of 1939",
+          "",
+          "Guaranties"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "300"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 300 > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under the Wool Products Labeling Act of 1939",
+          "",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "300"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 301 > Regulations",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under Fur Products Labeling Act",
+          "",
+          "Regulations"
+        ],
+        "type": "subject_group",
+        "count": 52,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "301"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 301 > Name Guide",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under Fur Products Labeling Act",
+          "",
+          "Name Guide"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "301"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 303",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under the Textile Fiber Products Identification Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 51,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "303"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 304",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Rules and Regulations Under the Hobby Protection Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "304"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Scope",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Scope"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Definitions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Definitions"
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Testing",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Testing"
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Testing",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Testing"
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Required Disclosures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Required Disclosures"
+        ],
+        "type": "subject_group",
+        "count": 42,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Additional Requirements",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Additional Requirements"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Effect of This Part",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Effect of This Part"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Additional Requirements",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Additional Requirements"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Effect of This Part",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Effect of This Part"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305 > Required Disclosures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          "Required Disclosures"
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 305",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act (“Energy Labeling Rule”)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 204,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 306 > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Automotive Fuel Ratings, Certification and Posting",
+          "",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "306"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 306 > Duties of Refiners, Importers and Producers",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Automotive Fuel Ratings, Certification and Posting",
+          "",
+          "Duties of Refiners, Importers and Producers"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "306"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 306 > Duties of Distributors",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Automotive Fuel Ratings, Certification and Posting",
+          "",
+          "Duties of Distributors"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "306"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 306 > Duties of Retailers",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Automotive Fuel Ratings, Certification and Posting",
+          "",
+          "Duties of Retailers"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "306"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 306 > Label Specifications",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Automotive Fuel Ratings, Certification and Posting",
+          "",
+          "Label Specifications"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "306"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 306",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Automotive Fuel Ratings, Certification and Posting",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "306"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 308",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Trade Regulation Rule Pursuant to the Telephone Disclosure and Dispute Resolution Act of 1992",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "308"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 309 > Subpart B > Duties of Importers, Producers, and Refiners of Non-Liquid Alternative Vehicle Fuels (Other Than Electricity) and of Manufacturers of Electric Vehicle Fuel Dispensing Systems",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles",
+          "Requirements for Alternative Fuels",
+          "Duties of Importers, Producers, and Refiners of Non-Liquid Alternative Vehicle Fuels (Other Than Electricity) and of Manufacturers of Electric Vehicle Fuel Dispensing Systems"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "309",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 309 > Subpart B > Duties of Distributors of Non-Liquid Alternative Vehicle Fuels (Other Than Electricity) and of Electric Vehicle Fuel Dispensing Systems",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles",
+          "Requirements for Alternative Fuels",
+          "Duties of Distributors of Non-Liquid Alternative Vehicle Fuels (Other Than Electricity) and of Electric Vehicle Fuel Dispensing Systems"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "309",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 309 > Subpart B > Duties of Retailers",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles",
+          "Requirements for Alternative Fuels",
+          "Duties of Retailers"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "309",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 309 > Subpart B > Label Specifications",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles",
+          "Requirements for Alternative Fuels",
+          "Label Specifications"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "309",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 309 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles",
+          "Requirements for Alternative Fueled Vehicles",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "309",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 309 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "309",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 309",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Labeling Requirements for Alternative Fuels and Alternative Fueled Vehicles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "309"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 311",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Test Procedures and Labeling Standards for Recycled Oil",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "311"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 310",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Telemarketing Sales Rule 16 CFR Part 310",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 46,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "310"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 312",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Children's Online Privacy Protection Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "312"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 313",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Privacy of Consumer Financial Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "313"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 313 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Privacy of Consumer Financial Information",
+          "Relation to Other Laws; Effective Date",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "313",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 313 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Privacy of Consumer Financial Information",
+          "Privacy and Opt Out Notices",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "313",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 313 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Privacy of Consumer Financial Information",
+          "Exceptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "313",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 313 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Privacy of Consumer Financial Information",
+          "Limits on Disclosures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "313",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 315",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Contact Lens Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "315"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 316",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Can-SPAM Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "316"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 314",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Standards for Safeguarding Customer Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "314"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 317",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Prohibition of Energy Market Manipulation Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "317"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 318",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Health Breach Notification Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "318"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 320",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Disclosure Requirements for Depository Institutions Lacking Federal Deposit Insurance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "320"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 321",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Mortgage Acts and Practices - Advertising",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "321"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 322",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Mortgage Assistance Relief Services",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "322"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter C > Part 323",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Regulations Under Specific Acts of Congress",
+          "Made in USA Labeling",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "C",
+          "part": "323"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 410",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Deceptive Advertising as to Sizes of Viewable Pictures Shown by Television Receiving Sets",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "410"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 423",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Care Labeling of Textile Wearing Apparel and Certain Piece Goods as Amended",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "423"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 424",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Retail Food Store Advertising and Marketing Practices",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "424"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 429",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Rule Concerning Cooling-off Period for Sales Made at Homes or at Certain Other Locations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "429"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 432",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Power Output Claims for Amplifiers Utilized in Home Entertainment Products",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "432"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 433",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Preservation of Consumers' Claims and Defenses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "433"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 435",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Mail, Internet, or Telephone Order Merchandise",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "435"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 425",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Rule Concerning Recurring Subscriptions and Other Negative Option Programs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "425"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 437",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Business Opportunity Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "437"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 444",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Credit Practices",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "444"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "Franchisors' Obligations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "Contents of a Disclosure Document",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "Instructions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "Prohibitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "Other Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "Exemptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 436",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Disclosure Requirements and Prohibitions Concerning Franchising",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "436"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 455",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Used Motor Vehicle Trade Regulation Rule",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "455"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 456",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Ophthalmic Practice Rules (Eyeglass Rule)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "456"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 453",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Funeral Industry Practices",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "453"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 460",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Labeling and Advertising of Home Insulation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 46,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "460"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 461",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Rule on Impersonation of Government and Businesses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "461"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 465",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Rule on the Use of Consumer Reviews and Testimonials",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "465"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter D > Part 464",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Trade Regulation Rules",
+          "Rule on Unfair or Deceptive Fees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "D",
+          "part": "464"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 500",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 4 of the Fair Packaging and Labeling Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "500"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 501",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Exemptions from Requirements and Prohibitions Under Part 500",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "501"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 502 > Scope",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 5(C) of the Fair Packaging and Labeling Act",
+          "",
+          "Scope"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 502 > Definitions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 5(C) of the Fair Packaging and Labeling Act",
+          "",
+          "Definitions"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 502 > General Requirements",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 5(C) of the Fair Packaging and Labeling Act",
+          "",
+          "General Requirements"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 502 > Characterization of Package Size",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 5(C) of the Fair Packaging and Labeling Act",
+          "",
+          "Characterization of Package Size"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 502 > Retail Sale Price Representations",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 5(C) of the Fair Packaging and Labeling Act",
+          "",
+          "Retail Sale Price Representations"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 502 > Common Name and Ingredient Listing",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 5(C) of the Fair Packaging and Labeling Act",
+          "",
+          "Common Name and Ingredient Listing"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 502 > Nonfunctional-Slack-Fill",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Regulations Under Section 5(C) of the Fair Packaging and Labeling Act",
+          "",
+          "Nonfunctional-Slack-Fill"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter E > Part 503",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statement of General Policy or Interpretation and Exemptions Under the Fair Packaging and Labeling Act",
+          "Statements of General Policy or Interpretation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "503"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 602",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Fair and Accurate Credit Transactions Act of 2003",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "602"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 603",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Definitions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "603"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 609",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Free Electronic Credit Monitoring for Active Duty Military",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "609"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 610",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Free Annual File Disclosures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "610"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 611",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Prohibition Against Circumventing Treatment as a Nationwide Consumer Reporting Agency",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "611"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 613",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Duration of Active Duty Alerts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "613"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 614",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Appropriate Proof of Identity",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "614"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 604",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Fair Credit Reporting Act Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "604"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 642",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Prescreen Opt-out Notice",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "642"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 660",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Duties of Furnishers of Information to Consumer Reporting Agencies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "660"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 680",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Affiliate Marketing",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "680"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 641",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Duties of Users of Consumer Reports Regarding Address Discrepancies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "641"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 681",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Identity Theft Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "681"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 682",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Disposal of Consumer Report Information and Records",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "682"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 640",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Duties of Creditors Regarding Risk-Based Pricing",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "640"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter F > Part 698",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "The Fair Credit Reporting Act",
+          "Model Forms and Disclosures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "698"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter G > Part 700",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Magnuson-Moss Warranty Act",
+          "Interpretations of Magnuson-Moss Warranty Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "G",
+          "part": "700"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter G > Part 701",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Magnuson-Moss Warranty Act",
+          "Disclosure of Written Consumer Product Warranty Terms and Conditions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "G",
+          "part": "701"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter G > Part 702",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Magnuson-Moss Warranty Act",
+          "Pre-Sale Availability of Written Warranty Terms",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "G",
+          "part": "702"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter G > Part 703",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Magnuson-Moss Warranty Act",
+          "Informal Dispute Settlement Procedures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "G",
+          "part": "703"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter G > Part 703 > Minimum Requirements of the Mechanism",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Magnuson-Moss Warranty Act",
+          "Informal Dispute Settlement Procedures",
+          "",
+          "Minimum Requirements of the Mechanism"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "G",
+          "part": "703"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter H > Part 801",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Hart-Scott-Rodino Antitrust Improvements Act of 1976",
+          "Coverage Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "H",
+          "part": "801"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter H > Part 802",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Hart-Scott-Rodino Antitrust Improvements Act of 1976",
+          "Exemption Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 35,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "H",
+          "part": "802"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter H > Part 803",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules, Regulations, Statements and Interpretations Under the Hart-Scott-Rodino Antitrust Improvements Act of 1976",
+          "Transmittal Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 60,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "H",
+          "part": "803"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter I > Part 901",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Fair Debt Collection Practices Act",
+          "Procedures for State Application for Exemption from the Provisions of the Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "I",
+          "part": "901"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter I > Subchapter J > Part 910",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Federal Trade Commission",
+          "Rules Concerning Unfair Methods of Competition",
+          "Non-Compete Clauses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "I",
+          "subchapter": "J",
+          "part": "910"
+        }
+      }
+    ]
+  },
+  "searchCount": 2,
+  "versionSummary": {
+    "titleNumber": 5,
+    "totalVersions": 8235,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-15",
+    "uniqueParts": 287,
+    "uniqueSubparts": 25,
+    "typeCounts": {
+      "section": 8068,
+      "appendix": 167
+    }
+  }
+}

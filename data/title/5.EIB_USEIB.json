@@ -1,0 +1,750 @@
+{
+  "number": 5,
+  "name": "Administrative Personnel",
+  "latest_amended_on": "2025-09-15",
+  "latest_issue_date": "2025-09-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "8cc9f77057f7ba5ece26cbee9552c7d1d6c866e3606d8d42ab2a51bc69feccd2",
+  "wordCount": 1630237,
+  "agencySlug": "export-import-bank",
+  "titleChapterCounts": {
+    "title": "5",
+    "chapter": "LII",
+    "titleCount": 2,
+    "chapterCount": 2,
+    "titleDisplayHeading": "Title 5 | Administrative Personnel",
+    "chapterDisplayHeading": " Chapter LII | Export-Import Bank of the United States",
+    "raw": [
+      {
+        "path": "Title 2 > Subtitle B >  Chapter XXXV > Part 3513",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Export-Import Bank of the United States",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "XXXV",
+          "part": "3513"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter XXXV > Part 3513 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Export-Import Bank of the United States",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "XXXV",
+          "part": "3513",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter XXXV > Part 3513 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Export-Import Bank of the United States",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "Covered Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "XXXV",
+          "part": "3513",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter XXXV > Part 3513 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Export-Import Bank of the United States",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "Responsibilities of Participants Regarding Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "XXXV",
+          "part": "3513",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter XXXV > Part 3513 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Export-Import Bank of the United States",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "Responsibilities of Federal Agency Officials Regarding Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "XXXV",
+          "part": "3513",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter LII > Part 6201",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Export-Import Bank of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "LII",
+          "part": "6201"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 403",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Classification, Declassification, and Safeguarding of National Security Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "403"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 400",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Employee Financial Disclosure and Ethical Conduct Standards Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "400"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 407",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Regulations Governing Public Observation of Eximbank Meetings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "407"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 410",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by Export-Import Bank of the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "410"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 412",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Acceptance of Payment from a Non-Federal Source for Travel Expenses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "412"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 414",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Conference and Other Fees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "414"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 404 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Information Disclosure",
+          "Procedures for Disclosure of Records Under the Freedom of Information Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "404",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 404 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Information Disclosure",
+          "Access to Records Under the Privacy Act of 1974",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 36,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "404",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 404 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Information Disclosure",
+          "Demands for Testimony of Current and Former Ex-Im Bank Personnel and for Production of Ex-Im Bank Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 39,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "404",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 411 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "New Restrictions on Lobbying",
+          "Activities by Own Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "411",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 411 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "New Restrictions on Lobbying",
+          "Activities by Other Than Own Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "411",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 411 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "New Restrictions on Lobbying",
+          "Penalties and Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "411",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 411 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "New Restrictions on Lobbying",
+          "Exemptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "411",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 411 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "New Restrictions on Lobbying",
+          "Agency Reports",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "411",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 411 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "New Restrictions on Lobbying",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "411",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 411",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "New Restrictions on Lobbying",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "411"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 408 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Procedures for Compliance with the National Environmental Policy Act",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "408",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter IV > Part 408 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Export-Import Bank of the United States",
+          "",
+          "Procedures for Compliance with the National Environmental Policy Act",
+          "Eximbank Implementing Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "IV",
+          "part": "408",
+          "subpart": "B"
+        }
+      }
+    ]
+  },
+  "searchCount": 2,
+  "versionSummary": {
+    "titleNumber": 5,
+    "totalVersions": 8235,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-15",
+    "uniqueParts": 287,
+    "uniqueSubparts": 25,
+    "typeCounts": {
+      "section": 8068,
+      "appendix": 167
+    }
+  }
+}

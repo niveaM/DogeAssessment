@@ -1,0 +1,272 @@
+{
+  "number": 12,
+  "name": "Banks and Banking",
+  "latest_amended_on": "2025-09-25",
+  "latest_issue_date": "2025-09-25",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "7b02db79ee769061ee5b85ee25e804e9cb1aebc840b1f8cb24aaad56f2999a18",
+  "wordCount": 5663202,
+  "agencySlug": "financial-stability-oversight-council",
+  "titleChapterCounts": {
+    "title": "12",
+    "chapter": "XIII",
+    "titleCount": 46,
+    "chapterCount": 46,
+    "titleDisplayHeading": "Title 12 | Banks and Banking",
+    "chapterDisplayHeading": " Chapter XIII | Financial Stability Oversight Council",
+    "raw": [
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1310",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Authority to Require Supervision and Regulation of Certain Nonbank Financial Companies",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1310"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1310 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Authority to Require Supervision and Regulation of Certain Nonbank Financial Companies",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1310",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1310 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Authority to Require Supervision and Regulation of Certain Nonbank Financial Companies",
+          "Determinations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1310",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1310 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Authority to Require Supervision and Regulation of Certain Nonbank Financial Companies",
+          "Information Collection; Proposed and Final Determinations; Evidentiary Hearings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1310",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1301",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Freedom of Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1301"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1320 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Designation of Financial Market Utilities",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1320",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1320 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Designation of Financial Market Utilities",
+          "Consultations, Determinations and Hearings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1320",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIII > Part 1320 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Financial Stability Oversight Council",
+          "",
+          "Designation of Financial Market Utilities",
+          "Information Collection",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIII",
+          "part": "1320",
+          "subpart": "C"
+        }
+      }
+    ]
+  },
+  "searchCount": 46,
+  "versionSummary": {
+    "titleNumber": 12,
+    "totalVersions": 18245,
+    "firstDate": "2013-01-03",
+    "lastDate": "2025-07-18",
+    "uniqueParts": 469,
+    "uniqueSubparts": 24,
+    "typeCounts": {
+      "section": 16923,
+      "appendix": 1322
+    }
+  }
+}

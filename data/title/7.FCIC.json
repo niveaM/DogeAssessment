@@ -1,0 +1,681 @@
+{
+  "number": 7,
+  "name": "Agriculture",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "de40c026f715ea66d869c53b1d0b5ae8a404aca9312ab8f256cab5009594e516",
+  "wordCount": 5633788,
+  "agencySlug": "federal-crop-insurance-corporation",
+  "titleChapterCounts": {
+    "title": "7",
+    "chapter": "IV",
+    "titleCount": 508,
+    "chapterCount": 508,
+    "titleDisplayHeading": "Title 7 | Agriculture",
+    "chapterDisplayHeading": " Chapter IV | Federal Crop Insurance Corporation, Department of Agriculture",
+    "raw": [
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Actual Production History",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Information Collection Requirements Under the Paperwork Reduction Act; OMB Control Numbers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Appeal Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Debt Management - Regulations for the 1986 and Succeeding Crop Years",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 28,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Non-Standard Underwriting Classification System Regulations for the 1991 and Succeeding Crop Years",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Reinsurance Agreement - Standards for Approval; Regulations for the 2019 and Subsequent Reinsurance Years.",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Agency Sales and Service Contract - Standards for Approval",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Preemption of State Laws and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart Q",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "General Administrative Regulations; Collection and Storage of Social Security Account Numbers and Employer Identification Numbers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "Q"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart R",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Administrative Remedies for Non-Compliance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "R"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart T",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Federal Crop Insurance Reform, Insurance Implementation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "T"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart U",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Ineligibility for Programs Under the Federal Crop Insurance Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "U"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart V",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Submission of Policies, Provisions of Policies, Rates of Premium, and Non-Reinsured Supplemental Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "V"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 400 > Subpart X",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "General Administrative Regulations",
+          "Interpretations of Statutory and Regulatory Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "400",
+          "subpart": "X"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 402",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "Catastrophic Risk Protection Endorsement",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "402"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 407",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "Area Risk Protection Insurance Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 38,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "407"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 412",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "Public Information - Freedom of Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "412"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 457",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "Common Crop Insurance Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 276,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "457"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 460 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "Additional Disaster Payments",
+          "Pandemic Cover Crop Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "460",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 460 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "Additional Disaster Payments",
+          "Additional Payment II Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "460",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IV > Part 460 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Federal Crop Insurance Corporation, Department of Agriculture",
+          "",
+          "Additional Disaster Payments",
+          "Prevented Planting Supplemental Disaster Payments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IV",
+          "part": "460",
+          "subpart": "A"
+        }
+      }
+    ]
+  },
+  "searchCount": 571,
+  "versionSummary": {
+    "titleNumber": 7,
+    "totalVersions": 31108,
+    "firstDate": "2016-05-04",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 480,
+    "uniqueSubparts": 313,
+    "typeCounts": {
+      "section": 30688,
+      "appendix": 420
+    }
+  }
+}

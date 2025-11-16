@@ -1,0 +1,367 @@
+{
+  "number": 45,
+  "name": "Public Welfare",
+  "latest_amended_on": "2025-09-11",
+  "latest_issue_date": "2025-09-11",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "36286b71fe2ed0551ecf25560e52ae9c7669ea7a0da266753576dd217fb76fbe",
+  "wordCount": 2146098,
+  "agencySlug": "civil-rights-commission",
+  "titleChapterCounts": {
+    "title": "45",
+    "chapter": "VII",
+    "titleCount": 88,
+    "chapterCount": 88,
+    "titleDisplayHeading": "Title 45 | Public Welfare",
+    "chapterDisplayHeading": " Chapter VII | Commission on Civil Rights",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter LXVIII > Part 7801",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Commission on Civil Rights",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the United States Commission on Civil Rights",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "LXVIII",
+          "part": "7801"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 701 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Organization and Functions of the Commission",
+          "Organizations and Functions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "701",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 701 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Organization and Functions of the Commission",
+          "Organization Statement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "701",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 702 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Rules on Hearings, Reports, and Meetings of the Commission",
+          "Hearings and Reports",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "702",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 702 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Rules on Hearings, Reports, and Meetings of the Commission",
+          "Meetings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "702",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 703",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Operations and Functions of State Advisory Committees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "703"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 705",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Materials Available Pursuant to 5 U.S.C. 552a",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "705"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 706",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Employee Responsibilities and Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "706"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 708",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Collection by Salary Offset from Indebted Current and Former Employees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "708"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 704",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Information Disclosure and Communications",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "704"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter VII > Part 707",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Commission on Civil Rights",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Disability in Programs or Activities Conducted by U.S. Commission on Civil Rights",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "VII",
+          "part": "707"
+        }
+      }
+    ]
+  },
+  "searchCount": 88,
+  "versionSummary": {
+    "titleNumber": 45,
+    "totalVersions": 10626,
+    "firstDate": "2016-09-12",
+    "lastDate": "2025-09-11",
+    "uniqueParts": 334,
+    "uniqueSubparts": 19,
+    "typeCounts": {
+      "section": 10409,
+      "appendix": 217
+    }
+  }
+}

@@ -1,0 +1,2960 @@
+{
+  "number": 46,
+  "name": "Shipping",
+  "latest_amended_on": "2025-07-01",
+  "latest_issue_date": "2025-07-01",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "7d92d19bbd872e687d9759e2677902dab90ed6e791498c1e57660594434236eb",
+  "wordCount": 1928824,
+  "agencySlug": "federal-maritime-commission",
+  "titleChapterCounts": {
+    "title": "46",
+    "chapter": "IV",
+    "titleCount": 1051,
+    "chapterCount": 1051,
+    "titleDisplayHeading": "Title 46 | Shipping",
+    "chapterDisplayHeading": " Chapter IV | Federal Maritime Commission",
+    "raw": [
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 501 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "The Federal Maritime Commission - General",
+          "Delegation and Redelegation of Authorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "501",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 501 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "The Federal Maritime Commission - General",
+          "Organization and Functions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "501",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 501 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "The Federal Maritime Commission - General",
+          "Delegation and Redelegation of Authorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "501",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 501 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "The Federal Maritime Commission - General",
+          "Public Requests for Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "501",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 501",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "The Federal Maritime Commission - General",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "501"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "General Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Appearance and Practice Before the Commission",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Parties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Rulemaking",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Proceedings; Pleadings; Motions; Replies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 52,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Settlement; Prehearing Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Time",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Service of Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Subpoenas",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Hearings; Presiding Officers; Evidence",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 82,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Shortened Procedure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Disclosures and Discovery",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 47,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Briefs; Requests for Findings; Decisions; Exceptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart N",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Oral Argument; Submission for Final Decision",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "N"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Reparation; Attorney Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart S",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Informal Procedure for Adjudication of Small Claims",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "S"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Reconsideration of Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart Q",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Refund or Waiver of Freight Charges",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "Q"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart R",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Nonadjudicatory Investigations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "R"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart U",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Alternative Dispute Resolution",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "U"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart T",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Formal Procedure for Adjudication of Small Claims",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "T"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart Y",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Paperwork Reduction Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "Y"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart X",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Hearing Procedure Governing Denial, Suspension, or Revocation of OTI License",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "X"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart V",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Implementation of the Equal Access to Justice Act in Commission Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "V"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 502 > Subpart W",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Rules of Practice and Procedure",
+          "Compromise, Assessment, Mitigation, Settlement, and Collection of Civil Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "W"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Publication in the Federal Register",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Records, Information and Materials Generally Available to the Public Without Resort to Freedom of Information Act Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Requests for Records Under the Freedom of Information Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Requests for Testimony by Employees Relating to Official Information and Production of Official Records in Litigation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Information Security Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Access to Any Record of Identifiable Personal Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 503 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Public Information",
+          "Public Observation of Federal Maritime Commission Meetings and Public Access to Information Pertaining to Commission Meetings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 504",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Procedures for Environmental Policy Analysis",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "504"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 505",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Administrative Offset",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "505"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 506",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Civil Monetary Penalty Inflation Adjustment",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "506"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 507",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Federal Maritime Commission",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "507"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter A > Part 508",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "General and Administrative Provisions",
+          "Employee Ethical Conduct Standards and Financial Disclosure Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "A",
+          "part": "508"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 515 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Licensing, Registration, Financial Responsibility Requirements and General Duties for Ocean Transportation Intermediaries",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "515",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 515 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Licensing, Registration, Financial Responsibility Requirements and General Duties for Ocean Transportation Intermediaries",
+          "Eligibility and Procedure for Licensing and Registration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "515",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 515 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Licensing, Registration, Financial Responsibility Requirements and General Duties for Ocean Transportation Intermediaries",
+          "Financial Responsibility Requirements; Claims Against Ocean Transportation Intermediaries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "515",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 515",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Licensing, Registration, Financial Responsibility Requirements and General Duties for Ocean Transportation Intermediaries",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "515"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 515 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Licensing, Registration, Financial Responsibility Requirements and General Duties for Ocean Transportation Intermediaries",
+          "Duties and Responsibilities of Ocean Transportation Intermediaries; Reports to Commission",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "515",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 515 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Licensing, Registration, Financial Responsibility Requirements and General Duties for Ocean Transportation Intermediaries",
+          "Freight Forwarding Fees and Compensation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "515",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 520",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Carrier Automated Tariffs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 50,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "520"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 525",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Marine Terminal Operator Schedules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "525"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 531 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Service Arrangements",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "531",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 531 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Service Arrangements",
+          "Filing Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "531",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 531 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Service Arrangements",
+          "Recordkeeping and Audit",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "531",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 531",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Service Arrangements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "531"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 531 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Service Arrangements",
+          "Publication of Essential Terms",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "531",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 531 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Service Arrangements",
+          "Exceptions and Implementation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "531",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 530 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Service Contracts",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "530",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 530",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Service Contracts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "530"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 530 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Service Contracts",
+          "Exceptions and Implementation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "530",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 530 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Service Contracts",
+          "Recordkeeping and Audit",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "530",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 530 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Service Contracts",
+          "Filing Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "530",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 530 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Service Contracts",
+          "Publication of Essential Terms",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "530",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 532 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Negotiated Rate Arrangements",
+          "Recordkeeping",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "532",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 532 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Negotiated Rate Arrangements",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "532",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 532 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "NVOCC Negotiated Rate Arrangements",
+          "Procedures Related to NVOCC Negotiated Rate Arrangements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "532",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Exemptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Scope",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Filing of Agreements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Information Form Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Reporting Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Paperwork Reduction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Action on Agreements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Mandatory and Prohibited Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 535 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Ocean Common Carrier and Marine Terminal Operator Agreements Subject to the Shipping Act of 1984",
+          "Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "535",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 540 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Passenger Vessel Financial Responsibility",
+          "Proof of Financial Responsibility, Bonding and Certification of Financial Responsibility for Indemnification of Passengers for Nonperformance of Transportation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "540",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 540 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Passenger Vessel Financial Responsibility",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "540",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 540 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Passenger Vessel Financial Responsibility",
+          "Proof of Financial Responsibility, Bonding and Certification of Financial Responsibility To Meet Liability Incurred for Death or Injury to Passengers or Other Persons on Voyages",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "540",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 541 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Demurrage and Detention",
+          "Billing Requirements and Practices",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "541",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 545",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Interpretations and Statements of Policy",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "545"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter B > Part 542",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations Affecting Ocean Shipping in Foreign Commerce",
+          "Common Carrier Prohibitions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "B",
+          "part": "542"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 550 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Regulations to Adjust or Meet Conditions Unfavorable to Shipping in the Foreign Trade of the United States",
+          "Production of Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "550",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 550 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Regulations to Adjust or Meet Conditions Unfavorable to Shipping in the Foreign Trade of the United States",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "550",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 550 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Regulations to Adjust or Meet Conditions Unfavorable to Shipping in the Foreign Trade of the United States",
+          "Conditions Unfavorable to Shipping",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "550",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 550 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Regulations to Adjust or Meet Conditions Unfavorable to Shipping in the Foreign Trade of the United States",
+          "Petitions for Section 19 Relief",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "550",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 550 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Regulations to Adjust or Meet Conditions Unfavorable to Shipping in the Foreign Trade of the United States",
+          "Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "550",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 550 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Regulations to Adjust or Meet Conditions Unfavorable to Shipping in the Foreign Trade of the United States",
+          "Corrective Actions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "550",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 551",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Actions to Adjust or Meet Conditions Unfavorable to Shipping in the U.S. Foreign Trade",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "551"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 555",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Actions to Address Adverse Conditions Affecting U.S.-Flag Carriers That Do Not Exist for Foreign Carriers in the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "555"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 560",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Actions to Address Conditions Unduly Impairing Access of U.S.-Flag Vessels to Ocean Trade Between Foreign Ports",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "560"
+        }
+      },
+      {
+        "path": "Title 46 >  Chapter IV > Subchapter C > Part 565",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Shipping",
+          "",
+          "Federal Maritime Commission",
+          "Regulations and Actions to Address Restrictive Foreign Maritime Practices",
+          "Controlled Carriers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 46,
+          "chapter": "IV",
+          "subchapter": "C",
+          "part": "565"
+        }
+      }
+    ]
+  },
+  "searchCount": 1100,
+  "versionSummary": {
+    "titleNumber": 46,
+    "totalVersions": 14807,
+    "firstDate": "2016-08-22",
+    "lastDate": "2025-07-01",
+    "uniqueParts": 227,
+    "uniqueSubparts": 742,
+    "typeCounts": {
+      "section": 14610,
+      "appendix": 197
+    }
+  }
+}

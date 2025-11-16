@@ -1,0 +1,1524 @@
+{
+  "number": 5,
+  "name": "Administrative Personnel",
+  "latest_amended_on": "2025-09-15",
+  "latest_issue_date": "2025-09-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "8cc9f77057f7ba5ece26cbee9552c7d1d6c866e3606d8d42ab2a51bc69feccd2",
+  "wordCount": 1630237,
+  "agencySlug": "federal-retirement-thrift-investment-board",
+  "titleChapterCounts": {
+    "title": "5",
+    "chapter": "LXXVI",
+    "titleCount": 705,
+    "chapterCount": 2,
+    "titleDisplayHeading": "Title 5 | Administrative Personnel",
+    "chapterDisplayHeading": " Chapter LXXVI | Federal Retirement Thrift Investment Board",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter VI > Part 1600 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Employee Contribution Elections, Contribution Allocations, and Automatic Enrollment Program",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1600",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1600 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Employee Contribution Elections, Contribution Allocations, and Automatic Enrollment Program",
+          "Elections",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1600",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1600 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Employee Contribution Elections, Contribution Allocations, and Automatic Enrollment Program",
+          "Transfers From Other Qualified Retirement Plans",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1600",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1600 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Employee Contribution Elections, Contribution Allocations, and Automatic Enrollment Program",
+          "Program of Contributions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1600",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1600 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Employee Contribution Elections, Contribution Allocations, and Automatic Enrollment Program",
+          "Automatic Enrollment Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1600",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1601 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Participants' Choices of TSP Funds",
+          "Investing Future Deposits",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1601",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1601 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Participants' Choices of TSP Funds",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1601",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1601 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Participants' Choices of TSP Funds",
+          "Contribution Allocations and Interfund Transfer Requests",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1601",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1601 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Participants' Choices of TSP Funds",
+          "Lifecycle Funds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1601",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1601 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Participants' Choices of TSP Funds",
+          "Fund Reallocations and Fund Transfers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1601",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1601 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Participants' Choices of TSP Funds",
+          "Mutual Fund Window",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1601",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1603",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Vesting",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1603"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1605 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Correction of Administrative Errors",
+          "Employing Agency Errors",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1605",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1605 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Correction of Administrative Errors",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1605",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1605 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Correction of Administrative Errors",
+          "Board or TSP Record Keeper Errors",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1605",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1605 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Correction of Administrative Errors",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1605",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1620 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Expanded and Continuing Eligibility",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1620",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1620 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Expanded and Continuing Eligibility",
+          "Cooperative Extension Service, Union, and Intergovernmental Personnel Act Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1620",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1620 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Expanded and Continuing Eligibility",
+          "Justices and Judges",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1620",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1620 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Expanded and Continuing Eligibility",
+          "Uniformed Services Employment and Reemployment Rights Act (USERRA) - Covered Military Service",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1620",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1620 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Expanded and Continuing Eligibility",
+          "Nonappropriated Fund Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1620",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1631 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Availability of Records",
+          "Production or Disclosure of Records Under the Freedom of Information Act, 5 U.S.C. 552",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 33,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1631",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1631 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Availability of Records",
+          "Administrative Subpoenas",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1631",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1631 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Availability of Records",
+          "Production in Response to Subpoenas or Demands of Courts or Other Authorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1631",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1630",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Privacy Act Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1630"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1632",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Rules Regarding Public Observation of Meetings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1632"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1633",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Standards of Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1633"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1636",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Federal Retirement Thrift Investment Board",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1636"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1639 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Claims Collection",
+          "Administrative Collection, Compromise, Termination, and Referral of Claims",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1639",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1639 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Claims Collection",
+          "Salary Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1639",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1639 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Claims Collection",
+          "Tax Refund Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1639",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1639 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Claims Collection",
+          "Administrative Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1639",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1639 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Claims Collection",
+          "Administrative Wage Garnishment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1639",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1645",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Calculation of Share Prices",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1645"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1640",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Periodic Participant Statements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1640"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1650 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Methods of Withdrawing Funds from the Thrift Savings Plan",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1650",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1650 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Methods of Withdrawing Funds from the Thrift Savings Plan",
+          "Procedures for Post-Employment Withdrawals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1650",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1650 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Methods of Withdrawing Funds from the Thrift Savings Plan",
+          "Post-Employment Withdrawals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 41,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1650",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1650 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Methods of Withdrawing Funds from the Thrift Savings Plan",
+          "Spousal Rights",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1650",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1650 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Methods of Withdrawing Funds from the Thrift Savings Plan",
+          "Procedures for In-Service Withdrawals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1650",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1650 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Methods of Withdrawing Funds from the Thrift Savings Plan",
+          "In-Service Withdrawals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1650",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1651",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Death Benefits",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 57,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1651"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1653 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Court Orders and Legal Processes Affecting Thrift Savings Plan Accounts",
+          "Retirement Benefits Court Orders",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 24,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1653",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1653 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Court Orders and Legal Processes Affecting Thrift Savings Plan Accounts",
+          "Process for the Enforcement of a Participant's Legal Obligation To Pay a Federal Tax Levy or Criminal Restitution Order",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1653",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1653 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Court Orders and Legal Processes Affecting Thrift Savings Plan Accounts",
+          "Child Abuse Court Orders",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1653",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1653 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Court Orders and Legal Processes Affecting Thrift Savings Plan Accounts",
+          "Legal Process for the Enforcement of a Participant's Legal Obligations To Pay Child Support or Alimony Currently",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1653",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1655",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Loan Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 64,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1655"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1690 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Thrift Savings Plan",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1690",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter VI > Part 1690 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Thrift Savings Plan",
+          "Miscellaneous",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "VI",
+          "part": "1690",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 5 >  Chapter LXXVI > Part 8601",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Federal Retirement Thrift Investment Board",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Federal Retirement Thrift Investment Board",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "LXXVI",
+          "part": "8601"
+        }
+      }
+    ]
+  },
+  "searchCount": 707,
+  "versionSummary": {
+    "titleNumber": 5,
+    "totalVersions": 8235,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-15",
+    "uniqueParts": 287,
+    "uniqueSubparts": 25,
+    "typeCounts": {
+      "section": 8068,
+      "appendix": 167
+    }
+  }
+}

@@ -1,0 +1,4171 @@
+{
+  "number": 12,
+  "name": "Banks and Banking",
+  "latest_amended_on": "2025-09-25",
+  "latest_issue_date": "2025-09-25",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "7b02db79ee769061ee5b85ee25e804e9cb1aebc840b1f8cb24aaad56f2999a18",
+  "wordCount": 5663202,
+  "agencySlug": "farm-credit-administration",
+  "titleChapterCounts": {
+    "title": "12",
+    "chapter": "VI",
+    "titleCount": 1024,
+    "chapterCount": 1024,
+    "titleDisplayHeading": "Title 12 | Banks and Banking",
+    "chapterDisplayHeading": " Chapter VI | Farm Credit Administration",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter XXXI > Part 4101",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Farm Credit Administration",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Farm Credit Administration",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XXXI",
+          "part": "4101"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 600 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Organization and Functions",
+          "Farm Credit Administration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "600",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 600 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Organization and Functions",
+          "Rules and Procedures for Service Upon the Farm Credit Administration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "600",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 601",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Employee Responsibilities and Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "601"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 602 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Releasing Information",
+          "Information and Records Generally",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "602",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 602 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Releasing Information",
+          "Availability of Records of the Farm Credit Administration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "602",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 602 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Releasing Information",
+          "FOIA Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "602",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 602 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Releasing Information",
+          "Testimony and Production of Documents in Legal Proceedings in Which FCA is Not a Named Party",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "602",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 602 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Releasing Information",
+          "Release of Records in Public Rulemaking Files",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "602",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 603",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Privacy Act Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "603"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 604",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Farm Credit Administration Board Meetings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "604"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 605",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "605"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 606",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Farm Credit Administration",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "606"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 607",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Assessment and Apportionment of Administrative Expenses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "607"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 608 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Collection of Claims Owed the United States",
+          "Administrative Collection of Claims",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "608",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 608 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Collection of Claims Owed the United States",
+          "Administrative Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "608",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter A > Part 608 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Administrative Provisions",
+          "Collection of Claims Owed the United States",
+          "Offset Against Salary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "A",
+          "part": "608",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 609 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Electronic Commerce",
+          "General Rules",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "609",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 609 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Electronic Commerce",
+          "Standards for Boards and Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "609",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 609 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Electronic Commerce",
+          "Standards for Boards and Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "609",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 609 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Electronic Commerce",
+          "General Requirements for Electronic Communications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "609",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 610",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Registration of Mortgage Loan Originators",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "610"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Bank and Association Board of Directors",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Election of Directors and Other Voting Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Compensation Practices of Farm Credit Banks and Associations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Transfer of Authorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Bank Mergers, Consolidations and Charter Amendments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Mergers, Consolidations, and Charter Amendments of Associations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Rules for Inter-System Fund Transfers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Service Corporations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Unincorporated Business Entities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 611 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Organization",
+          "Termination of System Institution Status",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 35,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "611",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 612 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Standards of Conduct and Referral of Known or Suspected Criminal Violations",
+          "Standards of Conduct",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "612",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 612 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Standards of Conduct and Referral of Known or Suspected Criminal Violations",
+          "Referral of Known or Suspected Criminal Violations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "612",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 613 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Eligibility and Scope of Financing",
+          "Financing Under Titles I and II of the Farm Credit Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "613",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 613 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Eligibility and Scope of Financing",
+          "Financing for Banks Operating Under Title III of the Farm Credit Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "613",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 613 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Eligibility and Scope of Financing",
+          "Similar Entity Authority Under Sections 3.1(11)(B) and 4.18A of the Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "613",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Lending Authorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Chartered Territories",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Bank/Association Lending Relationship",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "General Loan Policies for Banks and Associations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Loan Terms and Conditions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Collateral Evaluation Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Loan Purchases and Sales",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Loss-Sharing Agreements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Lending and Leasing Limits",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Loan Approval Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Special Lending Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Farm Credit Bank and Agricultural Credit Bank Financing of Other Financing Institutions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart Q",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Banks for Cooperatives and Agricultural Credit Banks Financing International Trade",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "Q"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart R",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Secondary Market Authorities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "R"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 614 > Subpart S",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Loan Policies and Operations",
+          "Flood Insurance Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "614",
+          "subpart": "S"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Funding",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Collateral",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Issuance of Bonds, Notes, Debentures and Similar Obligations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Other Funding",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Investment Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 33,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Property, Transfers of Capital, and Other Investments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Risk Assessment and Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Capital Adequacy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Issuance of Equities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Retirement of Equities and Payment of Dividends",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart L",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Establishment of Minimum Capital Ratios for an Individual Institution",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "L"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart M",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Issuance of a Capital Directive",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "M"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart O",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Book-Entry Procedures for Farm Credit Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "O"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart P",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Global Debt Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "P"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart Q",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Bankers' Acceptances",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "Q"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 615 > Subpart S",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations",
+          "Federal Agricultural Mortgage Corporation Securities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "615",
+          "subpart": "S"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 616",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Leasing",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "616"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 617 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Borrower Rights",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "617",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 617 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Borrower Rights",
+          "Disclosure of Effective Interest Rates",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "617",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 617 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Borrower Rights",
+          "Disclosure of Differential Interest Rates",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "617",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 617 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Borrower Rights",
+          "Actions on Applications; Review of Credit Decisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "617",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 617 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Borrower Rights",
+          "Distressed Loan Restructuring; State Agricultural Loan Mediation Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "617",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 617 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Borrower Rights",
+          "Distressed Loan Restructuring Directive",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "617",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 617 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Borrower Rights",
+          "Right of First Refusal",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "617",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 618 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "General Provisions",
+          "Related Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "618",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 618 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "General Provisions",
+          "Member Insurance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "618",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 618 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "General Provisions",
+          "Releasing Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "618",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 618 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "General Provisions",
+          "Disposition of Obsolete Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "618",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 618 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "General Provisions",
+          "Internal Controls",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "618",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 619",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Definitions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 36,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "619"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 620 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Shareholders",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "620",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 620 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Shareholders",
+          "Annual Report to Shareholders",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "620",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 620 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Shareholders",
+          "Quarterly Report",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "620",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 620 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Shareholders",
+          "Notice to Shareholders",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "620",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 620 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Shareholders",
+          "Annual Meeting Information Statements and Other Information To Be Furnished in Connection with Annual Meetings and Director Elections",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "620",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 620 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Shareholders",
+          "Bank and Association Audit and Compensation Committees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "620",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 621 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Accounting and Reporting Requirements",
+          "Purpose and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "621",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 621 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Accounting and Reporting Requirements",
+          "General Rules",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "621",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 621 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Accounting and Reporting Requirements",
+          "Loan Performance and Valuation Assessment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "621",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 621 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Accounting and Reporting Requirements",
+          "-Reports of Condition and Performance and Accounts and Exposures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "621",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 621 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Accounting and Reporting Requirements",
+          "Auditor Independence",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "621",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 622 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Rules of Practice and Procedure",
+          "Rules Applicable to Formal Hearings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "622",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 622 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Rules of Practice and Procedure",
+          "Rules and Procedures for Assessment and Collection of Civil Money Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 24,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "622",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 622 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Rules of Practice and Procedure",
+          "Rules and Procedures Applicable to Suspension or Removal of an Individual Where Certain Crimes Are Charged or Proven",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "622",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 622 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Rules of Practice and Procedure",
+          "Rules and Procedures Applicable to Formal Investigations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "622",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 623",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Practice Before the Farm Credit Administration",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "623"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 624",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Margin and Capital Requirements for Covered Swap Entities",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "624"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 625 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Application for Award of Fees and Other Expenses Under the Equal Access to Justice Act",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "625",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 625 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Application for Award of Fees and Other Expenses Under the Equal Access to Justice Act",
+          "Applicant Information Required",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "625",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 625 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Application for Award of Fees and Other Expenses Under the Equal Access to Justice Act",
+          "Procedures for Considering Applications",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "625",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 626",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Nondiscrimination in Lending",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "626"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 627 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Title IV Conservators, Receivers, and Voluntary Liquidations",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "627",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 627 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Title IV Conservators, Receivers, and Voluntary Liquidations",
+          "Receivers and Receiverships",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 24,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "627",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 627 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Title IV Conservators, Receivers, and Voluntary Liquidations",
+          "Conservators and Conservatorships",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "627",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 627 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Title IV Conservators, Receivers, and Voluntary Liquidations",
+          "Voluntary Liquidation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "627",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart D > Risk-Weighted Assets for General Credit Risk",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Risk-Weighted Assets—Standardized Approach",
+          "Risk-Weighted Assets for General Credit Risk"
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart D > Risk-Weighted Assets for Unsettled Transactions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Risk-Weighted Assets—Standardized Approach",
+          "Risk-Weighted Assets for Unsettled Transactions"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Risk-Weighted Assets—Standardized Approach",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart D > Disclosures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Risk-Weighted Assets—Standardized Approach",
+          "Disclosures"
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart D > Risk-Weighted Assets for Securitization Exposures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Risk-Weighted Assets—Standardized Approach",
+          "Risk-Weighted Assets for Securitization Exposures"
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart D > Risk-Weighted Assets for Equity Exposures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Risk-Weighted Assets—Standardized Approach",
+          "Risk-Weighted Assets for Equity Exposures"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Capital Ratio Requirements and Buffers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Definition of Capital",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "Transition Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 628",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Capital Adequacy of System Institutions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "628"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 630 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Investors in Systemwide and Consolidated Bank Debt Obligations of the Farm Credit System",
+          "Annual Report to Investors",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "630",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 630 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Investors in Systemwide and Consolidated Bank Debt Obligations of the Farm Credit System",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "630",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 630 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Investors in Systemwide and Consolidated Bank Debt Obligations of the Farm Credit System",
+          "Quarterly Reports to Investors",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "630",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 630",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Disclosure to Investors in Systemwide and Consolidated Bank Debt Obligations of the Farm Credit System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "630"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 650 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation General Provisions",
+          "Regulation, Examination and Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "650",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 650 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation General Provisions",
+          "Conservators, Receivers, and Liquidations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "650",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 651 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Governance",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "651",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 651 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Governance",
+          "Standards of Conduct",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "651",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 651 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Governance",
+          "Board Governance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "651",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 652 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Funding and Fiscal Affairs",
+          "Investment Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "652",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 652 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Funding and Fiscal Affairs",
+          "Risk-Based Capital Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "652",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 653",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Risk Management",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "653"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 655 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Disclosure and Reporting Requirements",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "655",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 655 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Disclosure and Reporting Requirements",
+          "Reports of Condition of the Federal Agricultural Mortgage Corporation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "655",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter VI > Subchapter B > Part 655 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit Administration",
+          "Farm Credit System",
+          "Federal Agricultural Mortgage Corporation Disclosure and Reporting Requirements",
+          "Reports Relating to Securities Activities of the Federal Agricultural Mortgage Corporation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "VI",
+          "subchapter": "B",
+          "part": "655",
+          "subpart": "C"
+        }
+      }
+    ]
+  },
+  "searchCount": 1062,
+  "versionSummary": {
+    "titleNumber": 12,
+    "totalVersions": 18245,
+    "firstDate": "2013-01-03",
+    "lastDate": "2025-07-18",
+    "uniqueParts": 469,
+    "uniqueSubparts": 24,
+    "typeCounts": {
+      "section": 16923,
+      "appendix": 1322
+    }
+  }
+}

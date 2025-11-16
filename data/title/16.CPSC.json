@@ -1,0 +1,6774 @@
+{
+  "number": 16,
+  "name": "Commercial Practices",
+  "latest_amended_on": "2025-09-24",
+  "latest_issue_date": "2025-09-24",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "53a56d8e6abf4f5bd4ffc993393f13fc7ed248077515b0f553c1d50c4172f736",
+  "wordCount": 958229,
+  "agencySlug": "consumer-product-safety-commission",
+  "titleChapterCounts": {
+    "title": "16",
+    "chapter": "II",
+    "titleCount": 1634,
+    "chapterCount": 1634,
+    "titleDisplayHeading": "Title 16 | Commercial Practices",
+    "chapterDisplayHeading": " Chapter II | Consumer Product Safety Commission",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter LXXI > Part 8101",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Consumer Product Safety Commission",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Consumer Product Safety Commission",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "LXXI",
+          "part": "8101"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1000",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Commission Organization and Functions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1000"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1009",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "General Statements of Policy or Interpretation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1009"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1011",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Notice of Agency Activities",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1011"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1012",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Meetings Policy - Meetings Between Agency Personnel and Outside Parties",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1012"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1013",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Government in the Sunshine Act, Rules for Commission Meetings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1013"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1014",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Policies and Procedures Implementing the Privacy Act of 1974",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1014"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1015 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Procedures for Disclosure or Production of Information Under the Freedom of Information Act",
+          "Production or Disclosure Under 5 U.S.C. 552(a)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 49,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1015",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1015 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Procedures for Disclosure or Production of Information Under the Freedom of Information Act",
+          "Exemptions From Production and Disclosure Under 5 U.S.C. 552(b)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1015",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1015 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Procedures for Disclosure or Production of Information Under the Freedom of Information Act",
+          "Disclosure of Commission Accident or Investigation Reports Under 15 U.S.C. 2074(c)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1015",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1016",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Policies and Procedures for Information Disclosure and Commission Employee Testimony in Private Litigation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1016"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1018 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Advisory Committee Management",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1018",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1018 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Advisory Committee Management",
+          "Establishment of Advisory Committees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1018",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1018 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Advisory Committee Management",
+          "Operation of Advisory Committees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1018",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1018 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Advisory Committee Management",
+          "Administration of Advisory Committees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1018",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1018 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Advisory Committee Management",
+          "Records, Annual Reports and Audits",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1018",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1018 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Advisory Committee Management",
+          "Termination and Renewal",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1018",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1019 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Export of Noncomplying, Misbranded, or Banned Products",
+          "Procedures for Export of Noncomplying, Misbranded, or Banned Products",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1019",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1019 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Export of Noncomplying, Misbranded, or Banned Products",
+          "Statement of Policy and Interpretation Concerning Export of Noncomplying, Misbranded, or Banned Products",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1019",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1020",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Small Business",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1020"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1021 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Environmental Review",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1021",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1021 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Environmental Review",
+          "Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1021",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1021 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Environmental Review",
+          "Contents of Environmental Review Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1021",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Scope of Rules, Nature of Adjudicative Proceedings, Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Pleadings, Form, Execution, Service of Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Prehearing Procedures, Motions, Interlocutory Appeals, Summary Judgments, Settlements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Discovery, Compulsory Process",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Hearings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Decision",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Appearances, Standards of Conduct",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "Implementation of the Equal Access to Justice Act in Adjudicative Proceedings With the Commission",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1025",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Rules of Practice for Adjudicative Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1025"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1027",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Salary Offset",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1027"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1028",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Protection of Human Subjects",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 45,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1028"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1030 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Employee Standards of Conduct",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1030",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1031 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Commission Participation and Commission Employee Involvement in Voluntary Standards Activities",
+          "General Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1031",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1031 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Commission Participation and Commission Employee Involvement in Voluntary Standards Activities",
+          "Employee Involvement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1031",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1031 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Commission Participation and Commission Employee Involvement in Voluntary Standards Activities",
+          "Public Participation and Comment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1031",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1033",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Display of Control Numbers for Collection of Information Requirements Under the Paperwork Reduction Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1033"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1034",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Consumer Product Safety Commission",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1034"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1051",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Procedure for Petitioning for Rulemaking",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1051"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1052",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Procedural Regulations for Informal Oral Presentations in Proceedings Before the Consumer Product Safety Commission",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1052"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter A > Part 1061",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "General",
+          "Applications for Exemption from Preemption",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "A",
+          "part": "1061"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Background",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Information Subject to Notice and Analysis Provisions of Section 6(b)(1)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Procedure for Providing Notice and Opportunity To Comment Under Section 6(b)(1)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Reasonable Steps Commission Will Take To Assure Information It Discloses Is Accurate, and That Disclosure Is Fair in the Circumstances and Reasonably Related to Effectuating the Purposes of the Acts It Administers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Statutory Exceptions of Section 6(b)(4)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Retraction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Information Submitted Pursuant to Section 15(b) of the CPSA",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1101 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Information Disclosure Under Section 6(b) of the Consumer Product Safety Act",
+          "Delegation of Authority to Information Group",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1101",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1102 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Publicly Available Consumer Product Safety Information Database",
+          "Background and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1102",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1102 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Publicly Available Consumer Product Safety Information Database",
+          "Content Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1102",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1102 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Publicly Available Consumer Product Safety Information Database",
+          "Procedural Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1102",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1102 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Publicly Available Consumer Product Safety Information Database",
+          "Notice and Disclosure Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1102",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1105",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Contributions to Costs of Participants in Development of Consumer Product Safety Standards",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1105"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1107 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Testing and Labeling Pertaining to Product Certification",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1107",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1107 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Testing and Labeling Pertaining to Product Certification",
+          "Certification of Children's Products",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1107",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1107 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Testing and Labeling Pertaining to Product Certification",
+          "Consumer Product Labeling Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1107",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1109 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Conditions and Requirements for Relying on Component Part Testing or Certification, or Another Party's Finished Product Testing or Certification, to Meet Testing and Certification Requirements",
+          "General Conditions and Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1109",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1109 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Conditions and Requirements for Relying on Component Part Testing or Certification, or Another Party's Finished Product Testing or Certification, to Meet Testing and Certification Requirements",
+          "Conditions and Requirements for Specific Consumer Products, Component Parts, and Chemicals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1109",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1109 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Conditions and Requirements for Relying on Component Part Testing or Certification, or Another Party's Finished Product Testing or Certification, to Meet Testing and Certification Requirements",
+          "Conditions and Requirements for Composite Testing",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1109",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1110",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Certificates of Compliance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1110"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1112 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Requirements Pertaining to Third Party Conformity Assessment Bodies",
+          "Purpose and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1112",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1112 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Requirements Pertaining to Third Party Conformity Assessment Bodies",
+          "General Requirements Pertaining to Third Party Conformity Assessment Bodies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 58,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1112",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1112 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Requirements Pertaining to Third Party Conformity Assessment Bodies",
+          "Audit Requirements for Third Party Conformity Assessment Bodies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1112",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1112 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Requirements Pertaining to Third Party Conformity Assessment Bodies",
+          "Adverse Actions: Types, Grounds, Allegations, Procedural Requirements, and Publication",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1112",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1115 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Substantial Product Hazard Reports",
+          "General Interpretation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1115",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1115 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Substantial Product Hazard Reports",
+          "Remedial Actions and Sanctions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1115",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1115 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Substantial Product Hazard Reports",
+          "Guidelines and Requirements for Mandatory Recall Notices",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1115",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1115",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Substantial Product Hazard Reports",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1115"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1116",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Reports Submitted Pursuant to Section 37 of the Consumer Product Safety Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1116"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1117",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Reporting of Choking Incidents Involving Marbles, Small Balls, Latex Balloons and Other Small Parts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1117"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1118 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Investigations, Inspections and Inquiries Under the Consumer Product Safety Act",
+          "Procedures for Investigations, Inspections, and Inquiries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1118",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1118 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Investigations, Inspections and Inquiries Under the Consumer Product Safety Act",
+          "Consent Order Agreements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1118",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1119",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Civil Penalty Factors",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1119"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1120",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Substantial Product Hazard List",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1120"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1130",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Requirements for Consumer Registration of Durable Infant or Toddler Products",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 26,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1130"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1145",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Regulation of Products Subject to Other Acts Under the Consumer Product Safety Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1145"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1199",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Children's Toys and Child Care Articles Containing Phthalates: Guidance on Inaccessible Component Parts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1199"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1200",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Definition of Children's Product Under the Consumer Product Safety Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1200"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1201 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Architectural Glazing Materials",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1201",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1201 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Architectural Glazing Materials",
+          "Statements of Policy and Interpretation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1201",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1202",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Matchbooks",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1202"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1203 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Bicycle Helmets",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1203",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1203 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Bicycle Helmets",
+          "Certification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1203",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1203 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Bicycle Helmets",
+          "Recordkeeping",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1203",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1203 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Bicycle Helmets",
+          "Requirements For Bicycle Helmets Manufactured From March 17, 1995, Through March 10, 1999",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1203",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1203",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Bicycle Helmets",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1203"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1204 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Omnidirectional Citizens Band Base Station Antennas",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1204",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1204 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Omnidirectional Citizens Band Base Station Antennas",
+          "Certification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1204",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1204",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Omnidirectional Citizens Band Base Station Antennas",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1204"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1205 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Walk-Behind Power Lawn Mowers",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1205",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1205 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Walk-Behind Power Lawn Mowers",
+          "Certification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1205",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1207",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Swimming Pool Slides",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1207"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1209 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Interim Safety Standard for Cellulose Insulation",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1209",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1209 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Interim Safety Standard for Cellulose Insulation",
+          "Certification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1209",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1210 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Cigarette Lighters",
+          "Requirements for Child Resistance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1210",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1210 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Cigarette Lighters",
+          "Certification Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1210",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1210 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Cigarette Lighters",
+          "Stockpiling",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1210",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1211 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Automatic Residential Garage Door Operators",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 49,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1211",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1211 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Automatic Residential Garage Door Operators",
+          "Certification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1211",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1211 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Automatic Residential Garage Door Operators",
+          "Recordkeeping",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1211",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1211 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Automatic Residential Garage Door Operators",
+          "Incorporation by Reference",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1211",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1212 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Multi-Purpose Lighters",
+          "Requirements for Child-Resistance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1212",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1212 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Multi-Purpose Lighters",
+          "Certification Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1212",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1212",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Multi-Purpose Lighters",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1212"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1212 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Multi-Purpose Lighters",
+          "Stockpiling",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1212",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1213",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Entrapment Hazards in Bunk Beds",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1213"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1215",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Infant Bath Seats",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1215"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1216",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Infant Walkers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1216"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1217",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Toddler Beds",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1217"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1218",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Bassinets and Cradles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1218"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1219",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Full-Size Baby Cribs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1219"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1220",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Non-Full-Size Baby Cribs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1220"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1221",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Play Yards",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1221"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1222",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Bedside Sleepers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1222"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1223",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Infant Swings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1223"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1224",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Portable Bed Rails",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1224"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1225",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Hand-Held Infant Carriers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1225"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1226",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Soft Infant and Toddler Carriers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1226"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1227",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Carriages and Strollers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1227"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1228",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Sling Carriers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1228"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1230",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Frame Child Carriers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1230"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1229",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Infant Bouncer Seats",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1229"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1231",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for High Chairs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1231"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1250",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard Mandating ASTM F963 for Toys",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1250"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1232",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Children's Folding Chairs and Children's Folding Stools",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1232"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1240",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Magnet Sets",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1240"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1233",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Portable Hook-on Chairs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1233"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1251",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Toys: Determinations Regarding Heavy Elements Limits for Certain Materials",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1251"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1235",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Baby Changing Products",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1235"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1234",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Infant Bath Tubs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1234"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1301",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Unstable Refuse Bins",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1301"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1236",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Infant Sleep Products",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1236"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1237",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Booster Seats",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1237"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1238",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Stationary Activity Centers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1238"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1252",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Children's Products, Children's Toys, and Child Care Articles: Determinations Regarding Lead, ASTM F963 Elements, and Phthalates for Engineered Wood Products",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1252"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1239",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Gates and Enclosures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1239"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1302",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Extremely Flammable Contact Adhesives",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1302"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1241",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Crib Mattresses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1241"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1303",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Lead-Containing Paint and Certain Consumer Products Bearing Lead-Containing Paint",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1303"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1253",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Children's Toys and Child Care Articles: Determinations Regarding the ASTM F963 Elements and Phthalates for Unfinished Manufactured Fibers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1253"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1242",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Nursing Pillows",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1242"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1304",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Consumer Patching Compounds Containing Respirable Free-Form Asbestos",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1304"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1243",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Infant Support Cushions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1243"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1262",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Magnets",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1262"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1305",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Artificial Emberizing Materials (Ash and Embers) Containing Respirable Free-Form Asbestos",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1305"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1260",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Operating Cords on Custom Window Coverings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1260"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1261",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Clothing Storage Units",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1261"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1306",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Hazardous Lawn Darts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1306"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1270",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Adult Portable Bed Rails",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1270"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1401",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Self Pressurized Consumer Products Containing Chlorofluorocarbons: Requirements to Provide the Commission with Performance and Technical Data; Requirements to Notify Consumers at Point of Purchase of Performance and Technical Data",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1401"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1272",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Marking of Toy, Look-Alike, and Imitation Firearms",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1272"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1263",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1263"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1308",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Prohibition of Children's Toys and Child Care Articles Containing Specified Phthalates: Determinations Regarding Certain Plastics",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1308"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1307",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Prohibition of Children's Toys and Child Care Articles Containing Specified Phthalates",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1307"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1402",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Cb Base Station Antennas, TV Antennas, and Supporting Structures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1402"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1404",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Cellulose Insulation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1404"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1406",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Coal and Wood Burning Appliances - Notification of Performance and Technical Data",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1406"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1407",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Portable Generators: Requirements to Provide Performance and Technical Data by Labeling",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1407"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1420",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Requirements for All Terrain Vehicles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1420"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1450",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Virginia Graeme Baker Pool and Spa Safety Act Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1450"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1309",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Crib Bumpers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1309"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1310",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Ban of Inclined Sleepers for Infants",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1310"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1460",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Children's Gasoline Burn Prevention Act Regulation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1460"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter B > Part 1461",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Consumer Product Safety Act Regulations",
+          "Portable Fuel Container Safety Act Regulation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "B",
+          "part": "1461"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1500",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Hazardous Substances and Articles: Administration and Enforcement Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 65,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1500"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1500 > Imports",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Hazardous Substances and Articles: Administration and Enforcement Regulations",
+          "",
+          "Imports"
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1500"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1501",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Method for Identifying Toys and Other Articles Intended for Use by Children Under 3 Years of Age Which Present Choking, Aspiration, or Ingestion Hazards Because of Small Parts",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1501"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "Initiation of Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "Appearance and Participation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "Presiding Officer",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "Hearing Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "Administrative Record",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "Judicial Review",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1502 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Procedures for Formal Evidentiary Public Hearing",
+          "Initial and Final Decision",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1502",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1505 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Requirements for Electrically Operated Toys or Other Electrically Operated Articles Intended for Use by Children",
+          "Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1505",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1505 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Requirements for Electrically Operated Toys or Other Electrically Operated Articles Intended for Use by Children",
+          "Policies and Interpretations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1505",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1507",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Fireworks Devices",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1507"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1510",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Requirements for Rattles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1510"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1511",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Requirements for Pacifiers",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1511"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1512 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Requirements for Bicycles",
+          "Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1512",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1512",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Requirements for Bicycles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1512"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter C > Part 1513",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Federal Hazardous Substances Act Regulations",
+          "Requirements for Bunk Beds",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "1513"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1602",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Statements of Policy or Interpretation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1602"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1605 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Investigations, Inspections and Inquiries Pursuant to the Flammable Fabrics Act",
+          "Procedures for Investigations, Inspections and Inquiries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1605",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1605 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Investigations, Inspections and Inquiries Pursuant to the Flammable Fabrics Act",
+          "Consent Order Agreements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1605",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1608",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "General Rules and Regulations Under the Flammable Fabrics Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1608"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1610 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Clothing Textiles",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1610",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1610 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Clothing Textiles",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1610",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1610 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Clothing Textiles",
+          "Interpretations and Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1610",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1610",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Clothing Textiles",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1610"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1609",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Text of the Flammable Fabrics Act of 1953, as Amended in 1954, Prior to 1967 Amendment and Revision",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1609"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1611 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Vinyl Plastic Film",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1611",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1611 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Vinyl Plastic Film",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1611",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1632 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Mattresses and Mattress Pads (FF 4-72, Amended)",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1632",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1632 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Mattresses and Mattress Pads (FF 4-72, Amended)",
+          "Interpretations and Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1632",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1632 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Mattresses and Mattress Pads (FF 4-72, Amended)",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1632",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1630 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Surface Flammability of Carpets and Rugs (FF 1-70)",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1630",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1630 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Surface Flammability of Carpets and Rugs (FF 1-70)",
+          "Washing Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1630",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1630 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Surface Flammability of Carpets and Rugs (FF 1-70)",
+          "Interpretations and Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1630",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1630 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Surface Flammability of Carpets and Rugs (FF 1-70)",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1630",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1615 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Children's Sleepwear: Sizes 0 Through 6X (FF 3-71)",
+          "Interpretations and Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1615",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1615 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Children's Sleepwear: Sizes 0 Through 6X (FF 3-71)",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1615",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1615 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Children's Sleepwear: Sizes 0 Through 6X (FF 3-71)",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1615",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1631 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Surface Flammability of Small Carpets and Rugs (FF 2-70)",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1631",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1631 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Surface Flammability of Small Carpets and Rugs (FF 2-70)",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1631",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1631 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Surface Flammability of Small Carpets and Rugs (FF 2-70)",
+          "Washing Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1631",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1616 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Children's Sleepwear: Sizes 7 Through 14 (FF 5-74)",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1616",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1616 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Children's Sleepwear: Sizes 7 Through 14 (FF 5-74)",
+          "Interpretations and Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1616",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1616 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Children's Sleepwear: Sizes 7 Through 14 (FF 5-74)",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1616",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1633 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability (Open Flame) of Mattress Sets",
+          "The Standard",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1633",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1633 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability (Open Flame) of Mattress Sets",
+          "Rules and Regulations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1633",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1633",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability (Open Flame) of Mattress Sets",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1633"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter D > Part 1640",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Flammable Fabrics Act Regulations",
+          "Standard for the Flammability of Upholstered Furniture",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "D",
+          "part": "1640"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter E > Part 1700",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Poison Prevention Packaging Act of 1970 Regulations",
+          "Poison Prevention Packaging",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "E",
+          "part": "1700"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter E > Part 1701",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Poison Prevention Packaging Act of 1970 Regulations",
+          "Statements of Policy and Interpretation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "E",
+          "part": "1701"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter E > Part 1702",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Poison Prevention Packaging Act of 1970 Regulations",
+          "Petitions for Exemptions from Poison Prevention Packaging Act Requirements; Petition Procedures and Requirements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "E",
+          "part": "1702"
+        }
+      },
+      {
+        "path": "Title 16 >  Chapter II > Subchapter F > Part 1750",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commercial Practices",
+          "",
+          "Consumer Product Safety Commission",
+          "Refrigerator Safety Act Regulations",
+          "Standard for Devices to Permit the Opening of Household Refrigerator Doors from the Inside",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 16,
+          "chapter": "II",
+          "subchapter": "F",
+          "part": "1750"
+        }
+      }
+    ]
+  },
+  "searchCount": 1655,
+  "versionSummary": {
+    "titleNumber": 16,
+    "totalVersions": 3994,
+    "firstDate": "2016-10-02",
+    "lastDate": "2025-09-05",
+    "uniqueParts": 224,
+    "uniqueSubparts": 21,
+    "typeCounts": {
+      "section": 3433,
+      "appendix": 561
+    }
+  }
+}

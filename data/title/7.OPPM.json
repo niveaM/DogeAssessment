@@ -1,0 +1,186 @@
+{
+  "number": 7,
+  "name": "Agriculture",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "de40c026f715ea66d869c53b1d0b5ae8a404aca9312ab8f256cab5009594e516",
+  "wordCount": 5633788,
+  "agencySlug": "procurement-and-property-management-office-of",
+  "titleChapterCounts": {
+    "title": "7",
+    "chapter": "XXXII",
+    "titleCount": 191,
+    "chapterCount": 191,
+    "titleDisplayHeading": "Title 7 | Agriculture",
+    "chapterDisplayHeading": " Chapter XXXII | Office of Procurement and Property Management, Department of Agriculture",
+    "raw": [
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXII > Part 3200",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Office of Procurement and Property Management, Department of Agriculture",
+          "",
+          "Department of Agriculture Guidelines for the Acquisition and Transfer of Excess Personal Property",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXII",
+          "part": "3200"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXII > Part 3201 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Office of Procurement and Property Management, Department of Agriculture",
+          "",
+          "Guidelines for Designating Biobased Products for Federal Procurement",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXII",
+          "part": "3201",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXII > Part 3201 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Office of Procurement and Property Management, Department of Agriculture",
+          "",
+          "Guidelines for Designating Biobased Products for Federal Procurement",
+          "Designated Product Categories and Intermediate Ingredients or Feedstocks",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 150,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXII",
+          "part": "3201",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXII > Part 3202",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Office of Procurement and Property Management, Department of Agriculture",
+          "",
+          "Voluntary Labeling Program for Biobased Products",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXII",
+          "part": "3202"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter XXXII > Part 3203",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Office of Procurement and Property Management, Department of Agriculture",
+          "",
+          "Guidelines for the Transfer of Excess Computers or Other Technical Equipment Pursuant to Section 14220 of the 2008 Farm Bill",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "XXXII",
+          "part": "3203"
+        }
+      }
+    ]
+  },
+  "searchCount": 352,
+  "versionSummary": {
+    "titleNumber": 7,
+    "totalVersions": 31108,
+    "firstDate": "2016-05-04",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 480,
+    "uniqueSubparts": 313,
+    "typeCounts": {
+      "section": 30688,
+      "appendix": 420
+    }
+  }
+}

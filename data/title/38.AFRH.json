@@ -1,0 +1,92 @@
+{
+  "number": 38,
+  "name": "Pensions, Bonuses, and Veterans' Relief",
+  "latest_amended_on": "2025-09-30",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "f1ee3f89b748d3511aef1e59c222be67e0056aa262bb7f5f30d3d48e0e808c41",
+  "wordCount": 1291148,
+  "agencySlug": "armed-forces-retirement-home",
+  "titleChapterCounts": {
+    "title": "38",
+    "chapter": "II",
+    "titleCount": 11,
+    "chapterCount": 11,
+    "titleDisplayHeading": "Title 38 | Pensions, Bonuses, and Veterans' Relief",
+    "chapterDisplayHeading": " Chapter II | Armed Forces Retirement Home",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter XI > Part 2100",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Armed Forces Retirement Home",
+          "",
+          "Armed Forces Retirement Home Privacy Act Procedures",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XI",
+          "part": "2100"
+        }
+      },
+      {
+        "path": "Title 38 >  Chapter II > Part 200",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Pensions, Bonuses, and Veterans' Relief",
+          "",
+          "Armed Forces Retirement Home",
+          "",
+          "Compliance with the National Environmental Policy Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 38,
+          "chapter": "II",
+          "part": "200"
+        }
+      }
+    ]
+  },
+  "searchCount": 11,
+  "versionSummary": {
+    "titleNumber": 38,
+    "totalVersions": 6205,
+    "firstDate": "2016-09-09",
+    "lastDate": "2025-09-30",
+    "uniqueParts": 57,
+    "uniqueSubparts": 17,
+    "typeCounts": {
+      "section": 6083,
+      "appendix": 122
+    }
+  }
+}

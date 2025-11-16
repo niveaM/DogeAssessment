@@ -1,0 +1,5767 @@
+{
+  "number": 5,
+  "name": "Administrative Personnel",
+  "latest_amended_on": "2025-09-15",
+  "latest_issue_date": "2025-09-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "8cc9f77057f7ba5ece26cbee9552c7d1d6c866e3606d8d42ab2a51bc69feccd2",
+  "wordCount": 1630237,
+  "agencySlug": "general-services-administration",
+  "titleChapterCounts": {
+    "title": "5",
+    "chapter": "LVII",
+    "titleCount": 7,
+    "chapterCount": 7,
+    "titleDisplayHeading": "Title 5 | Administrative Personnel",
+    "chapterDisplayHeading": " Chapter LVII | General Services Administration",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter LVII > Part 6701",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "General Services Administration",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the General Services Administration",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "LVII",
+          "part": "6701"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Introduction",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-1 > Subpart 105-1.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Introduction",
+          "Regulations System",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-1",
+          "subpart": "105-1.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-8",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by General Services Administration",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 43,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-8"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-50",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Provision of Special or Technical Services to State and Local Units of Government",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-50"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-50 > Subpart 105-50.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Provision of Special or Technical Services to State and Local Units of Government",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-50",
+          "subpart": "105-50.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-50 > Subpart 105-50.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Provision of Special or Technical Services to State and Local Units of Government",
+          "Services Available From General Services Administration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-50",
+          "subpart": "105-50.2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-50 > Subpart 105-50.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Provision of Special or Technical Services to State and Local Units of Government",
+          "Principles Governing Reimbursements to GSA",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-50",
+          "subpart": "105-50.3"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-50 > Subpart 105-50.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Provision of Special or Technical Services to State and Local Units of Government",
+          "Reports",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-50",
+          "subpart": "105-50.4"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-51",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Relocation Assistance and Real Property Acquisition for Federal and Federally Assisted Programs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-51"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-53",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Statement of Organization and Functions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-53"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-53 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Statement of Organization and Functions",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-53",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-53 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Statement of Organization and Functions",
+          "Central Offices",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-53",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-53 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Statement of Organization and Functions",
+          "Regional Offices",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-53",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-54",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Advisory Committee Management",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-54"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-54 > Subpart 105-54.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Advisory Committee Management",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-54",
+          "subpart": "105-54.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-54 > Subpart 105-54.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Advisory Committee Management",
+          "Establishment of Advisory Committees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-54",
+          "subpart": "105-54.2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-54 > Subpart 105-54.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Advisory Committee Management",
+          "Advisory Committee Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-54",
+          "subpart": "105-54.3"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-54 > Subpart 105-54.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Advisory Committee Management",
+          "Reports",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-54",
+          "subpart": "105-54.4"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-55",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Collection of Claims Owed the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-55"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-56 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Salary Offset for Indebtedness of Federal Employees to the United States",
+          "Salary Offset of General Services Administration Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-56",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-56 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Salary Offset for Indebtedness of Federal Employees to the United States",
+          "Centralized Salary Offset (CSO) Procedures - GSA as Creditor Agency",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-56",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-56 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Salary Offset for Indebtedness of Federal Employees to the United States",
+          "Centralized Salary Offset (CSO) Procedures - GSA as Paying Agency",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-56",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-57",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Administration Wage Garnishment",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-57"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "General Policy",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Proactive Disclosures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Requirements for Making Requests",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Responding to Requests",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Acknowledging the FOIA Request",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Final Responses to the FOIA Request",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Handling Confidential Commercial Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Appeals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart 105-60.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "105-60.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart 105-60.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Publication of General Agency Information and Rules in the Federal Register",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "105-60.2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart 105-60.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Availability of Opinions, Orders, Policies, Interpretations, Manuals, and Instructions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "105-60.3"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart K",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Other Rights and Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "K"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart L 105-60.10",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Production or Disclosure by Present or Former General Services Administration Employees in Response to Subpoenas or Similar Demands in Judicial or Administrative Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "L 105-60.10"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart 105-60.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Described Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "105-60.4"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart 105-60.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Exemptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "105-60.5"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-60 > Subpart 105-60.6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Public Availability of Agency Records and Informational Materials",
+          "Production or Disclosure by Present or Former General Services Administration Employees in Response to Subpoenas or Similar Demands in Judicial or Administrative Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-60",
+          "subpart": "105-60.6"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-62",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Document Security and Declassification",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-62"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-62 > Subpart 105-62.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Document Security and Declassification",
+          "Classified Materials",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-62",
+          "subpart": "105-62.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-62 > Subpart 105-62.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Document Security and Declassification",
+          "Declassification and Downgrading",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-62",
+          "subpart": "105-62.2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Policies and Responsibilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Access to Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Denial of Access to Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.3"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Amending Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.4"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Disclosure of Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.5"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Establishing or Revising Systems of Records in GSA",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.6"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Assistance and Referrals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.7"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-64 > Subpart 105-64.8",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "GSA Privacy Act Rules",
+          "Privacy Complaints",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-64",
+          "subpart": "105-64.8"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-67",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Sale of Personal Property",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-67"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Covered Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart C > Disclosing Information—Primary Tier Participants",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of Participants Regarding Transactions",
+          "Disclosing Information—Primary Tier Participants"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart C > Doing Business With Other Persons",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of Participants Regarding Transactions",
+          "Doing Business With Other Persons"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart C > Disclosing Information - Lower Tier Participants",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of Participants Regarding Transactions",
+          "Disclosing Information - Lower Tier Participants"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Suspension",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of GSA Officials Regarding Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Excluded Parties List System",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "General Principles Relating to Suspension and Debarment Actions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Debarment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-68 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-68",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-69",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "New Restrictions on Lobbying",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-69"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-69 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "New Restrictions on Lobbying",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-69",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-69 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "New Restrictions on Lobbying",
+          "Activities by Own Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-69",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-69 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "New Restrictions on Lobbying",
+          "Activities by Other Than Own Employees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-69",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-69 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "New Restrictions on Lobbying",
+          "Penalties and Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-69",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-69 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "New Restrictions on Lobbying",
+          "Exemptions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-69",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-69 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "New Restrictions on Lobbying",
+          "Agency Reports",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-69",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-70",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Implementation of the Program Fraud Civil Remedies Act of 1986",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 65,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-70"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-71 > Subpart 105-71.13",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Cooperative Agreements with State and Local Governments",
+          "Post-Award Requirements/Changes, Property, and Subawards",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-71",
+          "subpart": "105-71.13"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-71 > Subpart 105-71.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Cooperative Agreements with State and Local Governments",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-71",
+          "subpart": "105-71.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-71 > Subpart 105-71.11",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Cooperative Agreements with State and Local Governments",
+          "Pre-Award Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-71",
+          "subpart": "105-71.11"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-71 > Subpart 105-71.12",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Cooperative Agreements with State and Local Governments",
+          "Post-Award Requirements/Financial Administration",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-71",
+          "subpart": "105-71.12"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-71 > Subpart 105-71.14",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Cooperative Agreements with State and Local Governments",
+          "Post-Award Requirements/Reports, Records, Retention, and Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-71",
+          "subpart": "105-71.14"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-71 > Subpart 105-71.15",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Cooperative Agreements with State and Local Governments",
+          "After-the-Grant Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-71",
+          "subpart": "105-71.15"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.1"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "Pre-Award Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.2"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.30",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "Post-Award Requirements/Financial and Program Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.30"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.40",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "Post-Award Requirements/Property Standards",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.40"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.50",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "Post-Award Requirements/Procurement Standards",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.50"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.60",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "Post-Award Requirements/Reports and Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.60"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.70",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "Post-Award Requirements/Termination and Enforcement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.70"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-72 > Subpart 105-72.80",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and Other Non-Profit Organizations",
+          "After-the-Award Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-72",
+          "subpart": "105-72.80"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-74 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Requirements for Recipients Other Than Individuals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-74",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-74 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Requirements for Recipients Who Are Individuals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-74",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-74 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Responsibilities of GSA Awarding Officials",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-74",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-74 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Violations of this Part and Consequences",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-74",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-74 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Purpose and Coverage",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-74",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 41 > Subtitle C >  Chapter 105 > Part 105-74 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Contracts and Property Management",
+          "Federal Property Management Regulations System",
+          "General Services Administration",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 41,
+          "subtitle": "C",
+          "chapter": "105",
+          "part": "105-74",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 501 > Subpart 501.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "General Services Administration Acquisition Regulation System",
+          "Purpose, Authority, Issuance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 38,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "501",
+          "subpart": "501.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 501 > Subpart 501.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "General Services Administration Acquisition Regulation System",
+          "Deviations From the FAR and GSAR",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "501",
+          "subpart": "501.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 502 > Subpart 502.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Definitions of Words and Terms",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "502",
+          "subpart": "502.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 503 > Subpart 503.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Improper Business Practices and Personal Conflicts of Interest",
+          "Safeguards",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "503.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 503 > Subpart 503.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Improper Business Practices and Personal Conflicts of Interest",
+          "Contractor Gratuities to Government Personnel",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "503.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 503 > Subpart 503.10",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Improper Business Practices and Personal Conflicts of Interest",
+          "Contractor Code of Business Ethics and Conduct",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "503.10"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 503 > Subpart 503.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Improper Business Practices and Personal Conflicts of Interest",
+          "Other Improper Business Practices",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "503.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 503 > Subpart 503.7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Improper Business Practices and Personal Conflicts of Interest",
+          "Voiding and Rescinding Contracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "503",
+          "subpart": "503.7"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 504 > Subpart 504.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Administrative Matters",
+          "Safeguarding Classified Information Within Industry",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "504",
+          "subpart": "504.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 504 > Subpart 504.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Administrative Matters",
+          "Electronic Commerce in Contracting",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "504",
+          "subpart": "504.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 504 > Subpart 504.6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Administrative Matters",
+          "Contract Reporting",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "504",
+          "subpart": "504.6"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 504 > Subpart 504.11",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Administrative Matters",
+          "System for Award Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "504",
+          "subpart": "504.11"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter A > Part 504 > Subpart 504.13",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General",
+          "Administrative Matters",
+          "Personal Identity Verification of Contractor Personnel",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "A",
+          "part": "504",
+          "subpart": "504.13"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 509 > Subpart 509.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Contractor Qualifications",
+          "Responsible Prospective Contractors",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "509",
+          "subpart": "509.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 509 > Subpart 509.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Contractor Qualifications",
+          "Debarment, Suspension, and Ineligibility",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "509",
+          "subpart": "509.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 509 > Subpart 509.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Contractor Qualifications",
+          "First Article Testing and Approval",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "509",
+          "subpart": "509.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 511 > Subpart 511.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Describing Agency Needs",
+          "Liquidated Damages",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "511",
+          "subpart": "511.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 511 > Subpart 511.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Describing Agency Needs",
+          "Using and Maintaining Requirements Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "511",
+          "subpart": "511.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 511 > Subpart 511.6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Describing Agency Needs",
+          "Priorities and Allocations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "511",
+          "subpart": "511.6"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 511",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Describing Agency Needs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "511"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 511 > Subpart 511.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Describing Agency Needs",
+          "Delivery or Performance Schedules",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "511",
+          "subpart": "511.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 511 > Subpart 511.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Describing Agency Needs",
+          "Selecting and Developing Requirements Documents",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "511",
+          "subpart": "511.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 512 > Subpart 512.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Acquisition of Commercial Items",
+          "Special Requirements for the Acquisition of Commercial Items",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "512",
+          "subpart": "512.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter B > Part 512 > Subpart 512.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Competition and Acquisition Planning",
+          "Acquisition of Commercial Items",
+          "Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "B",
+          "part": "512",
+          "subpart": "512.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 513 > Subpart 513.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Simplified Acquisition Procedures",
+          "Actions at or Below the Micro-Purchase Threshold",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "513",
+          "subpart": "513.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 513 > Subpart 513.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Simplified Acquisition Procedures",
+          "Simplified Acquisition Methods",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "513",
+          "subpart": "513.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 514 > Subpart 514.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Sealed Bidding",
+          "Solicitation of Bids",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 29,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "514",
+          "subpart": "514.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 514 > Subpart 514.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Sealed Bidding",
+          "Opening of Bids and Award of Contract",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "514",
+          "subpart": "514.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 515 > Subpart 515.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Contracting by Negotiation",
+          "Solicitation and Receipt of Proposals and Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "515",
+          "subpart": "515.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 515 > Subpart 515.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Contracting by Negotiation",
+          "Contract Pricing",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "515",
+          "subpart": "515.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 515 > Subpart 515.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Contracting by Negotiation",
+          "Source Selection",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "515",
+          "subpart": "515.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 516 > Subpart 516.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Types of Contracts",
+          "Fixed Price Contracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "516",
+          "subpart": "516.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 516 > Subpart 516.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Types of Contracts",
+          "Indefinite-Delivery Contracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "516",
+          "subpart": "516.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 517 > Subpart 517.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Special Contracting Methods",
+          "Multi-year Contracting",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "517",
+          "subpart": "517.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter C > Part 517 > Subpart 517.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contracting Methods and Contract Types",
+          "Special Contracting Methods",
+          "Options",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "C",
+          "part": "517",
+          "subpart": "517.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 522 > Subpart 522.8",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Application of Labor Laws to Government Acquisitions",
+          "Equal Employment Opportunity",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "522",
+          "subpart": "522.8"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 522 > Subpart 522.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Application of Labor Laws to Government Acquisitions",
+          "Basic Labor Policies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "522",
+          "subpart": "522.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 522 > Subpart 522.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Application of Labor Laws to Government Acquisitions",
+          "Labor Standards for Contracts Involving Construction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "522",
+          "subpart": "522.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 523 > Subpart 523.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace",
+          "Hazardous Material Identification and Material Safety Data",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "523",
+          "subpart": "523.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 519 > Subpart 519.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Small Business Programs",
+          "Set-Asides for Small Business",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "519",
+          "subpart": "519.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 519 > Subpart 519.7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Small Business Programs",
+          "The Small Business Subcontracting Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "519",
+          "subpart": "519.7"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 519 > Subpart 519.8",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Small Business Programs",
+          "Contracting With the Small Business Administration (The 8(a) Program)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "519",
+          "subpart": "519.8"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 519 > Subpart 519.12",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Small Business Programs",
+          "Small Disadvantaged Business Participation Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "519",
+          "subpart": "519.12"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter D > Part 519 > Subpart 519.70",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Socioeconomic Programs",
+          "Small Business Programs",
+          "GSA Mentor-Protégé Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "D",
+          "part": "519",
+          "subpart": "519.70"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 529 > Subpart 529.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Taxes",
+          "Contract Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "529",
+          "subpart": "529.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 532 > Subpart 532.9",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Contract Financing",
+          "Prompt Payment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "532",
+          "subpart": "532.9"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 532 > Subpart 532.7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Contract Financing",
+          "Contract Funding",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "532",
+          "subpart": "532.7"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 532 > Subpart 532.8",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Contract Financing",
+          "Assignment of Claims",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "532",
+          "subpart": "532.8"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 532 > Subpart 532.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Contract Financing",
+          "Non-Commercial Item Purchase Financing",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "532",
+          "subpart": "532.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 532 > Subpart 532.70",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Contract Financing",
+          "Authorizing Payment by Government Charge Card",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "532",
+          "subpart": "532.70"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 528 > Subpart 528.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Bonds and Insurance",
+          "Sureties and Other Security for Bonds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "528",
+          "subpart": "528.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 528 > Subpart 528.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Bonds and Insurance",
+          "Insurance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "528",
+          "subpart": "528.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 527 > Subpart 527.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Patents, Data, and Copyrights",
+          "Rights in Data and Copyrights",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "527",
+          "subpart": "527.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 533 > Subpart 533.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Protests, Disputes, and Appeals",
+          "Protests",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "533",
+          "subpart": "533.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter E > Part 533 > Subpart 533.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "General Contracting Requirements",
+          "Protests, Disputes, and Appeals",
+          "Disputes and Appeals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "E",
+          "part": "533",
+          "subpart": "533.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 536 > Subpart 536.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Construction and Architect-Engineer Contracts",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "536",
+          "subpart": "536.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 536 > Subpart 536.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Construction and Architect-Engineer Contracts",
+          "Contract Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "536",
+          "subpart": "536.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 536 > Subpart 536.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Construction and Architect-Engineer Contracts",
+          "Special Aspects of Contracting for Construction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "536",
+          "subpart": "536.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 536 > Subpart 536.6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Construction and Architect-Engineer Contracts",
+          "Architect-Engineer Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "536",
+          "subpart": "536.6"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 536 > Subpart 536.71",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Construction and Architect-Engineer Contracts",
+          "Construction-Manager-as-Constructor Contracting",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "536",
+          "subpart": "536.71"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 537 > Subpart 537.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Service Contracting",
+          "Service Contracts - General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "537",
+          "subpart": "537.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 537 > Subpart 537.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Service Contracting",
+          "Advisory and Assistance Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "537",
+          "subpart": "537.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 538 > Subpart 538.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Federal Supply Schedule Contracting",
+          "Establishing and Administering Federal Supply Schedules",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 43,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "538",
+          "subpart": "538.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 538 > Subpart 538.72",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Federal Supply Schedule Contracting",
+          "Order-Level Materials",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "538",
+          "subpart": "538.72"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 538",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Federal Supply Schedule Contracting",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "538"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 538 > Subpart 538.70",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Federal Supply Schedule Contracting",
+          "Use of Federal Supply Schedule Contracts by Eligible Non-Federal Entities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 35,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "538",
+          "subpart": "538.70"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter F > Part 539 > Subpart 539.70",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Categories of Contracting",
+          "Acquisition of Information Technology",
+          "Additional Requirements for Purchases Not in Support of National Security Systems",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "F",
+          "part": "539",
+          "subpart": "539.70"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter G > Part 542 > Subpart 542.11",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contract Management",
+          "Contract Administration and Audit Services",
+          "Production Surveillance and Reporting",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "G",
+          "part": "542",
+          "subpart": "542.11"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter G > Part 543 > Subpart 543.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contract Management",
+          "Contract Modifications",
+          "Change Orders",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "G",
+          "part": "543",
+          "subpart": "543.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter G > Part 541 > Subpart 541.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contract Management",
+          "Acquisition of Utility Services",
+          "Solicitation Provisions and Contract Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "G",
+          "part": "541",
+          "subpart": "541.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter G > Part 546 > Subpart 546.7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contract Management",
+          "Quality Assurance",
+          "Warranties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "G",
+          "part": "546",
+          "subpart": "546.7"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter G > Part 546 > Subpart 546.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Contract Management",
+          "Quality Assurance",
+          "Contract Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "G",
+          "part": "546",
+          "subpart": "546.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter H > Part 552",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Clauses and Forms",
+          "Solicitation Provisions and Contract Clauses",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "H",
+          "part": "552"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter H > Part 552 > Subpart 552.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Clauses and Forms",
+          "Solicitation Provisions and Contract Clauses",
+          "Instructions for Using Provisions and Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "H",
+          "part": "552",
+          "subpart": "552.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter H > Part 552 > Subpart 552.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Clauses and Forms",
+          "Solicitation Provisions and Contract Clauses",
+          "Text of Provisions and Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 550,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "H",
+          "part": "552",
+          "subpart": "552.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter H > Part 553 > Subpart 553.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Clauses and Forms",
+          "Forms",
+          "Illustrations of Forms",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "H",
+          "part": "553",
+          "subpart": "553.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.1",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 38,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.1"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.2",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "Simplified Lease Acquisition Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.2"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "Acquisition Procedures for Leasehold Interests in Real Property Over the Simplified Lease Acquisition Threshold",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.3"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.4",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "Special Aspects of Contracting for Continued Space Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.4"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.6",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "Contracting for Overtime Services and Utilities in Leases",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.6"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.8",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "Forms",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.8"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.5",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "Special Aspects of Contracting for Lease Alterations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.5"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 5 > Subchapter I > Part 570 > Subpart 570.7",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "General Services Administration",
+          "Special Contracting Programs",
+          "Acquiring Leasehold Interests in Real Property",
+          "Solicitation Provisions and Contract Clauses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "5",
+          "subchapter": "I",
+          "part": "570",
+          "subpart": "570.7"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 61 > Part 6101",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Civilian Board of Contract Appeals, General Services Administration",
+          "",
+          "Rules of Procedure of the Civilian Board of Contract Appeals",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 82,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "61",
+          "part": "6101"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 61 > Part 6103",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Civilian Board of Contract Appeals, General Services Administration",
+          "",
+          "Transportation Rate Cases",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "61",
+          "part": "6103"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 61 > Part 6102",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Civilian Board of Contract Appeals, General Services Administration",
+          "",
+          "Crop Insurance Cases",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "61",
+          "part": "6102"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 61 > Part 6106",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Civilian Board of Contract Appeals, General Services Administration",
+          "",
+          "Rules of Procedure for Arbitration of Public Assistance Eligibility or Repayment",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "61",
+          "part": "6106"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 61 > Part 6104",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Civilian Board of Contract Appeals, General Services Administration",
+          "",
+          "Travel and Relocation Expenses Cases",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "61",
+          "part": "6104"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 61 > Part 6105",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "Civilian Board of Contract Appeals, General Services Administration",
+          "",
+          "Decisions Authorized Under 31 U.S.C. 3529",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "61",
+          "part": "6105"
+        }
+      }
+    ]
+  },
+  "searchCount": 7,
+  "versionSummary": {
+    "titleNumber": 5,
+    "totalVersions": 8235,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-15",
+    "uniqueParts": 287,
+    "uniqueSubparts": 25,
+    "typeCounts": {
+      "section": 8068,
+      "appendix": 167
+    }
+  }
+}

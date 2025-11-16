@@ -1,0 +1,788 @@
+{
+  "number": 19,
+  "name": "Customs Duties",
+  "latest_amended_on": "2025-09-16",
+  "latest_issue_date": "2025-09-16",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "f9cbfbfd3ffbc41a62019f58feecde04d5b1563f384a47b2caa4a0b976b76b3c",
+  "wordCount": 1478832,
+  "agencySlug": "international-trade-administration",
+  "titleChapterCounts": {
+    "title": "19",
+    "chapter": "III",
+    "titleCount": 393,
+    "chapterCount": 393,
+    "titleDisplayHeading": "Title 19 | Customs Duties",
+    "chapterDisplayHeading": " Chapter III | International Trade Administration, Department of Commerce",
+    "raw": [
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 301",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "Instruments and Apparatus for Educational and Scientific Institutions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "301"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 303 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "Watches, Watch Movements and Jewelry Program",
+          "Watches and Watch Movements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "303",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 303 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "Watches, Watch Movements and Jewelry Program",
+          "Jewelry",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "303",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 310",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "Official U.S. Government Recognition of and Participation in International Expositions Held in the United States",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "310"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 315",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "Determination of Bona Fide Motor-Vehicle Manufacturer",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "315"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 325",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "Export Trade Certificates of Review",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "325"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 326",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "U.S. and Foreign Commercial Service Pilot Fellowship Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "326"
+        }
+      },
+      {
+        "path": "Title 15 > Subtitle B >  Chapter III > Subchapter A > Part 335",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Commerce and Foreign Trade",
+          "Regulations Relating to Commerce and Foreign Trade",
+          "International Trade Administration, Department of Commerce",
+          "Miscellaneous Regulations",
+          "Imports of Worsted Wool Fabric",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 15,
+          "subtitle": "B",
+          "chapter": "III",
+          "subchapter": "A",
+          "part": "335"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "Scope and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "Antidumping and Countervailing Duty Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 69,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "Calculation of Export Price, Constructed Export Price, Fair Value, and Normal Value",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 37,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "Information and Argument",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 46,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "Subsidy Determinations Regarding Cheese Subject to an In-Quota Rate of Duty",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "Applicability Dates",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "Identification and Measurement of Countervailable Subsidies",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 74,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 351",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Antidumping and Countervailing Duties",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "351"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 354",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Procedures for Imposing Sanctions for Violation of an Antidumping or Countervailing Duty Administrative Protective Order",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "354"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 356 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Procedures and Rules for Implementing Article 1904 of the North American Free Trade Agreement",
+          "Scope and Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "356",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 356 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Procedures and Rules for Implementing Article 1904 of the North American Free Trade Agreement",
+          "Violation of a Protective Order or a Disclosure Undertaking",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 23,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "356",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 356 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Procedures and Rules for Implementing Article 1904 of the North American Free Trade Agreement",
+          "Procedures for Commencing Review of Final Determinations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "356",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 356 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Procedures and Rules for Implementing Article 1904 of the North American Free Trade Agreement",
+          "Proprietary and Privileged Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "356",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 358",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Supplies for Use in Emergency Relief Work",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "358"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 360",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Steel Import Monitoring and Analysis System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "360"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 361",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Aluminum Import Monitoring and Analysis System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "361"
+        }
+      },
+      {
+        "path": "Title 19 >  Chapter III > Part 362",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Customs Duties",
+          "",
+          "International Trade Administration, Department of Commerce",
+          "",
+          "Procedures Covering Suspension of Liquidation, Duties and Estimated Duties in Accord with Presidential Proclamation 10414",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 19,
+          "chapter": "III",
+          "part": "362"
+        }
+      }
+    ]
+  },
+  "searchCount": 393,
+  "versionSummary": {
+    "titleNumber": 19,
+    "totalVersions": 5492,
+    "firstDate": "2016-12-20",
+    "lastDate": "2025-09-16",
+    "uniqueParts": 76,
+    "uniqueSubparts": 20,
+    "typeCounts": {
+      "section": 5363,
+      "appendix": 129
+    }
+  }
+}

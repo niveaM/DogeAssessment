@@ -1,0 +1,216 @@
+{
+  "number": 22,
+  "name": "Foreign Relations",
+  "latest_amended_on": "2025-09-18",
+  "latest_issue_date": "2025-09-18",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "2b7abca803ce52b77ac45318b15e66377379ad767295be2fa9a5fb4fba0720fd",
+  "wordCount": 951930,
+  "agencySlug": "foreign-service-impasse-disputes-panel",
+  "titleChapterCounts": {
+    "title": "22",
+    "chapter": "XIV",
+    "titleCount": 40,
+    "chapterCount": 40,
+    "titleDisplayHeading": "Title 22 | Foreign Relations",
+    "chapterDisplayHeading": " Chapter XIV | Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+    "raw": [
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter B > Part 1411",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "General Provisions",
+          "Availability of Official Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 3.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "1411"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter B > Part 1413",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "General Provisions",
+          "Open Meetings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 3.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "1413"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter B > Part 1414",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "General Provisions",
+          "Ex Parte Communications",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 3.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "B",
+          "part": "1414"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter D > Part 1470 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Impasse Disputes Panel",
+          "General",
+          "Purpose",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 3.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "1470",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter D > Part 1470 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Impasse Disputes Panel",
+          "General",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 3.0232058,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "1470",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XIV > Subchapter D > Part 1471",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "Foreign Service Labor Relations Board; Federal Labor Relations Authority; General Counsel of the Federal Labor Relations Authority; and the Foreign Service Impasse Disputes Panel",
+          "Foreign Service Impasse Disputes Panel",
+          "Procedures of the Panel",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 3.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XIV",
+          "subchapter": "D",
+          "part": "1471"
+        }
+      }
+    ]
+  },
+  "searchCount": 40,
+  "versionSummary": {
+    "titleNumber": 22,
+    "totalVersions": 5233,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-18",
+    "uniqueParts": 218,
+    "uniqueSubparts": 16,
+    "typeCounts": {
+      "section": 5104,
+      "appendix": 129
+    }
+  }
+}

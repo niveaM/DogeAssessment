@@ -1,0 +1,389 @@
+{
+  "number": 12,
+  "name": "Banks and Banking",
+  "latest_amended_on": "2025-09-25",
+  "latest_issue_date": "2025-09-25",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "7b02db79ee769061ee5b85ee25e804e9cb1aebc840b1f8cb24aaad56f2999a18",
+  "wordCount": 5663202,
+  "agencySlug": "farm-credit-system-insurance-corporation",
+  "titleChapterCounts": {
+    "title": "12",
+    "chapter": "XIV",
+    "titleCount": 87,
+    "chapterCount": 87,
+    "titleDisplayHeading": "Title 12 | Banks and Banking",
+    "chapterDisplayHeading": " Chapter XIV | Farm Credit System Insurance Corporation",
+    "raw": [
+      {
+        "path": "Title 5 >  Chapter XXX > Part 4001",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Administrative Personnel",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Supplemental Standards of Ethical Conduct for Employees of the Farm Credit System Insurance Corporation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 5,
+          "chapter": "XXX",
+          "part": "4001"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1400 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Organization and Functions",
+          "Organization and Functions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1400",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1401",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Employee Responsibilities and Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1401"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1402 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Releasing Information",
+          "Fees for Provision of Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1402",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1402 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Releasing Information",
+          "Availability of Records of the Farm Credit System Insurance Corporation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1402",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1403",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Privacy Act Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1403"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1408 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Collection of Claims Owed the United States",
+          "Administrative Collection of Claims",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1408",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1408 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Collection of Claims Owed the United States",
+          "Administrative Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1408",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1408 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Collection of Claims Owed the United States",
+          "Offset Against Salary",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1408",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1410",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Premiums",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1410"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1412",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Golden Parachute and Indemnification Payments",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1412"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XIV > Part 1411 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Farm Credit System Insurance Corporation",
+          "",
+          "Rules of Practice and Procedure",
+          "Rules and Procedures for Assessment and Collection of Civil Money Penalties",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XIV",
+          "part": "1411",
+          "subpart": "A"
+        }
+      }
+    ]
+  },
+  "searchCount": 87,
+  "versionSummary": {
+    "titleNumber": 12,
+    "totalVersions": 18245,
+    "firstDate": "2013-01-03",
+    "lastDate": "2025-07-18",
+    "uniqueParts": 469,
+    "uniqueSubparts": 24,
+    "typeCounts": {
+      "section": 16923,
+      "appendix": 1322
+    }
+  }
+}

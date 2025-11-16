@@ -1,0 +1,2516 @@
+{
+  "number": 45,
+  "name": "Public Welfare",
+  "latest_amended_on": "2025-09-11",
+  "latest_issue_date": "2025-09-11",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "36286b71fe2ed0551ecf25560e52ae9c7669ea7a0da266753576dd217fb76fbe",
+  "wordCount": 2146098,
+  "agencySlug": "children-and-families-administration",
+  "titleChapterCounts": {
+    "title": "45",
+    "chapter": "XIII",
+    "titleCount": 767,
+    "chapterCount": 767,
+    "titleDisplayHeading": "Title 45 | Public Welfare",
+    "chapterDisplayHeading": " Chapter XIII | Administration for Children and Families, Department of Health and Human Services",
+    "raw": [
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter D > Part 1336 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Native Americans, Native American Programs",
+          "Native American Programs",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "D",
+          "part": "1336",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter D > Part 1336 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Native Americans, Native American Programs",
+          "Native American Programs",
+          "Purpose of the Native American Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "D",
+          "part": "1336",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter D > Part 1336 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Native Americans, Native American Programs",
+          "Native American Programs",
+          "Native American Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "D",
+          "part": "1336",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter D > Part 1336 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Native Americans, Native American Programs",
+          "Native American Programs",
+          "Evaluation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "D",
+          "part": "1336",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter D > Part 1336 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Native Americans, Native American Programs",
+          "Native American Programs",
+          "Financial Assistance Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "D",
+          "part": "1336",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter D > Part 1336 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Native Americans, Native American Programs",
+          "Native American Programs",
+          "Native Hawaiian Revolving Loan Fund Demonstration Project",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "D",
+          "part": "1336",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter F > Part 1351 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children, Youth and Families, Family and Youth Services Bureau",
+          "Runaway and Homeless Youth Program",
+          "Definition of Terms",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "F",
+          "part": "1351",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter F > Part 1351 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children, Youth and Families, Family and Youth Services Bureau",
+          "Runaway and Homeless Youth Program",
+          "Runaway and Homeless Youth Program Grants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "F",
+          "part": "1351",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter F > Part 1351 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children, Youth and Families, Family and Youth Services Bureau",
+          "Runaway and Homeless Youth Program",
+          "Additional Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "F",
+          "part": "1351",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter F > Part 1351 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children, Youth and Families, Family and Youth Services Bureau",
+          "Runaway and Homeless Youth Program",
+          "What are the Runaway and Homeless Youth Program-specific performance standards?",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "F",
+          "part": "1351",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter G > Part 1355",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration on Children, Youth and Families, Foster Care Maintenance Payments, Adoption Assistance, and Child and Family Services",
+          "General",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 90,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "G",
+          "part": "1355"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter G > Part 1356",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration on Children, Youth and Families, Foster Care Maintenance Payments, Adoption Assistance, and Child and Family Services",
+          "Requirements Applicable to Title IV-E",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "G",
+          "part": "1356"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter G > Part 1357",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration on Children, Youth and Families, Foster Care Maintenance Payments, Adoption Assistance, and Child and Family Services",
+          "Requirements Applicable to Title IV-B",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "G",
+          "part": "1357"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter H > Part 1370 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "Family Violence Prevention and Services Programs",
+          "Family Violence Prevention and Services Programs",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "H",
+          "part": "1370",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter H > Part 1370",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "Family Violence Prevention and Services Programs",
+          "Family Violence Prevention and Services Programs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "H",
+          "part": "1370"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter H > Part 1370 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "Family Violence Prevention and Services Programs",
+          "Family Violence Prevention and Services Programs",
+          "State and Indian Tribal Grants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "H",
+          "part": "1370",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter H > Part 1370 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "Family Violence Prevention and Services Programs",
+          "Family Violence Prevention and Services Programs",
+          "State Domestic Violence Coalition Grants",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "H",
+          "part": "1370",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter H > Part 1370 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "Family Violence Prevention and Services Programs",
+          "Family Violence Prevention and Services Programs",
+          "Discretionary Grants and Contracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "H",
+          "part": "1370",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1301",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Governance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1301"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1304 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Federal Administrative Procedures",
+          "Monitoring, Suspension, Termination, Denial of Refunding, Reduction in Funding, and Their Appeals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1304",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1304 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Federal Administrative Procedures",
+          "Designation Renewal",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1304",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1304 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Federal Administrative Procedures",
+          "Replacement of American Indian and Alaska Native Grantees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1304",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1304 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Federal Administrative Procedures",
+          "Head Start Fellows Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1304",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1304 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Federal Administrative Procedures",
+          "Selection of Grant Recipients Through Competition",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1304",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Program Structure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Education and Child Development Program Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Family and Community Engagement Program Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Additional Services for Children With Disabilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Transition Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Eligibility, Recruitment, Selection, Enrollment, and Attendance",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Health and Mental Health Program Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Services to Enrolled Pregnant Women",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Human Resources Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1302 > Subpart J",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Program Operations",
+          "Program Management and Quality Improvement",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1302",
+          "subpart": "J"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1303",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Financial and Administrative Requirements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1303"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1303 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Financial and Administrative Requirements",
+          "Administrative Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1303",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1303 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Financial and Administrative Requirements",
+          "Transportation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1303",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1303 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Financial and Administrative Requirements",
+          "Financial Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1303",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1303 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Financial and Administrative Requirements",
+          "Protections for the Privacy of Child Records",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1303",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1303 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Financial and Administrative Requirements",
+          "Delegation of Program Operations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1303",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1303 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Financial and Administrative Requirements",
+          "Facilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 34,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1303",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter B > Part 1305",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Children and Families, Head Start Program",
+          "Definitions",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "B",
+          "part": "1305"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1322",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to Indian Tribes for Support and Nutrition Services",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1322"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1322 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to Indian Tribes for Support and Nutrition Services",
+          "Introduction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1322",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1322 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to Indian Tribes for Support and Nutrition Services",
+          "Application",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1322",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1322 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to Indian Tribes for Support and Nutrition Services",
+          "Service Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1322",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1322 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to Indian Tribes for Support and Nutrition Services",
+          "Emergency and Disaster Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1322",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Basic Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Protection and Advocacy for Individuals With Developmental Disabilities (PADD)",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Access to Records, Service Providers, and Individuals With Developmental Disabilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Federal Assistance to State Councils on Developmental Disabilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Practice and Procedure for Hearings Pertaining to States' Conformity and Compliance With Developmental Disabilities State Plans, Reports, and Federal Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart E > General",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Practice and Procedure for Hearings Pertaining to States' Conformity and Compliance With Developmental Disabilities State Plans, Reports, and Federal Requirements",
+          "General"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart E > Preliminary Matters - Notice and Parties",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Practice and Procedure for Hearings Pertaining to States' Conformity and Compliance With Developmental Disabilities State Plans, Reports, and Federal Requirements",
+          "Preliminary Matters - Notice and Parties"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1326 > Subpart E > Hearing Procedures",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Formula Grant Programs",
+          "Practice and Procedure for Hearings Pertaining to States' Conformity and Compliance With Developmental Disabilities State Plans, Reports, and Federal Requirements",
+          "Hearing Procedures"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1326",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1327",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Developmental Disabilities Projects of National Significance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1327"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1328",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "The National Network of University Centers for Excellence in Developmental Disabilities, Education, Research, and Service",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1328"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1329 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "State Independent Living Services and Centers for Independent Living",
+          "Independent Living Services",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1329",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1329 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "State Independent Living Services and Centers for Independent Living",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1329",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1329 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "State Independent Living Services and Centers for Independent Living",
+          "Centers for Independent Living Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1329",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1330 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "National Institute for Disability, Independent Living, and Rehabilitation Research",
+          "Disability, Independent Living, and Rehabilitation Research Projects and Centers Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1330",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1330 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "National Institute for Disability, Independent Living, and Rehabilitation Research",
+          "Requirements for Awardees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1330",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1330 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "National Institute for Disability, Independent Living, and Rehabilitation Research",
+          "Selection of Awardees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1330",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1330 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "National Institute for Disability, Independent Living, and Rehabilitation Research",
+          "Disability, Independent Living, and Rehabilitation Research Fellowships",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1330",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1330 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "National Institute for Disability, Independent Living, and Rehabilitation Research",
+          "Special Projects and Demonstrations for Spinal Cord Injuries",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1330",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1331",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "State Health Insurance Assistance Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1331"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1321 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to State and Community Programs on Aging",
+          "Area Agency Responsibilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1321",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1321 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to State and Community Programs on Aging",
+          "Introduction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1321",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1321 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to State and Community Programs on Aging",
+          "State Agency Responsibilities",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 49,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1321",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1321 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to State and Community Programs on Aging",
+          "Service Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1321",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1321 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants to State and Community Programs on Aging",
+          "Emergency and Disaster Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1321",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1323",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Grants for Supportive and Nutritional Services to Older Hawaiian Natives",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1323"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1324 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Allotments for Vulnerable Elder Rights Protection Activities",
+          "State Long-Term Care Ombudsman Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 24,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1324",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1324 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Allotments for Vulnerable Elder Rights Protection Activities",
+          "Programs for Prevention of Elder Abuse, Neglect, and Exploitation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1324",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1324 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Allotments for Vulnerable Elder Rights Protection Activities",
+          "State Legal Assistance Development",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1324",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1324 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Allotments for Vulnerable Elder Rights Protection Activities",
+          "Adult Protective Services Programs",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1324",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 45 > Subtitle B >  Chapter XIII > Subchapter C > Part 1325",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Public Welfare",
+          "Regulations Relating to Public Welfare",
+          "Administration for Children and Families, Department of Health and Human Services",
+          "The Administration for Community Living",
+          "Requirements Applicable to the Developmental Disabilities Program",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 45,
+          "subtitle": "B",
+          "chapter": "XIII",
+          "subchapter": "C",
+          "part": "1325"
+        }
+      }
+    ]
+  },
+  "searchCount": 789,
+  "versionSummary": {
+    "titleNumber": 45,
+    "totalVersions": 10626,
+    "firstDate": "2016-09-12",
+    "lastDate": "2025-09-11",
+    "uniqueParts": 334,
+    "uniqueSubparts": 19,
+    "typeCounts": {
+      "section": 10409,
+      "appendix": 217
+    }
+  }
+}

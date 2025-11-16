@@ -1,0 +1,213 @@
+{
+  "number": 12,
+  "name": "Banks and Banking",
+  "latest_amended_on": "2025-09-25",
+  "latest_issue_date": "2025-09-25",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "7b02db79ee769061ee5b85ee25e804e9cb1aebc840b1f8cb24aaad56f2999a18",
+  "wordCount": 5663202,
+  "agencySlug": "federal-financial-institutions-examination-council",
+  "titleChapterCounts": {
+    "title": "12",
+    "chapter": "XI",
+    "titleCount": 77,
+    "chapterCount": 77,
+    "titleDisplayHeading": "Title 12 | Banks and Banking",
+    "chapterDisplayHeading": " Chapter XI | Federal Financial Institutions Examination Council",
+    "raw": [
+      {
+        "path": "Title 12 >  Chapter XI > Part 1101",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Federal Financial Institutions Examination Council",
+          "",
+          "Description of Office, Procedures, Public Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XI",
+          "part": "1101"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XI > Part 1102 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Federal Financial Institutions Examination Council",
+          "",
+          "Appraiser Regulation",
+          "Temporary Waiver Requests",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XI",
+          "part": "1102",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XI > Part 1102 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Federal Financial Institutions Examination Council",
+          "",
+          "Appraiser Regulation",
+          "Rules of Practice for Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XI",
+          "part": "1102",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XI > Part 1102 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Federal Financial Institutions Examination Council",
+          "",
+          "Appraiser Regulation",
+          "Rules Pertaining to the Privacy of Individuals and Systems of Records Maintained by the Appraisal Subcommittee",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XI",
+          "part": "1102",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XI > Part 1102 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Federal Financial Institutions Examination Council",
+          "",
+          "Appraiser Regulation",
+          "Description of Office, Procedures, Public Information",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XI",
+          "part": "1102",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 12 >  Chapter XI > Part 1102 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Banks and Banking",
+          "",
+          "Federal Financial Institutions Examination Council",
+          "",
+          "Appraiser Regulation",
+          "Collection and Transmission of Appraisal Management Company (AMC) Registry Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 12,
+          "chapter": "XI",
+          "part": "1102",
+          "subpart": "E"
+        }
+      }
+    ]
+  },
+  "searchCount": 77,
+  "versionSummary": {
+    "titleNumber": 12,
+    "totalVersions": 18245,
+    "firstDate": "2013-01-03",
+    "lastDate": "2025-07-18",
+    "uniqueParts": 469,
+    "uniqueSubparts": 24,
+    "typeCounts": {
+      "section": 16923,
+      "appendix": 1322
+    }
+  }
+}

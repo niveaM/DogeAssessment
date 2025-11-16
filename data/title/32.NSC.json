@@ -1,0 +1,482 @@
+{
+  "number": 32,
+  "name": "National Defense",
+  "latest_amended_on": "2025-08-27",
+  "latest_issue_date": "2025-09-16",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "f1240abff1a54d26edd2179a1527894bc7a5fe8e67a25d033b6c88f15a2bd43a",
+  "wordCount": 1789217,
+  "agencySlug": "national-security-council",
+  "titleChapterCounts": {
+    "title": "32",
+    "chapter": "XXI",
+    "titleCount": 25,
+    "chapterCount": 25,
+    "titleDisplayHeading": "Title 32 | National Defense",
+    "chapterDisplayHeading": " Chapter XXI | National Security Council",
+    "raw": [
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXI > Part 2102",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "National Security Council",
+          "",
+          "Rules and Regulations to Implement the Privacy Act of 1974",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXI",
+          "part": "2102"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXI > Part 2103 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "National Security Council",
+          "",
+          "Regulations to Implement E.O. 12065 - Including Procedures for Public Access to Documents That May Be Declassified",
+          "Introduction",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXI",
+          "part": "2103",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXI > Part 2103 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "National Security Council",
+          "",
+          "Regulations to Implement E.O. 12065 - Including Procedures for Public Access to Documents That May Be Declassified",
+          "Original Classification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXI",
+          "part": "2103",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXI > Part 2103 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "National Security Council",
+          "",
+          "Regulations to Implement E.O. 12065 - Including Procedures for Public Access to Documents That May Be Declassified",
+          "Derivative Classification",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXI",
+          "part": "2103",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXI > Part 2103 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "National Security Council",
+          "",
+          "Regulations to Implement E.O. 12065 - Including Procedures for Public Access to Documents That May Be Declassified",
+          "Declassification and Downgrading",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXI",
+          "part": "2103",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXI > Part 2103 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "National Security Council",
+          "",
+          "Regulations to Implement E.O. 12065 - Including Procedures for Public Access to Documents That May Be Declassified",
+          "Safeguarding",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXI",
+          "part": "2103",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 32 > Subtitle B >  Chapter XXI > Part 2103 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "National Defense",
+          "Other Regulations Relating to National Defense",
+          "National Security Council",
+          "",
+          "Regulations to Implement E.O. 12065 - Including Procedures for Public Access to Documents That May Be Declassified",
+          "Implementation and Review",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 32,
+          "subtitle": "B",
+          "chapter": "XXI",
+          "part": "2103",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 201",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Executive Policy",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "201"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 202",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "National Security and Emergency Preparedness Planning and Execution",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "202"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 211",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Emergency Restoration Priority Procedures for Telecommunications Services",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "211"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 212",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Procedures for Obtaining International Telecommunication Service for Use During a Wartime Emergency",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "212"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 213",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Government and Public Correspondence Telecommunications Precedence System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "213"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 214",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Procedures for the Use and Coordination of the Radio Spectrum During a Wartime Emergency",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "214"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 215",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "Federal Government Focal Point for Electromagnetic Pulse (EMP) Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "215"
+        }
+      },
+      {
+        "path": "Title 47 >  Chapter II > Part 216",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Telecommunication",
+          "",
+          "Office of Science and Technology Policy and National Security Council",
+          "",
+          "National Communications System Issuance System",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 47,
+          "chapter": "II",
+          "part": "216"
+        }
+      }
+    ]
+  },
+  "searchCount": 25,
+  "versionSummary": {
+    "titleNumber": 32,
+    "totalVersions": 9637,
+    "firstDate": "2016-10-07",
+    "lastDate": "2025-08-27",
+    "uniqueParts": 362,
+    "uniqueSubparts": 16,
+    "typeCounts": {
+      "section": 9015,
+      "appendix": 622
+    }
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "number": 2,
+  "name": "Federal Financial Assistance",
+  "latest_amended_on": "2025-01-03",
+  "latest_issue_date": "2025-05-15",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "8a855a04c3446ec9560a4192df0aa516a8deb0104cea70c6a33f830efa8bb883",
+  "wordCount": 337225,
+  "agencySlug": "election-assistance-commission",
+  "titleChapterCounts": {
+    "title": "2",
+    "chapter": "LVIII",
+    "titleCount": 16,
+    "chapterCount": 16,
+    "titleDisplayHeading": "Title 2 | Grants and Agreements",
+    "chapterDisplayHeading": " Chapter LVIII | Election Assistance Commission",
+    "raw": [
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LVIII > Part 5800 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Election Assistance Commission",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LVIII",
+          "part": "5800",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LVIII > Part 5800 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Election Assistance Commission",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "Covered Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LVIII",
+          "part": "5800",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LVIII > Part 5800 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Election Assistance Commission",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "Responsibilities of Participants Regarding Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LVIII",
+          "part": "5800",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LVIII > Part 5800 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Election Assistance Commission",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "Responsibilities of Federal Agency Officials Regarding Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LVIII",
+          "part": "5800",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LVIII > Part 5800 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Election Assistance Commission",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LVIII",
+          "part": "5800",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LVIII > Part 5800",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Election Assistance Commission",
+          "",
+          "Nonprocurement Debarment and Suspension",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LVIII",
+          "part": "5800"
+        }
+      },
+      {
+        "path": "Title 2 > Subtitle B >  Chapter LVIII > Part 5801",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Grants and Agreements",
+          "Federal Agency Regulations for Grants and Agreements",
+          "Election Assistance Commission",
+          "",
+          "Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 2,
+          "subtitle": "B",
+          "chapter": "LVIII",
+          "part": "5801"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9405",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "Procedures for Disclosure of Records Under the Freedom of Information Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9405"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9407",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "Implementation of the Government in the Sunshine Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9407"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9409",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "Testimony by Commission Employees Relating to Official Information and Production of Official Records in Legal Proceedings",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9409"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9410",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "Implementation of the Privacy Act of 1974",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9410"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9411",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "Standards of Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9411"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9420",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the U.S. Election Assistance Commission",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9420"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9428 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "National Voter Registration Act (42 U.S.C. 1973gg-1 et seq.)",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9428",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9428 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "National Voter Registration Act (42 U.S.C. 1973gg-1 et seq.)",
+          "National Mail Voter Registration Form",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9428",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9428 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "National Voter Registration Act (42 U.S.C. 1973gg-1 et seq.)",
+          "Recordkeeping and Reporting",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9428",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 11 >  Chapter II > Part 9430",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Elections",
+          "",
+          "Election Assistance Commission",
+          "",
+          "Debt Collection",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 11,
+          "chapter": "II",
+          "part": "9430"
+        }
+      }
+    ]
+  },
+  "searchCount": 16,
+  "versionSummary": {
+    "titleNumber": 2,
+    "totalVersions": 3316,
+    "firstDate": "2016-11-28",
+    "lastDate": "2025-01-03",
+    "uniqueParts": 104,
+    "uniqueSubparts": 12,
+    "typeCounts": {
+      "section": 3105,
+      "appendix": 211
+    }
+  }
+}
