@@ -8,10 +8,9 @@ import type {
 import type { Title } from "./model/titlesTypes";
 import type { HierarchyNode } from "./model/hierarchyTypes";
 import { AGENCIES_TRUNCATE_LIMIT } from "./config";
-import { clearAgencies, getDbPath, persistAgencies } from "./db/databaseHelper";
+import { clearAgencies, getDbPath, getTitleByNumber, persistAgencies } from "./db/databaseHelper";
 import { getAgencyByShortName } from "./db/databaseHelper";
 import { fetchAndSaveTitles, loadTitlesMap } from "./titleUtils";
-import { getTitleByNumber } from "./db/titleDatabaseHelper";
 
 const API_URL = "https://www.ecfr.gov/api/admin/v1/agencies.json";
 

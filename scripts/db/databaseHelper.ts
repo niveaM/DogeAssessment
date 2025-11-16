@@ -71,22 +71,23 @@ export async function persistTitles(titles: Title[]): Promise<void> {
 
 // Return a single Title by number (or undefined). Accepts number or string.
 export async function getTitleByNumber(
-  titleNumber: number | string
+  titleNumber: number
 ): Promise<Title | undefined> {
+  console.log('getTitleByNumber: called with', titleNumber);
   if (titleNumber == null) return undefined;
   const db = await readDb();
   // Use lowdb find to avoid pulling the full array into memory for mutation
-  return db.get(TITLES_KEY).find({ id: titleNumber }).value();
+  return db.get(TITLES_KEY).find({ number: titleNumber }).value();
 
 }
 
 export async function addOrUpdateTitle(title: Title): Promise<void> {
   if (!title || title.number == null)
     throw new Error("addOrUpdateTitle requires a Title with a number");
-  const db = readDb();
+  const db = await readDb();
   db.get(TITLES_KEY)
-    .find({ number: title.number })
-    .assign({ title: "lowdb is super awesome" })
+    .find({ title: title.number })
+    .assign(title)
     .write();
 }
 

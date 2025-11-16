@@ -3,13 +3,13 @@ import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
-import { addOrUpdateTitles, clearTitles, getTitles } from './db/titleDatabaseHelper';
 import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
 import { getSearchCountForTitle } from './agencyUtils';
 import { fetchTitleAndChapterCounts } from './fetchTitleChapterCounts';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
+import { addOrUpdateTitles, clearTitles, getTitles } from './db/databaseHelper';
 
 // Aggregated search counts collected during processing.
 export const aggregatedSearchCounts: Array<{ title: number; searchCount: number; agencySlug?: string }> = [];
