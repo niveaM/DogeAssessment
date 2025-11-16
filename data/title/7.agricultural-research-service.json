@@ -1,0 +1,336 @@
+{
+  "number": 7,
+  "name": "Agriculture",
+  "latest_amended_on": "2025-09-26",
+  "latest_issue_date": "2025-09-30",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "de40c026f715ea66d869c53b1d0b5ae8a404aca9312ab8f256cab5009594e516",
+  "wordCount": 5633788,
+  "agencySlug": "agricultural-research-service",
+  "titleChapterCounts": {
+    "title": "7",
+    "chapter": "V",
+    "titleCount": 116,
+    "chapterCount": 116,
+    "titleDisplayHeading": "Title 7 | Agriculture",
+    "chapterDisplayHeading": " Chapter V | Agricultural Research Service, Department of Agriculture",
+    "raw": [
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 500 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "National Arboretum",
+          "Conduct on U.S. National Arboreturm Property",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "500",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 500 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "National Arboretum",
+          "Fee Schedule for Certain Uses of National Arboretum Facilities and Grounds",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "500",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 501",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "Conduct on U.S. Meat Animal Research Center, Clay Center, Nebraska",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "501"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 502",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "Conduct on Beltsville Agriculture Research Center Property, Beltsville, Maryland",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "502"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 503",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "Conduct on Plum Island Animal Disease Center",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "503"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 504",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "User Fees",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "504"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 505",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "National Agricultural Library Fees for Loans and Copying",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "505"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 510",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "Public Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "510"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 520",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "Procedures for Implementing National Environmental Policy Act",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "520"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter V > Part 550",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Research Service, Department of Agriculture",
+          "",
+          "General Administrative Policy for Non-Assistance Cooperative Agreements",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "V",
+          "part": "550"
+        }
+      }
+    ]
+  },
+  "searchCount": 123,
+  "versionSummary": {
+    "titleNumber": 7,
+    "totalVersions": 31108,
+    "firstDate": "2016-05-04",
+    "lastDate": "2025-09-26",
+    "uniqueParts": 480,
+    "uniqueSubparts": 313,
+    "typeCounts": {
+      "section": 30688,
+      "appendix": 420
+    }
+  }
+}

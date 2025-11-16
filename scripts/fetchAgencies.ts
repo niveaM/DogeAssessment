@@ -46,6 +46,20 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
     // eslint-disable-next-line no-await-in-loop
     await processAgency(agencyShortName, agenciesMap);
   }
+  else {
+    // No specific agency requested: process all agencies sequentially.
+    // Sequential processing avoids overwhelming upstream services or local I/O.
+    const keys = Object.keys(agenciesMap);
+    console.log(`No short name provided — processing all ${keys.length} agencies sequentially.`);
+    for (const key of keys) {
+      try {
+        // eslint-disable-next-line no-await-in-loop
+        await processAgency(key, agenciesMap);
+      } catch (err: any) {
+        console.error(`Error processing agency '${key}':`, err?.message || err);
+      }
+    }
+  }
 
   // ensure data directory exists, then write the file into it
   await fs.mkdir(DATA_DIR, { recursive: true });

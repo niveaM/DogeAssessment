@@ -1,0 +1,1076 @@
+{
+  "number": 22,
+  "name": "Foreign Relations",
+  "latest_amended_on": "2025-09-18",
+  "latest_issue_date": "2025-09-18",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "2b7abca803ce52b77ac45318b15e66377379ad767295be2fa9a5fb4fba0720fd",
+  "wordCount": 951930,
+  "agencySlug": "african-development-foundation",
+  "titleChapterCounts": {
+    "title": "22",
+    "chapter": "XV",
+    "titleCount": 273,
+    "chapterCount": 273,
+    "titleDisplayHeading": "Title 22 | Foreign Relations",
+    "chapterDisplayHeading": " Chapter XV | African Development Foundation",
+    "raw": [
+      {
+        "path": "Title 22 >  Chapter XV > Part 1500",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Sunshine Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1500"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1501 > Substantive Rule of General Applicability",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Organization",
+          "",
+          "Substantive Rule of General Applicability"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1501"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1502",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Availability of Records",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1502"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1503",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Official Seal",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1503"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1504",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Employee Responsibilities and Conduct",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1504"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1507",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Rules Safeguarding Personal Information",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1507"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "Collection",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "Administrative Offset",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "Compromise of Debts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "Suspension or Termination of Collection Action",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "Discharge of Indebtedness and Reporting Requirements",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "Referrals to the Department of Justice",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1506 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Collection of Claims",
+          "Mandatory Transfer of Delinquent Debt to the Bureau of Fiscal Services (BFS) of the Department of Treasury",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1506",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart C > Doing Business With Other Persons",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of Participants Regarding Transactions",
+          "Doing Business With Other Persons"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart C > Disclosing Information - Lower Tier Participants",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of Participants Regarding Transactions",
+          "Disclosing Information - Lower Tier Participants"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart C > Disclosing Information—Primary Tier Participants",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of Participants Regarding Transactions",
+          "Disclosing Information—Primary Tier Participants"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Responsibilities of ADF Officials Regarding Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Excluded Parties List System",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "General Principles Relating to Suspension and Debarment Actions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Covered Transactions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart H",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Debarment",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 18,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "H"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1508 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Debarment and Suspension (Nonprocurement)",
+          "Suspension",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1508",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1509 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Purpose and Coverage",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1509",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1509 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Definitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1509",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1509 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Requirements for Recipients Who Are Individuals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1509",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1509 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Requirements for Recipients Other Than Individuals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1509",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1509 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Responsibilities of ADF Awarding Officials",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1509",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1509 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Governmentwide Requirements for Drug-Free Workplace (Financial Assistance)",
+          "Violations of this Part and Consequences",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1509",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 22 >  Chapter XV > Part 1510",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Foreign Relations",
+          "",
+          "African Development Foundation",
+          "",
+          "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the African Development Foundation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 22,
+          "chapter": "XV",
+          "part": "1510"
+        }
+      },
+      {
+        "path": "Title 48 >  Chapter 57 > Subchapter B > Part 5706 > Subpart 5706.3",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Federal Acquisition Regulations System",
+          "",
+          "African Development Foundation",
+          "Acquisition Planning",
+          "Competition Requirements",
+          "Other Than Full and Open Competition",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 48,
+          "chapter": "57",
+          "subchapter": "B",
+          "part": "5706",
+          "subpart": "5706.3"
+        }
+      }
+    ]
+  },
+  "searchCount": 273,
+  "versionSummary": {
+    "titleNumber": 22,
+    "totalVersions": 5233,
+    "firstDate": "2016-12-27",
+    "lastDate": "2025-09-18",
+    "uniqueParts": 218,
+    "uniqueSubparts": 16,
+    "typeCounts": {
+      "section": 5104,
+      "appendix": 129
+    }
+  }
+}
