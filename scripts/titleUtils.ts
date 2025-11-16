@@ -195,11 +195,27 @@ export async function loadTitlesMap(): Promise<Record<string, Title>> {
     if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
     const data: TitlesResponse = await res.json();
 
-    // Persist via the titles DB helper so we don't duplicate file logic here
+    // Persist via the titles DB helper so we don't duplicate file logic here.
+    // The ECFR API response may include metadata alongside the titles array
+    // (e.g. { titles: [...], meta: {...} }), so normalize to the actual
+    // titles array before persisting. Persisting Object.values(data) previously
+    // stored an array containing the titles array and a metadata object —
+    // which is why `data/db.json` ended up with an array-of-arrays.
     try {
-      const titlesArray = Object.values(data);
-      await addOrUpdateTitles(titlesArray);
-      console.log(`loadTitlesMap: persisted ${titlesArray.length} titles via helper`);
+      let titlesArrayToPersist: any[] = [];
+      if (Array.isArray((data as any).titles)) {
+        titlesArrayToPersist = (data as any).titles;
+      } else if (data && (data as any).titles && typeof (data as any).titles === 'object') {
+        titlesArrayToPersist = Object.values((data as any).titles);
+      } else if (Array.isArray(data)) {
+        titlesArrayToPersist = data as any[];
+      } else {
+        // Fallback: collect any array-valued top-level properties
+        titlesArrayToPersist = Object.values(data).filter(v => Array.isArray(v)).flat();
+      }
+
+      await addOrUpdateTitles(titlesArrayToPersist);
+      console.log(`loadTitlesMap: persisted ${titlesArrayToPersist.length} titles via helper`);
     } catch (err: any) {
       console.warn('loadTitlesMap: failed to persist titles via helper:', err?.message || err);
     }

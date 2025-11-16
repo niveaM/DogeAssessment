@@ -26,7 +26,7 @@ function getLowDb() {
 export async function readTitlesDb(): Promise<TitlesDbShape> {
   try {
     const db = getLowDb();
-    const titles = db.get('titles').value() as Title[] || [];
+    const titles = (db.get('titles').value() || []) as Title[];
     return { titles } as TitlesDbShape;
   } catch (err: any) {
     return { titles: [] } as TitlesDbShape;
@@ -39,8 +39,8 @@ export async function writeTitlesDb(dbShape: TitlesDbShape): Promise<void> {
 }
 
 export async function getTitlesMap(): Promise<TitlesMap> {
-  const db = await readTitlesDb();
-  const list = db.titles || [];
+  const db = getLowDb();
+  const list: Title[] = (db.get('titles').value() || []) as Title[];
   const map: TitlesMap = {};
   for (const t of list) {
     if (t && t.number != null) map[String(t.number)] = t;
@@ -48,21 +48,27 @@ export async function getTitlesMap(): Promise<TitlesMap> {
   return map;
 }
 
+// Return a single Title by number (or undefined). Accepts number or string.
+export async function getTitleByNumber(titleNumber: number | string): Promise<Title | undefined> {
+  if (titleNumber == null) return undefined;
+  const db = getLowDb();
+  // Use lowdb find to avoid pulling the full array into memory for mutation
+  const found = db.get('titles').find((t: any) => String(t.number) === String(titleNumber)).value();
+  return (found as Title | undefined);
+}
+
 export async function addOrUpdateTitle(title: Title): Promise<void> {
   if (!title || title.number == null) throw new Error('addOrUpdateTitle requires a Title with a number');
   const db = getLowDb();
-  const list: Title[] = db.get('titles').value() || [];
   const key = String(title.number);
-  let replaced = false;
-  for (let i = 0; i < list.length; i++) {
-    if (String(list[i]?.number) === key) {
-      list[i] = title;
-      replaced = true;
-      break;
-    }
+  const existing = db.get('titles').find((t: any) => String(t.number) === key).value();
+  if (existing) {
+    // update existing entry
+    db.get('titles').find((t: any) => String(t.number) === key).assign(title).write();
+  } else {
+    // push new entry
+    db.get('titles').push(title).write();
   }
-  if (!replaced) list.push(title);
-  db.set('titles', list).write();
 }
 
 export async function addOrUpdateTitles(titles: Title[]): Promise<void> {
