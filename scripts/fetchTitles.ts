@@ -3,6 +3,8 @@ import { fetchAndSaveTitles } from './titleUtils';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
+import type { Title } from './model/titlesTypes';
+import type { Agency } from './model/agencyTypes';
 
 
 
@@ -25,12 +27,25 @@ if (target === 'all') {
   (async () => {
     const titlesFile = path.join(DATA_DIR, 'titles.json');
     const content = await fs.readFile(titlesFile, 'utf8');
-    const data = JSON.parse(content) as { titles?: Array<{ number: number }> };
-    const list = data.titles || [];
+    const data = JSON.parse(content) as { titles?: Record<string, Title> };
+    const list = Object.values(data.titles || {});
     for (const t of list) {
       try {
+        // resolve agency object (if provided) so callers pass an Agency, not a string
+        let agencyObj: Agency | undefined;
+        if (agencySlugArg) {
+          try {
+            const agenciesFile = path.join(DATA_DIR, 'agencies.json');
+            const agenciesContent = await fs.readFile(agenciesFile, 'utf8');
+            const agenciesMap = JSON.parse(agenciesContent) as Record<string, Agency>;
+            agencyObj = agenciesMap[agencySlugArg] || Object.values(agenciesMap).find(a => a.slug === agencySlugArg);
+            if (!agencyObj) console.warn(`Agency '${agencySlugArg}' not found in ${agenciesFile}; continuing without agency`);
+          } catch (e) {
+            console.warn('Failed to resolve agency from agencies.json:', e);
+          }
+        }
         // eslint-disable-next-line no-await-in-loop
-        await fetchAndSaveTitles({ title: t.number }, agencySlugArg);
+        await fetchAndSaveTitles(t, undefined, agencyObj);
       } catch (err: any) {
         console.error(`Error fetching title ${t.number}:`, err?.message || err);
       }
@@ -40,8 +55,30 @@ if (target === 'all') {
     process.exit(1);
   });
 } else {
-  const ref = { title: target };
-  fetchAndSaveTitles(ref, agencySlugArg).catch((err) => {
+  (async () => {
+    const titlesFile = path.join(DATA_DIR, 'titles.json');
+    const content = await fs.readFile(titlesFile, 'utf8');
+    const data = JSON.parse(content) as { titles?: Record<string, Title> };
+    const titleObj = data.titles ? data.titles[String(target)] : undefined;
+    if (!titleObj) {
+      console.error(`Title ${target} not found in ${titlesFile}`);
+      process.exit(1);
+    }
+    // resolve agency object (if provided) so we pass Agency not string
+    let agencyObj: Agency | undefined;
+    if (agencySlugArg) {
+      try {
+        const agenciesFile = path.join(DATA_DIR, 'agencies.json');
+        const agenciesContent = await fs.readFile(agenciesFile, 'utf8');
+        const agenciesMap = JSON.parse(agenciesContent) as Record<string, Agency>;
+        agencyObj = agenciesMap[agencySlugArg] || Object.values(agenciesMap).find(a => a.slug === agencySlugArg);
+        if (!agencyObj) console.warn(`Agency '${agencySlugArg}' not found in ${agenciesFile}; continuing without agency`);
+      } catch (e) {
+        console.warn('Failed to resolve agency from agencies.json:', e);
+      }
+    }
+    await fetchAndSaveTitles(titleObj, undefined, agencyObj);
+  })().catch((err) => {
     console.error('Error fetching title:', err);
     process.exit(1);
   });

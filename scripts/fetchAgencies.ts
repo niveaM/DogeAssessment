@@ -2,6 +2,7 @@
 import fetch from 'node-fetch';
 import { AgenciesResponse, Agency } from './model/agencyTypes';
 import { fetchAndSaveTitles } from './titleUtils';
+import type { Title } from './model/titlesTypes';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
@@ -41,10 +42,16 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
   const agenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
   const agenciesMap = buildAgenciesMap(agenciesList);
 
+  // Load titles map once and pass Title objects into fetchAndSaveTitles
+  const titlesFile = path.join(DATA_DIR, 'titles.json');
+  const titlesContent = await fs.readFile(titlesFile, 'utf8');
+  const titlesData = JSON.parse(titlesContent) as { titles?: Record<string, Title> };
+  const titlesMap: Record<string, Title> = titlesData.titles || {};
+
   if (agencyShortName) {
     // processAgency may perform I/O (calls fetchAndSaveTitles), so await it.
     // eslint-disable-next-line no-await-in-loop
-    await processAgency(agencyShortName, agenciesMap);
+    await processAgency(agencyShortName, agenciesMap, titlesMap);
   }
   else {
     // No specific agency requested: process all agencies sequentially.
@@ -54,7 +61,7 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
     for (const key of keys) {
       try {
         // eslint-disable-next-line no-await-in-loop
-        await processAgency(key, agenciesMap);
+        await processAgency(key, agenciesMap, titlesMap);
       } catch (err: any) {
         console.error(`Error processing agency '${key}':`, err?.message || err);
       }
@@ -69,7 +76,7 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
 }
 
 // non-destructive helper to print agency details when a short name is provided
-async function processAgency(shortName: string | undefined, map: Record<string, Agency>) {
+async function processAgency(shortName: string | undefined, map: Record<string, Agency>, titlesMap: Record<string, Title>) {
   if (!shortName || String(shortName).trim().length === 0) return;
   const key = String(shortName).trim();
   const agency = map[key];
@@ -84,10 +91,16 @@ async function processAgency(shortName: string | undefined, map: Record<string, 
   if (Array.isArray(agency.cfr_references)) {
     for (const ref of agency.cfr_references) {
       try {
-        console.log(`Fetching ${JSON.stringify(ref)} for agency '${agency.slug}'`);  
+        console.log(`Fetching ${JSON.stringify(ref)} for agency '${agency.slug}'`);
+        // Look up the Title object from the pre-loaded titlesMap
+        const titleObj = titlesMap[String(ref.title)];
+        if (!titleObj) {
+          console.warn(`Title ${String(ref.title)} not found in titles.json — skipping`);
+          continue;
+        }
         // sequential to avoid overwhelming local processing; could be parallelized later
         // eslint-disable-next-line no-await-in-loop
-        ref.titleData = await fetchAndSaveTitles(ref, agency);
+        ref.titleData = await fetchAndSaveTitles(titleObj, ref, agency);
       } catch (err: any) {
         console.error(`Error processing title ${ref?.title} for agency ${agency.slug}:`, err?.message || err);
       }

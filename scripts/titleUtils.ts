@@ -180,29 +180,19 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
 // Processes either a single title (by number) or all titles and writes
 // per-title JSON files into the data directory. Exported so other scripts
 // (including `fetchTitles.ts`) can reuse it.
-export async function fetchAndSaveTitles(cfrReference: CFRReference, agency?: Agency): Promise<Title> {
-  // Read titles data from the local data directory instead of fetching from ECFR.
-  const titlesFile = path.join(DATA_DIR, 'titles.json');
-  const fileContent = await fs.readFile(titlesFile, 'utf8');
-  const data: TitlesFile = JSON.parse(fileContent);
-
-  // The on-disk `titles.json` is a map keyed by title number.
-  const titlesMap: Record<string, Title> = data.titles || {};
-
-  // target is a CFRReference object — use it directly
-  // We trust `titles.json` contains the requested title; assert the type for downstream callers.
-  const titleObj = titlesMap[String(cfrReference.title)] as Title;
-  if (!titleObj) throw new Error(`Title ${cfrReference.title} not found in titles.json`);
+export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
+  // The caller must provide a fully-typed Title object (pulled from data/titles.json).
+  if (!titleObj || titleObj.number == null) throw new Error('fetchAndSaveTitles requires a Title object as the first argument');
 
   // Ensure per-title directory exists
   const perTitleDir = path.join(DATA_DIR, 'title');
-  // await fs.mkdir(perTitleDir, { recursive: true });
+  await fs.mkdir(perTitleDir, { recursive: true });
 
-    console.log(`Processing Title ${titleObj.number} (${titleObj.name})`);
-    // sequential processing to avoid hammering API
-  // Use the provided Agency object directly (or undefined).
+  console.log(`Processing Title ${titleObj.number} (${titleObj.name})`);
+  // sequential processing to avoid hammering API
+  // Use the provided Agency object directly (if provided).
   // eslint-disable-next-line no-await-in-loop
-  const merged = await processTitle(titleObj, cfrReference, agency);
+  const merged = await processTitle(titleObj, target, agency);
 
   // write individual file for this title
   // include agencySlug in the filename when provided, sanitized for filesystem safety
@@ -213,7 +203,6 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agency?: Ag
   // eslint-disable-next-line no-await-in-loop
   await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
   console.log(`Wrote title ${merged.number} to ${outFile}`);
-
   /* // Also persist the aggregated search counts collected so far so callers can
   // inspect cumulative search counts across processed titles.
   try {
