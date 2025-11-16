@@ -21,7 +21,7 @@ type HierarchyResponse = {
   shown_count: number;
 };
 
-interface TitleChapterCountsResult {
+export interface TitleChapterCountsResult {
   title: string | null;
   chapter: string;
   titleCount: number;
