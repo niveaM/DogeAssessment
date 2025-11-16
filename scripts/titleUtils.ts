@@ -25,18 +25,42 @@ export function checksumXML(xml: string): string {
   return crypto.createHash('sha256').update(xml).digest('hex');
 }
 
-export async function getTitleStats(titleObj: Title, agency?: Agency): Promise<Title> {
-  const dateString = titleObj.latest_issue_date ?? 'latest';
-  const url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
+export async function getTitleStats(titleObj: Title, target: CFRReference): Promise<Title> {
+  const dateString = titleObj.up_to_date_as_of ?? "latest";
+    let url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
+    
+    console.log(`================================================`);
+
+    console.log(`getTitleStats :: Title ${JSON.stringify(titleObj)} with target: ${JSON.stringify(target)}`);
+
+    const resFull = await fetch(url);
+    console.log(
+      `getTitleStats :: Fetching full XML for Title ${titleObj.number} (${titleObj.name}) from ${url}`
+    );
+    if (!resFull.ok) throw new Error(`HTTP error: ${resFull.status}`);
+    const xmlFull = await resFull.text();
+    console.log(
+      `getTitleStats :: Fetch FULL response status: ${xmlFull.length}`
+    );
+
+    // Only append chapter query param when a non-empty chapter is provided
+    if (target && target.chapter != null && String(target.chapter).trim() !== '') {
+      url += `?chapter=${encodeURIComponent(String(target.chapter))}`;
+    }
+
+  console.log(`getTitleStats :: Fetching Chapter XML for Title ${titleObj.number} (${titleObj.name}) from ${url}`);
   const res = await fetch(url);
+  console.log(`getTitleStats :: Fetching Chapter XML for Title ${JSON.stringify(res)} from ${res.status}`);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const xml = await res.text();
+  console.log(`getTitleStats :: Fetch response status: ${xml.length}`);
+
+  console.log(`================================================`);
 
   const merged: Title = { ...titleObj };
   merged.checksum = checksumXML(xml);
   merged.wordCount = countWords(xml);
 
-  if (agency?.slug) merged.agencySlug = agency.slug;
 
   return merged;
 }
@@ -95,7 +119,10 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   }
 
   try {
-    merged = await getTitleStats(titleObj, agency);
+    // Pass the CFRReference `target` to getTitleStats (we no longer accept Agency here)
+    merged = await getTitleStats(titleObj, target);
+    if (agency?.slug) merged.agencySlug = agency.slug;
+
   } catch (err) {
     merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
   }

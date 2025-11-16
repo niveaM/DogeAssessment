@@ -686,10 +686,15 @@ function TitleDetail({ number, onBack }) {
     Array.isArray(data.titleChapterCounts.raw)
       ? data.titleChapterCounts.raw
       : [];
-  const filtered = items.filter((it) => {
+  // attach original indices so charts/table can reference back to original items
+  const itemsWithIndex = items.map((d, i) => Object.assign({ __origIndex: i }, d));
+  const filtered = itemsWithIndex.filter((it) => {
     if (!query) return true;
     return JSON.stringify(it).toLowerCase().includes(query.toLowerCase());
   });
+  // sorting state for the table: key can be 'count' or 'max_score' or null
+  const [sortKey, setSortKey] = useState(null);
+  const [sortDir, setSortDir] = useState("desc");
 
   // Inline SVG bar chart component for counts or scores
   function BarChart({
@@ -701,12 +706,13 @@ function TitleDetail({ number, onBack }) {
   }) {
     if (!Array.isArray(dataset) || dataset.length === 0)
       return <div style={{ color: "#777" }}>No data for chart</div>;
-    // choose top items by value
+    // choose top items by value; include original index for expansion
     const itemsToShow = dataset
       .map((d, i) => ({
         d,
-        i,
+        datasetIndex: i,
         v: d[valueKey] == null ? 0 : Number(d[valueKey]),
+        origIndex: d.__origIndex != null ? d.__origIndex : i,
       }))
       .sort((a, b) => b.v - a.v)
       .slice(0, maxBars);
@@ -727,16 +733,14 @@ function TitleDetail({ number, onBack }) {
           {itemsToShow.map((it, idx) => {
             const barWidth = (it.v / maxV) * (chartWidth - 260);
             const y = idx * rowHeight + 10;
-            const label =
-              it.d && it.d[labelKey]
-                ? String(it.d[labelKey])
-                : `item ${it.i + 1}`;
+            const label = it.d && it.d[labelKey] ? String(it.d[labelKey]) : `item ${it.datasetIndex + 1}`;
+            const valueLabel = valueKey === 'max_score' && typeof it.v === 'number' ? it.v.toFixed(4) : String(it.v);
             return (
               <g
                 key={idx}
                 transform={`translate(0, ${y})`}
                 style={{ cursor: "pointer" }}
-                onClick={() => onBarClick && onBarClick(it.i)}
+                onClick={() => onBarClick && onBarClick(it.origIndex)}
               >
                 <text x={8} y={18} fontSize={12} fill="#222">
                   {label.length > 60 ? label.slice(0, 60) + "…" : label}
@@ -756,7 +760,7 @@ function TitleDetail({ number, onBack }) {
                   fontSize={12}
                   fill="#222"
                 >
-                  {it.v}
+                  {valueLabel}
                 </text>
               </g>
             );
@@ -845,25 +849,19 @@ function TitleDetail({ number, onBack }) {
 
           <div style={{ marginTop: 16 }}>
             <div style={{ marginBottom: 12 }}>
-              <h4 style={{ margin: "8px 0" }}>Top rows by count</h4>
+              <h4 style={{ margin: "8px 0", display: 'flex', alignItems: 'center', gap: 8 }}>
+                <span>Top rows by count</span>
+                <button className="small-btn" onClick={() => { setSortKey('count'); setSortDir(prev => prev === 'asc' ? 'desc' : 'asc'); }}>Sort table by count</button>
+              </h4>
               <BarChart
                 dataset={filtered}
                 valueKey="count"
                 labelKey="path"
                 maxBars={12}
-                onBarClick={(idx) => toggle(idx)}
+                onBarClick={(origIdx) => toggle(origIdx)}
               />
             </div>
-            <div style={{ marginBottom: 12 }}>
-              <h4 style={{ margin: "8px 0" }}>Top rows by max_score</h4>
-              <BarChart
-                dataset={filtered}
-                valueKey="max_score"
-                labelKey="path"
-                maxBars={12}
-                onBarClick={(idx) => toggle(idx)}
-              />
-            </div>
+            {/* removed max_score chart per user request */}
           </div>
 
           <div style={{ marginTop: 8 }}>
@@ -874,83 +872,56 @@ function TitleDetail({ number, onBack }) {
                   <th>Path</th>
                   <th style={{ width: 160 }}>Type</th>
                   <th style={{ width: 120 }}>Count</th>
-                  <th style={{ width: 120 }}>Max score</th>
-                  <th style={{ width: 120 }}>Levels</th>
                   <th style={{ width: 240 }}>Headings</th>
                 </tr>
               </thead>
               <tbody>
                 {filtered.length === 0 ? (
                   <tr>
-                    <td colSpan={7} className="empty">
+                    <td colSpan={5} className="empty">
                       No items.
                     </td>
                   </tr>
                 ) : (
-                  filtered.map((it, idx) => (
-                    <React.Fragment key={idx}>
-                      <tr>
-                        <td>{idx + 1}</td>
-                        <td style={{ whiteSpace: "pre-wrap" }}>
-                          {it.path || ""}
-                        </td>
-                        <td>{it.type || ""}</td>
-                        <td>{it.count != null ? it.count : ""}</td>
-                        <td>
-                          {it.max_score != null
-                            ? it.max_score.toFixed
-                              ? it.max_score.toFixed(4)
-                              : String(it.max_score)
-                            : ""}
-                        </td>
-                        <td>
-                          {Array.isArray(it.levels)
-                            ? it.levels.join(" > ")
-                            : ""}
-                        </td>
-                        <td style={{ whiteSpace: "pre-wrap" }}>
-                          {Array.isArray(it.headings)
-                            ? it.headings
-                                .filter(
-                                  (h) =>
-                                    h !== null &&
-                                    h !== undefined &&
-                                    String(h).trim() !== ""
-                                )
-                                .join(" | ")
-                            : ""}
-                        </td>
-                      </tr>
-                      {expanded.has(idx) && (
-                        <tr className="expanded-row">
-                          <td colSpan={7}>
-                            <div style={{ display: "flex", gap: 12 }}>
-                              <div style={{ flex: 1 }}>
-                                <strong>CFR reference</strong>
-                                <pre
-                                  style={{ maxHeight: 220, overflow: "auto" }}
-                                >
-                                  {JSON.stringify(
-                                    it.cfrReference || it.cfrReference || {},
-                                    null,
-                                    2
-                                  )}
-                                </pre>
-                              </div>
-                              <div style={{ flex: 1 }}>
-                                <strong>Raw object</strong>
-                                <pre
-                                  style={{ maxHeight: 220, overflow: "auto" }}
-                                >
-                                  {JSON.stringify(it, null, 2)}
-                                </pre>
-                              </div>
-                            </div>
-                          </td>
+                  (() => {
+                    const displayed = filtered.slice();
+                    if (sortKey) {
+                      displayed.sort((a, b) => {
+                        const va = Number(a[sortKey] == null ? 0 : a[sortKey]);
+                        const vb = Number(b[sortKey] == null ? 0 : b[sortKey]);
+                        return sortDir === 'asc' ? va - vb : vb - va;
+                      });
+                    }
+                    return displayed.map((it, idx) => (
+                      <React.Fragment key={it.__origIndex}>
+                        <tr>
+                          <td>{idx + 1}</td>
+                          <td style={{ whiteSpace: "pre-wrap" }}>{it.path || ""}</td>
+                          <td>{it.type || ""}</td>
+                          <td>{it.count != null ? it.count : ""}</td>
+                          
+                          <td style={{ whiteSpace: "pre-wrap" }}>{Array.isArray(it.headings) ? it.headings.filter(h => h !== null && h !== undefined && String(h).trim() !== "").join(" | ") : ""}</td>
                         </tr>
-                      )}
-                    </React.Fragment>
-                  ))
+
+                        {expanded.has(it.__origIndex) && (
+                          <tr className="expanded-row">
+                            <td colSpan={5}>
+                              <div style={{ display: "flex", gap: 12 }}>
+                                <div style={{ flex: 1 }}>
+                                  <strong>CFR reference</strong>
+                                  <pre style={{ maxHeight: 220, overflow: "auto" }}>{JSON.stringify(it.cfrReference || {}, null, 2)}</pre>
+                                </div>
+                                <div style={{ flex: 1 }}>
+                                  <strong>Raw object</strong>
+                                  <pre style={{ maxHeight: 220, overflow: "auto" }}>{JSON.stringify(it, null, 2)}</pre>
+                                </div>
+                              </div>
+                            </td>
+                          </tr>
+                        )}
+                      </React.Fragment>
+                    ));
+                  })()
                 )}
               </tbody>
             </table>
