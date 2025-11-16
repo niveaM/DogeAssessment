@@ -1,0 +1,2663 @@
+{
+  "number": 36,
+  "name": "Parks, Forests, and Public Property",
+  "latest_amended_on": "2025-07-18",
+  "latest_issue_date": "2025-09-17",
+  "up_to_date_as_of": "2025-09-30",
+  "reserved": false,
+  "checksum": "1085ca5a65b797174edb1ec4572637cfa87170b502fb2dcb134b4a90a7eb4915",
+  "wordCount": 1086818,
+  "agencySlug": "forest-service",
+  "titleChapterCounts": {
+    "title": "36",
+    "chapter": "II",
+    "titleCount": 860,
+    "chapterCount": 860,
+    "titleDisplayHeading": "Title 36 | Parks, Forests, and Public Property",
+    "chapterDisplayHeading": " Chapter II | Forest Service, Department of Agriculture",
+    "raw": [
+      {
+        "path": "Title 36 >  Chapter II > Part 200 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Organization, Functions, and Procedures",
+          "Organization",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "200",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 200 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Organization, Functions, and Procedures",
+          "Functions and Procedures",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "200",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 211 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Administration",
+          "Cooperation",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "211",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 212 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Travel Management",
+          "Administration of the Forest Transportation System",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "212",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 212 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Travel Management",
+          "Designation of Roads, Trails, and Areas for Motor Vehicle Use",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "212",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 212 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Travel Management",
+          "Over-Snow Vehicle Use",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "212",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 213",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Administration of Lands Under Title III of the Bankhead-Jones Farm Tenant Act by the Forest Service",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "213"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 214",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Postdecisional Administrative Review Process for Occupancy or Use of National Forest System Lands and Resources",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 25,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "214"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 216",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Public Notice and Comment for Standards, Criteria, and Guidance Applicable to Forest Service Programs",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "216"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 218 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Project-Level Predecisional Administrative Review Process",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "218",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 218 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Project-Level Predecisional Administrative Review Process",
+          "Provisions Specific to Project-Level Proposals Not Authorized Under Healthy Forests Restoration Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "218",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 218 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Project-Level Predecisional Administrative Review Process",
+          "Provisions Specific to Proposed Projects Authorized Under the Healthy Forests Restoration Act",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "218",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 219 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Planning",
+          "National Forest System Land Management Planning",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 30,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "219",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 219 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Planning",
+          "Pre-Decisional Administrative Review Process",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "219",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 220",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Environmental Policy Act (NEPA) Compliance",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "220"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 221",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Timber Management Planning",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "221"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 222 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Range Management",
+          "Grazing and Livestock Use on the National Forest System",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "222",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 222 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Range Management",
+          "Mediation of Term Grazing Permit Disputes",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "222",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 222 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Range Management",
+          "Grazing Fees",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "222",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 222 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Range Management",
+          "Management of Wild Free-Roaming Horses and Burros",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "222",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 15,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart B > Contract Conditions and Provisions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Timber Sale Contracts",
+          "Contract Conditions and Provisions"
+        ],
+        "type": "subject_group",
+        "count": 24,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart B > Appraisal and Pricing",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Timber Sale Contracts",
+          "Appraisal and Pricing"
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart B > Advertisement and Bids",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Timber Sale Contracts",
+          "Advertisement and Bids"
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart B > Award of Contracts",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Timber Sale Contracts",
+          "Award of Contracts"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart B > Contract Administration",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Timber Sale Contracts",
+          "Contract Administration"
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Suspension and Debarment of Timber Purchasers",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 16,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Timber Export and Substitution Restrictions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "The Forest Resources Conservation and Shortage Relief Act of 1990 Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 223 > Subpart I",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Sale and Disposal of National Forest System Timber, Special Forest Products, and Forest Botanical Products",
+          "Stewardship End Result Contracting Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "223",
+          "subpart": "I"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Locatable Minerals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Leasable Minerals",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Disposal of Mineral Materials",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart C > General Provisions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Disposal of Mineral Materials",
+          "General Provisions"
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart C > Types and Methods of Disposal",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Disposal of Mineral Materials",
+          "Types and Methods of Disposal"
+        ],
+        "type": "subject_group",
+        "count": 11,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Miscellaneous Minerals Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Oil and Gas Resources",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart E > Leasing",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Oil and Gas Resources",
+          "Leasing"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart E > Authorization of Occupancy Within a Leasehold",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Oil and Gas Resources",
+          "Authorization of Occupancy Within a Leasehold"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 228 > Subpart E > Administration of Operations",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Minerals",
+          "Oil and Gas Resources",
+          "Administration of Operations"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "228",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 230 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "State and Private Forestry Assistance",
+          "Community Forest and Open Space Conservation Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 20,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "230",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 230 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "State and Private Forestry Assistance",
+          "Urban and Community Forestry Assistance Program",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "230",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 241 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Fish and Wildlife",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "241",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 241 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Fish and Wildlife",
+          "Conservation of Fish, Wildlife, and Their Habitat, Chugach National Forest, Alaska",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "241",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 242 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Subsistence Management Regulations for Public Lands in Alaska",
+          "General Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 14,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "242",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 242 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Subsistence Management Regulations for Public Lands in Alaska",
+          "Program Structure",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "242",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 242 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Subsistence Management Regulations for Public Lands in Alaska",
+          "Board Determinations",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "242",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 242 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Subsistence Management Regulations for Public Lands in Alaska",
+          "Subsistence Taking of Fish and Wildlife",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 22,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "242",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 251 > Subpart A > Natural Resources Control",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Land Uses",
+          "Miscellaneous Land Uses",
+          "Natural Resources Control"
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "251",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 251 > Subpart A > Rights of Grantors",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Land Uses",
+          "Miscellaneous Land Uses",
+          "Rights of Grantors"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "251",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 251 > Subpart A > Designation of Areas",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Land Uses",
+          "Miscellaneous Land Uses",
+          "Designation of Areas"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "251",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 251 > Subpart A > Petersburg Watershed",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Land Uses",
+          "Miscellaneous Land Uses",
+          "Petersburg Watershed"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "251",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 251 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Land Uses",
+          "Special Uses",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 41,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "251",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 251 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Land Uses",
+          "Access to Non-Federal Lands",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "251",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 251 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Land Uses",
+          "Revenue-Producing Visitor Services in Alaska",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "251",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 254 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Landownership Adjustments",
+          "Land Exchanges",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "254",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 254 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Landownership Adjustments",
+          "National Forest Townsites",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 7,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "254",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 254 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Landownership Adjustments",
+          "Conveyance of Small Tracts",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "254",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 261 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Prohibitions",
+          "General Prohibitions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 42,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "261",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 261 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Prohibitions",
+          "Prohibitions in Areas Designated by Order",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 19,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "261",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 261 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Prohibitions",
+          "Prohibitions in Regions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 12,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "261",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 262 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Law Enforcement Support Activities",
+          "Rewards and Payments",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "262",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 262 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Law Enforcement Support Activities",
+          "Administrative Impoundment and Removal",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "262",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 264 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Property Management",
+          "Official Forest Service Insignia",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "264",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 264 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Property Management",
+          "Mount St. Helens National Volcanic Monument Symbol",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "264",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 271",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Use of “Smokey Bear” Symbol",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 8,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "271"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 272",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Use of “Woodsy Owl” Symbol",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "272"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 290",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Cave Resources Management",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 5,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "290"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 291",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Paleontological Resources Preservation",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 41,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "291"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "General",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Sawtooth National Recreation Area—Private Lands",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Whiskeytown-Shasta-Trinity National Recreation Area",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Sawtooth National Recreation Area - Federal Lands",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Hells Canyon National Recreation Area - Private Lands",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart F",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Hells Canyon National Recreation Area - Federal Lands",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "F"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart G",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Smith River National Recreation Area",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart G > Locatable Minerals",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Smith River National Recreation Area",
+          "Locatable Minerals"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart G > Outstanding Mineral Rights",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Smith River National Recreation Area",
+          "Outstanding Mineral Rights"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart G > Mineral Materials",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Smith River National Recreation Area",
+          "Mineral Materials"
+        ],
+        "type": "subject_group",
+        "count": 1,
+        "max_score": 2.0230381,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 292 > Subpart G > Other Provisions",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "National Recreation Areas",
+          "Smith River National Recreation Area",
+          "Other Provisions"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "292",
+          "subpart": "G"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 293",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Wilderness - Primitive Areas",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 17,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "293"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 294 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Special Areas",
+          "Miscellaneous Provisions",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "294",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 294 > Subpart B",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Special Areas",
+          "State Petitions for Inventoried Roadless Area Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 9,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "294",
+          "subpart": "B"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 294 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Special Areas",
+          "Idaho Roadless Area Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "294",
+          "subpart": "C"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 294 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Special Areas",
+          "Colorado Roadless Area Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 13,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "294",
+          "subpart": "D"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 294 > Subpart E",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Special Areas",
+          "Alaska Roadless Areas Management",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "294",
+          "subpart": "E"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 296",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Protection of Archaeological Resources: Uniform Regulations",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 21,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "296"
+        }
+      },
+      {
+        "path": "Title 36 >  Chapter II > Part 297 > Subpart A",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Parks, Forests, and Public Property",
+          "",
+          "Forest Service, Department of Agriculture",
+          "",
+          "Wild and Scenic Rivers",
+          "Water Resources Projects",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 36,
+          "chapter": "II",
+          "part": "297",
+          "subpart": "A"
+        }
+      }
+    ]
+  },
+  "searchCount": 875,
+  "versionSummary": {
+    "titleNumber": 36,
+    "totalVersions": 4446,
+    "firstDate": "2016-12-13",
+    "lastDate": "2025-07-18",
+    "uniqueParts": 168,
+    "uniqueSubparts": 21,
+    "typeCounts": {
+      "section": 4353,
+      "appendix": 93
+    }
+  }
+}

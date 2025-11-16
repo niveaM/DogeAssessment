@@ -2145,6 +2145,38 @@
         }
       },
       {
+        "path": "Title 7 > Subtitle B >  Chapter II > Subchapter C > Part 273 > Subpart D",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Food and Nutrition Service, Department of Agriculture",
+          "Food Stamp and Food Distribution Program",
+          "Certification of Eligible Households",
+          "Eligibility and Benefit Levels",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 27,
+        "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "II",
+          "subchapter": "C",
+          "part": "273",
+          "subpart": "D"
+        }
+      },
+      {
         "path": "Title 7 > Subtitle B >  Chapter II > Subchapter C > Part 273 > Subpart B",
         "levels": [
           "title",
@@ -2302,38 +2334,6 @@
           "subchapter": "C",
           "part": "273",
           "subpart": "H"
-        }
-      },
-      {
-        "path": "Title 7 > Subtitle B >  Chapter II > Subchapter C > Part 273 > Subpart D",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Food and Nutrition Service, Department of Agriculture",
-          "Food Stamp and Food Distribution Program",
-          "Certification of Eligible Households",
-          "Eligibility and Benefit Levels",
-          ""
-        ],
-        "type": "subject_group",
-        "count": 27,
-        "max_score": 2.0245311,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "II",
-          "subchapter": "C",
-          "part": "273",
-          "subpart": "D"
         }
       },
       {
