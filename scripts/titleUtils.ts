@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
-import { getTitlesMap, addOrUpdateTitles } from './db/titleDatabaseHelper';
+import { addOrUpdateTitles, clearTitles, getTitles } from './db/titleDatabaseHelper';
 import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
@@ -172,16 +172,16 @@ export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference,
 // Load titles.json from DATA_DIR and return a map of Title objects keyed by
 // their identifier (string). Returns an empty object if the file is missing
 // or invalid.
-export async function loadTitlesMap(): Promise<Record<string, Title>> {
+export async function loadTitlesMap(): Promise<void> {
   console.log('loadTitlesMap: called');
   // Prefer the centralized titles DB helper which handles reading the cached
   // titles map. If the helper returns an empty map, fall back to fetching
   // from the upstream ECFR API and persist the results via the helper.
   try {
-    const existing = await getTitlesMap();
+    const existing = await getTitles();
     if (existing && Object.keys(existing).length) {
       console.log(`loadTitlesMap: cache hit — ${Object.keys(existing).length} titles`);
-      return existing;
+      return;
     }
     console.log('loadTitlesMap: cache empty — will fetch from ECFR');
   } catch (err: any) {
@@ -195,44 +195,20 @@ export async function loadTitlesMap(): Promise<Record<string, Title>> {
     if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
     const data: TitlesResponse = await res.json();
 
-    // Persist via the titles DB helper so we don't duplicate file logic here.
-    // The ECFR API response may include metadata alongside the titles array
-    // (e.g. { titles: [...], meta: {...} }), so normalize to the actual
-    // titles array before persisting. Persisting Object.values(data) previously
-    // stored an array containing the titles array and a metadata object —
-    // which is why `data/db.json` ended up with an array-of-arrays.
     try {
-      let titlesArrayToPersist: any[] = [];
-      if (Array.isArray((data as any).titles)) {
-        titlesArrayToPersist = (data as any).titles;
-      } else if (data && (data as any).titles && typeof (data as any).titles === 'object') {
-        titlesArrayToPersist = Object.values((data as any).titles);
-      } else if (Array.isArray(data)) {
-        titlesArrayToPersist = data as any[];
-      } else {
-        // Fallback: collect any array-valued top-level properties
-        titlesArrayToPersist = Object.values(data).filter(v => Array.isArray(v)).flat();
-      }
-
-      await addOrUpdateTitles(titlesArrayToPersist);
-      console.log(`loadTitlesMap: persisted ${titlesArrayToPersist.length} titles via helper`);
+      // Persist fetched titles via the DB helper
+      await clearTitles();
+      await addOrUpdateTitles(data.titles);
+      console.log(`loadTitlesMap: persisted ${data.titles.length} titles via helper`);
     } catch (err: any) {
       console.warn('loadTitlesMap: failed to persist titles via helper:', err?.message || err);
     }
 
-    // Normalize to a map keyed by title number
-    let titlesMap: Record<string, Title> = {};
-    if (Array.isArray((data as any).titles)) {
-      const titlesArray: any[] = (data as any).titles;
-      titlesMap = Object.fromEntries(titlesArray.map((t: any) => [String(t.number), t]));
-    } else if (data && (data as any).titles && typeof (data as any).titles === 'object') {
-      titlesMap = (data as any).titles as Record<string, Title>;
-    }
-
-    return titlesMap;
+  
+    return;
   } catch (err: any) {
     console.warn('loadTitlesMap: failed to fetch titles from ECFR:', err?.message || err);
-    return {};
+    return;
   }
 }
 

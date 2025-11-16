@@ -47,6 +47,9 @@ export async function fetchAgencyList(): Promise<string[]> {
     console.error('Failed to clear/persist agencies to db.json:', err?.message || err);
   }
 
+  // load titles from API
+  loadTitlesMap();
+
   // Return the list of keys (short_name) for callers to use.
   return Object.keys(agenciesMap);
 }

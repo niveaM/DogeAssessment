@@ -6,11 +6,6 @@ import { Title } from './../model/titlesTypes';
 import low from 'lowdb';
 import FileSync from 'lowdb/adapters/FileSync';
 
-export interface DbShape {
-  agencies: Agency[];
-  titles: Title[];
-}
-
 // Store the central db.json inside the repository's `data/` folder.
 // Resolve relative to the repository root (two levels up from this file: scripts/db -> repository root)
 const DB_PATH = path.resolve(__dirname, '..', '..', 'data', 'db.json');
@@ -24,10 +19,6 @@ export async function readDb(): Promise<any> {
   // Ensure defaults exist
   db.defaults({ agencies: [], titles: [] }).write();
   return db;
-}
-
-export async function writeDb(db: DbShape): Promise<void> {
-  await fs.writeFile(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
 
 export async function persistAgencies(agencies: Agency[]): Promise<void> {
@@ -49,5 +40,10 @@ export function getDbPath(): string {
 export async function getAgencyByShortName(shortName: string): Promise<Agency | undefined> {
   const db = await readDb();
   return db.get('agencies').find({ short_name: shortName }).value();
+}
+
+export async function getAgencies(): Promise<Agency[]> {
+  const db = await readDb();
+  return db.get("agencies").value() || [];
 }
 

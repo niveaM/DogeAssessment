@@ -9,6 +9,7 @@ fetchAndSaveAgencies(shortNameArg).catch((err) => {
 });
 
 async function fetchAndSaveAgencies(agencyShortName?: string) {
+  
   if (agencyShortName) {
     // processAgencyByShortName may perform I/O, so await it.
     // eslint-disable-next-line no-await-in-loop
