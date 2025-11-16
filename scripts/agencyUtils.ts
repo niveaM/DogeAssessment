@@ -5,6 +5,8 @@ import type { Title } from './model/titlesTypes';
 import type { HierarchyNode } from './model/hierarchyTypes';
 import { AGENCIES_TRUNCATE_LIMIT } from './config';
 import { clearAgencies, getDbPath, persistAgencies } from './db/agencyDatabaseHelper';
+import { getAgencyByShortName } from './db/agencyDatabaseHelper';
+import { fetchAndSaveTitles, loadTitlesMap } from './titleUtils';
 
 const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
 
@@ -183,4 +185,44 @@ export async function getSearchCountForTitle(agency: Agency, titleObj: Title): P
   const counts = await getTitleCountsArray(agency.slug);
   const match = counts.find(c => Number(c.title) === Number(titleObj.number));
   return match ? Number(match.count) : 0;
+}
+
+// Process an agency identified by its `short_name` stored in the DB. This
+// was previously implemented in `fetchAgencies.ts` — moving it here centralizes
+// agency processing logic. The function loads the agency from the DB, loads
+// the titles map, and calls `fetchAndSaveTitles` for each CFR reference.
+export async function processAgencyByShortName(shortName: string): Promise<void> {
+  if (!shortName || String(shortName).trim().length === 0) {
+    throw new Error('processAgencyByShortName requires a non-empty shortName');
+  }
+  const key = String(shortName).trim();
+
+  const agency = await getAgencyByShortName(key);
+  if (!agency) {
+    console.log(`Agency with short name '${key}' not found.`);
+    return;
+  }
+
+  console.log(`Processing CFR references for agency '${key}' (slug: ${agency.slug})`);
+
+  const titlesMap = await loadTitlesMap();
+
+  if (Array.isArray(agency.cfr_references)) {
+    for (const ref of agency.cfr_references) {
+      try {
+        console.log(`Fetching ${JSON.stringify(ref)} for agency '${agency.slug}'`);
+        const titleObj = titlesMap[String(ref.title)];
+        if (!titleObj) {
+          console.warn(`Title ${String(ref.title)} not found in titles.json — skipping`);
+          continue;
+        }
+        // eslint-disable-next-line no-await-in-loop
+        await fetchAndSaveTitles(titleObj, ref, agency);
+      } catch (err: any) {
+        console.error(`Error processing title ${ref?.title} for agency ${agency.slug}:`, err?.message || err);
+      }
+    }
+  } else {
+    console.log(`No CFR references found for agency '${key}'.`);
+  }
 }
