@@ -1,0 +1,955 @@
+{
+  "searchCache": {
+    "administrative-conference-of-the-united-states:1": {
+      "fetchedAt": "2025-11-16T08:15:04.308Z",
+      "slug": "administrative-conference-of-the-united-states",
+      "page": "1",
+      "raw": {
+        "results": [
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "301",
+              "subpart": null,
+              "subject_group": null,
+              "section": "301.4",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 301",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 301.4",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Organization and Purpose",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Activities.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 10140,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-03-14",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.1",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.1",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "General provisions.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 10142,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective_cross_reference"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": "2017-01-22",
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.2",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.2",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Public reading room.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 10143,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": "2017-01-22",
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.8",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.8",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Appeals.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 10149,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "304.28",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 304.28",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+              "subject_group": null,
+              "section": "Notice of court-ordered and emergency disclosures.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 10161,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "304.34",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 304.34",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+              "subject_group": null,
+              "section": "Other rights and services.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 10167,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-23",
+            "ends_on": "2017-03-13",
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.10",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.10",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Preservation of records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10151,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "cross_reference"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": "2017-01-22",
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.10",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.10",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Preservation of records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10151,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-03-14",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.6",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.6",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Responses to requests.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10143,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective_cross_reference"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": "2017-01-22",
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.9",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.9",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Fees.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10150,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "304.20",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 304.20",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+              "subject_group": null,
+              "section": "General provisions.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10153,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "304.26",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 304.26",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+              "subject_group": null,
+              "section": "Requests for an accounting of record disclosures.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10159,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "304.31",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 304.31",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+              "subject_group": null,
+              "section": "Use and collection of social security numbers and other information.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10164,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "304.32",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 304.32",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+              "subject_group": null,
+              "section": "Employee standards of conduct.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10165,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "304.33",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 304.33",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+              "subject_group": null,
+              "section": "Preservation of records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 10166,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "301",
+              "subpart": null,
+              "subject_group": null,
+              "section": "301.2",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 301",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 301.2",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Organization and Purpose",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Purposes.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238035,
+            "structure_index": 10134,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "301",
+              "subpart": null,
+              "subject_group": null,
+              "section": "301.3",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 301",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 301.3",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Organization and Purpose",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Organization.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238035,
+            "structure_index": 10139,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-03-14",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.10",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.10",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Preservation of records.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238035,
+            "structure_index": 10151,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective_cross_reference"
+            ]
+          },
+          {
+            "starts_on": "2015-12-18",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.11",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.11",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Other rights and services.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238035,
+            "structure_index": 10152,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2017-01-23",
+            "ends_on": "2017-03-13",
+            "type": "Section",
+            "hierarchy": {
+              "title": "1",
+              "subtitle": null,
+              "chapter": "III",
+              "subchapter": null,
+              "part": "304",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "304.2",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 1",
+              "subtitle": null,
+              "chapter": " Chapter III",
+              "subchapter": null,
+              "part": "Part 304",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 304.2",
+              "appendix": null
+            },
+            "headings": {
+              "title": "General Provisions",
+              "subtitle": null,
+              "chapter": "Administrative Conference of the United States",
+              "subchapter": null,
+              "part": "Disclosure of Records or Information",
+              "subpart": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+              "subject_group": null,
+              "section": "Public reading room.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238035,
+            "structure_index": 10143,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "cross_reference"
+            ]
+          }
+        ],
+        "meta": {
+          "current_page": 1,
+          "total_pages": 3,
+          "total_count": 47,
+          "max_score": 2.0245311,
+          "description": "Changes from Administrative Conference of the United States"
+        }
+      }
+    }
+  }
+}

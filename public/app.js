@@ -212,6 +212,7 @@ function AgencyDetail({ slug, shortName, onBack }) {
 
 function App() {
   const [agencies, setAgencies] = useState([]);
+  const [titles, setTitles] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
   const [filter, setFilter] = useState('');
@@ -234,7 +235,17 @@ function App() {
       const res = await fetch('/api/agencies');
       if (!res.ok) throw new Error('Failed to load agencies: ' + res.status);
       const data = await res.json();
-      setAgencies(Array.isArray(data) ? data : []);
+      // API now returns an object: { agencies: [...], titles: [...] }
+      if (Array.isArray(data)) {
+        setAgencies(data);
+        setTitles([]);
+      } else if (data && typeof data === 'object') {
+        setAgencies(Array.isArray(data.agencies) ? data.agencies : []);
+        setTitles(Array.isArray(data.titles) ? data.titles : []);
+      } else {
+        setAgencies([]);
+        setTitles([]);
+      }
     } catch (e) { setError(e.message); }
     setLoading(false);
   }
