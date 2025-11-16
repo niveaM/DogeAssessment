@@ -1,15 +1,13 @@
 // fetchAgencies.ts
 import fetch from 'node-fetch';
-import { AgenciesResponse, Agency } from './model/agencyTypes';
-import { buildAgenciesMap, type AgenciesMap } from './agencyUtils';
+import { Agency } from './model/agencyTypes';
+import { fetchAgencyList as fetchAgencyKeys } from './agencyUtils';
+import { readDb, getAgencyByShortName } from './db/agencyDatabaseHelper';
 import { fetchAndSaveTitles, loadTitlesMap } from './titleUtils';
 import type { Title } from './model/titlesTypes';
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import { DATA_DIR, AGENCIES_TRUNCATE_LIMIT } from './config';
-import { persistAgencies, getDbPath, clearAgencies } from './db/agencyDatabaseHelper';
-
-const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
+import { DATA_DIR } from './config';
 
 // Allow passing an optional agency short name as the first CLI argument.
 const shortNameArg = process.argv[2];
@@ -18,47 +16,35 @@ fetchAndSaveAgencies(shortNameArg).catch((err) => {
 });
 
 async function fetchAndSaveAgencies(agencyShortName?: string) {
-  const res = await fetch(API_URL);
-  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-  const data: AgenciesResponse = await res.json();
+  // Fetch agencies (this persists agencies into the repo DB) and get the
+  // list of agency keys. Then load the persisted agencies from the DB and
+  // reconstruct a map keyed by short_name for downstream processing.
+  const agencyKeys: string[] = await fetchAgencyKeys();
 
- // Build a map of agencies keyed by their short_name (acronym).
-
-  const fullAgenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
-  const truncatedAgenciesList = fullAgenciesList.slice(0, AGENCIES_TRUNCATE_LIMIT);
-  if (truncatedAgenciesList.length !== fullAgenciesList.length) {
-    console.log(`Truncating agencies list from ${fullAgenciesList.length} to ${truncatedAgenciesList.length} entries for processing`);
+  // Read persisted agencies from the DB and reconstruct a map keyed by short_name
+  const db = await readDb();
+  const agenciesArray = Array.isArray(db.get('agencies').value()) ? db.get('agencies').value() : [];
+  const agenciesMap: Record<string, Agency> = {};
+  for (const a of agenciesArray) {
+    if (a && a.short_name) agenciesMap[String(a.short_name)] = a;
   }
-  const agenciesMap: AgenciesMap = buildAgenciesMap(truncatedAgenciesList);
-
-  // Clear existing agencies in db.json first, then persist the current
-  // agencies derived from the agenciesMap (use Object.values to get an array).
-  try {
-    await clearAgencies();
-    const agenciesToPersist: Agency[] = Object.values(agenciesMap);
-    await persistAgencies(agenciesToPersist);
-    console.log(`Cleared and persisted agencies to ${getDbPath()} (${agenciesToPersist.length} entries)`);
-  } catch (err: any) {
-    console.error('Failed to clear/persist agencies to db.json:', err?.message || err);
-  }
-
-  // Load titles map once and pass Title objects into fetchAndSaveTitles
-  const titlesMap: Record<string, Title> = await loadTitlesMap();
 
   if (agencyShortName) {
     // processAgency may perform I/O (calls fetchAndSaveTitles), so await it.
     // eslint-disable-next-line no-await-in-loop
-    await processAgency(agencyShortName, agenciesMap, titlesMap);
+    await processAgency(agencyShortName);
   }
   else {
     // No specific agency requested: process all agencies sequentially.
     // Sequential processing avoids overwhelming upstream services or local I/O.
-    const keys = Object.keys(agenciesMap);
-    console.log(`No short name provided — processing all ${keys.length} agencies sequentially.`);
+    // Prefer the keys returned by fetchAgencyList (they reflect truncation),
+    // but fall back to the reconstructed agenciesMap keys if needed.
+    const keys = (Array.isArray(agencyKeys) && agencyKeys.length) ? agencyKeys : Object.keys(agenciesMap);
+    console.log(`No short name provided — processing ${keys.length} agencies sequentially.`);
     for (const key of keys) {
       try {
         // eslint-disable-next-line no-await-in-loop
-        await processAgency(key, agenciesMap, titlesMap);
+        await processAgency(key);
       } catch (err: any) {
         console.error(`Error processing agency '${key}':`, err?.message || err);
       }
@@ -73,16 +59,23 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
 }
 
 // non-destructive helper to print agency details when a short name is provided
-async function processAgency(shortName: string | undefined, map: Record<string, Agency>, titlesMap: Record<string, Title>) {
-  if (!shortName || String(shortName).trim().length === 0) return;
+async function processAgency(shortName: string) {
+  if (!shortName || String(shortName).trim().length === 0) {
+    throw new Error('processAgency requires a non-empty shortName');
+  }
   const key = String(shortName).trim();
-  const agency = map[key];
+
+  // Read agency from DB using helper
+  const agency = await getAgencyByShortName(key);
   if (!agency) {
     console.log(`Agency with short name '${key}' not found.`);
     return;
   }
 
   console.log(`Processing CFR references for agency '${key}' (slug: ${agency.slug})`);
+
+  // Load titles map for title lookups
+  const titlesMap = await loadTitlesMap();
 
   // For each CFR reference, call fetchAndSaveTitles with title, agency slug, and chapter
   if (Array.isArray(agency.cfr_references)) {
@@ -107,6 +100,4 @@ async function processAgency(shortName: string | undefined, map: Record<string, 
     console.log(`No CFR references found for agency '${key}'.`);
   }
 
-
-  
 }

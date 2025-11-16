@@ -13,9 +13,8 @@ export interface TitlesDbShape {
 // Use the same db.json path as agencyDatabaseHelper
 const DB_JSON = getDbPath();
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-const low = require('lowdb');
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const FileSync = require('lowdb/adapters/FileSync');
+import low from 'lowdb';
+import FileSync from 'lowdb/adapters/FileSync';
 
 function getLowDb() {
   const adapter = new FileSync(DB_JSON);

@@ -1,13 +1,17 @@
 // agencyUtils.ts
 import fetch from 'node-fetch';
-import type { Agency, CFRReference } from './model/agencyTypes';
+import type { Agency, CFRReference, AgenciesResponse } from './model/agencyTypes';
 import type { Title } from './model/titlesTypes';
 import type { HierarchyNode } from './model/hierarchyTypes';
+import { AGENCIES_TRUNCATE_LIMIT } from './config';
+import { clearAgencies, getDbPath, persistAgencies } from './db/agencyDatabaseHelper';
+
+const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
 
 // Shared utilities for working with agency hierarchies and maps.
 export type AgenciesMap = Record<string, Agency>;
 
-export function buildAgenciesMap(list: Agency[] = []): AgenciesMap {
+export function flattenAgencies(list: Agency[] = []): AgenciesMap {
   const map: AgenciesMap = {};
   function walk(items: Agency[], isChild = false) {
     for (const a of items) {
@@ -23,6 +27,44 @@ export function buildAgenciesMap(list: Agency[] = []): AgenciesMap {
   }
   walk(list, false);
   return map;
+}
+
+// Fetch agencies from the given API URL, apply truncation per config, persist
+// them to the local db, and return an array of keys (short_name) from the
+// resulting agencies map. This centralizes fetch+truncate+persist logic so
+// callers can operate on the list of agency keys.
+export async function fetchAgencyList(): Promise<string[]> {
+  if (!API_URL) throw new Error('fetchAgencyList requires an apiUrl');
+  const res = await fetch(API_URL);
+  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+  const data: AgenciesResponse = await res.json();
+
+  const fullAgenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
+  // Use the repository-wide AGENCIES_TRUNCATE_LIMIT. A falsy or non-positive
+  // value means "no truncation".
+  const effectiveLimit = AGENCIES_TRUNCATE_LIMIT;
+  const truncatedAgenciesList = (effectiveLimit && effectiveLimit > 0)
+    ? fullAgenciesList.slice(0, effectiveLimit)
+    : fullAgenciesList;
+  if (truncatedAgenciesList.length !== fullAgenciesList.length) {
+    console.log(`Truncating agencies list from ${fullAgenciesList.length} to ${truncatedAgenciesList.length} entries for processing`);
+  }
+
+  const agenciesMap: AgenciesMap = flattenAgencies(truncatedAgenciesList);
+
+  // Clear existing agencies in db.json first, then persist the current
+  // agencies derived from the agenciesMap (use Object.values to get an array).
+  try {
+    await clearAgencies();
+    const agenciesToPersist: Agency[] = Object.values(agenciesMap);
+    await persistAgencies(agenciesToPersist);
+    console.log(`Cleared and persisted agencies to ${getDbPath()} (${agenciesToPersist.length} entries)`);
+  } catch (err: any) {
+    console.error('Failed to clear/persist agencies to db.json:', err?.message || err);
+  }
+
+  // Return the list of keys (short_name) for callers to use.
+  return Object.keys(agenciesMap);
 }
 
 // Walks the hierarchy recursively
