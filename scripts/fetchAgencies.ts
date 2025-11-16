@@ -1,11 +1,13 @@
 // fetchAgencies.ts
 import fetch from 'node-fetch';
 import { AgenciesResponse, Agency } from './model/agencyTypes';
+import { buildAgenciesMap, type AgenciesMap } from './agencyUtils';
 import { fetchAndSaveTitles } from './titleUtils';
 import type { Title } from './model/titlesTypes';
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import { DATA_DIR } from './config';
+import { DATA_DIR, AGENCIES_TRUNCATE_LIMIT } from './config';
+import { persistAgencies, getDbPath } from './agencyDatabaseHelper';
 
 const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
 
@@ -27,28 +29,22 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
   // }
 
   // Build a map of agencies keyed by their short_name (acronym).
-  type AgenciesMap = Record<string, Agency>;
 
-  function buildAgenciesMap(list: Agency[] = []): AgenciesMap {
-    const map: AgenciesMap = {};
-    function walk(items: Agency[], isChild = false) {
-      for (const a of items) {
-        a.isChild = isChild;
-        const key = a.short_name;
-        if (key && key.toString().trim().length > 0) {
-          map[key] = a;
-        }
-        if (Array.isArray(a.children) && a.children.length) {
-          walk(a.children, true);
-        }
-      }
-    }
-    walk(list, false);
-    return map;
+  const fullAgenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
+  const truncatedAgenciesList = fullAgenciesList.slice(0, AGENCIES_TRUNCATE_LIMIT);
+  if (truncatedAgenciesList.length !== fullAgenciesList.length) {
+    console.log(`Truncating agencies list from ${fullAgenciesList.length} to ${truncatedAgenciesList.length} entries for processing`);
+  }
+  const agenciesMap = buildAgenciesMap(truncatedAgenciesList);
+
+  // Persist truncated list into repo-level db.json (delegated to helper)
+  try {
+    await persistAgencies(truncatedAgenciesList);
+    console.log(`Persisted truncated agencies list to ${getDbPath()} (${truncatedAgenciesList.length} entries)`);
+  } catch (err: any) {
+    console.error('Failed to persist truncated agencies to db.json:', err?.message || err);
   }
 
-  const agenciesList = (data && Array.isArray(data.agencies)) ? data.agencies : [];
-  const agenciesMap = buildAgenciesMap(agenciesList);
 
   // Load titles map once and pass Title objects into fetchAndSaveTitles
   const titlesFile = path.join(DATA_DIR, 'titles.json');

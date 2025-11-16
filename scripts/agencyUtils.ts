@@ -4,6 +4,26 @@ import type { Agency, CFRReference } from './model/agencyTypes';
 import type { Title } from './model/titlesTypes';
 import type { HierarchyNode } from './model/hierarchyTypes';
 
+// Shared utilities for working with agency hierarchies and maps.
+export type AgenciesMap = Record<string, Agency>;
+
+export function buildAgenciesMap(list: Agency[] = []): AgenciesMap {
+  const map: AgenciesMap = {};
+  function walk(items: Agency[], isChild = false) {
+    for (const a of items) {
+      a.isChild = isChild;
+      const key = a.short_name;
+      if (key && key.toString().trim().length > 0) {
+        map[key] = a;
+      }
+      if (Array.isArray(a.children) && a.children.length) {
+        walk(a.children, true);
+      }
+    }
+  }
+  walk(list, false);
+  return map;
+}
 
 // Walks the hierarchy recursively
 function walkHierarchy(
