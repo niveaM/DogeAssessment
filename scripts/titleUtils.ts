@@ -7,7 +7,8 @@ import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
 import { getSearchCountForTitle } from './agencyUtils';
-import { fetchTitleAndChapterCounts } from './fetchTitleChapterCounts';
+import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from './fetchTitleChapterCounts';
+import { extractChapterChecksum } from './extractChapter';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 import { addOrUpdateTitles, clearTitles, getTitles } from './db/titleDatabaseHelper';
 import { writeTitleDetailsDb } from './db/titleDetailsDatabaseHelper';
@@ -86,6 +87,34 @@ export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRRef
   return merged;
 }
 
+export async function getTitleStatsForAgency(
+  titleObj: Title,
+  agency?: Agency,
+  target?: CFRReference
+): Promise<Title> {
+
+  console.log(`================================`);
+
+  // If an agency and a specific chapter are provided, trigger the
+  // chapter-level extraction/checksum work.
+  let merged: Title = { ...titleObj };  
+  if (agency?.slug && target?.chapter) {
+    try {
+        const chapterId = String(target.chapter);  
+        merged = await extractChapterChecksum(merged, chapterId, agency.slug);
+
+        console.log(`${JSON.stringify(merged)}`);
+        console.log(`####### merged.checksum, merged.wordCount`, merged.checksum, merged.wordCount);
+    } catch (err) {
+      merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+    }
+  }
+
+  console.log(`================================`);
+
+  return merged;
+}
+
 export async function processTitle(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
   console.log(`processTitle :: Processing Title ${titleObj.number} (${titleObj.name})`);
   // start with a shallow clone so we can attach fields on error path
@@ -96,15 +125,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
     merged.debug = { ...(merged.debug || {}), error: 'Title object missing number or name' };
     return merged;
   }
-
-  try {
-    // Pass the CFRReference `target` to getTitleStats (we no longer accept Agency here)
-    merged = await getTitleStats(titleObj, agency);
-    if (agency?.slug) merged.agencySlug = agency.slug;
-
-  } catch (err) {
-    merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
-  }
+  if (agency?.slug) merged.agencySlug = agency.slug;
 
   // If an Agency is provided, fetch title/chapter counts and attach to Title
   if (agency?.slug) {
@@ -114,7 +135,11 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
       // chapter (if any) from the `target` CFRReference parameter.
       const targetTitle = String(titleObj.number);
       const targetChapter = (target && target.chapter) ? String(target.chapter) : '';
-      const counts = await fetchTitleAndChapterCounts(agency.slug, targetTitle, targetChapter);
+      const counts: TitleChapterCountsResult = await fetchTitleAndChapterCounts(
+        agency.slug,
+        targetTitle,
+        targetChapter
+      );
       // Attach the returned counts object to the merged Title.
       // @ts-ignore -- we've added `titleChapterCounts` to the Title type
       merged.titleChapterCounts = counts;
@@ -123,15 +148,20 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
     }
   }
 
+  try {
+    // Pass the CFRReference `target` to getTitleStats (we no longer accept Agency here)
+    // merged = await getTitleStats(titleObj, agency);
+
+    merged = await getTitleStatsForAgency(merged, agency, target);
+  } catch (err) {
+    merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+  }
+
   // Fetch and attach single-title search count for the agency (if provided)
   try {
     const count = await getSearchCountForTitle(agency, titleObj);
     merged.searchCount = count;
     aggregatedSearchCounts.push({ title: merged.number, searchCount: count, agencySlug: agency.slug });
-
-
-
-
   } catch (err) {
     merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
   }
@@ -144,7 +174,9 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   } catch (err: any) {
     merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };
   }
-
+  console.log(
+    `After getTitleStatsForAgency: ${merged.wordCount} ${merged.checksum}`
+  );
   return merged;
 }
 
@@ -172,7 +204,9 @@ export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference,
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
 
   await writeTitleDetailsDb(merged);
-
+  console.log(
+    `After fetchAndSaveTitles: ${merged.wordCount} ${merged.checksum}`
+  );
   return merged;
 }
 

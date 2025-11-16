@@ -1,3 +1,4 @@
+import { TitleChapterCountsResult } from "../fetchTitleChapterCounts";
 import { TitleVersionSummary } from "./ecfrTypesTitleVersions";
 import { HierarchyNode } from './hierarchyTypes';
 
@@ -33,9 +34,9 @@ export interface Title {
       summary_dateString: string | null;
     };
     // any error encountered while processing this title
-      error?: string;
-      // error encountered when running agency-related searches for this title
-      agencySearchError?: string;
+    error?: string;
+    // error encountered when running agency-related searches for this title
+    agencySearchError?: string;
     // optional CFRReference-derived info attached during processing
     requestedChapter?: string;
   };
@@ -45,13 +46,7 @@ export interface Title {
   // Optional hierarchy paths for this title as returned by agency hierarchy extraction
   hierarchyPaths?: HierarchyNode[];
   // Aggregated counts for this title/chapter as returned by fetchTitleAndChapterCounts
-  titleChapterCounts?: {
-    title: string | null;
-    chapter: string;
-    titleCount: number;
-    chapterCount: number;
-    raw?: any;
-  };
+  titleChapterCounts?: TitleChapterCountsResult;
 }
 
 export interface TitlesResponse {
