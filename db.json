@@ -950,6 +950,962 @@
           "description": "Changes from Administrative Conference of the United States"
         }
       }
+    },
+    "advisory-council-on-historic-preservation:1": {
+      "fetchedAt": "2025-11-16T08:32:50.409Z",
+      "slug": "advisory-council-on-historic-preservation",
+      "page": "1",
+      "raw": {
+        "results": [
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "A",
+              "subject_group": null,
+              "section": "800.2",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart A",
+              "subject_group": null,
+              "section": "§ 800.2",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "Purposes and Participants",
+              "subject_group": null,
+              "section": "Participants in the Section 106 process.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30206,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "800.11",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 800.11",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "The section 106 Process",
+              "subject_group": null,
+              "section": "Documentation standards.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30215,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "800.12",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 800.12",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "The section 106 Process",
+              "subject_group": null,
+              "section": "Emergency situations.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30206,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "800.3",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 800.3",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "The section 106 Process",
+              "subject_group": null,
+              "section": "Initiation of the section 106 process.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30197,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "800.9",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 800.9",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "The section 106 Process",
+              "subject_group": null,
+              "section": "Council review of section 106 compliance.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30213,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "801",
+              "subpart": null,
+              "subject_group": null,
+              "section": "801.6",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 801",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 801.6",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Historic Preservation Requirements of the Urban Development Action Grant Program",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Coordination with requirements under the National Environmental Policy Act (42 U.S.C. 4321 <em>et seq.</em>).",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30217,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "801",
+              "subpart": null,
+              "subject_group": null,
+              "section": "801.7",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 801",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 801.7",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Historic Preservation Requirements of the Urban Development Action Grant Program",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Information requirements.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30218,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "810",
+              "subpart": null,
+              "subject_group": null,
+              "section": "810.5",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 810",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 810.5",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Freedom of Information Act Regulations",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Fees.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30243,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "812.104-812.109",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§§ 812.104-812.109",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Advisory Council on Historic Preservation",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§§ 812.104-812.109 [Reserved]",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30239,
+            "reserved": true,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "812.111",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 812.111",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Advisory Council on Historic Preservation",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Notice.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30241,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "812.130",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 812.130",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Advisory Council on Historic Preservation",
+              "subpart": null,
+              "subject_group": null,
+              "section": "General prohibitions against discrimination.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30253,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "812.149",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 812.149",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Advisory Council on Historic Preservation",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Program accessibility: Discrimination prohibited.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30247,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "812.170",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 812",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 812.170",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Enforcement of Nondiscrimination on the Basis of Handicap in Programs or Activities Conducted by the Advisory Council on Historic Preservation",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Compliance procedures.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0245311,
+            "structure_index": 30263,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Appendix",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": null,
+              "subject_group": null,
+              "section": null,
+              "appendix": "Appendix A to Part 800"
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": null,
+              "subject_group": null,
+              "section": null,
+              "appendix": "Appendix A to Part 800"
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": null,
+              "subject_group": null,
+              "section": null,
+              "appendix": "Criteria for Council Involvement in Reviewing Individual section 106 Cases\n"
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 30221,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "800.10",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 800.10",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "The section 106 Process",
+              "subject_group": null,
+              "section": "Special requirements for protecting National Historic Landmarks.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 30204,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "B",
+              "subject_group": null,
+              "section": "800.8",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart B",
+              "subject_group": null,
+              "section": "§ 800.8",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "The section 106 Process",
+              "subject_group": null,
+              "section": "Coordination With the National Environmental Policy Act.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 30212,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "800",
+              "subpart": "C",
+              "subject_group": null,
+              "section": "800.16",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 800",
+              "subpart": "Subpart C",
+              "subject_group": null,
+              "section": "§ 800.16",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Protection of Historic Properties",
+              "subpart": "Program Alternatives",
+              "subject_group": null,
+              "section": "Definitions.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 30210,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "801",
+              "subpart": null,
+              "subject_group": null,
+              "section": "801.2",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 801",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 801.2",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Historic Preservation Requirements of the Urban Development Action Grant Program",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Definitions.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 30213,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "810",
+              "subpart": null,
+              "subject_group": null,
+              "section": "810.1",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 810",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 810.1",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Freedom of Information Act Regulations",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Purpose and scope.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 30229,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          },
+          {
+            "starts_on": "2016-12-13",
+            "ends_on": null,
+            "type": "Section",
+            "hierarchy": {
+              "title": "36",
+              "subtitle": null,
+              "chapter": "VIII",
+              "subchapter": null,
+              "part": "810",
+              "subpart": null,
+              "subject_group": null,
+              "section": "810.2",
+              "appendix": null
+            },
+            "hierarchy_headings": {
+              "title": "Title 36",
+              "subtitle": null,
+              "chapter": " Chapter VIII",
+              "subchapter": null,
+              "part": "Part 810",
+              "subpart": null,
+              "subject_group": null,
+              "section": "§ 810.2",
+              "appendix": null
+            },
+            "headings": {
+              "title": "Parks, Forests, and Public Property",
+              "subtitle": null,
+              "chapter": "Advisory Council on Historic Preservation",
+              "subchapter": null,
+              "part": "Freedom of Information Act Regulations",
+              "subpart": null,
+              "subject_group": null,
+              "section": "Procedure for requesting information.",
+              "appendix": null
+            },
+            "full_text_excerpt": null,
+            "score": 2.0238385,
+            "structure_index": 30230,
+            "reserved": false,
+            "removed": false,
+            "change_types": [
+              "effective",
+              "initial"
+            ]
+          }
+        ],
+        "meta": {
+          "current_page": 1,
+          "total_pages": 3,
+          "total_count": 60,
+          "max_score": 2.0245311,
+          "description": "Changes from Advisory Council on Historic Preservation"
+        }
+      }
     }
   }
 }

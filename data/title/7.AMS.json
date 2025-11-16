@@ -5381,7 +5381,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 7,
+        "count": 8,
         "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
@@ -5921,38 +5921,6 @@
           "chapter": "I",
           "subchapter": "C",
           "part": "51"
-        }
-      },
-      {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter C > Part 51 > Subpart N > Grades",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
-          "Regulations and Standards Under the Agricultural Marketing Act of 1946 and the Egg Products Inspection Act",
-          "Fresh Fruits, Vegetables and Other Products\n\n (Inspection,\n Certification, and Standards)",
-          "United States Standards for Grades of Shelled Pecans",
-          "Grades"
-        ],
-        "type": "subject_group",
-        "count": 1,
-        "max_score": 2.0232058,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "I",
-          "subchapter": "C",
-          "part": "51",
-          "subpart": "N"
         }
       },
       {
@@ -7311,7 +7279,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 2,
+        "count": 3,
         "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
@@ -7962,7 +7930,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 2,
+        "count": 3,
         "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
@@ -8800,7 +8768,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 6,
+        "count": 7,
         "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
@@ -12906,6 +12874,37 @@
         }
       },
       {
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter E > Part 110",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
+          "Commodity Laboratory Testing Programs",
+          "Recordkeeping on Restricted Use Pesticides by Certified Applicators; Surveys and Reports",
+          "",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "I",
+          "subchapter": "E",
+          "part": "110"
+        }
+      },
+      {
         "path": "Title 7 > Subtitle B >  Chapter I > Subchapter E > Part 98 > Subpart A",
         "levels": [
           "title",
@@ -12938,37 +12937,6 @@
         }
       },
       {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter E > Part 110",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
-          "Commodity Laboratory Testing Programs",
-          "Recordkeeping on Restricted Use Pesticides by Certified Applicators; Surveys and Reports",
-          "",
-          ""
-        ],
-        "type": "subject_group",
-        "count": 4,
-        "max_score": 2.0238035,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "I",
-          "subchapter": "E",
-          "part": "110"
-        }
-      },
-      {
         "path": "Title 7 > Subtitle B >  Chapter I > Subchapter F > Part 160 > General",
         "levels": [
           "title",
@@ -12989,8 +12957,39 @@
           "General"
         ],
         "type": "subject_group",
-        "count": 4,
-        "max_score": 2.0238035,
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "I",
+          "subchapter": "F",
+          "part": "160"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter F > Part 160 > Analysis, Inspection, and Grading on Request",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
+          "Naval Stores",
+          "Regulations and Standards for Naval Stores",
+          "",
+          "Analysis, Inspection, and Grading on Request"
+        ],
+        "type": "subject_group",
+        "count": 6,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13020,8 +13019,8 @@
           "Request Inspection by Licensed Inspectors"
         ],
         "type": "subject_group",
-        "count": 5,
-        "max_score": 2.0238035,
+        "count": 4,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13052,7 +13051,7 @@
         ],
         "type": "subject_group",
         "count": 2,
-        "max_score": 2.0238035,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13082,39 +13081,8 @@
           "Loan and Care of United States Standards"
         ],
         "type": "subject_group",
-        "count": 3,
-        "max_score": 2.0238035,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "I",
-          "subchapter": "F",
-          "part": "160"
-        }
-      },
-      {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter F > Part 160 > Labeling, Advertising and Packing",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
-          "Naval Stores",
-          "Regulations and Standards for Naval Stores",
-          "",
-          "Labeling, Advertising and Packing"
-        ],
-        "type": "subject_group",
-        "count": 4,
-        "max_score": 2.0238035,
+        "count": 2,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13144,8 +13112,8 @@
           ""
         ],
         "type": "subject_group",
-        "count": 2,
-        "max_score": 2.0238035,
+        "count": 3,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13155,7 +13123,7 @@
         }
       },
       {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 201 > Labeling Agricultural Seeds",
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 201 > Definitions",
         "levels": [
           "title",
           "subtitle",
@@ -13170,13 +13138,13 @@
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Federal Seed Act",
-          "Federal Seed Act Requirements",
+          "Federal Seed Act Regulations",
           "",
-          "Labeling Agricultural Seeds"
+          "Definitions"
         ],
         "type": "subject_group",
-        "count": 6,
-        "max_score": 2.0238035,
+        "count": 2,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13201,75 +13169,13 @@
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Federal Seed Act",
-          "Federal Seed Act Requirements",
+          "Federal Seed Act Regulations",
           "",
           "Records for Agricultural and Vegetable Seeds"
         ],
         "type": "subject_group",
-        "count": 3,
-        "max_score": 2.0238035,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "I",
-          "subchapter": "K",
-          "part": "201"
-        }
-      },
-      {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 201 > Labeling in General",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
-          "Federal Seed Act",
-          "Federal Seed Act Requirements",
-          "",
-          "Labeling in General"
-        ],
-        "type": "subject_group",
         "count": 2,
-        "max_score": 2.0238035,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "I",
-          "subchapter": "K",
-          "part": "201"
-        }
-      },
-      {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 201 > Inspection",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
-          "Federal Seed Act",
-          "Federal Seed Act Requirements",
-          "",
-          "Inspection"
-        ],
-        "type": "subject_group",
-        "count": 3,
-        "max_score": 2.0238035,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13294,13 +13200,75 @@
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Federal Seed Act",
-          "Federal Seed Act Requirements",
+          "Federal Seed Act Regulations",
           "",
           "Labeling Vegetable Seeds"
         ],
         "type": "subject_group",
-        "count": 3,
-        "max_score": 2.0238035,
+        "count": 6,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "I",
+          "subchapter": "K",
+          "part": "201"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 201 > Labeling Agricultural Seeds",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
+          "Federal Seed Act",
+          "Federal Seed Act Regulations",
+          "",
+          "Labeling Agricultural Seeds"
+        ],
+        "type": "subject_group",
+        "count": 10,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "I",
+          "subchapter": "K",
+          "part": "201"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 201 > Sampling in the Administration of the Act",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
+          "Federal Seed Act",
+          "Federal Seed Act Regulations",
+          "",
+          "Sampling in the Administration of the Act"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13325,13 +13293,13 @@
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Federal Seed Act",
-          "Federal Seed Act Requirements",
+          "Federal Seed Act Regulations",
           "",
           "Purity Analysis in the Administration of the Act"
         ],
         "type": "subject_group",
         "count": 4,
-        "max_score": 2.0238035,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13356,13 +13324,13 @@
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Federal Seed Act",
-          "Federal Seed Act Requirements",
+          "Federal Seed Act Regulations",
           "",
           "Germination Tests in the Administration of the Act"
         ],
         "type": "subject_group",
         "count": 7,
-        "max_score": 2.0238035,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13387,13 +13355,44 @@
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Federal Seed Act",
-          "Federal Seed Act Requirements",
+          "Federal Seed Act Regulations",
           "",
           "Certified Seed"
         ],
         "type": "subject_group",
-        "count": 4,
-        "max_score": 2.0238035,
+        "count": 3,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "I",
+          "subchapter": "K",
+          "part": "201"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 201 > Additional Requirements for the Certification of Plant Materials of Certain Crops",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
+          "Federal Seed Act",
+          "Federal Seed Act Regulations",
+          "",
+          "Additional Requirements for the Certification of Plant Materials of Certain Crops"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13418,13 +13417,13 @@
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Federal Seed Act",
-          "Federal Seed Act Requirements",
+          "Federal Seed Act Regulations",
           "",
           "Tolerances"
         ],
         "type": "subject_group",
         "count": 3,
-        "max_score": 2.0238035,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13434,7 +13433,7 @@
         }
       },
       {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter M > Part 205 > Subpart C",
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 202 > Subpart A",
         "levels": [
           "title",
           "subtitle",
@@ -13448,20 +13447,52 @@
           "Agriculture",
           "Regulations of the Department of Agriculture",
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
-          "Organic Foods Production Act Provisions",
-          "National Organic Program",
-          "Organic Production and Handling Requirements",
+          "Federal Seed Act",
+          "Federal Seed Act Rules of Practice",
+          "General",
           ""
         ],
         "type": "subject_group",
-        "count": 11,
-        "max_score": 2.0238035,
+        "count": 2,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
           "chapter": "I",
-          "subchapter": "M",
-          "part": "205",
+          "subchapter": "K",
+          "part": "202",
+          "subpart": "A"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter K > Part 202 > Subpart C",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
+          "Federal Seed Act",
+          "Federal Seed Act Rules of Practice",
+          "Rules Applicable to Other Proceedings",
+          ""
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0232058,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "I",
+          "subchapter": "K",
+          "part": "202",
           "subpart": "C"
         }
       },
@@ -13486,8 +13517,8 @@
           ""
         ],
         "type": "subject_group",
-        "count": 5,
-        "max_score": 2.0238035,
+        "count": 3,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13498,7 +13529,7 @@
         }
       },
       {
-        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter M > Part 205 > Subpart B",
+        "path": "Title 7 > Subtitle B >  Chapter I > Subchapter M > Part 205 > Subpart C",
         "levels": [
           "title",
           "subtitle",
@@ -13514,19 +13545,19 @@
           "Agricultural Marketing Service (Standards, Inspections, Marketing Practices), Department of Agriculture",
           "Organic Foods Production Act Provisions",
           "National Organic Program",
-          "Applicability",
+          "Organic Production and Handling Requirements",
           ""
         ],
         "type": "subject_group",
-        "count": 5,
-        "max_score": 2.0238035,
+        "count": 6,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
           "chapter": "I",
           "subchapter": "M",
           "part": "205",
-          "subpart": "B"
+          "subpart": "C"
         }
       },
       {
@@ -13551,7 +13582,7 @@
         ],
         "type": "subject_group",
         "count": 4,
-        "max_score": 2.0238035,
+        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -13582,7 +13613,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 9,
+        "count": 10,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -13646,7 +13677,7 @@
           "The National List of Allowed and Prohibited Substances"
         ],
         "type": "subject_group",
-        "count": 67,
+        "count": 68,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -14168,7 +14199,7 @@
           "Appeal Inspection Services"
         ],
         "type": "subject_group",
-        "count": 4,
+        "count": 5,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -15712,7 +15743,7 @@
           "Terms Defined"
         ],
         "type": "subject_group",
-        "count": 2,
+        "count": 3,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -15742,38 +15773,6 @@
           "Official United States Standards for Grain",
           "United States Standards for Soybeans",
           "Principles Governing the Application of Standards"
-        ],
-        "type": "subject_group",
-        "count": 2,
-        "max_score": 2.0238385,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "VIII",
-          "subchapter": "A",
-          "part": "810",
-          "subpart": "J"
-        }
-      },
-      {
-        "path": "Title 7 > Subtitle B >  Chapter VIII > Subchapter A > Part 810 > Subpart J > Grades and Grade Requirements",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Federal Grain Inspection Service, Fair Trade Practices Program), Department of Agriculture",
-          "Federal Grain Inspection",
-          "Official United States Standards for Grain",
-          "United States Standards for Soybeans",
-          "Grades and Grade Requirements"
         ],
         "type": "subject_group",
         "count": 2,
@@ -16515,7 +16514,7 @@
           "Administrative Bodies"
         ],
         "type": "subject_group",
-        "count": 11,
+        "count": 14,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -16635,7 +16634,7 @@
           "Miscellaneous Provisions"
         ],
         "type": "subject_group",
-        "count": 8,
+        "count": 10,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -16696,7 +16695,7 @@
           "Administrative Bodies"
         ],
         "type": "subject_group",
-        "count": 8,
+        "count": 10,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -16727,7 +16726,7 @@
           "Miscellaneous Provisions"
         ],
         "type": "subject_group",
-        "count": 2,
+        "count": 3,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -16788,7 +16787,7 @@
           "Non-Regulated Fruit"
         ],
         "type": "subject_group",
-        "count": 11,
+        "count": 14,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -16880,7 +16879,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 5,
+        "count": 6,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -16911,7 +16910,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 5,
+        "count": 4,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -16942,8 +16941,8 @@
           ""
         ],
         "type": "subject_group",
-        "count": 2,
-        "max_score": 2.0230381,
+        "count": 3,
+        "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -16972,7 +16971,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 14,
+        "count": 13,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17002,7 +17001,7 @@
           "Committee"
         ],
         "type": "subject_group",
-        "count": 12,
+        "count": 9,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17032,7 +17031,7 @@
           "Expenses and Assessments"
         ],
         "type": "subject_group",
-        "count": 4,
+        "count": 3,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17062,7 +17061,7 @@
           "Regulation"
         ],
         "type": "subject_group",
-        "count": 7,
+        "count": 3,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17122,7 +17121,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 6,
+        "count": 7,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17152,7 +17151,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 7,
+        "count": 8,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17193,37 +17192,6 @@
         }
       },
       {
-        "path": "Title 7 > Subtitle B >  Chapter IX > Part 906 > Subpart C",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture",
-          "",
-          "Oranges and Grapefruit Grown in Lower Rio Grande Valley in Texas",
-          "Container and Pack Requirements",
-          ""
-        ],
-        "type": "subject_group",
-        "count": 2,
-        "max_score": 2.0232058,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "IX",
-          "part": "906",
-          "subpart": "C"
-        }
-      },
-      {
         "path": "Title 7 > Subtitle B >  Chapter IX > Part 915 > Subpart > Definitions",
         "levels": [
           "title",
@@ -17244,7 +17212,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 11,
+        "count": 9,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17274,7 +17242,7 @@
           "Administrative Body"
         ],
         "type": "subject_group",
-        "count": 12,
+        "count": 11,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17304,8 +17272,8 @@
           "Expenses and Assessments"
         ],
         "type": "subject_group",
-        "count": 2,
-        "max_score": 2.0232058,
+        "count": 3,
+        "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -17334,7 +17302,7 @@
           "Regulations"
         ],
         "type": "subject_group",
-        "count": 4,
+        "count": 7,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -17394,7 +17362,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 5,
+        "count": 8,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17455,7 +17423,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 2,
+        "count": 3,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -17485,8 +17453,8 @@
           ""
         ],
         "type": "subject_group",
-        "count": 2,
-        "max_score": 2.0232058,
+        "count": 3,
+        "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -17516,7 +17484,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 11,
+        "count": 10,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17546,7 +17514,7 @@
           "Administrative Bodies"
         ],
         "type": "subject_group",
-        "count": 13,
+        "count": 15,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17576,7 +17544,7 @@
           "Expenses and Assessments"
         ],
         "type": "subject_group",
-        "count": 2,
+        "count": 3,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -17636,7 +17604,7 @@
           "Miscellaneous Provisions"
         ],
         "type": "subject_group",
-        "count": 6,
+        "count": 8,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17666,8 +17634,68 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 3,
+        "count": 2,
         "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IX",
+          "part": "917"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IX > Part 917 > Subpart > Administrative Bodies",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture",
+          "",
+          "Fresh Pears and Peaches Grown in California",
+          "Rules and Regulations",
+          "Administrative Bodies"
+        ],
+        "type": "subject_group",
+        "count": 4,
+        "max_score": 2.0238385,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IX",
+          "part": "917"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IX > Part 917 > Subpart > Regulation by Grades, Sizes, and Minimum Standards of Quality and Maturity",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture",
+          "",
+          "Fresh Pears and Peaches Grown in California",
+          "Rules and Regulations",
+          "Regulation by Grades, Sizes, and Minimum Standards of Quality and Maturity"
+        ],
+        "type": "subject_group",
+        "count": 2,
+        "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -17696,7 +17724,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 10,
+        "count": 13,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17726,7 +17754,7 @@
           "Administrative Body"
         ],
         "type": "subject_group",
-        "count": 12,
+        "count": 9,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17786,7 +17814,7 @@
           "Regulations"
         ],
         "type": "subject_group",
-        "count": 5,
+        "count": 6,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17816,7 +17844,7 @@
           "Miscellaneous Provisions"
         ],
         "type": "subject_group",
-        "count": 21,
+        "count": 19,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17846,7 +17874,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 14,
+        "count": 15,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -17876,38 +17904,8 @@
           "Administrative Body"
         ],
         "type": "subject_group",
-        "count": 11,
+        "count": 10,
         "max_score": 2.0238385,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "IX",
-          "part": "922"
-        }
-      },
-      {
-        "path": "Title 7 > Subtitle B >  Chapter IX > Part 922 > Subpart > Expenses and Assessments",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture",
-          "",
-          "Apricots Grown in Designated Counties in Washington",
-          "Order Regulating Handling",
-          "Expenses and Assessments"
-        ],
-        "type": "subject_group",
-        "count": 3,
-        "max_score": 2.0232058,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -17966,7 +17964,7 @@
           "Miscellaneous Provisions"
         ],
         "type": "subject_group",
-        "count": 9,
+        "count": 8,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -18006,36 +18004,6 @@
         }
       },
       {
-        "path": "Title 7 > Subtitle B >  Chapter IX > Part 922 > Subpart",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "Agriculture",
-          "Regulations of the Department of Agriculture",
-          "Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture",
-          "",
-          "Apricots Grown in Designated Counties in Washington",
-          "Assessment Rate",
-          ""
-        ],
-        "type": "subject_group",
-        "count": 3,
-        "max_score": 2.0245311,
-        "cfrReference": {
-          "title": 7,
-          "subtitle": "B",
-          "chapter": "IX",
-          "part": "922"
-        }
-      },
-      {
         "path": "Title 7 > Subtitle B >  Chapter IX > Part 922 > Subpart C",
         "levels": [
           "title",
@@ -18056,7 +18024,7 @@
           ""
         ],
         "type": "subject_group",
-        "count": 3,
+        "count": 2,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -18087,7 +18055,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 15,
+        "count": 13,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -18117,8 +18085,38 @@
           "Administrative Body"
         ],
         "type": "subject_group",
-        "count": 10,
+        "count": 11,
         "max_score": 2.0245311,
+        "cfrReference": {
+          "title": 7,
+          "subtitle": "B",
+          "chapter": "IX",
+          "part": "923"
+        }
+      },
+      {
+        "path": "Title 7 > Subtitle B >  Chapter IX > Part 923 > Subpart > Expenses and Assessments",
+        "levels": [
+          "title",
+          "subtitle",
+          "chapter",
+          "subchapter",
+          "part",
+          "subpart",
+          "subject_group"
+        ],
+        "headings": [
+          "Agriculture",
+          "Regulations of the Department of Agriculture",
+          "Agricultural Marketing Service (Marketing Agreements and Orders; Fruits, Vegetables, Nuts), Department of Agriculture",
+          "",
+          "Sweet Cherries Grown in Designated Counties in Washington",
+          "Order Regulating Handling",
+          "Expenses and Assessments"
+        ],
+        "type": "subject_group",
+        "count": 3,
+        "max_score": 2.0238035,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -18147,8 +18145,8 @@
           "Regulations"
         ],
         "type": "subject_group",
-        "count": 4,
-        "max_score": 2.0232058,
+        "count": 3,
+        "max_score": 2.0230381,
         "cfrReference": {
           "title": 7,
           "subtitle": "B",
@@ -18177,7 +18175,7 @@
           "Miscellaneous Provisions"
         ],
         "type": "subject_group",
-        "count": 9,
+        "count": 6,
         "max_score": 2.0238385,
         "cfrReference": {
           "title": 7,
@@ -18207,7 +18205,7 @@
           "Definitions"
         ],
         "type": "subject_group",
-        "count": 12,
+        "count": 9,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
@@ -18237,7 +18235,7 @@
           "Administrative Body"
         ],
         "type": "subject_group",
-        "count": 10,
+        "count": 8,
         "max_score": 2.0245311,
         "cfrReference": {
           "title": 7,
