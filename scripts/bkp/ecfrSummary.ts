@@ -55,8 +55,8 @@ function walkHierarchy(
 
   return [{
     path: newPath.filter(Boolean).join(' > '),
-    levels: newLevels,
-    headings: newHeadings,
+    // levels: newLevels,
+    // headings: newHeadings,
     type: currentLevel,
     count: currentNodeCount,
     max_score: node.max_score ?? 0,
@@ -87,7 +87,7 @@ async function ecfrSummary(agency_slug: string) {
     modification_count: tc.modification_count,
     paths: hierarchy.filter(h => h.title === tc.title).map(h => ({
       path: h.path,
-      headings: h.headings,
+      // headings: h.headings,
       type: h.type,
       count: h.count,
       max_score: h.max_score,
