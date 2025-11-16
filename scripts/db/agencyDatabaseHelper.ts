@@ -9,7 +9,9 @@ export interface DbShape {
   titles: Title[];
 }
 
-const DB_PATH = path.resolve(__dirname, '..', 'db.json');
+// Store the central db.json inside the repository's `data/` folder.
+// Resolve relative to the repository root (two levels up from this file: scripts/db -> repository root)
+const DB_PATH = path.resolve(__dirname, '..', '..', 'data', 'db.json');
 
 export async function readDb(): Promise<DbShape> {
   try {
