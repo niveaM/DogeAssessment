@@ -14,7 +14,9 @@ function AgencyDetail({ slug, shortName, onBack }) {
     async function load() {
       setLoading(true); setError(null);
       try {
-        const res = await fetch(`/api/search?slug=${encodeURIComponent(slug)}&page=1`);
+        const res = await fetch(
+          `/api/details?slug=${encodeURIComponent(slug)}&page=1`
+        );
         if (!res.ok) {
           const t = await res.text(); throw new Error(t || res.status);
         }

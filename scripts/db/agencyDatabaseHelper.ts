@@ -45,6 +45,14 @@ export async function getAgencyByShortName(
   return db.get(AGENCIES_KEY).find({ short_name: shortName }).value();
 }
 
+// Lookup helper: return an Agency by its slug (or undefined if not found)
+export async function getAgencyBySlug(
+  slug: string
+): Promise<Agency | undefined> {
+  const db = await readDb();
+  return db.get(AGENCIES_KEY).find({ slug: slug }).value();
+}
+
 export async function getAgencies(): Promise<Agency[]> {
   const db = await readDb();
   return db.get(AGENCIES_KEY).value() || [];

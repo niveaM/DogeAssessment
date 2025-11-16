@@ -34,7 +34,7 @@ npm start
 
 - GET /api/agencies — returns the array of agencies stored in `db.json`
 - POST /api/refresh — fetches the ECFR API, updates `db.json`, and returns { ok, count, lastUpdated }
-- GET /api/status — returns metadata: { lastUpdated, count }
+- GET /api/details — returns metadata: { lastUpdated, count }
 
 The UI is served at `/` and calls the above endpoints.
 
