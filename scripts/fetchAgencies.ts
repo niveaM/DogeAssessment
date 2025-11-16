@@ -87,7 +87,7 @@ async function processAgency(shortName: string | undefined, map: Record<string, 
         console.log(`Fetching ${JSON.stringify(ref)} for agency '${agency.slug}'`);  
         // sequential to avoid overwhelming local processing; could be parallelized later
         // eslint-disable-next-line no-await-in-loop
-        await fetchAndSaveTitles(ref, agency.slug);
+        ref.titleData = await fetchAndSaveTitles(ref, agency);
       } catch (err: any) {
         console.error(`Error processing title ${ref?.title} for agency ${agency.slug}:`, err?.message || err);
       }

@@ -9,7 +9,129 @@
     "cfr_references": [
       {
         "title": 1,
-        "chapter": "III"
+        "chapter": "III",
+        "titleData": {
+          "number": 1,
+          "name": "General Provisions",
+          "latest_amended_on": "2022-12-29",
+          "latest_issue_date": "2024-05-17",
+          "up_to_date_as_of": "2025-09-30",
+          "reserved": false,
+          "checksum": "924d9dedf98f9c9f6e623ca4fd2656a9b7b3c4a6531b90dae2eabfb6a52f38d2",
+          "wordCount": 68018,
+          "agencySlug": "administrative-conference-of-the-united-states",
+          "titleChapterCounts": {
+            "title": "1",
+            "chapter": "III",
+            "titleCount": 47,
+            "chapterCount": 47,
+            "titleDisplayHeading": "Title 1 | General Provisions",
+            "chapterDisplayHeading": " Chapter III | Administrative Conference of the United States",
+            "raw": [
+              {
+                "path": "Title 1 >  Chapter III > Part 301",
+                "levels": [
+                  "title",
+                  "subtitle",
+                  "chapter",
+                  "subchapter",
+                  "part",
+                  "subpart",
+                  "subject_group"
+                ],
+                "headings": [
+                  "General Provisions",
+                  "",
+                  "Administrative Conference of the United States",
+                  "",
+                  "Organization and Purpose",
+                  "",
+                  ""
+                ],
+                "type": "subject_group",
+                "count": 5,
+                "max_score": 2.0245311,
+                "cfrReference": {
+                  "title": 1,
+                  "chapter": "III",
+                  "part": "301"
+                }
+              },
+              {
+                "path": "Title 1 >  Chapter III > Part 304 > Subpart A",
+                "levels": [
+                  "title",
+                  "subtitle",
+                  "chapter",
+                  "subchapter",
+                  "part",
+                  "subpart",
+                  "subject_group"
+                ],
+                "headings": [
+                  "General Provisions",
+                  "",
+                  "Administrative Conference of the United States",
+                  "",
+                  "Disclosure of Records or Information",
+                  "Procedures for Disclosure of Records Under the Freedom of Information Act",
+                  ""
+                ],
+                "type": "subject_group",
+                "count": 27,
+                "max_score": 2.0245311,
+                "cfrReference": {
+                  "title": 1,
+                  "chapter": "III",
+                  "part": "304",
+                  "subpart": "A"
+                }
+              },
+              {
+                "path": "Title 1 >  Chapter III > Part 304 > Subpart B",
+                "levels": [
+                  "title",
+                  "subtitle",
+                  "chapter",
+                  "subchapter",
+                  "part",
+                  "subpart",
+                  "subject_group"
+                ],
+                "headings": [
+                  "General Provisions",
+                  "",
+                  "Administrative Conference of the United States",
+                  "",
+                  "Disclosure of Records or Information",
+                  "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+                  ""
+                ],
+                "type": "subject_group",
+                "count": 15,
+                "max_score": 2.0245311,
+                "cfrReference": {
+                  "title": 1,
+                  "chapter": "III",
+                  "part": "304",
+                  "subpart": "B"
+                }
+              }
+            ]
+          },
+          "searchCount": 47,
+          "versionSummary": {
+            "titleNumber": 1,
+            "totalVersions": 421,
+            "firstDate": "2015-12-18",
+            "lastDate": "2022-12-29",
+            "uniqueParts": 30,
+            "uniqueSubparts": 7,
+            "typeCounts": {
+              "section": 421
+            }
+          }
+        }
       }
     ]
   },

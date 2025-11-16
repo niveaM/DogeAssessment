@@ -180,7 +180,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
 // Processes either a single title (by number) or all titles and writes
 // per-title JSON files into the data directory. Exported so other scripts
 // (including `fetchTitles.ts`) can reuse it.
-export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?: string) {
+export async function fetchAndSaveTitles(cfrReference: CFRReference, agency?: Agency): Promise<Title> {
   // Read titles data from the local data directory instead of fetching from ECFR.
   const titlesFile = path.join(DATA_DIR, 'titles.json');
   const fileContent = await fs.readFile(titlesFile, 'utf8');
@@ -190,7 +190,8 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?
   const titlesMap: Record<string, Title> = data.titles || {};
 
   // target is a CFRReference object — use it directly
-  const titleObj: Title | undefined = titlesMap[String(cfrReference.title)];
+  // We trust `titles.json` contains the requested title; assert the type for downstream callers.
+  const titleObj = titlesMap[String(cfrReference.title)] as Title;
   if (!titleObj) throw new Error(`Title ${cfrReference.title} not found in titles.json`);
 
   // Ensure per-title directory exists
@@ -199,21 +200,21 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?
 
     console.log(`Processing Title ${titleObj.number} (${titleObj.name})`);
     // sequential processing to avoid hammering API
-  // construct a minimal Agency object from slug if provided so downstream helpers get an Agency
-  const agencyObj = agencySlug ? { name: agencySlug, display_name: agencySlug, sortable_name: agencySlug, slug: agencySlug, children: [], cfr_references: [] } as Agency : undefined;
+  // Use the provided Agency object directly (or undefined).
   // eslint-disable-next-line no-await-in-loop
-  const merged = await processTitle(titleObj, cfrReference, agencyObj);
+  const merged = await processTitle(titleObj, cfrReference, agency);
 
   // write individual file for this title
   // include agencySlug in the filename when provided, sanitized for filesystem safety
-  const safeAgency = agencySlug ? String(agencySlug).replace(/[^a-z0-9-_\.]/gi, '_') : '';
+  const agencyIdForFile = agency?.short_name ?? '-';
+  const safeAgency = agencyIdForFile ? String(agencyIdForFile).replace(/[^a-z0-9-_\.]/gi, '_') : '';
   const fileName = safeAgency ? `${String(merged.number)}.${safeAgency}.json` : `${String(merged.number)}.json`;
   const outFile = path.join(perTitleDir, fileName);
   // eslint-disable-next-line no-await-in-loop
   await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
   console.log(`Wrote title ${merged.number} to ${outFile}`);
 
-  // Also persist the aggregated search counts collected so far so callers can
+  /* // Also persist the aggregated search counts collected so far so callers can
   // inspect cumulative search counts across processed titles.
   try {
     const aggPath = path.join(DATA_DIR, 'title_search_counts.json');
@@ -221,10 +222,11 @@ export async function fetchAndSaveTitles(cfrReference: CFRReference, agencySlug?
     console.log(`Wrote aggregated search counts to ${aggPath}`);
   } catch (err) {
     console.warn('Failed to write aggregated search counts:', err);
-  }
+  } */
 
 
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
+  return merged;
 }
 
 
