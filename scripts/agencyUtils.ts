@@ -240,16 +240,6 @@ function walkHierarchy(
     }
   }
 
-
-  // console.log("=====================================");
-  // console.log("Walking node:", parentLevels);
-  // console.log("Walking node:", parentHeadings);
-  // console.log("Walking node:", parentPath);
-  // console.log("Parsed CFR partial:", JSON.stringify(cfrPartial));
-  // console.log("=====================================");
-
-
-
   const cfrRef =
     typeof cfrPartial.title === "number"
       ? (cfrPartial as CFRReference)

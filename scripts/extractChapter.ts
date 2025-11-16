@@ -32,9 +32,29 @@ export async function extractChapterChecksum(
 
   const title : Title = await getTitleByNumber(titleNumber);
 
-  const x = await fetchTitleAndChapterCounts(agencySlug, String(title.number), chapterId);
+  const leafNodes = await fetchTitleAndChapterCounts(agencySlug, String(title.number), chapterId);
 
-  console.log(JSON.stringify(x, null, 2));
+  console.log(JSON.stringify(leafNodes, null, 2));
+  const parts = new Set<string>();
+  if (leafNodes && leafNodes.raw) {
+    for (const node of leafNodes.raw) {
+      const metadata = node.metadata;
+      if (
+        metadata &&
+        metadata["title"]?.value === titleNumber &&
+        metadata["chapter"]?.value === chapterId
+      ) {
+        const partVal = metadata["part"]?.value;
+        if (partVal !== undefined && partVal !== null) parts.add(partVal);
+      }
+    }
+  }
+
+  console.log(
+    `Extracted parts for Title ${titleNumber} Chapter ${chapterId}:`,
+    Array.from(parts)
+  );
+  // Further processing and checksum calculation would go here.
 }
 
 // CLI usage example
