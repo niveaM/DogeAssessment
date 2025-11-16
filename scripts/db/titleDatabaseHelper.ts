@@ -69,22 +69,13 @@ export async function addOrUpdateTitle(title: Title): Promise<void> {
 export async function addOrUpdateTitles(titles: Title[]): Promise<void> {
   if (!Array.isArray(titles)) return;
   const db = getLowDb();
-  const current: Title[] = db.get('titles').value() || [];
-  const map: Record<string, Title> = {};
-  for (const c of current) {
-    if (c && c.number != null) map[String(c.number)] = c;
-  }
-  for (const t of titles) {
-    if (!t || t.number == null) continue;
-    map[String(t.number)] = t;
-  }
-  const merged = Object.values(map);
-  db.set('titles', merged).write();
+  // Overwrite titles array with provided list (no merging)
+  db.set('titles', titles).write();
 }
 
 export async function clearTitles(): Promise<void> {
   const db = getLowDb();
-  db.set('titles', {}).write();
+  db.set('titles', []).write();
 }
 
 export function getTitlesFilePath(): string {
