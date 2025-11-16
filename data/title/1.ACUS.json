@@ -18,24 +18,6 @@
     "raw": [
       {
         "path": "Title 1 >  Chapter III > Part 301",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "General Provisions",
-          "",
-          "Administrative Conference of the United States",
-          "",
-          "Organization and Purpose",
-          "",
-          ""
-        ],
         "type": "subject_group",
         "count": 5,
         "max_score": 2.0245311,
@@ -43,28 +25,45 @@
           "title": 1,
           "chapter": "III",
           "part": "301"
+        },
+        "metadata": {
+          "title": {
+            "level": "title",
+            "heading": "General Provisions",
+            "path": "Title 1",
+            "value": 1
+          },
+          "subtitle": {
+            "level": "subtitle",
+            "heading": "",
+            "path": ""
+          },
+          "chapter": {
+            "level": "chapter",
+            "heading": "Administrative Conference of the United States",
+            "path": " Chapter III",
+            "value": "III"
+          },
+          "subchapter": {
+            "level": "subchapter",
+            "heading": "",
+            "path": ""
+          },
+          "part": {
+            "level": "part",
+            "heading": "Organization and Purpose",
+            "path": "Part 301",
+            "value": "301"
+          },
+          "subpart": {
+            "level": "subpart",
+            "heading": "",
+            "path": ""
+          }
         }
       },
       {
         "path": "Title 1 >  Chapter III > Part 304 > Subpart A",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "General Provisions",
-          "",
-          "Administrative Conference of the United States",
-          "",
-          "Disclosure of Records or Information",
-          "Procedures for Disclosure of Records Under the Freedom of Information Act",
-          ""
-        ],
         "type": "subject_group",
         "count": 27,
         "max_score": 2.0245311,
@@ -73,28 +72,46 @@
           "chapter": "III",
           "part": "304",
           "subpart": "A"
+        },
+        "metadata": {
+          "title": {
+            "level": "title",
+            "heading": "General Provisions",
+            "path": "Title 1",
+            "value": 1
+          },
+          "subtitle": {
+            "level": "subtitle",
+            "heading": "",
+            "path": ""
+          },
+          "chapter": {
+            "level": "chapter",
+            "heading": "Administrative Conference of the United States",
+            "path": " Chapter III",
+            "value": "III"
+          },
+          "subchapter": {
+            "level": "subchapter",
+            "heading": "",
+            "path": ""
+          },
+          "part": {
+            "level": "part",
+            "heading": "Disclosure of Records or Information",
+            "path": "Part 304",
+            "value": "304"
+          },
+          "subpart": {
+            "level": "subpart",
+            "heading": "Procedures for Disclosure of Records Under the Freedom of Information Act",
+            "path": "Subpart A",
+            "value": "A"
+          }
         }
       },
       {
         "path": "Title 1 >  Chapter III > Part 304 > Subpart B",
-        "levels": [
-          "title",
-          "subtitle",
-          "chapter",
-          "subchapter",
-          "part",
-          "subpart",
-          "subject_group"
-        ],
-        "headings": [
-          "General Provisions",
-          "",
-          "Administrative Conference of the United States",
-          "",
-          "Disclosure of Records or Information",
-          "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
-          ""
-        ],
         "type": "subject_group",
         "count": 15,
         "max_score": 2.0245311,
@@ -103,6 +120,42 @@
           "chapter": "III",
           "part": "304",
           "subpart": "B"
+        },
+        "metadata": {
+          "title": {
+            "level": "title",
+            "heading": "General Provisions",
+            "path": "Title 1",
+            "value": 1
+          },
+          "subtitle": {
+            "level": "subtitle",
+            "heading": "",
+            "path": ""
+          },
+          "chapter": {
+            "level": "chapter",
+            "heading": "Administrative Conference of the United States",
+            "path": " Chapter III",
+            "value": "III"
+          },
+          "subchapter": {
+            "level": "subchapter",
+            "heading": "",
+            "path": ""
+          },
+          "part": {
+            "level": "part",
+            "heading": "Disclosure of Records or Information",
+            "path": "Part 304",
+            "value": "304"
+          },
+          "subpart": {
+            "level": "subpart",
+            "heading": "Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974",
+            "path": "Subpart B",
+            "value": "B"
+          }
         }
       }
     ]
