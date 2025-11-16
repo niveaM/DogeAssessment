@@ -25,42 +25,21 @@ export function checksumXML(xml: string): string {
   return crypto.createHash('sha256').update(xml).digest('hex');
 }
 
-export async function getTitleStats(titleObj: Title, target: CFRReference): Promise<Title> {
-  const dateString = titleObj.up_to_date_as_of ?? "latest";
-    let url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
-    
-    console.log(`================================================`);
-
-    console.log(`getTitleStats :: Title ${JSON.stringify(titleObj)} with target: ${JSON.stringify(target)}`);
-
-    const resFull = await fetch(url);
-    console.log(
-      `getTitleStats :: Fetching full XML for Title ${titleObj.number} (${titleObj.name}) from ${url}`
-    );
-    if (!resFull.ok) throw new Error(`HTTP error: ${resFull.status}`);
-    const xmlFull = await resFull.text();
-    console.log(
-      `getTitleStats :: Fetch FULL response status: ${xmlFull.length}`
-    );
-
-    // Only append chapter query param when a non-empty chapter is provided
-    if (target && target.chapter != null && String(target.chapter).trim() !== '') {
-      url += `?chapter=${encodeURIComponent(String(target.chapter))}`;
-    }
-
-  console.log(`getTitleStats :: Fetching Chapter XML for Title ${titleObj.number} (${titleObj.name}) from ${url}`);
+export async function getTitleStats(
+  titleObj: Title,
+  agency?: Agency
+): Promise<Title> {
+  const dateString = titleObj.latest_issue_date ?? "latest";
+  const url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
   const res = await fetch(url);
-  console.log(`getTitleStats :: Fetching Chapter XML for Title ${JSON.stringify(res)} from ${res.status}`);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const xml = await res.text();
-  console.log(`getTitleStats :: Fetch response status: ${xml.length}`);
-
-  console.log(`================================================`);
 
   const merged: Title = { ...titleObj };
   merged.checksum = checksumXML(xml);
   merged.wordCount = countWords(xml);
 
+  if (agency?.slug) merged.agencySlug = agency.slug;
 
   return merged;
 }
@@ -120,7 +99,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
 
   try {
     // Pass the CFRReference `target` to getTitleStats (we no longer accept Agency here)
-    merged = await getTitleStats(titleObj, target);
+    merged = await getTitleStats(titleObj, agency);
     if (agency?.slug) merged.agencySlug = agency.slug;
 
   } catch (err) {
@@ -182,13 +161,13 @@ export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference,
   const merged = await processTitle(titleObj, target, agency);
 
   // write individual file for this title (filename includes agency short_name when present)
-  const agencyIdForFile = agency?.short_name ?? '-';
-  const safeAgency = agencyIdForFile ? String(agencyIdForFile).replace(/[^a-z0-9-_\.]/gi, '_') : '';
-  const fileName = safeAgency ? `${String(merged.number)}.${safeAgency}.json` : `${String(merged.number)}.json`;
-  const outFile = path.join(perTitleDir, fileName);
-  // eslint-disable-next-line no-await-in-loop
-  await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
-  console.log(`Wrote title ${merged.number} to ${outFile}`);
+  // const agencyIdForFile = agency?.short_name ?? '-';
+  // const safeAgency = agencyIdForFile ? String(agencyIdForFile).replace(/[^a-z0-9-_\.]/gi, '_') : '';
+  // const fileName = safeAgency ? `${String(merged.number)}.${safeAgency}.json` : `${String(merged.number)}.json`;
+  // const outFile = path.join(perTitleDir, fileName);
+  // // eslint-disable-next-line no-await-in-loop
+  // await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
+  // console.log(`Wrote title ${merged.number} to ${outFile}`);
 
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
 

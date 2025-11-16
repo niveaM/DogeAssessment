@@ -266,8 +266,9 @@ function walkHierarchy(
   return [
     {
       path: pathSegments.join(" > "),
-      levels: newLevels,
-      headings: newHeadings,
+      // `levels` and `headings` are intentionally omitted to avoid
+      // redundant payload. Consumers can reconstruct headings from
+      // `metadata` (which preserves per-level heading information).
       type: currentLevel,
       count: currentNodeCount,
       max_score: node.max_score ?? 0,
