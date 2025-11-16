@@ -3,6 +3,7 @@ import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
+import { getTitlesMap, addOrUpdateTitles } from './db/titleDatabaseHelper';
 import * as crypto from 'crypto';
 import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
@@ -10,10 +11,7 @@ import { getSearchCountForTitle } from './agencyUtils';
 import { fetchTitleAndChapterCounts } from './fetchTitleChapterCounts';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 
-// Aggregated search counts collected during processing. Each entry represents
-// the number of search results (modification count) for a given title and
-// agency. This is written out by `fetchAndSaveTitles` so callers can inspect
-// cumulative results.
+// Aggregated search counts collected during processing.
 export const aggregatedSearchCounts: Array<{ title: number; searchCount: number; agencySlug?: string }> = [];
 
 // Strip XML tags and count words
@@ -26,9 +24,6 @@ export function checksumXML(xml: string): string {
   return crypto.createHash('sha256').update(xml).digest('hex');
 }
 
-// Core: fetch XML, compute summary, return typed TitleSummary
-// Now accepts the raw Title object, fetches the full XML, computes checksum/wordCount
-// and returns the merged Title object (original fields + summary fields).
 export async function getTitleStats(titleObj: Title, agency?: Agency): Promise<Title> {
   const dateString = titleObj.latest_issue_date ?? 'latest';
   const url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
@@ -40,36 +35,14 @@ export async function getTitleStats(titleObj: Title, agency?: Agency): Promise<T
   merged.checksum = checksumXML(xml);
   merged.wordCount = countWords(xml);
 
-  // // also keep a compact document-level summary on the Title object under
-  // // `debug` so consumers can inspect it without polluting the top-level shape.
-  // merged.debug = {
-  //   ...(merged.debug || {}),
-  //   titleDocumentSummary: {
-  //     titleNumber: titleObj.number,
-  //     dateString,
-  //     checksum,
-  //     wordCount,
-  //   }
-  // };
-  // merged.dateString = titleObj.latest_issue_date;
   if (agency?.slug) merged.agencySlug = agency.slug;
-  
-  // if (merged.dateString !== titleObj.latest_issue_date) {
-  //   merged.debug = {
-  //     ...(merged.debug || {}),
-  //     dateStringMismatch: {
-  //       latest_issue_date: titleObj.latest_issue_date,
-  //       summary_dateString: merged.dateString
-  //     }
-  //   };
-  // }
 
   return merged;
 }
 
-/** Populates TitleVersionSummary */
+/** Populate TitleVersionSummary */
 export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
-  console.log(`fetchTitleVersionsSummary :: Fetching versions for Title ${titleObj.number} (${titleObj.name})`); 
+  console.log(`fetchTitleVersionsSummary :: Fetching versions for Title ${titleObj.number} (${titleObj.name})`);
   const url = buildUrl(titleObj, target);
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
@@ -77,7 +50,6 @@ export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRRef
 
   console.log(`Fetched ${data.content_versions.length} ${JSON.stringify(data.meta)} versions for Title ${titleObj.number}`);
 
-  // Generate summary
   const totalVersions = data.content_versions.length;
   const sortedByDate = [...data.content_versions].sort((a, b) => a.date.localeCompare(b.date));
   const firstDate = sortedByDate[0]?.date ?? '';
@@ -103,7 +75,6 @@ export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRRef
     typeCounts,
   };
 
-  // Merge into a Title object and attach the computed versions summary.
   const merged: Title = { ...titleObj };
   merged.versionSummary = versionSummary;
   if (agency?.slug) merged.agencySlug = agency.slug;
@@ -111,14 +82,12 @@ export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRRef
   return merged;
 }
 
-// Helper to process one title entry and return merged object.
-// Moved here from `fetchTitles.ts` so other scripts can reuse it directly.
 export async function processTitle(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
   console.log(`processTitle :: Processing Title ${titleObj.number} (${titleObj.name})`);
   // start with a shallow clone so we can attach fields on error path
   let merged: Title = { ...titleObj };
 
-  // Basic validation: ensure number and name exist
+  // Basic validation
   if (merged.number == null || !merged.name) {
     merged.debug = { ...(merged.debug || {}), error: 'Title object missing number or name' };
     return merged;
@@ -130,9 +99,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
     merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
   }
 
-  // If an Agency object is provided, attempt to extract the agency's
-  // CFR hierarchy and attach it to the Title object so downstream tools
-  // can inspect hierarchy paths that reference this title.
+  // If an Agency is provided, fetch title/chapter counts and attach to Title
   if (agency?.slug) {
     try {
       // Use the specialized helper that returns counts for the title and chapter
@@ -141,8 +108,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
       const targetTitle = String(titleObj.number);
       const targetChapter = (target && target.chapter) ? String(target.chapter) : '';
       const counts = await fetchTitleAndChapterCounts(agency.slug, targetTitle, targetChapter);
-      // Attach the returned counts object to the merged Title so callers can
-      // inspect title/chapter level counts and the raw API response.
+      // Attach the returned counts object to the merged Title.
       // @ts-ignore -- we've added `titleChapterCounts` to the Title type
       merged.titleChapterCounts = counts;
     } catch (err) {
@@ -150,8 +116,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
     }
   }
 
-  // If an Agency object is provided, fetch its title counts and attach the
-  // count for this single title as `searchCount` on the merged Title.
+  // Fetch and attach single-title search count for the agency (if provided)
   try {
     const count = await getSearchCountForTitle(agency, titleObj);
     merged.searchCount = count;
@@ -165,8 +130,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   }
 
   try {
-    // attach versions summary by passing the merged Title into the helper
-    // (this may add `summary` or `versionsSummary` depending on implementation)
+    // attach versions summary
     // eslint-disable-next-line no-await-in-loop
     merged = await fetchTitleVersionsSummary(merged, target, agency);
     // no additional sanity-check — merged preserves the original title number
@@ -177,13 +141,8 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   return merged;
 }
 
-// Processes either a single title (by number) or all titles and writes
-// per-title JSON files into the data directory. Exported so other scripts
-// (including `fetchTitles.ts`) can reuse it.
 export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
-  // The caller must provide a fully-typed Title object (pulled from data/titles.json).
   if (!titleObj || titleObj.number == null) throw new Error('fetchAndSaveTitles requires a Title object as the first argument');
-
   // Ensure per-title directory exists
   const perTitleDir = path.join(DATA_DIR, 'title');
   await fs.mkdir(perTitleDir, { recursive: true });
@@ -194,8 +153,7 @@ export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference,
   // eslint-disable-next-line no-await-in-loop
   const merged = await processTitle(titleObj, target, agency);
 
-  // write individual file for this title
-  // include agencySlug in the filename when provided, sanitized for filesystem safety
+  // write individual file for this title (filename includes agency short_name when present)
   const agencyIdForFile = agency?.short_name ?? '-';
   const safeAgency = agencyIdForFile ? String(agencyIdForFile).replace(/[^a-z0-9-_\.]/gi, '_') : '';
   const fileName = safeAgency ? `${String(merged.number)}.${safeAgency}.json` : `${String(merged.number)}.json`;
@@ -203,22 +161,63 @@ export async function fetchAndSaveTitles(titleObj: Title, target?: CFRReference,
   // eslint-disable-next-line no-await-in-loop
   await fs.writeFile(outFile, JSON.stringify(merged, null, 2));
   console.log(`Wrote title ${merged.number} to ${outFile}`);
-  /* // Also persist the aggregated search counts collected so far so callers can
-  // inspect cumulative search counts across processed titles.
-  try {
-    const aggPath = path.join(DATA_DIR, 'title_search_counts.json');
-    await fs.writeFile(aggPath, JSON.stringify(aggregatedSearchCounts, null, 2));
-    console.log(`Wrote aggregated search counts to ${aggPath}`);
-  } catch (err) {
-    console.warn('Failed to write aggregated search counts:', err);
-  } */
-
 
   console.log(`Processed and wrote title(s) to ${perTitleDir}`);
 
   merged.titleChapterCounts.raw = undefined; // remove raw data to reduce output size
 
   return merged;
+}
+
+// Load titles.json from DATA_DIR and return a map of Title objects keyed by
+// their identifier (string). Returns an empty object if the file is missing
+// or invalid.
+export async function loadTitlesMap(): Promise<Record<string, Title>> {
+  console.log('loadTitlesMap: called');
+  // Prefer the centralized titles DB helper which handles reading the cached
+  // titles map. If the helper returns an empty map, fall back to fetching
+  // from the upstream ECFR API and persist the results via the helper.
+  try {
+    const existing = await getTitlesMap();
+    if (existing && Object.keys(existing).length) {
+      console.log(`loadTitlesMap: cache hit — ${Object.keys(existing).length} titles`);
+      return existing;
+    }
+    console.log('loadTitlesMap: cache empty — will fetch from ECFR');
+  } catch (err: any) {
+    console.warn('loadTitlesMap: error reading cache, will fetch:', err?.message || err);
+  }
+
+  const API_URL = 'https://www.ecfr.gov/api/versioner/v1/titles.json';
+  try {
+    console.log(`loadTitlesMap: fetching titles from ${API_URL}`);
+    const res = await fetch(API_URL);
+    if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+    const data: TitlesResponse = await res.json();
+
+    // Persist via the titles DB helper so we don't duplicate file logic here
+    try {
+      const titlesArray = Object.values(data);
+      await addOrUpdateTitles(titlesArray);
+      console.log(`loadTitlesMap: persisted ${titlesArray.length} titles via helper`);
+    } catch (err: any) {
+      console.warn('loadTitlesMap: failed to persist titles via helper:', err?.message || err);
+    }
+
+    // Normalize to a map keyed by title number
+    let titlesMap: Record<string, Title> = {};
+    if (Array.isArray((data as any).titles)) {
+      const titlesArray: any[] = (data as any).titles;
+      titlesMap = Object.fromEntries(titlesArray.map((t: any) => [String(t.number), t]));
+    } else if (data && (data as any).titles && typeof (data as any).titles === 'object') {
+      titlesMap = (data as any).titles as Record<string, Title>;
+    }
+
+    return titlesMap;
+  } catch (err: any) {
+    console.warn('loadTitlesMap: failed to fetch titles from ECFR:', err?.message || err);
+    return {};
+  }
 }
 
 

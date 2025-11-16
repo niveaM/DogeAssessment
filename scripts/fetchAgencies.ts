@@ -2,12 +2,12 @@
 import fetch from 'node-fetch';
 import { AgenciesResponse, Agency } from './model/agencyTypes';
 import { buildAgenciesMap, type AgenciesMap } from './agencyUtils';
-import { fetchAndSaveTitles } from './titleUtils';
+import { fetchAndSaveTitles, loadTitlesMap } from './titleUtils';
 import type { Title } from './model/titlesTypes';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR, AGENCIES_TRUNCATE_LIMIT } from './config';
-import { persistAgencies, getDbPath, clearAgencies } from './agencyDatabaseHelper';
+import { persistAgencies, getDbPath, clearAgencies } from './db/agencyDatabaseHelper';
 
 const API_URL = 'https://www.ecfr.gov/api/admin/v1/agencies.json';
 
@@ -42,12 +42,8 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
     console.error('Failed to clear/persist agencies to db.json:', err?.message || err);
   }
 
-
   // Load titles map once and pass Title objects into fetchAndSaveTitles
-  const titlesFile = path.join(DATA_DIR, 'titles.json');
-  const titlesContent = await fs.readFile(titlesFile, 'utf8');
-  const titlesData = JSON.parse(titlesContent) as { titles?: Record<string, Title> };
-  const titlesMap: Record<string, Title> = titlesData.titles || {};
+  const titlesMap: Record<string, Title> = await loadTitlesMap();
 
   if (agencyShortName) {
     // processAgency may perform I/O (calls fetchAndSaveTitles), so await it.

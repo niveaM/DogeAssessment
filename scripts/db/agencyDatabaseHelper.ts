@@ -1,12 +1,12 @@
 // agencyDatabaseHelper.ts
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import type { Agency } from './model/agencyTypes';
+import type { Agency } from './../model/agencyTypes';
+import { Title } from './../model/titlesTypes';
 
 export interface DbShape {
   agencies: Agency[];
-  searchCache?: Record<string, any>;
-  [k: string]: any;
+  titles: Title[];
 }
 
 const DB_PATH = path.resolve(__dirname, '..', 'db.json');
@@ -18,7 +18,7 @@ export async function readDb(): Promise<DbShape> {
     return parsed as DbShape;
   } catch (err: any) {
     // If file missing or invalid, return a default shape
-    return { agencies: [], searchCache: {} };
+    return { agencies: [], titles: [] };
   }
 }
 
