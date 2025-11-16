@@ -298,7 +298,7 @@ function App() {
     setRoute(href);
   }
 
-  function renderDocsTable(docs, basePath) {
+  function renderDocsTable(docs, basePath, agencySlug) {
     if (!Array.isArray(docs) || docs.length === 0) return null;
     // show Title and Chapter columns
     return (
@@ -317,11 +317,30 @@ function App() {
               const parentNum = basePath ? basePath.split('.').map(p => Number(p) + 1).join('.') : '';
               const num = parentNum ? `${parentNum}.${i + 1}` : String(i + 1);
               return (
-                <tr key={i}>
-                  <td>{num}</td>
-                  <td title={d && d.title ? d.title : JSON.stringify(d)}>{d && d.title ? d.title : (d && d.citation ? d.citation : '')}</td>
-                  <td>{d && (d.chapter || d.part || d.section || d.citation) ? (d.chapter || d.part || d.section || d.citation) : ''}</td>
-                </tr>
+                  <tr key={i}>
+                    <td>{num}</td>
+                    <td title={d && d.title ? d.title : JSON.stringify(d)}>
+                      {d && d.title ? d.title : (d && d.citation ? d.citation : '')}
+                      {/* UI-side lookup: search the titles array (from /api/agencies) for a matching title number and agencySlug */}
+                      {(() => {
+                        try {
+                          if (!d || d.title == null || !agencySlug) return null;
+                          // titles is in scope from component state
+                          const match = titles.find(t => String(t.number) === String(d.title) && (t.agencySlug === agencySlug || t.agency === agencySlug));
+                          if (!match) return null;
+                          const wc = match.wordCount != null ? match.wordCount : (match.wordcount != null ? match.wordcount : null);
+                          return (
+                            <div style={{marginTop:6, fontSize:12, color:'#333'}}>
+                              <div><strong>Title name:</strong> {match.name || '(unknown)'}</div>
+                              <div><strong>Wordcount:</strong> {wc != null ? wc : '(n/a)'}</div>
+                              <div><strong>Checksum:</strong> {match.checksum || '(n/a)'}</div>
+                            </div>
+                          );
+                        } catch (e) { return null; }
+                      })()}
+                    </td>
+                    <td>{d && (d.chapter || d.part || d.section || d.citation) ? (d.chapter || d.part || d.section || d.citation) : ''}</td>
+                  </tr>
               );
             })}
           </tbody>
@@ -395,7 +414,7 @@ function App() {
           {expanded.has(path + '|docs') && hasDocs && (
             <tr className="expanded-row cfr-row">
               <td colSpan={5}>
-                {renderDocsTable(item.cfr_references, path)}
+                {renderDocsTable(item.cfr_references, path, item && item.slug ? item.slug : null)}
               </td>
             </tr>
           )}
