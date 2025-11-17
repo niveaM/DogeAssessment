@@ -1,9 +1,11 @@
 import fetch from "node-fetch";
-import { getTitleByNumber } from "./db/titleDatabaseHelper";
-import { Title } from "./model/titlesTypes";
+import { getTitleByNumber } from "./../src/db/titleDatabaseHelper";
+import { Title } from "./../src/model/titlesTypes";
 import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from "./fetchTitleChapterCounts";
 import { checksumXML, countWords, getTitleVersionSummary } from "./commonUtils";
-import type { TitleVersionsResponse, TitleVersionSummary } from "./model/ecfrTypesTitleVersions";
+import type {
+  TitleVersionSummary,
+} from "./../src/model/ecfrTypesTitleVersions";
 
 /**
  * Extract chapter info and section contents from the eCFR API structure.
@@ -45,28 +47,7 @@ export async function extractChapterChecksum (
   );
 
   const dateString = title.up_to_date_as_of ?? "latest";
-  // let url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${title.number}.xml`;
-  // console.log(`================================================`);
-
-  // console.log(`extractChapterChecksum :: Title ${JSON.stringify(title)}`);
-
-  // const resFull = await fetch(url);
-  // console.log(
-  //   `extractChapterChecksum :: Fetching full XML for Title ${title.number} (${title.name}) from ${url}`
-  // );
-  // if (!resFull.ok) throw new Error(`HTTP error: ${resFull.status}`);
-  // const xmlFull = await resFull.text();
-  // console.log(
-  //   `extractChapterChecksum :: Fetch FULL response status: ${xmlFull.length}`
-  // );
-
-  // let checksum = checksumXML(xmlFull);
-  // let wordCount = countWords(xmlFull);
-
-  // console.log(
-  //   `FULL: Title ${title.number} Chapter ${chapterId} Checksum: ${checksum}, Word Count: ${wordCount}`
-  // );
-
+  
   let xmlBuffer: string = "";
   for (const part of parts) {
     let url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${title.number}.xml?chapter=${chapterId}&part=${part}`;

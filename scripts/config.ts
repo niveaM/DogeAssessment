@@ -19,4 +19,6 @@ export const ECFR_HIERARCHY_COUNTS_BASE =
 	// Use the array-style param form expected by the ECFR API.
 	'https://www.ecfr.gov/api/search/v1/counts/hierarchy?agency_slugs%5B%5D=';
 
+export const ECFR_AGENCIES_API_URL = "https://www.ecfr.gov/api/admin/v1/agencies.json";
+
 export default DATA_DIR;
