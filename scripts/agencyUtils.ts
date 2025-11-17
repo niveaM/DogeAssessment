@@ -4,21 +4,19 @@ import type {
   Agency,
   CFRReference,
   AgenciesResponse,
-} from "./model/agencyTypes";
-import type { Title } from "./model/titlesTypes";
-import type { HierarchyNode } from "./model/hierarchyTypes";
-import { AGENCIES_TRUNCATE_LIMIT, ECFR_SEARCH_COUNTS_BASE, ECFR_HIERARCHY_COUNTS_BASE } from "./config";
-import { getTitleByNumber } from "./db/titleDatabaseHelper";
+} from "./../src/model/agencyTypes";
+import type { Title } from "./../src/model/titlesTypes";
+import type { HierarchyNode } from "./../src/model/hierarchyTypes";
+import { AGENCIES_TRUNCATE_LIMIT, ECFR_SEARCH_COUNTS_BASE, ECFR_HIERARCHY_COUNTS_BASE, ECFR_AGENCIES_API_URL } from "./config";
+import { getTitleByNumber } from "./../src/db/titleDatabaseHelper";
 import {
   clearAgencies,
   getDbPath,
   persistAgencies,
   getAgencyByShortName,
-} from "./db/agencyDatabaseHelper";
+} from "./../src/db/agencyDatabaseHelper";
 import { fetchAndSaveTitles, loadTitlesMap } from "./titleUtils";
-import { walkHierarchy } from './commonUtils';
-
-const API_URL = "https://www.ecfr.gov/api/admin/v1/agencies.json";
+import { walkHierarchy } from "./commonUtils";
 
 // Shared utilities for working with agency hierarchies and maps.
 export type AgenciesMap = Record<string, Agency>;
@@ -28,8 +26,9 @@ export type AgenciesMap = Record<string, Agency>;
 // resulting agencies map. This centralizes fetch+truncate+persist logic so
 // callers can operate on the list of agency keys.
 export async function fetchAgencyList(): Promise<string[]> {
-  if (!API_URL) throw new Error("fetchAgencyList requires an apiUrl");
-  const res = await fetch(API_URL);
+  if (!ECFR_AGENCIES_API_URL)
+    throw new Error("fetchAgencyList requires an apiUrl");
+  const res = await fetch(ECFR_AGENCIES_API_URL);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data: AgenciesResponse = await res.json();
 
