@@ -385,21 +385,7 @@ function App() {
     setLoading(false);
   }
 
-  async function doRefresh() {
-    setLoading(true);
-    setError(null);
-    try {
-      const res = await fetch("/api/refresh", { method: "POST" });
-      if (!res.ok) {
-        const t = await res.text();
-        throw new Error(t || res.status);
-      }
-      await load();
-    } catch (e) {
-      setError(e.message);
-      setLoading(false);
-    }
-  }
+
 
   useEffect(() => {
     load();
