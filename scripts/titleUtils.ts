@@ -10,79 +10,59 @@ import { getSearchCountForTitle } from './agencyUtils';
 import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from './fetchTitleChapterCounts';
 import { extractChapterChecksum } from './chapterUtils';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
+import { fetchTitleVersionsSummary, titleVersionsResponseToSummary, getTitleStats } from './commonUtils';
 import { addOrUpdateTitles, clearTitles, getTitles } from './db/titleDatabaseHelper';
 import { writeTitleDetailsDb } from './db/titleDetailsDatabaseHelper';
 
 // Aggregated search counts collected during processing.
 export const aggregatedSearchCounts: Array<{ title: number; searchCount: number; agencySlug?: string }> = [];
 
-// Strip XML tags and count words
-export function countWords(xml: string): number {
-  const text = xml.replace(/<[^>]+>/g, ' ').replace(/&[a-z]+;/gi, ' ');
-  return text.split(/\s+/).filter(Boolean).length;
-}
+// getTitleStats moved to ./commonUtils
 
-export function checksumXML(xml: string): string {
-  return crypto.createHash('sha256').update(xml).digest('hex');
-}
+// fetchTitleVersionsSummary has been moved to ./commonUtils
 
-export async function getTitleStats(
+/**
+ * Similar to `fetchTitleVersionsSummary` but uses chapter-level extraction when
+ * an agency and chapter are provided. This mirrors the approach taken in
+ * `getTitleStatsForAgency` which uses `extractChapterChecksum` from
+ * `chapterUtils` to handle chapter-level processing.
+ */
+export async function fetchTitleVersionsSummaryForAgency(
   titleObj: Title,
+  target?: CFRReference,
   agency?: Agency
 ): Promise<Title> {
-  const dateString = titleObj.latest_issue_date ?? "latest";
-  const url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${titleObj.number}.xml`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-  const xml = await res.text();
+  console.log(`fetchTitleVersionsSummaryForAgency :: Fetching versions for Title ${titleObj.number} (${titleObj.name}) with agency ${agency?.slug}`);
 
-  const merged: Title = { ...titleObj };
-  merged.checksum = checksumXML(xml);
-  merged.wordCount = countWords(xml);
+  // If agency and chapter are provided, prefer to run the chapter-level
+  // extraction which will populate checksum/wordCount and other debug info.
+  let merged: Title = { ...titleObj };
+  if (agency?.slug && target?.chapter) {
+    try {
+  const chapterId = String(target.chapter);
+  merged = await extractChapterChecksum(merged, chapterId, agency.slug);
+    } catch (err) {
+      merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+    }
+  }
 
-  if (agency?.slug) merged.agencySlug = agency.slug;
+  // Regardless of chapter-level processing above, fetch the versions summary
+  // from the ECFR API to populate the versionSummary fields. Use the existing
+  // buildUrl helper so it will include chapter query when appropriate.
+  try {
+    const url = buildUrl(titleObj, target);
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+    const data: TitleVersionsResponse = await res.json();
 
-  return merged;
-}
+    const versionSummary: TitleVersionSummary = titleVersionsResponseToSummary(data, titleObj.number);
 
-/** Populate TitleVersionSummary */
-export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
-  console.log(`fetchTitleVersionsSummary :: Fetching versions for Title ${titleObj.number} (${titleObj.name})`);
-  const url = buildUrl(titleObj, target);
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-  const data: TitleVersionsResponse = await res.json();
-
-  console.log(`Fetched ${data.content_versions.length} ${JSON.stringify(data.meta)} versions for Title ${titleObj.number}`);
-
-  const totalVersions = data.content_versions.length;
-  const sortedByDate = [...data.content_versions].sort((a, b) => a.date.localeCompare(b.date));
-  const firstDate = sortedByDate[0]?.date ?? '';
-  const lastDate = sortedByDate[totalVersions - 1]?.date ?? '';
-
-  const partSet = new Set<string>();
-  const subpartSet = new Set<string>();
-  const typeCounts: Record<string, number> = {};
-
-  data.content_versions.forEach(v => {
-    if (v.part) partSet.add(v.part);
-    if (v.subpart) subpartSet.add(v.subpart ?? '');
-    typeCounts[v.type] = (typeCounts[v.type] || 0) + 1;
-  });
-
-  const versionSummary: TitleVersionSummary = {
-    titleNumber: titleObj.number,
-    totalVersions,
-    firstDate,
-    lastDate,
-    uniqueParts: partSet.size,
-    uniqueSubparts: subpartSet.size,
-    typeCounts,
-  };
-
-  const merged: Title = { ...titleObj };
-  merged.versionSummary = versionSummary;
-  if (agency?.slug) merged.agencySlug = agency.slug;
+    merged = { ...merged };
+    merged.versionSummary = versionSummary;
+    if (agency?.slug) merged.agencySlug = agency.slug;
+  } catch (err: any) {
+    merged.debug = { ...(merged.debug || {}), agencySearchError: err?.message || String(err) };
+  }
 
   return merged;
 }
@@ -169,7 +149,7 @@ export async function processTitle(titleObj: Title, target?: CFRReference, agenc
   try {
     // attach versions summary
     // eslint-disable-next-line no-await-in-loop
-    merged = await fetchTitleVersionsSummary(merged, target, agency);
+    merged = await fetchTitleVersionsSummaryForAgency(merged, target, agency);
     // no additional sanity-check — merged preserves the original title number
   } catch (err: any) {
     merged.debug = { ...(merged.debug || {}), error: err?.message || String(err) };

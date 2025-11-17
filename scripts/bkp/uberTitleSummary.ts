@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './../config';
-import { getTitleStats } from './../titleUtils';
+import { getTitleStats } from './../commonUtils';
 import type { TitlesResponse, Title } from './../model/titlesTypes';
 
 // Get titles and dates
