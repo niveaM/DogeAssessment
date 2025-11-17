@@ -2,6 +2,10 @@
 
 This directory contains helper scripts (mostly TypeScript) used to fetch and process ECFR data and to produce summary JSON files stored in the repository `data/` folder.
 
+Cleanup note (2025-11-17)
+
+- Backup copies previously stored in `scripts/bkp/` were removed from the repository as part of a cleanup. The working scripts remain in `scripts/` and can still be run as documented below.
+
 Most scripts write their outputs to the repository-level `data/` directory (the scripts use `../data` via `scripts/config.ts`).
 
 ## Prerequisites
