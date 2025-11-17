@@ -29,7 +29,10 @@ export interface TitleVersionSummary {
   typeCounts: Record<string, number>;
   // Optional metadata to indicate the chapter or part this summary was derived from
   chapterId?: string;
-  part?: string;
+  // Optional raw per-part summaries when an aggregated summary is produced
+  raw?: TitleVersionSummary[];
+  // Aggregated list of part identifiers included in this summary
+  parts?: string[];
 }
 
 export interface TitleVersionsResponse {

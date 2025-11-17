@@ -3,7 +3,6 @@ import fetch from "node-fetch";
 import * as fs from "fs/promises";
 import * as path from "path";
 import { DATA_DIR } from "./config";
-import * as crypto from "crypto";
 import type { Title, TitlesResponse, TitlesFile } from "./model/titlesTypes";
 import type { CFRReference, Agency } from "./model/agencyTypes";
 import { getSearchCountForTitle } from "./agencyUtils";
@@ -11,7 +10,7 @@ import {
   fetchTitleAndChapterCounts,
   TitleChapterCountsResult,
 } from "./fetchTitleChapterCounts";
-import { extractChapterChecksum } from "./chapterUtils";
+import { extractChapterChecksum, extractChapterVersionSummary } from "./chapterUtils";
 import type {
   TitleVersionsResponse,
   TitleVersionSummary,
@@ -60,7 +59,11 @@ export async function fetchTitleVersionsSummaryForAgency(
   if (agency?.slug && target?.chapter) {
     try {
       const chapterId = String(target.chapter);
-      merged = await extractChapterChecksum(merged, chapterId, agency.slug);
+      merged = await extractChapterVersionSummary(
+        merged,
+        chapterId,
+        agency.slug
+      );
     } catch (err) {
       merged.debug = {
         ...(merged.debug || {}),
@@ -82,9 +85,7 @@ export async function fetchTitleVersionsSummaryForAgency(
     merged.versionSummary = versionSummary;
     if (agency?.slug) merged.agencySlug = agency.slug;
   } catch (err: any) {
-    merged.debug = {
-      ...(merged.debug || {}),
-      agencySearchError: err?.message || String(err),
+      merged.debug = {...(merged.debug || {}),agencySearchError: err?.message || String(err),
     };
   }
 
@@ -106,7 +107,7 @@ export async function getTitleStatsForAgency(
       const chapterId = String(target.chapter);
       merged = await extractChapterChecksum(merged, chapterId, agency.slug);
 
-      console.log(`${JSON.stringify(merged)}`);
+      // console.log(`${JSON.stringify(merged)}`);
       console.log(
         `####### merged.checksum, merged.wordCount`,
         merged.checksum,

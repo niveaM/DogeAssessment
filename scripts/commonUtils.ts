@@ -86,7 +86,8 @@ export async function getTitleVersionSummary(
     uniqueSubparts: subpartSet.size,
     typeCounts,
     ...(chapterId ? { chapterId } : {}),
-    ...(part ? { part } : {}),
+    // include the list of parts (possibly empty) as an array
+    parts: Array.from(partSet),
   };
 }
 

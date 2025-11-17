@@ -29,16 +29,16 @@ export async function extractChapterChecksum (
 
   let leafNodes: TitleChapterCountsResult = title.titleChapterCounts;
   if (!leafNodes) {
-    console.log(
-      `******* Fetching leaf nodes from eCFR API... ${JSON.stringify(
-        leafNodes
-      )}`
-    );
     leafNodes = await fetchTitleAndChapterCounts(
       agencySlug,
       targetTitle,
       chapterId
     );
+    // console.log(
+    //   `******* Fetching leaf nodes from eCFR API... ${JSON.stringify(
+    //     leafNodes
+    //   )}`
+    // );
   }
 
   const parts = getPartsFromLeafNodes(leafNodes, title.number, chapterId);
@@ -78,11 +78,11 @@ export async function extractChapterChecksum (
       `extractChapterChecksum :: Fetching Chapter XML for Title ${title.number} (${title.name}) from ${url}`
     );
     const res = await fetch(url);
-    console.log(
-      `extractChapterChecksum :: Fetching Chapter XML for Title ${JSON.stringify(
-        res
-      )} from ${res.status}`
-    );
+    // console.log(
+    //   `extractChapterChecksum :: Fetching Chapter XML for Title ${JSON.stringify(
+    //     res
+    //   )} from ${res.status}`
+    // );
     if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
     xmlBuffer += await res.text();
     console.log(
@@ -117,20 +117,15 @@ export async function extractChapterVersionSummary(
 ): Promise<Title> {
   console.log(`Extracting chapter version summary for Title ${title.number} Chapter ${chapterId} Agency ${agencySlug}`);
 
-  const versionSummary: TitleVersionSummary = await getTitleVersionSummary(
+  let versionSummary: TitleVersionSummary = await getTitleVersionSummary(
     title.number,
     chapterId
   );
-  console.log(`Extracted version summary: ${JSON.stringify(versionSummary)}`);
+  // console.log(`Extracted version summary: ${JSON.stringify(versionSummary)}`);
 
 
   let leafNodes: TitleChapterCountsResult = title.titleChapterCounts;
   if (!leafNodes) {
-    console.log(
-      `******* Fetching leaf nodes from eCFR API... ${JSON.stringify(
-        leafNodes
-      )}`
-    );
     leafNodes = await fetchTitleAndChapterCounts(
       agencySlug,
       title.number ? String(title.number) : '',
@@ -139,7 +134,10 @@ export async function extractChapterVersionSummary(
   }
 
   const parts = getPartsFromLeafNodes(leafNodes, title.number, chapterId);
-
+  console.log(
+    `Extracted parts for Title ${title.number} Chapter ${chapterId}:`,
+    Array.from(parts)
+  );
 
   let summaryList: TitleVersionSummary[] = [];
   for (const part of parts) {
@@ -149,15 +147,73 @@ export async function extractChapterVersionSummary(
       part
     );
     summaryList.push(versionSummary);
-    console.log(
-      `extractChapterVersionSummary :: ${part} Fetch response status: ${JSON.stringify(versionSummary)}`
-    );
+    // console.log(
+    //   `extractChapterVersionSummary :: ${part} Fetch response status: ${JSON.stringify(versionSummary)}`
+    // );
+  }
+  
+  // Merge per-part summaries into a single aggregated summary for the chapter.
+  // Rules:
+  // - titleNumber & chapterId are unique (use the current title/chapter)
+  // - totalVersions is the sum of all part summaries' totalVersions
+  // - firstDate is the earliest date across summaries
+  // - lastDate is the latest date across summaries
+  // - uniqueParts is computed as the set of distinct `part` values present
+  // - uniqueSubparts is accumulated (sum of per-summary uniqueSubparts)
+  // - typeCounts are merged by summing counts per type
+  // Start with the chapter-level summary as the default aggregated summary.
+  // We'll replace it with a true aggregation if per-part summaries exist.
+  let aggregatedSummary: TitleVersionSummary = versionSummary;
+  if (summaryList.length > 0) {
+    const totalVersions = summaryList.reduce((acc, s) => acc + (s.totalVersions || 0), 0);
+    let firstDate = '';
+    let lastDate = '';
+    const partSet = new Set<string>();
+    let uniqueSubpartsSum = 0;
+    const typeCounts: Record<string, number> = {};
+
+    for (const s of summaryList) {
+      if (s.firstDate) {
+        if (!firstDate || s.firstDate < firstDate) firstDate = s.firstDate;
+      }
+      if (s.lastDate) {
+        if (!lastDate || s.lastDate > lastDate) lastDate = s.lastDate;
+      }
+      if (s.parts && Array.isArray(s.parts)) {
+        for (const p of s.parts) partSet.add(p);
+      }
+      uniqueSubpartsSum += s.uniqueSubparts || 0;
+      if (s.typeCounts) {
+        for (const [k, v] of Object.entries(s.typeCounts)) {
+          typeCounts[k] = (typeCounts[k] || 0) + (v || 0);
+        }
+      }
+    }
+
+    aggregatedSummary = {
+      titleNumber: title.number,
+      totalVersions,
+      firstDate: firstDate || (versionSummary.firstDate ?? ""),
+      lastDate: lastDate || (versionSummary.lastDate ?? ""),
+      uniqueParts: partSet.size,
+      uniqueSubparts: uniqueSubpartsSum,
+      typeCounts,
+      chapterId,
+      // keep raw per-part summaries for debugging/inspection
+      raw: summaryList,
+      // also provide an aggregated array of part identifiers
+      parts: Array.from(partSet),
+    };
   }
 
-  const merged: Title = { ...title };
-  // attach summary and agency slug when provided
-  merged.versionSummary = versionSummary;
+  // console.log(`***** Aggregated chapter version summary: ${JSON.stringify(aggregatedSummary)}`);
+
+    const merged: Title = { ...title };
+    // attach summary and agency slug when provided
+    merged.versionSummary = aggregatedSummary;
   if (agencySlug) merged.agencySlug = agencySlug;
+
+  // console.log('####### Aggregated chapter version summary:\n', JSON.stringify(merged.versionSummary, null, 2));
 
   return merged;
 }
@@ -207,7 +263,7 @@ function getPartsFromLeafNodes(
           console.error(`Title ${titleNumber} not found in local DB`);
           process.exit(1);
         }
-        // await extractChapterChecksum(title, chapterId, agencySlug);
+        await extractChapterChecksum(title, chapterId, agencySlug);
         await extractChapterVersionSummary(title, chapterId, agencySlug);
       } catch (err) {
         console.error(err);

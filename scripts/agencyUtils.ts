@@ -250,7 +250,7 @@ function walkHierarchy(
   // and (when available) the parsed CFR value from cfrPartial.
   const metadataMap: Record<
     string,
-    { level: string; heading: string; path: string; value?: string | number }
+    { level: string; heading: string; path: string; value?: string | number, displayHeading?: string }
   > = {};
   for (let i = 0; i < parentLevels.length; i += 1) {
     const lvl = parentLevels[i];
@@ -260,6 +260,7 @@ function walkHierarchy(
       path: parentPath[i] ?? "",
       // grab parsed cfr value (title/chapter/part/etc.) when present
       value: (cfrPartial as any)[lvl],
+      displayHeading: "--------",
     };
   }
 
