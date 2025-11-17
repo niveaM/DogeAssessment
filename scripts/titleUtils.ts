@@ -67,7 +67,7 @@ export async function fetchTitleVersionsSummaryForAgency(
     } catch (err) {
       merged.debug = {
         ...(merged.debug || {}),
-        agencySearchError: String(err),
+        agencySearchError: "extractChapterVersionSummary " + String(err),
       };
     }
   }
@@ -85,8 +85,11 @@ export async function fetchTitleVersionsSummaryForAgency(
     merged.versionSummary = versionSummary;
     if (agency?.slug) merged.agencySlug = agency.slug;
   } catch (err: any) {
-      merged.debug = {...(merged.debug || {}),agencySearchError: err?.message || String(err),
-    };
+      merged.debug = {
+        ...(merged.debug || {}),
+        agencySearchError:
+          "fetchTitleVersionsSummaryForAgency" + err?.message || String(err),
+      };
   }
 
   return merged;
@@ -116,7 +119,7 @@ export async function getTitleStatsForAgency(
     } catch (err) {
       merged.debug = {
         ...(merged.debug || {}),
-        agencySearchError: String(err),
+        agencySearchError: "getTitleStatsForAgency " + String(err),
       };
     }
   }
@@ -146,6 +149,7 @@ export async function processTitle(
     return merged;
   }
   if (agency?.slug) merged.agencySlug = agency.slug;
+  if (target?.chapter) merged.chapter = target.chapter;
 
   // If an Agency is provided, fetch title/chapter counts and attach to Title
   if (agency?.slug) {

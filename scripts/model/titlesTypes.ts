@@ -5,6 +5,7 @@ import { HierarchyNode } from './hierarchyTypes';
 // titlesTypes.ts
 export interface Title {
   number: number;
+  chapter: string | null;
   name: string;
   latest_amended_on: string | null;
   latest_issue_date: string | null;

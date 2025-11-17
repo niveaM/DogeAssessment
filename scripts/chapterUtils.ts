@@ -225,13 +225,18 @@ function getPartsFromLeafNodes(
       const metadata = node.metadata;
       if (
         metadata &&
-        metadata["title"]?.value === titleNumber &&
+        String(metadata["title"]?.value) === String(titleNumber) &&
         metadata["chapter"]?.value === chapterId
       ) {
         const rawPartVal = metadata["part"]?.value;
         if (rawPartVal !== undefined && rawPartVal !== null) {
           parts.add(String(rawPartVal));
         }
+      } else {
+        console.error(`${titleNumber} / ${chapterId}`);
+        console.error(
+          `XXXXXXXXXX Skipping node for title/chapter mismatch: ${metadata["title"]?.value} / ${metadata["chapter"]?.value}`
+        );
       }
     }
   }
