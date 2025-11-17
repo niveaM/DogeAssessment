@@ -8,7 +8,6 @@ const FileSync = require("lowdb/adapters/FileSync");
 
 // processors
 const agenciesProcessor = require("./lib/agenciesProcessor");
-const searchProcessor = require("./lib/searchProcessor");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -17,7 +16,7 @@ const adapter = new FileSync(path.join(__dirname, "db.json"));
 const db = low(adapter);
 
 // Delegate all middleware and route logic to the agenciesProcessor
-agenciesProcessor.init(app, db, { publicPath: path.join(__dirname, "public"), searchProcessor });
+agenciesProcessor.init(app, db, { publicPath: path.join(__dirname, "public") });
 
 app.listen(PORT, () => {
   console.log(`Server listening on http://localhost:${PORT}`);

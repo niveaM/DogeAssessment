@@ -2,6 +2,7 @@
 
 import fetch from 'node-fetch';
 import { walkHierarchy, combineHeading } from './commonUtils';
+import { ECFR_HIERARCHY_COUNTS_BASE } from './config';
 import type { HierarchyNode } from './model/hierarchyTypes';
 
 type HierarchyResponse = {
@@ -33,7 +34,7 @@ export async function fetchTitleAndChapterCounts(
   targetTitle: string | null,
   targetChapter: string
 ): Promise<TitleChapterCountsResult> {
-  const url = `https://www.ecfr.gov/api/search/v1/counts/hierarchy?agency_slugs[]=${encodeURIComponent(agencySlug)}`;
+  const url = `${ECFR_HIERARCHY_COUNTS_BASE}${encodeURIComponent(agencySlug)}`;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
 
