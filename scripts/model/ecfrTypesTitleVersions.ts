@@ -27,6 +27,9 @@ export interface TitleVersionSummary {
   uniqueParts: number;
   uniqueSubparts: number;
   typeCounts: Record<string, number>;
+  // Optional metadata to indicate the chapter or part this summary was derived from
+  chapterId?: string;
+  part?: string;
 }
 
 export interface TitleVersionsResponse {

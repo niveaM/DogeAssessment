@@ -17,7 +17,7 @@ import type {
   TitleVersionSummary,
 } from "./model/ecfrTypesTitleVersions";
 import {
-  titleVersionsResponseToSummary,
+  getTitleVersionSummary,
   getTitleStats,
   buildUrl,
 } from "./commonUtils";
@@ -73,14 +73,9 @@ export async function fetchTitleVersionsSummaryForAgency(
   // from the ECFR API to populate the versionSummary fields. Use the existing
   // buildUrl helper so it will include chapter query when appropriate.
   try {
-    const url = buildUrl(titleObj, target);
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-    const data: TitleVersionsResponse = await res.json();
-
-    const versionSummary: TitleVersionSummary = titleVersionsResponseToSummary(
-      data,
-      titleObj.number
+    const versionSummary: TitleVersionSummary = await getTitleVersionSummary(
+      titleObj.number,
+      target && target.chapter ? String(target.chapter) : undefined
     );
 
     merged = { ...merged };

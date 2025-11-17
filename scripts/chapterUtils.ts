@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import { getTitleByNumber } from "./db/titleDatabaseHelper";
 import { Title } from "./model/titlesTypes";
 import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from "./fetchTitleChapterCounts";
-import { checksumXML, countWords, titleVersionsResponseToSummary } from "./commonUtils";
+import { checksumXML, countWords, getTitleVersionSummary } from "./commonUtils";
 import type { TitleVersionsResponse, TitleVersionSummary } from "./model/ecfrTypesTitleVersions";
 
 /**
@@ -12,7 +12,7 @@ import type { TitleVersionsResponse, TitleVersionSummary } from "./model/ecfrTyp
  * @param chapterId Chapter identifier, e.g., "I"
  * @param chapterTitle Expected chapter description, e.g., "Administrative Committee of the Federal Register"
  */
-export async function extractChapterChecksum(
+export async function extractChapterChecksum (
   title: Title,
   chapterId: string,
   agencySlug: string
@@ -23,13 +23,17 @@ export async function extractChapterChecksum(
 
   const targetTitle = title ? String(title.number) : String(title.number);
 
-  console.log(`Extracting chapter checksum for Title ${title.number} Chapter ${chapterId} Agency ${agencySlug}`);
+  console.log(
+    `Extracting chapter checksum for Title ${title.number} Chapter ${chapterId} Agency ${agencySlug}`
+  );
 
   let leafNodes: TitleChapterCountsResult = title.titleChapterCounts;
   if (!leafNodes) {
     console.log(
-    `******* Fetching leaf nodes from eCFR API... ${JSON.stringify(leafNodes)}`
-  );
+      `******* Fetching leaf nodes from eCFR API... ${JSON.stringify(
+        leafNodes
+      )}`
+    );
     leafNodes = await fetchTitleAndChapterCounts(
       agencySlug,
       targetTitle,
@@ -44,21 +48,20 @@ export async function extractChapterChecksum(
     Array.from(parts)
   );
 
-
   const dateString = title.up_to_date_as_of ?? "latest";
   // let url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${title.number}.xml`;
   // console.log(`================================================`);
-  
-  // console.log(`getTitleStats :: Title ${JSON.stringify(title)}`);
+
+  // console.log(`extractChapterChecksum :: Title ${JSON.stringify(title)}`);
 
   // const resFull = await fetch(url);
   // console.log(
-  //   `getTitleStats :: Fetching full XML for Title ${title.number} (${title.name}) from ${url}`
+  //   `extractChapterChecksum :: Fetching full XML for Title ${title.number} (${title.name}) from ${url}`
   // );
   // if (!resFull.ok) throw new Error(`HTTP error: ${resFull.status}`);
   // const xmlFull = await resFull.text();
   // console.log(
-  //   `getTitleStats :: Fetch FULL response status: ${xmlFull.length}`
+  //   `extractChapterChecksum :: Fetch FULL response status: ${xmlFull.length}`
   // );
 
   // let checksum = checksumXML(xmlFull);
@@ -72,13 +75,19 @@ export async function extractChapterChecksum(
   for (const part of parts) {
     let url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${title.number}.xml?chapter=${chapterId}&part=${part}`;
     console.log(
-      `getTitleStats :: Fetching Chapter XML for Title ${title.number} (${title.name}) from ${url}`
+      `extractChapterChecksum :: Fetching Chapter XML for Title ${title.number} (${title.name}) from ${url}`
     );
-      const res = await fetch(url);
-      console.log(`getTitleStats :: Fetching Chapter XML for Title ${JSON.stringify(res)} from ${res.status}`);
-      if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-      xmlBuffer += await res.text();
-      console.log(`getTitleStats :: ${part} Fetch response status: ${xmlBuffer.length}`);
+    const res = await fetch(url);
+    console.log(
+      `extractChapterChecksum :: Fetching Chapter XML for Title ${JSON.stringify(
+        res
+      )} from ${res.status}`
+    );
+    if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+    xmlBuffer += await res.text();
+    console.log(
+      `extractChapterChecksum :: ${part} Fetch response status: ${xmlBuffer.length}`
+    );
   }
 
   // checksum = checksumXML(xmlBuffer);
@@ -95,7 +104,6 @@ export async function extractChapterChecksum(
   // Further processing and checksum calculation would go here.
 
   return merged;
-
 }
 
 /**
@@ -109,16 +117,42 @@ export async function extractChapterVersionSummary(
 ): Promise<Title> {
   console.log(`Extracting chapter version summary for Title ${title.number} Chapter ${chapterId} Agency ${agencySlug}`);
 
-  const url = `https://www.ecfr.gov/api/versioner/v1/versions/title-${title.number}.json?chapter=${encodeURIComponent(chapterId)}`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-
-  const data: TitleVersionsResponse = await res.json();
-
-  const versionSummary: TitleVersionSummary = titleVersionsResponseToSummary(
-    data,
-    title.number
+  const versionSummary: TitleVersionSummary = await getTitleVersionSummary(
+    title.number,
+    chapterId
   );
+  console.log(`Extracted version summary: ${JSON.stringify(versionSummary)}`);
+
+
+  let leafNodes: TitleChapterCountsResult = title.titleChapterCounts;
+  if (!leafNodes) {
+    console.log(
+      `******* Fetching leaf nodes from eCFR API... ${JSON.stringify(
+        leafNodes
+      )}`
+    );
+    leafNodes = await fetchTitleAndChapterCounts(
+      agencySlug,
+      title.number ? String(title.number) : '',
+      chapterId
+    );
+  }
+
+  const parts = getPartsFromLeafNodes(leafNodes, title.number, chapterId);
+
+
+  let summaryList: TitleVersionSummary[] = [];
+  for (const part of parts) {
+    const versionSummary: TitleVersionSummary = await getTitleVersionSummary(
+      title.number,
+      chapterId,
+      part
+    );
+    summaryList.push(versionSummary);
+    console.log(
+      `extractChapterVersionSummary :: ${part} Fetch response status: ${JSON.stringify(versionSummary)}`
+    );
+  }
 
   const merged: Title = { ...title };
   // attach summary and agency slug when provided
@@ -173,7 +207,8 @@ function getPartsFromLeafNodes(
           console.error(`Title ${titleNumber} not found in local DB`);
           process.exit(1);
         }
-        await extractChapterChecksum(title, chapterId, agencySlug);
+        // await extractChapterChecksum(title, chapterId, agencySlug);
+        await extractChapterVersionSummary(title, chapterId, agencySlug);
       } catch (err) {
         console.error(err);
         process.exit(1);

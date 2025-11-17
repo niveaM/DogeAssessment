@@ -47,7 +47,21 @@ export function buildUrl(titleObj: Title, target?: CFRReference) {
 /**
  * Convert a TitleVersionsResponse into a compact TitleVersionSummary.
  */
-export function titleVersionsResponseToSummary(data: TitleVersionsResponse, titleNumber: number): TitleVersionSummary {
+export async function getTitleVersionSummary(
+  titleNumber: number,
+  chapterId?: string,
+  part?: string
+): Promise<TitleVersionSummary> {
+  const base = `https://www.ecfr.gov/api/versioner/v1/versions/title-${titleNumber}.json`;
+  const params: string[] = [];
+  if (chapterId) params.push(`chapter=${encodeURIComponent(String(chapterId))}`);
+  if (part) params.push(`part=${encodeURIComponent(String(part))}`);
+  const url = params.length ? `${base}?${params.join('&')}` : base;
+
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+  const data: TitleVersionsResponse = await res.json();
+
   const totalVersions = data.content_versions.length;
   const sortedByDate = [...data.content_versions].sort((a, b) => a.date.localeCompare(b.date));
   const firstDate = sortedByDate[0]?.date ?? '';
@@ -71,17 +85,17 @@ export function titleVersionsResponseToSummary(data: TitleVersionsResponse, titl
     uniqueParts: partSet.size,
     uniqueSubparts: subpartSet.size,
     typeCounts,
+    ...(chapterId ? { chapterId } : {}),
+    ...(part ? { part } : {}),
   };
 }
 
 /** Populate TitleVersionSummary by fetching the ECFR versions endpoint */
 export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRReference, _agency?: any): Promise<Title> {
-  const url = buildUrl(titleObj, target);
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-  const data: TitleVersionsResponse = await res.json();
-
-  const versionSummary: TitleVersionSummary = titleVersionsResponseToSummary(data, titleObj.number);
+  const versionSummary: TitleVersionSummary = await getTitleVersionSummary(
+    titleObj.number,
+    target && (target as CFRReference).chapter ? String((target as CFRReference).chapter) : undefined
+  );
 
   const merged: Title = { ...titleObj };
   merged.versionSummary = versionSummary;
