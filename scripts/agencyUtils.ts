@@ -7,7 +7,7 @@ import type {
 } from "./model/agencyTypes";
 import type { Title } from "./model/titlesTypes";
 import type { HierarchyNode } from "./model/hierarchyTypes";
-import { AGENCIES_TRUNCATE_LIMIT } from "./config";
+import { AGENCIES_TRUNCATE_LIMIT, ECFR_SEARCH_COUNTS_BASE, ECFR_HIERARCHY_COUNTS_BASE } from "./config";
 import { getTitleByNumber } from "./db/titleDatabaseHelper";
 import {
   clearAgencies,
@@ -78,10 +78,10 @@ export async function fetchAgencyList(): Promise<string[]> {
 export async function getTitleCountsArray(
   agency_slug: string
 ): Promise<Array<{ title: number; count: number }>> {
-  const url = `https://www.ecfr.gov/api/search/v1/counts/titles?agency_slugs%5B%5D=${encodeURIComponent(
+  const ECFR_SEARCH_COUNTS_URL = `${ECFR_SEARCH_COUNTS_BASE}${encodeURIComponent(
     agency_slug
   )}`;
-  const res = await fetch(url);
+  const res = await fetch(ECFR_SEARCH_COUNTS_URL);
   if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
   const data = await res.json();
   if (!data.titles || typeof data.titles !== "object") {
@@ -164,7 +164,7 @@ export async function processAgencyByShortName(
 export async function extractHierarchy(
   agency_slug: string
 ): Promise<HierarchyNode[]> {
-  const api_url = `https://www.ecfr.gov/api/search/v1/counts/hierarchy?agency_slugs%5B%5D=${encodeURIComponent(
+  const api_url = `${ECFR_HIERARCHY_COUNTS_BASE}${encodeURIComponent(
     agency_slug
   )}`;
   const res = await fetch(api_url);
