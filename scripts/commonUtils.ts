@@ -170,7 +170,9 @@ export function walkHierarchy(
       heading: parentHeadings[i] ?? '',
       path: parentPath[i] ?? '',
       value: (cfrPartial as any)[lvl],
-      displayHeading: '--------',
+      displayHeading: combineHeading(
+        parentPath[i] ?? '', 
+        parentHeadings[i] ?? ''),
     };
   }
 
@@ -184,4 +186,10 @@ export function walkHierarchy(
       metadata: metadataMap,
     },
   ];
+}
+
+
+export function combineHeading(a: string | null, b: string | null): string {
+  if (a && b && a !== b) return `${a} | ${b}`;
+  return a || b || "";
 }

@@ -1,7 +1,7 @@
 // fetchTitleChapterCounts.ts
 
 import fetch from 'node-fetch';
-import { walkHierarchy } from './commonUtils';
+import { walkHierarchy, combineHeading } from './commonUtils';
 import type { HierarchyNode } from './model/hierarchyTypes';
 
 type HierarchyResponse = {
@@ -26,11 +26,6 @@ export interface TitleChapterCountsResult {
   // avoid cross-module type mismatches between different HierarchyNode
   // definitions.
   raw: any;
-}
-
-function combineHeading(a: string | null, b: string | null): string {
-  if (a && b && a !== b) return `${a} | ${b}`;
-  return a || b || '';
 }
 
 export async function fetchTitleAndChapterCounts(

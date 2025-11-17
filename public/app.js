@@ -128,7 +128,7 @@ function AgencyDetail({ slug, shortName, onBack }) {
         {/* back button removed */}
       </div>
 
-      <div className="toolbar" style={{ marginTop: 12 }}>
+      {/* <div className="toolbar" style={{ marginTop: 12 }}>
         <input
           placeholder="Filter titles (search text)"
           value={query}
@@ -137,7 +137,7 @@ function AgencyDetail({ slug, shortName, onBack }) {
         <button className="small-btn" onClick={() => setShowRaw((s) => !s)}>
           {showRaw ? "Hide raw" : "Show raw"}
         </button>
-      </div>
+      </div> */}
 
       {loading && <div className="loading">Loading…</div>}
       {error && <div className="error">Error: {error}</div>}
@@ -184,14 +184,14 @@ function AgencyDetail({ slug, shortName, onBack }) {
         </div>
 
         <div className="detail-block" style={{ flex: "2 1 560px" }}>
-          <h3 style={{ marginTop: 0 }}>Titles ({filtered.length})</h3>
+          <h3 style={{ marginTop: 0 }}>Titles [#{filtered.length}]</h3>
           {filtered.length === 0 ? (
             <div className="empty">No titles found.</div>
           ) : (
             <div>
               <div style={{ marginBottom: 10 }}>
                 <label style={{ fontSize: 14 }}>
-                  View title:&nbsp;
+                  <b> View title:&nbsp;</b>
                   <select
                     value={selectedTitleIndex == null ? "" : selectedTitleIndex}
                     onChange={(e) =>
@@ -203,7 +203,9 @@ function AgencyDetail({ slug, shortName, onBack }) {
                     <option value="">(none)</option>
                     {filtered.map((t, i) => (
                       <option key={i} value={i}>
-                        {t.number ? `Title ${t.number} — ${t.name || t.title || ""}` : t.title || t.name || `item ${i+1}`}
+                        {t.number
+                          ? `Title ${t.number} — ${t.name || t.title || ""}`
+                          : t.title || t.name || `item ${i + 1}`}
                       </option>
                     ))}
                   </select>
@@ -213,7 +215,10 @@ function AgencyDetail({ slug, shortName, onBack }) {
               {selectedTitleIndex != null && filtered[selectedTitleIndex] && (
                 <div style={{ marginTop: 8 }}>
                   <TitleDetail
-                    number={filtered[selectedTitleIndex].number || filtered[selectedTitleIndex].title}
+                    number={
+                      filtered[selectedTitleIndex].number ||
+                      filtered[selectedTitleIndex].title
+                    }
                     initialData={filtered[selectedTitleIndex]}
                     onBack={() => setSelectedTitleIndex(null)}
                   />
@@ -241,14 +246,23 @@ function AgencyDetail({ slug, shortName, onBack }) {
                   >
                     <div>
                       <div style={{ fontSize: 16, fontWeight: 700 }}>
-                        {t.number ? `Title ${t.number}` : t.title || t.name || "(unnamed)"}
+                        {t.number
+                          ? `Title ${t.number}`
+                          : t.title || t.name || "(unnamed)"}
                       </div>
-                      <div style={{ color: "#444" }}>{t.name || t.title || t.display_name || ""}</div>
-                      <div style={{ marginTop: 6, fontSize: 13, color: "#666" }}>
-                        {t.slug ? `slug: ${t.slug}` : ""} {getChecksum(t) ? ` • checksum: ${getChecksum(t)}` : ""}
+                      <div style={{ color: "#444" }}>
+                        {t.name || t.title || t.display_name || ""}
+                      </div>
+                      <div
+                        style={{ marginTop: 6, fontSize: 13, color: "#666" }}
+                      >
+                        {t.slug ? `slug: ${t.slug}` : ""}{" "}
+                        {getChecksum(t) ? ` • checksum: ${getChecksum(t)}` : ""}
                       </div>
                     </div>
-                    <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+                    <div
+                      style={{ display: "flex", gap: 8, alignItems: "center" }}
+                    >
                       {/* <button className="small-btn" onClick={() => toggleExpand(i)}>
                         {expanded.has(i) ? "Collapse" : "Expand"}
                       </button>
@@ -257,29 +271,49 @@ function AgencyDetail({ slug, shortName, onBack }) {
                       </a> */}
                     </div>
                   </div>
-                      {expanded.has(i) && (
+                  {expanded.has(i) && (
                     <div style={{ marginTop: 10 }}>
                       <div style={{ marginBottom: 8 }}>
-                        <strong>Title heading:</strong> {t.titleChapterCounts && t.titleChapterCounts.titleDisplayHeading ? t.titleChapterCounts.titleDisplayHeading : "(n/a)"}
+                        <strong>Title heading:</strong>{" "}
+                        {t.titleChapterCounts &&
+                        t.titleChapterCounts.titleDisplayHeading
+                          ? t.titleChapterCounts.titleDisplayHeading
+                          : "(n/a)"}
                       </div>
                       <div style={{ marginBottom: 8 }}>
-                        <strong>Chapter heading:</strong> {t.titleChapterCounts && t.titleChapterCounts.chapterDisplayHeading ? t.titleChapterCounts.chapterDisplayHeading : "(n/a)"}
+                        <strong>Chapter heading:</strong>{" "}
+                        {t.titleChapterCounts &&
+                        t.titleChapterCounts.chapterDisplayHeading
+                          ? t.titleChapterCounts.chapterDisplayHeading
+                          : "(n/a)"}
                       </div>
                       <div style={{ marginBottom: 8 }}>
-                        <strong>Word count:</strong> {getWordCount(t) != null ? getWordCount(t) : "(n/a)"}
+                        <strong>Word count:</strong>{" "}
+                        {getWordCount(t) != null ? getWordCount(t) : "(n/a)"}
                       </div>
                       <div style={{ marginBottom: 8 }}>
-                        <strong>Summary:</strong> {t.summary || t.description || "(none)"}
+                        <strong>Summary:</strong>{" "}
+                        {t.summary || t.description || "(none)"}
                       </div>
                       {t.versionSummary && (
                         <div style={{ marginBottom: 8 }}>
                           <strong>Version summary</strong>
-                          <pre style={{ background: '#f7f7f7', padding: 8, overflow: 'auto' }}>{JSON.stringify(t.versionSummary, null, 2)}</pre>
+                          <pre
+                            style={{
+                              background: "#f7f7f7",
+                              padding: 8,
+                              overflow: "auto",
+                            }}
+                          >
+                            {JSON.stringify(t.versionSummary, null, 2)}
+                          </pre>
                         </div>
                       )}
                       <div style={{ marginBottom: 8 }}>
                         <strong>CFR references</strong>
-                        {renderCfrReferences(t.cfr_references || t.refs || t.references || [])}
+                        {renderCfrReferences(
+                          t.cfr_references || t.refs || t.references || []
+                        )}
                       </div>
                     </div>
                   )}
@@ -805,6 +839,29 @@ function TitleDetail({ number, onBack, initialData }) {
     );
   }
 
+  // Build a breadcrumb string from metadata. Support both array and
+  // object shapes. Collect all non-empty displayHeading values in
+  // document order and join them with " / ".
+  function breadcrumbFromMetadata(metadata) {
+    if (!metadata) return "";
+    const headings = [];
+    if (Array.isArray(metadata)) {
+      for (const m of metadata) {
+        if (!m) continue;
+  const dh = m.displayHeading || m.displayheading || m.display_heading || null;
+        if (dh && String(dh).trim()) headings.push(String(dh).trim());
+      }
+    } else if (typeof metadata === 'object') {
+      for (const key of Object.keys(metadata)) {
+        const m = metadata[key];
+        if (!m) continue;
+  const dh = m.displayHeading || m.displayheading || m.display_heading || null;
+        if (dh && String(dh).trim()) headings.push(String(dh).trim());
+      }
+    }
+    return headings.join(' / ');
+  }
+
   return (
     <div className="container">
       <div
@@ -819,7 +876,6 @@ function TitleDetail({ number, onBack, initialData }) {
             ? `Title ${data.number} — ${data.name || data.title || ""}`
             : `Title ${number}`}
         </h1>
-        {/* back button removed */}
       </div>
 
       <div className="toolbar" style={{ marginTop: 12 }}>
@@ -980,11 +1036,21 @@ function TitleDetail({ number, onBack, initialData }) {
                     }
                     return displayed.map((it, idx) => (
                       <React.Fragment key={it.__origIndex}>
-                        <tr>
-                          <td>{idx + 1}</td>
-                          <td style={{ whiteSpace: "pre-wrap" }}>{it.path || ""}</td>
-                          <td>{it.count != null ? it.count : ""}</td>
-                        </tr>
+                            <tr>
+                              <td>{idx + 1}</td>
+                              <td style={{ whiteSpace: "pre-wrap" }}>
+                                {it.path || ""}
+                                {(() => {
+                                  const bc = breadcrumbFromMetadata(it.metadata || it.metatData || it.metatadata);
+                                  return bc ? (
+                                    <div style={{ marginTop: 6, fontSize: 12, color: '#444' }}>
+                                      <em>{bc}</em>
+                                    </div>
+                                  ) : null;
+                                })()}
+                              </td>
+                              <td>{it.count != null ? it.count : ""}</td>
+                            </tr>
 
                         {expanded.has(it.__origIndex) && (
                           <tr className="expanded-row">
