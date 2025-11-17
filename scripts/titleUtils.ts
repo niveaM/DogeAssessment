@@ -14,7 +14,6 @@ import { fetchTitleAndChapterCounts } from "./fetchTitleChapterCounts";
 import type { TitleChapterCountsResult } from "../src/model/hierarchyTypes";
 import { extractChapterChecksum, extractChapterVersionSummary } from "../src/utils/chapterUtils";
 import type {
-  TitleVersionsResponse,
   TitleVersionSummary,
 } from "./../src/model/ecfrTypesTitleVersions";
 import {

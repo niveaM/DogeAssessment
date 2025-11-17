@@ -46,7 +46,7 @@ export function buildUrl(titleObj: Title, target?: CFRReference) {
 }
 
 /**
- * Convert a TitleVersionsResponse into a compact TitleVersionSummary.
+ * Fetch TitleVersionsResponse into a compact TitleVersionSummary.
  */
 export async function getTitleVersionSummary(
   titleNumber: number,
