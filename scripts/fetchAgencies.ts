@@ -1,12 +1,6 @@
 // fetchAgencies.ts
 import { fetchAgencyList as fetchAgencyKeys, processAgencyByShortName } from "../src/utils/agencyUtils";
 
-// Allow passing an optional agency short name as the first CLI argument.
-const shortNameArg = process.argv[2];
-fetchAndSaveAgencies(shortNameArg).catch((err) => {
-  console.error("Error fetching agencies:", err);
-});
-
 async function fetchAndSaveAgencies(agencyShortName?: string) {
   
   if (agencyShortName) {
@@ -33,3 +27,15 @@ async function fetchAndSaveAgencies(agencyShortName?: string) {
     }
   }
 }
+
+/**
+ * CLI fallback to allow manual invocation of fetchAndSaveAgencies.
+ * Run via `ts-node scripts/fetchAgencies.ts [AGENCY_SHORT_NAME]`
+ * If AGENCY_SHORT_NAME is provided, only that agency is processed.
+ * Otherwise, all agencies are processed.
+ */
+// Allow passing an optional agency short name as the first CLI argument.
+const shortNameArg = process.argv[2];
+fetchAndSaveAgencies(shortNameArg).catch((err) => {
+  console.error("Error fetching agencies:", err);
+});

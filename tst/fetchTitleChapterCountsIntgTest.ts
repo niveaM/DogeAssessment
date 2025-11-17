@@ -1,56 +1,43 @@
-import fetch from "node-fetch";
+import { expect } from 'chai';
 import { fetchTitleAndChapterCounts } from "../scripts/fetchTitleChapterCounts";
 
-// Run this file directly to perform an integration check for advisory-council-on-historic-preservation Title 36 Chapter VIII
+// Mocha integration test
+describe('fetchTitleAndChapterCounts integration', function () {
+  // allow network latency
+  this.timeout(20000);
+
+  it('fetches counts for advisory-council-on-historic-preservation Title 36 Chapter VIII', async () => {
+    const agencySlug = 'advisory-council-on-historic-preservation';
+    const title = '36';
+    const chapter = 'VIII';
+
+    const result = await fetchTitleAndChapterCounts(agencySlug, title, chapter);
+
+    expect(result).to.be.an('object');
+    expect(result.title).to.equal('36');
+    expect(result.chapter).to.equal('VIII');
+    expect(result.titleCount).to.equal(60);
+    expect(result.chapterCount).to.equal(60);
+    expect(result.titleDisplayHeading).to.equal('Title 36 | Parks, Forests, and Public Property');
+    expect(result.chapterDisplayHeading).to.equal(' Chapter VIII | Advisory Council on Historic Preservation');
+
+    expect(Array.isArray(result.raw)).to.be.true;
+    if (result.raw.length > 0) {
+      const firstPath = (result.raw[0] as any).path;
+      expect(firstPath).to.equal('Title 36 >  Chapter VIII > Part 800 > Subpart B');
+    }
+  });
+});
+
+// Keep a CLI fallback for manual invocation
 if (require.main === module) {
+  // Run the same check and print results
   (async () => {
-    const agencySlug = process.argv[2] || 'advisory-council-on-historic-preservation';
-    // Explicitly call with Title 36 and Chapter VIII as requested
-    const title = process.argv[3] || '36';
-    const chapter = process.argv[4] || 'VIII';
-
     try {
-      const result = await fetchTitleAndChapterCounts(agencySlug, title, chapter || '');
-
-      // Print result for visibility
-      console.log('Result:', JSON.stringify(result, null, 2));
-
-      // Validate expected values
-      const expected = {
-        title: '36',
-        chapter: 'VIII',
-        titleCount: 60,
-        chapterCount: 60,
-        titleDisplayHeading: 'Title 36 | Parks, Forests, and Public Property',
-        chapterDisplayHeading: ' Chapter VIII | Advisory Council on Historic Preservation',
-        rawFirstPath: 'Title 36 >  Chapter VIII > Part 800 > Subpart B',
-      };
-
-      const checks: Array<{ok: boolean; msg: string}> = [];
-
-      checks.push({ ok: result.title === expected.title, msg: `title expected ${expected.title} got ${result.title}` });
-      checks.push({ ok: result.chapter === expected.chapter, msg: `chapter expected ${expected.chapter} got ${result.chapter}` });
-      checks.push({ ok: result.titleCount === expected.titleCount, msg: `titleCount expected ${expected.titleCount} got ${result.titleCount}` });
-      checks.push({ ok: result.chapterCount === expected.chapterCount, msg: `chapterCount expected ${expected.chapterCount} got ${result.chapterCount}` });
-      checks.push({ ok: result.titleDisplayHeading === expected.titleDisplayHeading, msg: `titleDisplayHeading expected "${expected.titleDisplayHeading}" got "${result.titleDisplayHeading}"` });
-      checks.push({ ok: result.chapterDisplayHeading === expected.chapterDisplayHeading, msg: `chapterDisplayHeading expected "${expected.chapterDisplayHeading}" got "${result.chapterDisplayHeading}"` });
-
-      // raw is an array; check first element path if present
-      const firstRawPath = Array.isArray(result.raw) && result.raw.length > 0 && (result.raw[0] as any).path ? (result.raw[0] as any).path : null;
-      checks.push({ ok: firstRawPath === expected.rawFirstPath, msg: `raw[0].path expected "${expected.rawFirstPath}" got "${firstRawPath}"` });
-
-      const failed = checks.filter(c => !c.ok);
-      if (failed.length) {
-        console.error('Validation FAILED:');
-        failed.forEach(f => console.error(' -', f.msg));
-        process.exitCode = 2;
-        return;
-      }
-
-      console.log('Validation PASSED — all expected values matched.');
-      process.exitCode = 0;
+      const res = await fetchTitleAndChapterCounts('advisory-council-on-historic-preservation', '36', 'VIII');
+      console.log(JSON.stringify(res, null, 2));
     } catch (err) {
-      console.error('Error running fetchTitleAndChapterCounts:', err);
+      console.error(err);
       process.exitCode = 1;
     }
   })();
