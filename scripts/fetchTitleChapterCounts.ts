@@ -78,26 +78,3 @@ export async function fetchTitleAndChapterCounts(
     raw: hierarchyOutput,
   };
 }
-
-// CLI usage: outputs a simple JSON object with counts and headings
-if (require.main === module) {
-  const agencySlug = process.argv[2] || 'advisory-council-on-historic-preservation';
-  // Pass "" or nothing for all titles
-  const title = process.argv[3];
-  const chapter = process.argv[4];
-
-  fetchTitleAndChapterCounts(
-    agencySlug,
-    title && title.length > 0 ? title : null,
-    chapter || ''
-  ).then((result) => {
-    console.log(JSON.stringify({
-      title: result.title,
-      chapter: result.chapter,
-      titleCount: result.titleCount,
-      chapterCount: result.chapterCount,
-      titleDisplayHeading: result.titleDisplayHeading,
-      chapterDisplayHeading: result.chapterDisplayHeading
-    }, null, 2));
-  }).catch(console.error);
-}
