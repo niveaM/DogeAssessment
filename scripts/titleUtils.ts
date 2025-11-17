@@ -8,7 +8,7 @@ import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
 import type { CFRReference, Agency } from './model/agencyTypes';
 import { getSearchCountForTitle } from './agencyUtils';
 import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from './fetchTitleChapterCounts';
-import { extractChapterChecksum } from './extractChapter';
+import { extractChapterChecksum } from './chapterUtils';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
 import { addOrUpdateTitles, clearTitles, getTitles } from './db/titleDatabaseHelper';
 import { writeTitleDetailsDb } from './db/titleDetailsDatabaseHelper';

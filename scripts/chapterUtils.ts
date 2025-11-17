@@ -4,17 +4,6 @@ import { Title } from "./model/titlesTypes";
 import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from "./fetchTitleChapterCounts";
 import { checksumXML, countWords } from "./titleUtils";
 
-interface ECFRNode {
-  identifier: string;
-  label: string;
-  label_level: string;
-  label_description: string;
-  reserved?: boolean;
-  type?: string;
-  children?: ECFRNode[];
-  [key: string]: any;
-}
-
 /**
  * Extract chapter info and section contents from the eCFR API structure.
  *

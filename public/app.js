@@ -1,8 +1,32 @@
 const { useState, useEffect } = React;
 
+// helpers to read title metadata from different possible shapes
+function getWordCount(t) {
+  if (!t) return null;
+  if (t.wordCount != null) return t.wordCount;
+  if (t.wordcount != null) return t.wordcount;
+  if (t.titleChapterCounts && t.titleChapterCounts.wordCount != null)
+    return t.titleChapterCounts.wordCount;
+  if (t.metadata && (t.metadata.wordCount != null || t.metadata.wordcount != null))
+    return t.metadata.wordCount != null ? t.metadata.wordCount : t.metadata.wordcount;
+  return null;
+}
+
+function getChecksum(t) {
+  if (!t) return null;
+  if (t.checksum != null) return t.checksum;
+  if (t.check_sum != null) return t.check_sum;
+  if (t.titleChapterCounts && t.titleChapterCounts.checksum != null)
+    return t.titleChapterCounts.checksum;
+  if (t.metadata && (t.metadata.checksum != null || t.metadata.check_sum != null))
+    return t.metadata.checksum != null ? t.metadata.checksum : t.metadata.check_sum;
+  return null;
+}
+
 // Agency detail view: fetches search results for a given agency slug and displays them
 function AgencyDetail({ slug, shortName, onBack }) {
   const [titles, setTitles] = useState([]);
+  const [selectedTitleIndex, setSelectedTitleIndex] = useState(null);
   const [agency, setAgency] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -23,10 +47,14 @@ function AgencyDetail({ slug, shortName, onBack }) {
           const t = await res.text();
           throw new Error(t || res.status);
         }
-        const j = await res.json();
-        setRaw(j);
-        setAgency(j && j.agency ? j.agency : null);
-        setTitles(Array.isArray(j && j.titles) ? j.titles : []);
+  const j = await res.json();
+  setRaw(j);
+  setAgency(j && j.agency ? j.agency : null);
+  const titlesArr = Array.isArray(j && j.titles) ? j.titles : [];
+  setTitles(titlesArr);
+  // auto-select first title when available
+  if (titlesArr.length > 0) setSelectedTitleIndex(0);
+  else setSelectedTitleIndex(null);
       } catch (e) {
         setError(e.message);
       }
@@ -172,98 +200,92 @@ function AgencyDetail({ slug, shortName, onBack }) {
           {filtered.length === 0 ? (
             <div className="empty">No titles found.</div>
           ) : (
-            filtered.map((t, i) => (
-              <div
-                key={i}
-                style={{
-                  border: "1px solid #eee",
-                  padding: 12,
-                  borderRadius: 8,
-                  marginBottom: 10,
-                  background: "#fff",
-                }}
-              >
+            <div>
+              <div style={{ marginBottom: 10 }}>
+                <label style={{ fontSize: 14 }}>
+                  View title:&nbsp;
+                  <select
+                    value={selectedTitleIndex == null ? "" : selectedTitleIndex}
+                    onChange={(e) =>
+                      setSelectedTitleIndex(
+                        e.target.value === "" ? null : Number(e.target.value)
+                      )
+                    }
+                  >
+                    <option value="">(none)</option>
+                    {filtered.map((t, i) => (
+                      <option key={i} value={i}>
+                        {t.number ? `Title ${t.number} — ${t.name || t.title || ""}` : t.title || t.name || `item ${i+1}`}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+              </div>
+
+              {selectedTitleIndex != null && filtered[selectedTitleIndex] && (
+                <div style={{ marginTop: 8 }}>
+                  <TitleDetail
+                    number={filtered[selectedTitleIndex].number || filtered[selectedTitleIndex].title}
+                    initialData={filtered[selectedTitleIndex]}
+                    onBack={() => setSelectedTitleIndex(null)}
+                  />
+                </div>
+              )}
+
+              {/* list summaries below for quick scanning */}
+              {filtered.map((t, i) => (
                 <div
+                  key={i}
                   style={{
-                    display: "flex",
-                    justifyContent: "space-between",
-                    alignItems: "center",
+                    border: "1px solid #eee",
+                    padding: 12,
+                    borderRadius: 8,
+                    marginBottom: 10,
+                    background: "#fff",
                   }}
                 >
-                  <div>
-                    <div style={{ fontSize: 16, fontWeight: 700 }}>
-                      {t.number
-                        ? `Title ${t.number}`
-                        : t.title || t.name || "(unnamed)"}
-                    </div>
-                    <div style={{ color: "#444" }}>
-                      {t.name || t.title || t.display_name || ""}
-                    </div>
-                    <div style={{ marginTop: 6, fontSize: 13, color: "#666" }}>
-                      {t.slug ? `slug: ${t.slug}` : ""}{" "}
-                      {t.checksum ? ` • checksum: ${t.checksum}` : ""}
-                    </div>
-                  </div>
                   <div
-                    style={{ display: "flex", gap: 8, alignItems: "center" }}
+                    style={{
+                      display: "flex",
+                      justifyContent: "space-between",
+                      alignItems: "center",
+                    }}
                   >
-                    <button
-                      className="small-btn"
-                      onClick={() => toggleExpand(i)}
-                    >
-                      {expanded.has(i) ? "Collapse" : "Expand"}
-                    </button>
-                    <a
-                      className="small-btn"
-                      href={t.url || (t.number ? `/title/${t.number}` : "#")}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Open
-                    </a>
-                  </div>
-                </div>
-
-                {expanded.has(i) && (
-                  <div style={{ marginTop: 10 }}>
-                    <div style={{ marginBottom: 8 }}>
-                      <strong>Word count:</strong>{" "}
-                      {t.wordCount != null
-                        ? t.wordCount
-                        : t.wordcount != null
-                        ? t.wordcount
-                        : "(n/a)"}
-                    </div>
-                    <div style={{ marginBottom: 8 }}>
-                      <strong>Summary:</strong>{" "}
-                      {t.summary || t.description || "(none)"}
-                    </div>
-                    <div style={{ marginBottom: 8 }}>
-                      <strong>CFR references</strong>
-                      {renderCfrReferences(
-                        t.cfr_references || t.refs || t.references || []
-                      )}
-                    </div>
                     <div>
-                      <details>
-                        <summary style={{ cursor: "pointer" }}>
-                          Raw JSON
-                        </summary>
-                        <pre
-                          style={{
-                            maxHeight: 320,
-                            overflow: "auto",
-                            marginTop: 8,
-                          }}
-                        >
-                          {JSON.stringify(t, null, 2)}
-                        </pre>
-                      </details>
+                      <div style={{ fontSize: 16, fontWeight: 700 }}>
+                        {t.number ? `Title ${t.number}` : t.title || t.name || "(unnamed)"}
+                      </div>
+                      <div style={{ color: "#444" }}>{t.name || t.title || t.display_name || ""}</div>
+                      <div style={{ marginTop: 6, fontSize: 13, color: "#666" }}>
+                        {t.slug ? `slug: ${t.slug}` : ""} {getChecksum(t) ? ` • checksum: ${getChecksum(t)}` : ""}
+                      </div>
+                    </div>
+                    <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+                      <button className="small-btn" onClick={() => toggleExpand(i)}>
+                        {expanded.has(i) ? "Collapse" : "Expand"}
+                      </button>
+                      <a className="small-btn" href={t.url || (t.number ? `/title/${t.number}` : "#")} target="_blank" rel="noreferrer">
+                        Open
+                      </a>
                     </div>
                   </div>
-                )}
-              </div>
-            ))
+                      {expanded.has(i) && (
+                    <div style={{ marginTop: 10 }}>
+                      <div style={{ marginBottom: 8 }}>
+                        <strong>Word count:</strong> {getWordCount(t) != null ? getWordCount(t) : "(n/a)"}
+                      </div>
+                      <div style={{ marginBottom: 8 }}>
+                        <strong>Summary:</strong> {t.summary || t.description || "(none)"}
+                      </div>
+                      <div style={{ marginBottom: 8 }}>
+                        <strong>CFR references</strong>
+                        {renderCfrReferences(t.cfr_references || t.refs || t.references || [])}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
           )}
         </div>
       </div>
@@ -396,6 +418,9 @@ function App() {
     history.pushState({}, "", href);
     setRoute(href);
   }
+  // Note: popup behavior removed. Anchor now opens agency details in a new tab
+  // via target="_blank" so left-click will open a browser tab and middle-click
+  // still works because the href is preserved.
 
   function renderDocsTable(docs, basePath, agencySlug) {
     if (!Array.isArray(docs) || docs.length === 0) return null;
@@ -437,12 +462,7 @@ function App() {
                               t.agency === agencySlug)
                         );
                         if (!match) return null;
-                        const wc =
-                          match.wordCount != null
-                            ? match.wordCount
-                            : match.wordcount != null
-                            ? match.wordcount
-                            : null;
+                        const wc = getWordCount(match);
                         return (
                           <div
                             style={{
@@ -461,7 +481,7 @@ function App() {
                             </div>
                             <div>
                               <strong>Checksum:</strong>{" "}
-                              {match.checksum || "(n/a)"}
+                              {getChecksum(match) || "(n/a)"}
                             </div>
                           </div>
                         );
@@ -510,10 +530,8 @@ function App() {
                 )}/${encodeURIComponent(
                   item && item.short_name ? item.short_name : ""
                 )}`}
-                onClick={(e) => {
-                  e.preventDefault();
-                  navigateToAgency(item);
-                }}
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 {getName(item)}
               </a>
@@ -637,7 +655,7 @@ function App() {
 }
 
 // Title detail view: shows titleChapterCounts and related breakdown for a given title number
-function TitleDetail({ number, onBack }) {
+function TitleDetail({ number, onBack, initialData }) {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -645,6 +663,13 @@ function TitleDetail({ number, onBack }) {
   const [expanded, setExpanded] = useState(new Set());
 
   useEffect(() => {
+    // If `initialData` is supplied (inline usage from AgencyDetail), use it
+    // directly and skip the fetch. Otherwise, fetch `/api/title/:number`.
+    if (initialData) {
+      setData(initialData);
+      return;
+    }
+
     async function load() {
       setLoading(true);
       setError(null);
@@ -838,11 +863,11 @@ function TitleDetail({ number, onBack }) {
             </div>
             <div className="detail-block">
               <div>
-                <strong>Checksum:</strong> {data.checksum || "(n/a)"}
+                <strong>Checksum:</strong> {getChecksum(data) || "(n/a)"}
               </div>
               <div>
                 <strong>Word count:</strong>{" "}
-                {data.wordCount != null ? data.wordCount : "(n/a)"}
+                {getWordCount(data) != null ? getWordCount(data) : "(n/a)"}
               </div>
             </div>
           </div>
@@ -870,15 +895,13 @@ function TitleDetail({ number, onBack }) {
                 <tr>
                   <th style={{ width: 60 }}>#</th>
                   <th>Path</th>
-                  <th style={{ width: 160 }}>Type</th>
                   <th style={{ width: 120 }}>Count</th>
-                  <th style={{ width: 240 }}>Headings</th>
                 </tr>
               </thead>
               <tbody>
                 {filtered.length === 0 ? (
                   <tr>
-                    <td colSpan={5} className="empty">
+                    <td colSpan={3} className="empty">
                       No items.
                     </td>
                   </tr>
@@ -897,15 +920,12 @@ function TitleDetail({ number, onBack }) {
                         <tr>
                           <td>{idx + 1}</td>
                           <td style={{ whiteSpace: "pre-wrap" }}>{it.path || ""}</td>
-                          <td>{it.type || ""}</td>
                           <td>{it.count != null ? it.count : ""}</td>
-                          
-                          <td style={{ whiteSpace: "pre-wrap" }}>{Array.isArray(it.headings) ? it.headings.filter(h => h !== null && h !== undefined && String(h).trim() !== "").join(" | ") : ""}</td>
                         </tr>
 
                         {expanded.has(it.__origIndex) && (
                           <tr className="expanded-row">
-                            <td colSpan={5}>
+                            <td colSpan={3}>
                               <div style={{ display: "flex", gap: 12 }}>
                                 <div style={{ flex: 1 }}>
                                   <strong>CFR reference</strong>
