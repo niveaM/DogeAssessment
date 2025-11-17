@@ -3,8 +3,8 @@ import { fetchAndSaveTitles } from './titleUtils';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DATA_DIR } from './config';
-import type { Title } from './model/titlesTypes';
-import type { Agency } from './model/agencyTypes';
+import type { Title } from '../src/model/titlesTypes';
+import type { Agency } from '../src/model/agencyTypes';
 
 
 

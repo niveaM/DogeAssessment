@@ -3,17 +3,7 @@
 import fetch from 'node-fetch';
 import { walkHierarchy, combineHeading } from './commonUtils';
 import { ECFR_HIERARCHY_COUNTS_BASE } from './config';
-import type { HierarchyNode } from './model/hierarchyTypes';
-
-type HierarchyResponse = {
-  count: { value: number; relation: string };
-  max_score: number | null;
-  // Raw API children payload (unprocessed). We treat these as any so
-  // callers can access ECFR-specific fields like `level`, `hierarchy`,
-  // `heading`, and `children` before normalization.
-  children: any[];
-  shown_count: number;
-};
+import type { HierarchyNode, HierarchyResponse } from '../src/model/hierarchyTypes';
 
 export interface TitleChapterCountsResult {
   title: string | null;

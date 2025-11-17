@@ -30,3 +30,14 @@ export interface HierarchyNode {
       // max_score: number; // Score if you want it
 
       // Optional top-level title associated with this hierarchy path (used by ecfrSummary)
+
+// Response shape returned by ECFR `/counts/hierarchy` endpoint (script-side)
+export type HierarchyResponse = {
+  count: { value: number; relation: string };
+  max_score: number | null;
+  // Raw API children payload (unprocessed). Consumers often treat these as
+  // `any` so callers can access ECFR-specific fields like `level`,
+  // `hierarchy`, `heading`, and `children` before normalization.
+  children: any[];
+  shown_count: number;
+};

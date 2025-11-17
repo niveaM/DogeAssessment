@@ -5,7 +5,7 @@ import path from 'path';
 import {
   ECFRCorrectionsResponse,
   ECFRCorrectionsSummary
-} from './model/ecfrCorrectionsTypes';
+} from '../src/model/ecfrCorrectionsTypes';
 import { DATA_DIR } from './config';
 
 export async function fetchCorrectionsWithSummary(titleNumber: number): Promise<{data: ECFRCorrectionsResponse; summary: ECFRCorrectionsSummary}> {
