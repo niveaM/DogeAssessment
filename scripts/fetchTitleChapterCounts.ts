@@ -3,21 +3,7 @@
 import fetch from 'node-fetch';
 import { walkHierarchy, combineHeading } from '../src/utils/commonUtils';
 import { ECFR_HIERARCHY_COUNTS_BASE } from '../src/config';
-import type { HierarchyNode, HierarchyResponse } from '../src/model/hierarchyTypes';
-
-export interface TitleChapterCountsResult {
-  title: string | null;
-  chapter: string;
-  titleCount: number;
-  chapterCount: number;
-  titleDisplayHeading: string;
-  chapterDisplayHeading: string;
-  // Raw hierarchy payload. Can be the API response or a processed
-  // hierarchy array returned by `extractHierarchy`. Use `any` here to
-  // avoid cross-module type mismatches between different HierarchyNode
-  // definitions.
-  raw: any;
-}
+import type { HierarchyNode, HierarchyResponse, TitleChapterCountsResult } from '../src/model/hierarchyTypes';
 
 export async function fetchTitleAndChapterCounts(
   agencySlug: string,
