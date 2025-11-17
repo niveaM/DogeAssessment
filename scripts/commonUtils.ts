@@ -35,7 +35,7 @@ export async function getTitleStats(
   return merged;
 }
 
-function buildUrl(titleObj: Title, target?: CFRReference) {
+export function buildUrl(titleObj: Title, target?: CFRReference) {
   const base = `https://www.ecfr.gov/api/versioner/v1/versions/title-${titleObj.number}.json`;
   if (target && target.chapter) {
     const url = `${base}?chapter=${encodeURIComponent(String(target.chapter))}`;

@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import { getTitleByNumber } from "./db/titleDatabaseHelper";
 import { Title } from "./model/titlesTypes";
 import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from "./fetchTitleChapterCounts";
-import { checksumXML, countWords } from "./commonUtils";
+import { checksumXML, countWords, titleVersionsResponseToSummary } from "./commonUtils";
 import type { TitleVersionsResponse, TitleVersionSummary } from "./model/ecfrTypesTitleVersions";
 
 /**
@@ -98,33 +98,36 @@ export async function extractChapterChecksum(
 
 }
 
-// CLI usage example
-if (require.main === module) {
-  // npx ts-node scripts/extractChapter.ts 5 LXXXIII "special-inspector-general-for-afghanistan-reconstruction"
-  const [titleNumberArg, chapterId, agencySlug] = process.argv.slice(2);
-  const titleNumber = Number(titleNumberArg);
-  if (!titleNumberArg || !chapterId || !agencySlug) {
-    console.error(
-      "Usage: npx ts-node scripts/extractChapter.ts <titleNumber> <chapterId> <agencySlug>"
-    );
-    process.exit(1);
-  }
-  // Resolve the Title object and then invoke the extraction helper which
-  // expects a Title instance as the first argument.
-  (async () => {
-    try {
-      const title = await getTitleByNumber(titleNumber);
-      if (!title) {
-        console.error(`Title ${titleNumber} not found in local DB`);
-        process.exit(1);
-      }
-      await extractChapterChecksum(title, chapterId, agencySlug);
-    } catch (err) {
-      console.error(err);
-      process.exit(1);
-    }
-  })();
+/**
+ * Fetch version information for a specific chapter and produce a
+ * TitleVersionSummary attached to the returned Title object.
+ */
+export async function extractChapterVersionSummary(
+  title: Title,
+  chapterId: string,
+  agencySlug: string
+): Promise<Title> {
+  console.log(`Extracting chapter version summary for Title ${title.number} Chapter ${chapterId} Agency ${agencySlug}`);
+
+  const url = `https://www.ecfr.gov/api/versioner/v1/versions/title-${title.number}.json?chapter=${encodeURIComponent(chapterId)}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
+
+  const data: TitleVersionsResponse = await res.json();
+
+  const versionSummary: TitleVersionSummary = titleVersionsResponseToSummary(
+    data,
+    title.number
+  );
+
+  const merged: Title = { ...title };
+  // attach summary and agency slug when provided
+  merged.versionSummary = versionSummary;
+  if (agencySlug) merged.agencySlug = agencySlug;
+
+  return merged;
 }
+
 function getPartsFromLeafNodes(
   leafNodes: TitleChapterCountsResult,
   titleNumber: number,
@@ -149,52 +152,32 @@ function getPartsFromLeafNodes(
   return parts;
 }
 
-/**
- * Fetch version information for a specific chapter and produce a
- * TitleVersionSummary attached to the returned Title object.
- */
-export async function extractChapterVersionSummary(
-  title: Title,
-  chapterId: string,
-  agencySlug: string
-): Promise<Title> {
-  console.log(`Extracting chapter version summary for Title ${title.number} Chapter ${chapterId} Agency ${agencySlug}`);
-
-  const url = `https://www.ecfr.gov/api/versioner/v1/versions/title-${title.number}.json?chapter=${encodeURIComponent(chapterId)}`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
-
-  const data: TitleVersionsResponse = await res.json();
-
-  const totalVersions = data.content_versions.length;
-  const sortedByDate = [...data.content_versions].sort((a, b) => a.date.localeCompare(b.date));
-  const firstDate = sortedByDate[0]?.date ?? '';
-  const lastDate = sortedByDate[totalVersions - 1]?.date ?? '';
-
-  const partSet = new Set<string>();
-  const subpartSet = new Set<string>();
-  const typeCounts: Record<string, number> = {};
-
-  data.content_versions.forEach(v => {
-    if (v.part) partSet.add(v.part);
-    if (v.subpart) subpartSet.add(v.subpart ?? '');
-    typeCounts[v.type] = (typeCounts[v.type] || 0) + 1;
-  });
-
-  const versionSummary: TitleVersionSummary = {
-    titleNumber: title.number,
-    totalVersions,
-    firstDate,
-    lastDate,
-    uniqueParts: partSet.size,
-    uniqueSubparts: subpartSet.size,
-    typeCounts,
-  };
-
-  const merged: Title = { ...title };
-  // attach summary and agency slug when provided
-  merged.versionSummary = versionSummary;
-  if (agencySlug) merged.agencySlug = agencySlug;
-
-  return merged;
+{
+  // CLI usage example
+  if (require.main === module) {
+    // npx ts-node scripts/extractChapter.ts 5 LXXXIII "special-inspector-general-for-afghanistan-reconstruction"
+    const [titleNumberArg, chapterId, agencySlug] = process.argv.slice(2);
+    const titleNumber = Number(titleNumberArg);
+    if (!titleNumberArg || !chapterId || !agencySlug) {
+      console.error(
+        "Usage: npx ts-node scripts/extractChapter.ts <titleNumber> <chapterId> <agencySlug>"
+      );
+      process.exit(1);
+    }
+    // Resolve the Title object and then invoke the extraction helper which
+    // expects a Title instance as the first argument.
+    (async () => {
+      try {
+        const title = await getTitleByNumber(titleNumber);
+        if (!title) {
+          console.error(`Title ${titleNumber} not found in local DB`);
+          process.exit(1);
+        }
+        await extractChapterChecksum(title, chapterId, agencySlug);
+      } catch (err) {
+        console.error(err);
+        process.exit(1);
+      }
+    })();
+  }
 }

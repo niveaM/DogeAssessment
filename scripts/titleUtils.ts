@@ -1,21 +1,39 @@
 // titleUtils.ts
-import fetch from 'node-fetch';
-import * as fs from 'fs/promises';
-import * as path from 'path';
-import { DATA_DIR } from './config';
-import * as crypto from 'crypto';
-import type { Title, TitlesResponse, TitlesFile } from './model/titlesTypes';
-import type { CFRReference, Agency } from './model/agencyTypes';
-import { getSearchCountForTitle } from './agencyUtils';
-import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from './fetchTitleChapterCounts';
-import { extractChapterChecksum } from './chapterUtils';
-import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
-import { fetchTitleVersionsSummary, titleVersionsResponseToSummary, getTitleStats } from './commonUtils';
-import { addOrUpdateTitles, clearTitles, getTitles } from './db/titleDatabaseHelper';
-import { writeTitleDetailsDb } from './db/titleDetailsDatabaseHelper';
+import fetch from "node-fetch";
+import * as fs from "fs/promises";
+import * as path from "path";
+import { DATA_DIR } from "./config";
+import * as crypto from "crypto";
+import type { Title, TitlesResponse, TitlesFile } from "./model/titlesTypes";
+import type { CFRReference, Agency } from "./model/agencyTypes";
+import { getSearchCountForTitle } from "./agencyUtils";
+import {
+  fetchTitleAndChapterCounts,
+  TitleChapterCountsResult,
+} from "./fetchTitleChapterCounts";
+import { extractChapterChecksum } from "./chapterUtils";
+import type {
+  TitleVersionsResponse,
+  TitleVersionSummary,
+} from "./model/ecfrTypesTitleVersions";
+import {
+  titleVersionsResponseToSummary,
+  getTitleStats,
+  buildUrl,
+} from "./commonUtils";
+import {
+  addOrUpdateTitles,
+  clearTitles,
+  getTitles,
+} from "./db/titleDatabaseHelper";
+import { writeTitleDetailsDb } from "./db/titleDetailsDatabaseHelper";
 
 // Aggregated search counts collected during processing.
-export const aggregatedSearchCounts: Array<{ title: number; searchCount: number; agencySlug?: string }> = [];
+export const aggregatedSearchCounts: Array<{
+  title: number;
+  searchCount: number;
+  agencySlug?: string;
+}> = [];
 
 // getTitleStats moved to ./commonUtils
 
@@ -32,17 +50,22 @@ export async function fetchTitleVersionsSummaryForAgency(
   target?: CFRReference,
   agency?: Agency
 ): Promise<Title> {
-  console.log(`fetchTitleVersionsSummaryForAgency :: Fetching versions for Title ${titleObj.number} (${titleObj.name}) with agency ${agency?.slug}`);
+  console.log(
+    `fetchTitleVersionsSummaryForAgency :: Fetching versions for Title ${titleObj.number} (${titleObj.name}) with agency ${agency?.slug}`
+  );
 
   // If agency and chapter are provided, prefer to run the chapter-level
   // extraction which will populate checksum/wordCount and other debug info.
   let merged: Title = { ...titleObj };
   if (agency?.slug && target?.chapter) {
     try {
-  const chapterId = String(target.chapter);
-  merged = await extractChapterChecksum(merged, chapterId, agency.slug);
+      const chapterId = String(target.chapter);
+      merged = await extractChapterChecksum(merged, chapterId, agency.slug);
     } catch (err) {
-      merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+      merged.debug = {
+        ...(merged.debug || {}),
+        agencySearchError: String(err),
+      };
     }
   }
 
@@ -55,13 +78,19 @@ export async function fetchTitleVersionsSummaryForAgency(
     if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
     const data: TitleVersionsResponse = await res.json();
 
-    const versionSummary: TitleVersionSummary = titleVersionsResponseToSummary(data, titleObj.number);
+    const versionSummary: TitleVersionSummary = titleVersionsResponseToSummary(
+      data,
+      titleObj.number
+    );
 
     merged = { ...merged };
     merged.versionSummary = versionSummary;
     if (agency?.slug) merged.agencySlug = agency.slug;
   } catch (err: any) {
-    merged.debug = { ...(merged.debug || {}), agencySearchError: err?.message || String(err) };
+    merged.debug = {
+      ...(merged.debug || {}),
+      agencySearchError: err?.message || String(err),
+    };
   }
 
   return merged;
@@ -72,21 +101,27 @@ export async function getTitleStatsForAgency(
   agency?: Agency,
   target?: CFRReference
 ): Promise<Title> {
-
   console.log(`================================`);
 
   // If an agency and a specific chapter are provided, trigger the
   // chapter-level extraction/checksum work.
-  let merged: Title = { ...titleObj };  
+  let merged: Title = { ...titleObj };
   if (agency?.slug && target?.chapter) {
     try {
-        const chapterId = String(target.chapter);  
-        merged = await extractChapterChecksum(merged, chapterId, agency.slug);
+      const chapterId = String(target.chapter);
+      merged = await extractChapterChecksum(merged, chapterId, agency.slug);
 
-        console.log(`${JSON.stringify(merged)}`);
-        console.log(`####### merged.checksum, merged.wordCount`, merged.checksum, merged.wordCount);
+      console.log(`${JSON.stringify(merged)}`);
+      console.log(
+        `####### merged.checksum, merged.wordCount`,
+        merged.checksum,
+        merged.wordCount
+      );
     } catch (err) {
-      merged.debug = { ...(merged.debug || {}), agencySearchError: String(err) };
+      merged.debug = {
+        ...(merged.debug || {}),
+        agencySearchError: String(err),
+      };
     }
   }
 
@@ -95,14 +130,23 @@ export async function getTitleStatsForAgency(
   return merged;
 }
 
-export async function processTitle(titleObj: Title, target?: CFRReference, agency?: Agency): Promise<Title> {
-  console.log(`processTitle :: Processing Title ${titleObj.number} (${titleObj.name})`);
+export async function processTitle(
+  titleObj: Title,
+  target?: CFRReference,
+  agency?: Agency
+): Promise<Title> {
+  console.log(
+    `processTitle :: Processing Title ${titleObj.number} (${titleObj.name})`
+  );
   // start with a shallow clone so we can attach fields on error path
   let merged: Title = { ...titleObj };
 
   // Basic validation
   if (merged.number == null || !merged.name) {
-    merged.debug = { ...(merged.debug || {}), error: 'Title object missing number or name' };
+    merged.debug = {
+      ...(merged.debug || {}),
+      error: "Title object missing number or name",
+    };
     return merged;
   }
   if (agency?.slug) merged.agencySlug = agency.slug;
@@ -233,17 +277,4 @@ export async function loadTitlesMap(): Promise<void> {
   }
 }
 
-
-function buildUrl(titleObj: Title, target?: CFRReference) {
-  console.log(`buildUrl :: Building URL for Title ${titleObj.number} (${JSON.stringify(target)})`);
-  const base = `https://www.ecfr.gov/api/versioner/v1/versions/title-${titleObj.number}.json`;
-  if (target && target.chapter) {
-    // chapter may already be roman or numeric; ensure it's URI encoded
-    const url =  `${base}?chapter=${encodeURIComponent(String(target.chapter))}`;
-    console.log(`Fetching versions for title ${url}`);
-    return url;
-  }
-  console.log(`No chapter specified for title ${titleObj.number}, fetching all versions`);
-  return base;
-}
-
+// buildUrl moved to ./commonUtils
