@@ -1,5 +1,5 @@
 // fetchAgencies.ts
-import { fetchAgencyList as fetchAgencyKeys, processAgencyByShortName } from "./agencyUtils";
+import { fetchAgencyList as fetchAgencyKeys, processAgencyByShortName } from "../src/utils/agencyUtils";
 
 // Allow passing an optional agency short name as the first CLI argument.
 const shortNameArg = process.argv[2];

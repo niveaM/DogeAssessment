@@ -1,9 +1,9 @@
 import fetch from 'node-fetch';
 import * as crypto from 'crypto';
-import type { Title } from '../src/model/titlesTypes';
-import type { CFRReference } from '../src/model/agencyTypes';
-import type { TitleVersionsResponse, TitleVersionSummary } from '../src/model/ecfrTypesTitleVersions';
-import type { HierarchyNode } from '../src/model/hierarchyTypes';
+import type { Title } from '../model/titlesTypes';
+import type { CFRReference } from '../model/agencyTypes';
+import type { TitleVersionsResponse, TitleVersionSummary } from '../model/ecfrTypesTitleVersions';
+import type { HierarchyNode } from '../model/hierarchyTypes';
 
 /**
  * Strip XML tags and count words

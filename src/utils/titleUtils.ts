@@ -2,23 +2,23 @@
 import fetch from "node-fetch";
 import * as fs from "fs/promises";
 import * as path from "path";
-import { DATA_DIR } from "./config";
+import { DATA_DIR } from "../config";
 import type {
   Title,
   TitlesResponse,
   TitlesFile,
-} from "./../src/model/titlesTypes";
-import type { CFRReference, Agency } from "./../src/model/agencyTypes";
+} from "../model/titlesTypes";
+import type { CFRReference, Agency } from "../model/agencyTypes";
 import { getSearchCountForTitle } from "./agencyUtils";
 import {
   fetchTitleAndChapterCounts,
   TitleChapterCountsResult,
-} from "./fetchTitleChapterCounts";
+} from "../../scripts/fetchTitleChapterCounts";
 import { extractChapterChecksum, extractChapterVersionSummary } from "./chapterUtils";
 import type {
   TitleVersionsResponse,
   TitleVersionSummary,
-} from "./../src/model/ecfrTypesTitleVersions";
+} from "../model/ecfrTypesTitleVersions";
 import {
   getTitleVersionSummary,
   getTitleStats,
@@ -28,8 +28,8 @@ import {
   addOrUpdateTitles,
   clearTitles,
   getTitles,
-} from "./../src/db/titleDatabaseHelper";
-import { writeTitleDetailsDb } from "./../src/db/titleDetailsDatabaseHelper";
+} from "../db/titleDatabaseHelper";
+import { writeTitleDetailsDb } from "../db/titleDetailsDatabaseHelper";
 
 // Aggregated search counts collected during processing.
 export const aggregatedSearchCounts: Array<{

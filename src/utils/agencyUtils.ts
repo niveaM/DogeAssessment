@@ -4,17 +4,17 @@ import type {
   Agency,
   CFRReference,
   AgenciesResponse,
-} from "./../src/model/agencyTypes";
-import type { Title } from "./../src/model/titlesTypes";
-import type { HierarchyNode } from "./../src/model/hierarchyTypes";
-import { AGENCIES_TRUNCATE_LIMIT, ECFR_SEARCH_COUNTS_BASE, ECFR_HIERARCHY_COUNTS_BASE, ECFR_AGENCIES_API_URL } from "./config";
-import { getTitleByNumber } from "./../src/db/titleDatabaseHelper";
+} from "../model/agencyTypes";
+import type { Title } from "../model/titlesTypes";
+import type { HierarchyNode } from "../model/hierarchyTypes";
+import { AGENCIES_TRUNCATE_LIMIT, ECFR_SEARCH_COUNTS_BASE, ECFR_HIERARCHY_COUNTS_BASE, ECFR_AGENCIES_API_URL } from "../config";
+import { getTitleByNumber } from "../db/titleDatabaseHelper";
 import {
   clearAgencies,
   getDbPath,
   persistAgencies,
   getAgencyByShortName,
-} from "./../src/db/agencyDatabaseHelper";
+} from "../db/agencyDatabaseHelper";
 import { fetchAndSaveTitles, loadTitlesMap } from "./titleUtils";
 import { walkHierarchy } from "./commonUtils";
 

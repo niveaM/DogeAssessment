@@ -1,8 +1,8 @@
 // fetchTitles.ts
-import { fetchAndSaveTitles } from './titleUtils';
+import { fetchAndSaveTitles } from '../src/utils/titleUtils';
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import { DATA_DIR } from './config';
+import { DATA_DIR } from '../src/config';
 import type { Title } from '../src/model/titlesTypes';
 import type { Agency } from '../src/model/agencyTypes';
 

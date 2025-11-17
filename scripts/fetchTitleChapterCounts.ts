@@ -1,8 +1,8 @@
 // fetchTitleChapterCounts.ts
 
 import fetch from 'node-fetch';
-import { walkHierarchy, combineHeading } from './commonUtils';
-import { ECFR_HIERARCHY_COUNTS_BASE } from './config';
+import { walkHierarchy, combineHeading } from '../src/utils/commonUtils';
+import { ECFR_HIERARCHY_COUNTS_BASE } from '../src/config';
 import type { HierarchyNode, HierarchyResponse } from '../src/model/hierarchyTypes';
 
 export interface TitleChapterCountsResult {
