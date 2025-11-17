@@ -21,4 +21,9 @@ export const ECFR_HIERARCHY_COUNTS_BASE =
 
 export const ECFR_AGENCIES_API_URL = "https://www.ecfr.gov/api/admin/v1/agencies.json";
 
+// Base URL for the eCFR versioner API which serves full-title XML snapshots
+// Callers should append the date segment (e.g. '2025-09-30/') and the
+// `title-<n>.xml?chapter=<id>&part=<part>` suffix.
+export const ECFR_VERSIONER_BASE = 'https://www.ecfr.gov/api/versioner/v1/full/';
+
 export default DATA_DIR;

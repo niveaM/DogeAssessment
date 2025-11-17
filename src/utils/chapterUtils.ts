@@ -4,6 +4,7 @@ import { Title } from "../model/titleTypes";
 import { fetchTitleAndChapterCounts } from "../../scripts/fetchTitleChapterCounts";
 import type { TitleChapterCountsResult } from "../model/hierarchyTypes";
 import { checksumXML, countWords, getTitleVersionSummary } from "./commonUtils";
+import { ECFR_VERSIONER_BASE } from "../config";
 import type { TitleVersionSummary } from "../model/titleTypes";
 
 /**
@@ -11,7 +12,8 @@ import type { TitleVersionSummary } from "../model/titleTypes";
  *
  * @param titleNumber CFR title number, e.g., 1
  * @param chapterId Chapter identifier, e.g., "I"
- * @param chapterTitle Expected chapter description, e.g., "Administrative Committee of the Federal Register"
+ * @param agencySlug Agency slug string, e.g., "environmental-protection-agency"
+ * @returns Title object with checksum and wordCount properties populated.
  */
 export async function extractChapterChecksum (
   title: Title,
@@ -19,8 +21,7 @@ export async function extractChapterChecksum (
   agencySlug: string
 ): Promise<Title> {
   const targetTitle = title ? String(title.number) : String(title.number);
-
-  console.log(
+  console.debug(
     `Extracting chapter checksum for Title ${title.number} Chapter ${chapterId} Agency ${agencySlug}`
   );
 
@@ -31,16 +32,11 @@ export async function extractChapterChecksum (
       targetTitle,
       chapterId
     );
-    // console.log(
-    //   `******* Fetching leaf nodes from eCFR API... ${JSON.stringify(
-    //     leafNodes
-    //   )}`
-    // );
   }
 
   const parts = getPartsFromLeafNodes(leafNodes, title.number, chapterId);
 
-  console.log(
+  console.debug(
     `Extracted parts for Title ${title.number} Chapter ${chapterId}:`,
     Array.from(parts)
   );
@@ -49,25 +45,17 @@ export async function extractChapterChecksum (
   
   let xmlBuffer: string = "";
   for (const part of parts) {
-    let url = `https://www.ecfr.gov/api/versioner/v1/full/${dateString}/title-${title.number}.xml?chapter=${chapterId}&part=${part}`;
+    const url = `${ECFR_VERSIONER_BASE}${dateString}/title-${title.number}.xml?chapter=${chapterId}&part=${part}`;
     console.log(
       `extractChapterChecksum :: Fetching Chapter XML for Title ${title.number} (${title.name}) from ${url}`
     );
     const res = await fetch(url);
-    // console.log(
-    //   `extractChapterChecksum :: Fetching Chapter XML for Title ${JSON.stringify(
-    //     res
-    //   )} from ${res.status}`
-    // );
     if (!res.ok) throw new Error(`HTTP error: ${res.status}`);
     xmlBuffer += await res.text();
     console.log(
       `extractChapterChecksum :: ${part} Fetch response status: ${xmlBuffer.length}`
     );
   }
-
-  // checksum = checksumXML(xmlBuffer);
-  // wordCount = countWords(xmlBuffer);
 
   const merged: Title = { ...title };
   merged.checksum = checksumXML(xmlBuffer);
@@ -97,8 +85,6 @@ export async function extractChapterVersionSummary(
     title.number,
     chapterId
   );
-  // console.log(`Extracted version summary: ${JSON.stringify(versionSummary)}`);
-
 
   let leafNodes: TitleChapterCountsResult = title.titleChapterCounts;
   if (!leafNodes) {
@@ -123,9 +109,6 @@ export async function extractChapterVersionSummary(
       part
     );
     summaryList.push(versionSummary);
-    // console.log(
-    //   `extractChapterVersionSummary :: ${part} Fetch response status: ${JSON.stringify(versionSummary)}`
-    // );
   }
   
   // Merge per-part summaries into a single aggregated summary for the chapter.
@@ -182,14 +165,10 @@ export async function extractChapterVersionSummary(
     };
   }
 
-  // console.log(`***** Aggregated chapter version summary: ${JSON.stringify(aggregatedSummary)}`);
-
-    const merged: Title = { ...title };
-    // attach summary and agency slug when provided
-    merged.versionSummary = aggregatedSummary;
+  const merged: Title = { ...title };
+  // attach summary and agency slug when provided
+  merged.versionSummary = aggregatedSummary;
   if (agencySlug) merged.agencySlug = agencySlug;
-
-  // console.log('####### Aggregated chapter version summary:\n', JSON.stringify(merged.versionSummary, null, 2));
 
   return merged;
 }
@@ -223,13 +202,20 @@ function getPartsFromLeafNodes(
   return parts;
 }
 
+/**
+ * Command line interface: extract chapter info and compute checksum and 
+ * version summary. This can be invoked directly for manual testing and was 
+ * used during development to facilitate quick checks and debugging.
+ */
 {
   // CLI usage example
   if (require.main === module) {
     // npx ts-node scripts/extractChapter.ts 5 LXXXIII "special-inspector-general-for-afghanistan-reconstruction"
-    const [titleNumberArg, chapterId, agencySlug] = process.argv.slice(2);
-    const titleNumber = Number(titleNumberArg);
-    if (!titleNumberArg || !chapterId || !agencySlug) {
+    const [titleNumberArg, chapterIdArg, agencySlugArg] = process.argv.slice(2);
+    const titleNumber = Number(titleNumberArg) || 5;
+    const chapterId = chapterIdArg || "LXXXIII";
+    const agencySlug = agencySlugArg || "special-inspector-general-for-afghanistan-reconstruction";
+    if (!titleNumber || !chapterId || !agencySlug) {
       console.error(
         "Usage: npx ts-node scripts/extractChapter.ts <titleNumber> <chapterId> <agencySlug>"
       );
