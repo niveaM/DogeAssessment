@@ -1,7 +1,8 @@
 import fetch from "node-fetch";
 import { getTitleByNumber } from "../db/titleDatabaseHelper";
 import { Title } from "../model/titlesTypes";
-import { fetchTitleAndChapterCounts, TitleChapterCountsResult } from "../../scripts/fetchTitleChapterCounts";
+import { fetchTitleAndChapterCounts } from "../../scripts/fetchTitleChapterCounts";
+import type { TitleChapterCountsResult } from "../model/hierarchyTypes";
 import { checksumXML, countWords, getTitleVersionSummary } from "./commonUtils";
 import type {
   TitleVersionSummary,

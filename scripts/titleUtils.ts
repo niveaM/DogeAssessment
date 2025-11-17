@@ -2,17 +2,17 @@
 import fetch from "node-fetch";
 import * as fs from "fs/promises";
 import * as path from "path";
-import { DATA_DIR } from "./config";
+import { DATA_DIR } from "./../src/config";
 import type {
   Title,
   TitlesResponse,
   TitlesFile,
 } from "./../src/model/titlesTypes";
 import type { CFRReference, Agency } from "./../src/model/agencyTypes";
-import { getSearchCountForTitle } from "./agencyUtils";
+import { getSearchCountForTitle } from "../src/utils/agencyUtils";
 import { fetchTitleAndChapterCounts } from "./fetchTitleChapterCounts";
 import type { TitleChapterCountsResult } from "../src/model/hierarchyTypes";
-import { extractChapterChecksum, extractChapterVersionSummary } from "./chapterUtils";
+import { extractChapterChecksum, extractChapterVersionSummary } from "../src/utils/chapterUtils";
 import type {
   TitleVersionsResponse,
   TitleVersionSummary,

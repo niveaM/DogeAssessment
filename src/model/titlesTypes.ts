@@ -1,4 +1,4 @@
-import { TitleChapterCountsResult } from './chapterTypes';
+import { TitleChapterCountsResult } from './hierarchyTypes';
 import { TitleVersionSummary } from "./ecfrTypesTitleVersions";
 import { HierarchyNode } from './hierarchyTypes';
 
