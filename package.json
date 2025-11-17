@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node server.js",
   "test:intg": "mocha -r ts-node/register \"tst/fetchTitleChapterCountsIntgTest.ts\" --timeout 20000"
+  ,
+  "test:unit": "mocha -r ts-node/register \"tst/*.unit.ts\" --timeout 5000"
   },
   "dependencies": {
     "express": "^4.18.2",
