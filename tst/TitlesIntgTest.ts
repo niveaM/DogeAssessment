@@ -2,7 +2,7 @@
 import { fetchAndSaveTitles } from '../src/utils/titleUtils';
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import { DATA_DIR } from '../src/config';
+import { TST_DATA_DIR } from 'test-config';
 import type { Title } from '../src/model/titleTypes';
 import type { Agency } from '../src/model/agencyTypes';
 
@@ -25,7 +25,7 @@ const agencySlugArg = process.argv[3];
 // If CLI requested 'all', iterate titles.json and call fetchAndSaveTitles per title.
 if (target === 'all') {
   (async () => {
-    const titlesFile = path.join(DATA_DIR, 'titles.json');
+    const titlesFile = path.join(TST_DATA_DIR, "titles.json");
     const content = await fs.readFile(titlesFile, 'utf8');
     const data = JSON.parse(content) as { titles?: Record<string, Title> };
     const list = Object.values(data.titles || {});
@@ -35,7 +35,7 @@ if (target === 'all') {
         let agencyObj: Agency | undefined;
         if (agencySlugArg) {
           try {
-            const agenciesFile = path.join(DATA_DIR, 'agencies.json');
+            const agenciesFile = path.join(TST_DATA_DIR, 'agencies.json');
             const agenciesContent = await fs.readFile(agenciesFile, 'utf8');
             const agenciesMap = JSON.parse(agenciesContent) as Record<string, Agency>;
             agencyObj = agenciesMap[agencySlugArg] || Object.values(agenciesMap).find(a => a.slug === agencySlugArg);
@@ -56,7 +56,7 @@ if (target === 'all') {
   });
 } else {
   (async () => {
-    const titlesFile = path.join(DATA_DIR, 'titles.json');
+    const titlesFile = path.join(TST_DATA_DIR, 'titles.json');
     const content = await fs.readFile(titlesFile, 'utf8');
     const data = JSON.parse(content) as { titles?: Record<string, Title> };
     const titleObj = data.titles ? data.titles[String(target)] : undefined;
@@ -68,7 +68,7 @@ if (target === 'all') {
     let agencyObj: Agency | undefined;
     if (agencySlugArg) {
       try {
-        const agenciesFile = path.join(DATA_DIR, 'agencies.json');
+        const agenciesFile = path.join(TST_DATA_DIR, 'agencies.json');
         const agenciesContent = await fs.readFile(agenciesFile, 'utf8');
         const agenciesMap = JSON.parse(agenciesContent) as Record<string, Agency>;
         agencyObj = agenciesMap[agencySlugArg] || Object.values(agenciesMap).find(a => a.slug === agencySlugArg);
