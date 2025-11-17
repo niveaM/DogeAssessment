@@ -3,6 +3,7 @@ import * as crypto from 'crypto';
 import type { Title } from './model/titlesTypes';
 import type { CFRReference } from './model/agencyTypes';
 import type { TitleVersionsResponse, TitleVersionSummary } from './model/ecfrTypesTitleVersions';
+import type { HierarchyNode } from './model/hierarchyTypes';
 
 /**
  * Strip XML tags and count words
@@ -103,4 +104,84 @@ export async function fetchTitleVersionsSummary(titleObj: Title, target?: CFRRef
   if (_agency?.slug) merged.agencySlug = _agency.slug;
 
   return merged;
+}
+
+// Walks the hierarchy recursively and returns an array of HierarchyNode
+export function walkHierarchy(
+  node: any,
+  parentLevels: string[] = [],
+  parentHeadings: string[] = [],
+  parentPath: string[] = []
+): HierarchyNode[] {
+  const currentLevel = node.level;
+  const currentHeading = node.heading ?? '';
+  const currentHierarchyHeading = node.hierarchy_heading ?? node.hierarchy ?? '';
+  const currentPart = currentHierarchyHeading ? `${currentHierarchyHeading}` : '';
+  const currentNodeCount = node.count ?? 0;
+
+  const newLevels = [...parentLevels, currentLevel];
+  const newHeadings = [...parentHeadings, currentHeading];
+  const newPath = [...parentPath, currentPart];
+
+  if (Array.isArray(node.children) && node.children.length) {
+    return node.children.flatMap((child: any) =>
+      walkHierarchy(child, newLevels, newHeadings, newPath)
+    );
+  }
+
+  const pathSegments = newPath.filter(Boolean);
+  const cfrPartial: Partial<CFRReference> = {};
+  for (const seg of pathSegments) {
+    const s = String(seg).trim();
+    let m: RegExpMatchArray | null = null;
+    if ((m = s.match(/^Title\s+(\d+)/i))) {
+      cfrPartial.title = Number(m[1]);
+      continue;
+    }
+    if ((m = s.match(/^Chapter\s+(.+)/i))) {
+      cfrPartial.chapter = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Part\s+(.+)/i))) {
+      cfrPartial.part = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Subpart\s+(.+)/i))) {
+      cfrPartial.subpart = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Subtitle\s+(.+)/i))) {
+      cfrPartial.subtitle = m[1].trim();
+      continue;
+    }
+    if ((m = s.match(/^Subchapter\s+(.+)/i))) {
+      cfrPartial.subchapter = m[1].trim();
+      continue;
+    }
+  }
+
+  const cfrRef = typeof cfrPartial.title === 'number' ? (cfrPartial as any) : undefined;
+
+  const metadataMap: Record<string, { level: string; heading: string; path: string; value?: string | number; displayHeading?: string }> = {};
+  for (let i = 0; i < parentLevels.length; i += 1) {
+    const lvl = parentLevels[i];
+    metadataMap[lvl] = {
+      level: lvl,
+      heading: parentHeadings[i] ?? '',
+      path: parentPath[i] ?? '',
+      value: (cfrPartial as any)[lvl],
+      displayHeading: '--------',
+    };
+  }
+
+  return [
+    {
+      path: pathSegments.join(' > '),
+      type: currentLevel,
+      count: currentNodeCount,
+      max_score: node.max_score ?? 0,
+      cfrReference: cfrRef,
+      metadata: metadataMap,
+    },
+  ];
 }

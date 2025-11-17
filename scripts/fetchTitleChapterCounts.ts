@@ -1,23 +1,16 @@
 // fetchTitleChapterCounts.ts
 
 import fetch from 'node-fetch';
-import { extractHierarchy } from './agencyUtils';
-
-type HierarchyNode = {
-  level: string;
-  hierarchy: string | null;
-  hierarchy_heading: string | null;
-  heading: string | null;
-  structure_index: number;
-  count: number;
-  max_score: number | null;
-  children?: HierarchyNode[];
-};
+import { walkHierarchy } from './commonUtils';
+import type { HierarchyNode } from './model/hierarchyTypes';
 
 type HierarchyResponse = {
   count: { value: number; relation: string };
   max_score: number | null;
-  children: HierarchyNode[];
+  // Raw API children payload (unprocessed). We treat these as any so
+  // callers can access ECFR-specific fields like `level`, `hierarchy`,
+  // `heading`, and `children` before normalization.
+  children: any[];
   shown_count: number;
 };
 
@@ -51,14 +44,35 @@ export async function fetchTitleAndChapterCounts(
 
   const data: HierarchyResponse = await res.json();
 
+  let children = [];
+  if (Array.isArray(data.children)) {
+    children = data.children.filter((child) => {
+      if (targetTitle) {
+        return (
+          child.level === 'title'
+          && child.hierarchy === targetTitle);
+      }
+      return false;
+    });
+  }
+
+  console.log(`Fetched hierarchy (children) for agency ${agencySlug}: ${data.children.length}`);
+  console.log(
+    `Filtered hierarchy (children) for agency ${agencySlug}: ${children.length}`
+  );
+
+  const hierarchyOutput: HierarchyNode[] = Array.isArray(data.children)
+    ? children.flatMap((node: any) => walkHierarchy(node))
+    : [];
+
   let titleCount = 0;
   let chapterCount = 0;
   let titleDisplayHeading = '';
   let chapterDisplayHeading = '';
 
-  if (Array.isArray(data.children)) {
+  if (Array.isArray(children)) {
     // Find the (first, if multiple) matching title node
-    const titleNode = data.children.find(n => n.level === 'title' && (targetTitle == null || n.hierarchy === targetTitle));
+    const titleNode = children.find(n => n.level === 'title' && (targetTitle == null || n.hierarchy === targetTitle));
     if (titleNode) {
       titleCount = titleNode.count;
       titleDisplayHeading = combineHeading(titleNode.hierarchy_heading, titleNode.heading);
@@ -89,7 +103,7 @@ export async function fetchTitleAndChapterCounts(
     chapterCount,
     titleDisplayHeading,
     chapterDisplayHeading,
-    raw: await extractHierarchy(agencySlug),
+    raw: hierarchyOutput,
   };
 }
 

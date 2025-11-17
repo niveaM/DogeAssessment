@@ -125,19 +125,7 @@ function AgencyDetail({ slug, shortName, onBack }) {
             : slug}{" "}
           {shortName ? `(${shortName})` : ""}
         </h1>
-        <div>
-          <button
-            onClick={() => {
-              if (onBack) onBack();
-              else {
-                history.pushState({}, "", "/");
-                window.dispatchEvent(new PopStateEvent("popstate"));
-              }
-            }}
-          >
-            Back
-          </button>
-        </div>
+        {/* back button removed */}
       </div>
 
       <div className="toolbar" style={{ marginTop: 12 }}>
@@ -261,22 +249,34 @@ function AgencyDetail({ slug, shortName, onBack }) {
                       </div>
                     </div>
                     <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-                      <button className="small-btn" onClick={() => toggleExpand(i)}>
+                      {/* <button className="small-btn" onClick={() => toggleExpand(i)}>
                         {expanded.has(i) ? "Collapse" : "Expand"}
                       </button>
                       <a className="small-btn" href={t.url || (t.number ? `/title/${t.number}` : "#")} target="_blank" rel="noreferrer">
                         Open
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                       {expanded.has(i) && (
                     <div style={{ marginTop: 10 }}>
+                      <div style={{ marginBottom: 8 }}>
+                        <strong>Title heading:</strong> {t.titleChapterCounts && t.titleChapterCounts.titleDisplayHeading ? t.titleChapterCounts.titleDisplayHeading : "(n/a)"}
+                      </div>
+                      <div style={{ marginBottom: 8 }}>
+                        <strong>Chapter heading:</strong> {t.titleChapterCounts && t.titleChapterCounts.chapterDisplayHeading ? t.titleChapterCounts.chapterDisplayHeading : "(n/a)"}
+                      </div>
                       <div style={{ marginBottom: 8 }}>
                         <strong>Word count:</strong> {getWordCount(t) != null ? getWordCount(t) : "(n/a)"}
                       </div>
                       <div style={{ marginBottom: 8 }}>
                         <strong>Summary:</strong> {t.summary || t.description || "(none)"}
                       </div>
+                      {t.versionSummary && (
+                        <div style={{ marginBottom: 8 }}>
+                          <strong>Version summary</strong>
+                          <pre style={{ background: '#f7f7f7', padding: 8, overflow: 'auto' }}>{JSON.stringify(t.versionSummary, null, 2)}</pre>
+                        </div>
+                      )}
                       <div style={{ marginBottom: 8 }}>
                         <strong>CFR references</strong>
                         {renderCfrReferences(t.cfr_references || t.refs || t.references || [])}
@@ -472,6 +472,14 @@ function App() {
                             }}
                           >
                             <div>
+                              <strong>Title heading:</strong>{" "}
+                              {match.titleChapterCounts && match.titleChapterCounts.titleDisplayHeading ? match.titleChapterCounts.titleDisplayHeading : "(n/a)"}
+                            </div>
+                            <div>
+                              <strong>Chapter heading:</strong>{" "}
+                              {match.titleChapterCounts && match.titleChapterCounts.chapterDisplayHeading ? match.titleChapterCounts.chapterDisplayHeading : "(n/a)"}
+                            </div>
+                            <div>
                               <strong>Title name:</strong>{" "}
                               {match.name || "(unknown)"}
                             </div>
@@ -609,9 +617,7 @@ function App() {
     <div className="container">
       <h1>ECFR Agencies (local)</h1>
       <div className="toolbar">
-        <button onClick={doRefresh} disabled={loading}>
-          Refresh from ECFR
-        </button>
+        {/* Refresh button removed */}
         <input
           placeholder="Filter (search text)"
           value={filter}
@@ -813,18 +819,7 @@ function TitleDetail({ number, onBack, initialData }) {
             ? `Title ${data.number} — ${data.name || data.title || ""}`
             : `Title ${number}`}
         </h1>
-        <div>
-          <button
-            onClick={() => {
-              if (onBack) onBack();
-              else {
-                history.back();
-              }
-            }}
-          >
-            Back
-          </button>
-        </div>
+        {/* back button removed */}
       </div>
 
       <div className="toolbar" style={{ marginTop: 12 }}>
@@ -871,6 +866,74 @@ function TitleDetail({ number, onBack, initialData }) {
               </div>
             </div>
           </div>
+
+          {/* Top rows by count moved below Version summary */}
+
+          {data && data.versionSummary && (
+            <div style={{ marginTop: 12 }}>
+              <h4 style={{ margin: '8px 0' }}>Version summary</h4>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 12 }}>
+                <div style={{ background: '#fff', padding: 8, borderRadius: 6, border: '1px solid #eee' }}>
+                  <div style={{ fontSize: 12, color: '#666' }}>Total versions</div>
+                  <div style={{ fontSize: 18, fontWeight: 600 }}>{data.versionSummary.totalVersions != null ? data.versionSummary.totalVersions : '—'}</div>
+                </div>
+                <div style={{ background: '#fff', padding: 8, borderRadius: 6, border: '1px solid #eee' }}>
+                  <div style={{ fontSize: 12, color: '#666' }}>First date</div>
+                  <div style={{ fontSize: 14 }}>{data.versionSummary.firstDate || '—'}</div>
+                </div>
+                <div style={{ background: '#fff', padding: 8, borderRadius: 6, border: '1px solid #eee' }}>
+                  <div style={{ fontSize: 12, color: '#666' }}>Last date</div>
+                  <div style={{ fontSize: 14 }}>{data.versionSummary.lastDate || '—'}</div>
+                </div>
+
+                <div style={{ background: '#fff', padding: 8, borderRadius: 6, border: '1px solid #eee' }}>
+                  <div style={{ fontSize: 12, color: '#666' }}>Unique parts</div>
+                  <div style={{ fontSize: 18, fontWeight: 600 }}>{data.versionSummary.uniqueParts != null ? data.versionSummary.uniqueParts : 0}</div>
+                </div>
+                <div style={{ background: '#fff', padding: 8, borderRadius: 6, border: '1px solid #eee' }}>
+                  <div style={{ fontSize: 12, color: '#666' }}>Unique subparts</div>
+                  <div style={{ fontSize: 18, fontWeight: 600 }}>{data.versionSummary.uniqueSubparts != null ? data.versionSummary.uniqueSubparts : 0}</div>
+                </div>
+                <div style={{ background: '#fff', padding: 8, borderRadius: 6, border: '1px solid #eee' }}>
+                  <div style={{ fontSize: 12, color: '#666' }}>Parts</div>
+                  <div style={{ fontSize: 13 }}>{Array.isArray(data.versionSummary.parts) && data.versionSummary.parts.length > 0 ? data.versionSummary.parts.join(', ') : '—'}</div>
+                </div>
+              </div>
+
+              {/* typeCounts table */}
+              {data.versionSummary.typeCounts && Object.keys(data.versionSummary.typeCounts).length > 0 && (
+                <div style={{ marginTop: 12 }}>
+                  <h5 style={{ margin: '6px 0' }}>Type counts</h5>
+                  <table className="data-table" style={{ width: '100%' }}>
+                    <thead>
+                      <tr>
+                        <th style={{ textAlign: 'left' }}>Type</th>
+                        <th style={{ width: 120, textAlign: 'right' }}>Count</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {Object.entries(data.versionSummary.typeCounts).map(([k, v]) => (
+                        <tr key={k}>
+                          <td>{k}</td>
+                          <td style={{ textAlign: 'right' }}>{v}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+
+              {/* provide raw toggle for the per-part raw array when present */}
+              {data.versionSummary.raw && Array.isArray(data.versionSummary.raw) && (
+                <div style={{ marginTop: 12 }}>
+                  <details>
+                    <summary style={{ cursor: 'pointer' }}>Show raw per-part summaries ({data.versionSummary.raw.length})</summary>
+                    <pre style={{ background: '#f7f7f7', padding: 8, overflow: 'auto', marginTop: 8 }}>{JSON.stringify(data.versionSummary.raw, null, 2)}</pre>
+                  </details>
+                </div>
+              )}
+            </div>
+          )}
 
           <div style={{ marginTop: 16 }}>
             <div style={{ marginBottom: 12 }}>

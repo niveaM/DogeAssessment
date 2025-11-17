@@ -16,6 +16,7 @@ import {
   getAgencyByShortName,
 } from "./db/agencyDatabaseHelper";
 import { fetchAndSaveTitles, loadTitlesMap } from "./titleUtils";
+import { walkHierarchy } from './commonUtils';
 
 const API_URL = "https://www.ecfr.gov/api/admin/v1/agencies.json";
 
@@ -180,104 +181,7 @@ export async function extractHierarchy(
   return output;
 }
 
-// Walks the hierarchy recursively
-function walkHierarchy(
-  node: any,
-  parentLevels: string[] = [],
-  parentHeadings: string[] = [],
-  parentPath: string[] = []
-): HierarchyNode[] {
-  const currentLevel = node.level;
-  const currentHeading = node.heading ?? "";
-  const currentHierarchyHeading =
-    node.hierarchy_heading ?? node.hierarchy ?? "";
-  const currentPart = currentHierarchyHeading
-    ? `${currentHierarchyHeading}`
-    : "";
-  const currentNodeCount = node.count ?? 0;
-
-  const newLevels = [...parentLevels, currentLevel];
-  const newHeadings = [...parentHeadings, currentHeading];
-  const newPath = [...parentPath, currentPart];
-
-  // Recursion on children
-  if (Array.isArray(node.children) && node.children.length) {
-    return node.children.flatMap((child: any) =>
-      walkHierarchy(child, newLevels, newHeadings, newPath)
-    );
-  }
-  // Leaf node
-  // Attempt to parse a CFRReference from the assembled path segments. The
-  // path typically looks like: "Title 36 > Chapter VIII > Part 800 > Subpart B"
-  const pathSegments = newPath.filter(Boolean);
-  const cfrPartial: Partial<CFRReference> = {};
-  for (const seg of pathSegments) {
-    const s = String(seg).trim();
-    let m: RegExpMatchArray | null = null;
-    if ((m = s.match(/^Title\s+(\d+)/i))) {
-      cfrPartial.title = Number(m[1]);
-      continue;
-    }
-    if ((m = s.match(/^Chapter\s+(.+)/i))) {
-      cfrPartial.chapter = m[1].trim();
-      continue;
-    }
-    if ((m = s.match(/^Part\s+(.+)/i))) {
-      cfrPartial.part = m[1].trim();
-      continue;
-    }
-    if ((m = s.match(/^Subpart\s+(.+)/i))) {
-      cfrPartial.subpart = m[1].trim();
-      continue;
-    }
-    if ((m = s.match(/^Subtitle\s+(.+)/i))) {
-      cfrPartial.subtitle = m[1].trim();
-      continue;
-    }
-    if ((m = s.match(/^Subchapter\s+(.+)/i))) {
-      cfrPartial.subchapter = m[1].trim();
-      continue;
-    }
-  }
-
-  const cfrRef =
-    typeof cfrPartial.title === "number"
-      ? (cfrPartial as CFRReference)
-      : undefined;
-
-  // Build metadata map for each parent level. Each entry contains the
-  // original level name, the heading at that level, the raw path segment,
-  // and (when available) the parsed CFR value from cfrPartial.
-  const metadataMap: Record<
-    string,
-    { level: string; heading: string; path: string; value?: string | number, displayHeading?: string }
-  > = {};
-  for (let i = 0; i < parentLevels.length; i += 1) {
-    const lvl = parentLevels[i];
-    metadataMap[lvl] = {
-      level: lvl,
-      heading: parentHeadings[i] ?? "",
-      path: parentPath[i] ?? "",
-      // grab parsed cfr value (title/chapter/part/etc.) when present
-      value: (cfrPartial as any)[lvl],
-      displayHeading: "--------",
-    };
-  }
-
-  return [
-    {
-      path: pathSegments.join(" > "),
-      // `levels` and `headings` are intentionally omitted to avoid
-      // redundant payload. Consumers can reconstruct headings from
-      // `metadata` (which preserves per-level heading information).
-      type: currentLevel,
-      count: currentNodeCount,
-      max_score: node.max_score ?? 0,
-      cfrReference: cfrRef,
-      metadata: metadataMap,
-    },
-  ];
-}
+// walkHierarchy is provided by commonUtils
 
 // Flatten a hierarchical list of agencies into a map by short_name.
 function flattenAgencies(list: Agency[] = []): AgenciesMap {

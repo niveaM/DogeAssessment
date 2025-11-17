@@ -17,10 +17,6 @@ export async function extractChapterChecksum (
   chapterId: string,
   agencySlug: string
 ): Promise<Title> {
-  // Implementation intentionally removed.
-  // This function previously queried the eCFR API and extracted chapter/section data.
-  // Keep as a placeholder for callers; implement as needed.
-
   const targetTitle = title ? String(title.number) : String(title.number);
 
   console.log(

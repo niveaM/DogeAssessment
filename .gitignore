@@ -1,2 +1,3 @@
 node_modules/
 scripts/acph_results_uber.json
+public/app.js
