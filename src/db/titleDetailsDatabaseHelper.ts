@@ -1,6 +1,6 @@
 // titleDatabaseHelper.ts
 import * as path from "path";
-import { Title } from "../model/titlesTypes";
+import { Title } from "../model/titleTypes";
 import low from "lowdb";
 import FileSync from "lowdb/adapters/FileSync";
 

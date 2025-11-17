@@ -5,9 +5,10 @@ import type {
   CFRReference,
   AgenciesResponse,
 } from "../model/agencyTypes";
-import type { Title } from "../model/titlesTypes";
+import type { Title } from "../model/titleTypes";
 import type { HierarchyNode } from "../model/hierarchyTypes";
-import { AGENCIES_TRUNCATE_LIMIT, ECFR_SEARCH_COUNTS_BASE, ECFR_HIERARCHY_COUNTS_BASE, ECFR_AGENCIES_API_URL } from "../config";
+import { AGENCIES_TRUNCATE_LIMIT, ECFR_SEARCH_COUNTS_BASE, 
+  ECFR_HIERARCHY_COUNTS_BASE, ECFR_AGENCIES_API_URL } from "../config";
 import { getTitleByNumber } from "../db/titleDatabaseHelper";
 import {
   clearAgencies,
@@ -54,7 +55,7 @@ export async function fetchAgencyList(): Promise<string[]> {
     await clearAgencies();
     const agenciesToPersist: Agency[] = Object.values(agenciesMap);
     await persistAgencies(agenciesToPersist);
-    console.log(
+    console.info(
       `Cleared and persisted agencies to ${getDbPath()} (${
         agenciesToPersist.length
       } entries)`
@@ -111,10 +112,9 @@ export async function getSearchCountForTitle(
   return match ? Number(match.count) : 0;
 }
 
-// Process an agency identified by its `short_name` stored in the DB. This
-// was previously implemented in `fetchAgencies.ts` — moving it here centralizes
-// agency processing logic. The function loads the agency from the DB, loads
-// the titles map, and calls `fetchAndSaveTitles` for each CFR reference.
+// Process an agency identified by its `short_name` stored in the DB. The 
+// function loads the agency from the DB, loads the titles map, and calls 
+// `fetchAndSaveTitles` for each CFR reference.
 export async function processAgencyByShortName(
   shortName: string
 ): Promise<void> {

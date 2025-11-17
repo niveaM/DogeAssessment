@@ -12,7 +12,8 @@ const agenciesProcessor = require("./lib/agenciesProcessor");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const adapter = new FileSync(path.join(__dirname, "db.json"));
+const DB_PATH = path.resolve(__dirname, "data", "db.json");
+const adapter = new FileSync(DB_PATH);
 const db = low(adapter);
 
 // Delegate all middleware and route logic to the agenciesProcessor

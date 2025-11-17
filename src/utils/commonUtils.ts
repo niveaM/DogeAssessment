@@ -1,8 +1,8 @@
 import fetch from 'node-fetch';
 import * as crypto from 'crypto';
-import type { Title } from '../model/titlesTypes';
+import type { Title } from '../model/titleTypes';
 import type { CFRReference } from '../model/agencyTypes';
-import type { TitleVersionsResponse, TitleVersionSummary } from '../model/ecfrTypesTitleVersions';
+import type { TitleVersionsResponse, TitleVersionSummary } from '../model/titleTypes';
 import type { HierarchyNode } from '../model/hierarchyTypes';
 
 /**

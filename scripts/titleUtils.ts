@@ -7,7 +7,7 @@ import type {
   Title,
   TitlesResponse,
   TitlesFile,
-} from "./../src/model/titlesTypes";
+} from "../src/model/titleTypes";
 import type { CFRReference, Agency } from "./../src/model/agencyTypes";
 import { getSearchCountForTitle } from "../src/utils/agencyUtils";
 import { fetchTitleAndChapterCounts } from "./fetchTitleChapterCounts";
@@ -15,7 +15,7 @@ import type { TitleChapterCountsResult } from "../src/model/hierarchyTypes";
 import { extractChapterChecksum, extractChapterVersionSummary } from "../src/utils/chapterUtils";
 import type {
   TitleVersionSummary,
-} from "./../src/model/ecfrTypesTitleVersions";
+} from "./../src/model/titleTypes";
 import {
   getTitleVersionSummary,
   getTitleStats,

@@ -1,12 +1,10 @@
 import fetch from "node-fetch";
 import { getTitleByNumber } from "../db/titleDatabaseHelper";
-import { Title } from "../model/titlesTypes";
+import { Title } from "../model/titleTypes";
 import { fetchTitleAndChapterCounts } from "../../scripts/fetchTitleChapterCounts";
 import type { TitleChapterCountsResult } from "../model/hierarchyTypes";
 import { checksumXML, countWords, getTitleVersionSummary } from "./commonUtils";
-import type {
-  TitleVersionSummary,
-} from "../model/ecfrTypesTitleVersions";
+import type { TitleVersionSummary } from "../model/titleTypes";
 
 /**
  * Extract chapter info and section contents from the eCFR API structure.

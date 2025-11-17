@@ -1,5 +1,4 @@
 import { TitleChapterCountsResult } from './hierarchyTypes';
-import { TitleVersionSummary } from "./ecfrTypesTitleVersions";
 import { HierarchyNode } from './hierarchyTypes';
 
 // titlesTypes.ts
@@ -61,4 +60,47 @@ export interface TitlesFile {
   titles: Record<string, Title>;
   meta?: { date: string; import_in_progress: boolean };
 }
+
+export interface ContentVersion {
+  date: string;
+  amendment_date: string;
+  issue_date: string;
+  identifier: string;
+  name: string;
+  part: string;
+  substantive: boolean;
+  removed: boolean;
+  subpart: string | null;
+  title: string;
+  type: string; // 'section', 'appendix', etc.
+}
+
+export interface Meta {
+  title: string;
+  result_count: number;
+  latest_amendment_date: string;
+  latest_issue_date: string;
+}
+
+export interface TitleVersionSummary {
+  titleNumber: number;
+  totalVersions: number;
+  firstDate: string;
+  lastDate: string;
+  uniqueParts: number;
+  uniqueSubparts: number;
+  typeCounts: Record<string, number>;
+  // Optional metadata to indicate the chapter or part this summary was derived from
+  chapterId?: string;
+  // Optional raw per-part summaries when an aggregated summary is produced
+  raw?: TitleVersionSummary[];
+  // Aggregated list of part identifiers included in this summary
+  parts?: string[];
+}
+
+export interface TitleVersionsResponse {
+  content_versions: ContentVersion[];
+  meta: Meta;
+}
+
 

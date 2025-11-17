@@ -27,9 +27,6 @@ export interface HierarchyNode {
     }
   >;
 }
-      // max_score: number; // Score if you want it
-
-      // Optional top-level title associated with this hierarchy path (used by ecfrSummary)
 
 // Response shape returned by ECFR `/counts/hierarchy` endpoint (script-side)
 export type HierarchyResponse = {
