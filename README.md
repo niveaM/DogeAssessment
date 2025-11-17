@@ -33,7 +33,7 @@ Enjoy!
 
 This repository contains two primary parts:
 
-- Data ingestion scripts (TypeScript) — fetch and aggregate ECFR data and store it locally. See `scripts/DATA_INGESTION.md` for details about running the ingestion scripts, endpoints used, and example workflows.
+- Data ingestion scripts (TypeScript) — fetch and aggregate ECFR data and store it locally. See `scripts/DATA_INGESTION_README.md` for details about running the ingestion scripts, endpoints used, and example workflows.
 - A small local webapp (Express + minimal frontend) — serves the aggregated JSON data from `data/db.json` and exposes a simple UI.
 
 Webapp overview
